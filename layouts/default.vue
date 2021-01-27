@@ -1,19 +1,22 @@
 <template>
   <div>
-    <NavBar />
+    <NavBar class="navbar-site" />
     <div class="sea">
-      <section>
-        <div class="container mx-auto">
-          <Nuxt />
-        </div>
-      </section>
+      <div class="content-site">
+        <section>
+          <div class="container mx-auto">
+            <Nuxt />
+          </div>
+        </section>
+      </div>
     </div>
 
     <Footer />
+    <Bubbles class="bubbles-component" />
   </div>
 </template>
 
-<style>
+<style lang="scss">
 .sea {
   min-height: 50em;
   background: rgb(11, 181, 255);
@@ -22,5 +25,23 @@
     rgba(11, 181, 255, 1) 0%,
     rgba(2, 48, 108, 1) 100%
   );
+}
+
+.title-site {
+  font-family: "Bubblegum Sans", sans-serif;
+  /* font-family: "Acme", sans-serif; */
+}
+
+.content-site,
+.navbar-site {
+  z-index: 20;
+}
+
+.content-site {
+  z-index: 20;
+}
+
+.bubbles-component {
+  z-index: 1;
 }
 </style>
