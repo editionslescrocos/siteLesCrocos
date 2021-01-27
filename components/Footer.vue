@@ -98,7 +98,7 @@ export default {};
 }
 
 .etoile-3 {
-  margin-left: 30%;
+  margin-left: 15%;
   margin-top: 8%;
   transform: rotate(220deg);
 }

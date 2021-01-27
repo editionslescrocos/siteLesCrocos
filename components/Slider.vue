@@ -2,19 +2,29 @@
   <div class="carousel-wrapper px-5 overflow-hidden">
     <VueSlickCarousel v-bind="slickOptions">
       <div v-for="(item, key) in items" :key="key" class="relative">
-        <a :href="item.url || '#'">
-          <div class="carousel-text absolute align-bottom w-full">
-            <div
-              class="absolute rounded-b-lg bottom-0 left-0 py-5 px-5 bg-gradient-to-r from-emerald-700 to-emerald-500 text-white opacity-90 w-full"
-            >
-              <p class="font-semibold text-xl md:text-3xl">{{ item.title }}</p>
-              <nuxt-content
-                :document="item"
-                class="font-semibold text-md md:text-xl"
-              ></nuxt-content>
+        <div class="carousel-text absolute align-bottom w-full">
+          <div
+            class="absolute rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-teal-700 to-yellow-400 w-full"
+          >
+            <div class="md:flex">
+              <div class="flex-1">
+                <p class="font-semibold text-xl md:text-3xl">
+                  {{ item.title }}
+                </p>
+                <nuxt-content
+                  :document="item"
+                  class="font-semibold text-md md:text-xl"
+                ></nuxt-content>
+              </div>
+
+              <div class="flex justify-end py-5">
+                <Btn v-if="item.url" :to="item.url">En savoir plus</Btn>
+              </div>
             </div>
           </div>
+        </div>
 
+        <div>
           <nuxt-picture
             :src="`${item.image}`"
             format="webp"
@@ -25,7 +35,7 @@
             width="600"
             height="300"
           />
-        </a>
+        </div>
       </div>
     </VueSlickCarousel>
   </div>
@@ -58,7 +68,7 @@ export default {
 }
 
 .carousel-text {
-  z-index: 50;
+  z-index: 1;
   height: 100%;
 }
 

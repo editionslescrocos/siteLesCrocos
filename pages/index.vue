@@ -50,6 +50,6 @@ export default {
 
 <style scoped>
 .slider-home {
-  z-index: 20;
+  z-index: 2;
 }
 </style>
