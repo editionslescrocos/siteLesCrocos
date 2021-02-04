@@ -1,8 +1,5 @@
 <template>
   <div>
-    <h1 class="mx-5 text-white text-3xl md:text-7xl title-site text-center">
-      Editions les Crocos
-    </h1>
     <section>
       <Slider :items="carousel" class="pt-7 pb-14 slider-home"></Slider>
     </section>

@@ -18,7 +18,7 @@ export default {};
   position: absolute;
   z-index: 2;
   //padding: 100px 0;
-  height: 200px;
+  height: 220px;
   // background: radial-gradient(
   //   ellipse at center,
   //   rgba(255, 254, 234, 1) 0%,

@@ -1,43 +1,66 @@
 <template>
   <div class="top-page">
     <Clouds />
-
+    <div class="waves mt-5">
+      <Waves />
+    </div>
     <nav class="w-full py-1 mb-70 menu">
-      <div class="waves">
-        <Waves />
-      </div>
-      <div class="container mx-auto flex justify-between menu-content">
-        <div class="items-center pt-5 md:pt-1 pl-5 to-front">
-          <nuxt-link to="/">
-            <Logo />
-          </nuxt-link>
+      <div class="container mx-auto menu-content">
+        <nuxt-link to="/" class="absolute logo ml-5 mt-2 md:mt-10">
+          <Logo />
+        </nuxt-link>
+
+        <div class="w-full hidden md:block absolute text-right">
+          <div class="container">
+            <nav class="space-x-4 mt-5 mr-5">
+              <a
+                class="inline-block"
+                v-for="sn in networks"
+                :key="sn.title"
+                :href="sn.href"
+              >
+                <img
+                  :src="require(`@/assets/${sn.image}`)"
+                  :alt="`logo ${sn.title}`"
+                  class="sn-image"
+                />
+              </a>
+            </nav>
+          </div>
         </div>
 
-        <div class="flex items-center justify-end mr-0 md:mr-4 to-front">
-          <div
-            class="hidden md:block md:flex md:justify-between md:bg-transparent"
-          >
-            <div
-              class="flex hidden md:flex md:items-center order-3 md:order-1 -mt-16"
-              id="menu"
-            >
-              <nav>
-                <ul
-                  class="md:flex items-center justify-between text-base text-white pt-4 md:pt-0"
-                >
-                  <li v-for="(link, index) in links" :key="index" class="mx-2">
-                    <nuxt-link
-                      :to="link.to"
-                      class="inline-block text-emerald-800 no-underline font-medium font-bold text-2xl py-2 px-4 lg:-ml-2"
-                      >{{ link.text }}</nuxt-link
-                    >
-                  </li>
-                </ul>
-              </nav>
-            </div>
+        <div class="w-full absolute menu">
+          <div class="text-center mt-5 hidden md:block">
+            <h1 class="text-2xl md:text-5xl italic title-site">
+              <span class="uppercase font-bold">Éditions</span>
+              les
+              <span class="uppercase">Crocos</span>
+            </h1>
           </div>
 
-          <div class="items-center mr-0 md:mr-4">
+          <div
+            class="hidden w-full md:inline-block order-3 md:order-1 mt-5"
+            id="menu"
+          >
+            <nav>
+              <ul class="text-base pt-4 md:pt-0 text-center">
+                <li
+                  v-for="(link, index) in links"
+                  :key="index"
+                  class="inline-block mx-2"
+                >
+                  <nuxt-link
+                    :to="link.to"
+                    class="text-emerald-700 no-underline font-medium font-bold text-2xl py-2 px-4 lg:-ml-2"
+                    >{{ link.text }}</nuxt-link
+                  >
+                </li>
+              </ul>
+            </nav>
+          </div>
+          <div
+            class="absolute w-full text-right items-center mr-0 md:mr-4 mt-7"
+          >
             <label for="menu-toggle" class="cursor-pointer md:hidden block">
               <button
                 class="text-black border-2 border-black rounded-md mr-5"
@@ -87,10 +110,16 @@
         :class="isOpen ? 'translate-x-0' : '-translate-x-full'"
       >
         <div class="p-5 text-white font-medium text-lg hover:text-red-200">
-          <nuxt-link to="/"> </nuxt-link>
+          <nuxt-link to="/">
+            <p class="text-xl italic title-site">
+              <span class="uppercase font-bold">Éditions</span>
+              les
+              <span class="uppercase">Crocos</span>
+            </p>
+          </nuxt-link>
         </div>
 
-        <ul class="ml-5 mt-12">
+        <ul class="ml-5">
           <li
             v-for="(link, index) in links"
             :key="index"
@@ -98,6 +127,19 @@
             @click="isOpen = false"
           >
             <nuxt-link :to="link.to">{{ link.text }}</nuxt-link>
+          </li>
+        </ul>
+
+        <ul class="ml-5 mt-8">
+          <li class="mt-3" v-for="sn in networks" :key="sn.title">
+            <a :href="sn.href">
+              <img
+                :src="require(`@/assets/${sn.image}`)"
+                :alt="`logo ${sn.title}`"
+                class="sn-image inline-block"
+              />
+              {{ sn.title }}
+            </a>
           </li>
         </ul>
 
@@ -112,6 +154,18 @@ export default {
   data() {
     return {
       isOpen: false,
+      networks: [
+        {
+          title: "Instagram",
+          image: "instagram.svg",
+          href: "",
+        },
+        {
+          title: "Facebook",
+          image: "facebook.svg",
+          href: "",
+        },
+      ],
       links: [
         {
           text: "Nos livres",
@@ -176,12 +230,19 @@ export default {
 }
 
 .menu-content {
-  min-height: 130px;
+  min-height: 200px;
   z-index: 4;
 }
 
-.menu {
-  z-index: 3;
+@media screen and (min-width: 200px) and (max-width: 640px) {
+  .menu-content {
+    min-height: 120px;
+  }
+}
+
+.menu,
+.logo {
+  z-index: 4;
 }
 
 .to-front {
@@ -190,8 +251,8 @@ export default {
 
 .waves {
   width: 100%;
+  z-index: 3;
   position: absolute;
-  bottom: 0;
 }
 
 a {
@@ -207,7 +268,11 @@ a {
   //font-family: "Bubblegum Sans", sans-serif;
 }
 
-.waves {
-  z-index: 3;
+.title-site {
+  font-family: "Acme", sans-serif;
+}
+
+.sn-image {
+  height: 35px;
 }
 </style>
