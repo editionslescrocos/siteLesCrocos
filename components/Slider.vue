@@ -3,7 +3,7 @@
     <VueSlickCarousel v-bind="slickOptions">
       <div v-for="(item, key) in items" :key="key" class="relative">
         <nuxt-link :to="item.url">
-          <nuxt-picture
+          <nuxt-img
             :src="`${item.image}`"
             format="webp"
             quality="70"
