@@ -8,26 +8,26 @@
       <div
         class="rounded-lg bg-gradient-to-b from-gray-100 to-gray-300 p-5 mx-5"
       >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus urna
-        sem, ornare eget lacus sed, pellentesque gravida nunc. Vestibulum ligula
-        nunc, egestas quis volutpat at, tincidunt sed sem. Proin at tellus sem.
-        Praesent rhoncus congue libero, ut volutpat tortor placerat ac. Cras
-        lacus ipsum, hendrerit eu quam sodales, dictum egestas risus. Donec nec
-        orci sed diam ultricies malesuada. Vestibulum ornare quam diam, ac
-        suscipit odio efficitur sed. Nulla ut dignissim ligula, quis maximus
-        justo. Mauris rhoncus a enim quis efficitur. Curabitur at ligula diam.
-        Ut semper eros et varius tempor. In ac condimentum nibh. Interdum et
-        malesuada fames ac ante ipsum primis in faucibus. Vestibulum et luctus
-        diam. Cras eleifend condimentum congue. Maecenas aliquam suscipit est,
-        eu mollis sapien sodales sed. Integer vestibulum tortor lectus, in
-        consequat urna porta ullamcorper. Cras nec arcu ac sapien posuere
-        tristique in ac nulla. Cras porta augue vel odio suscipit, nec lacinia
-        risus ornare. Donec feugiat tempus leo. Phasellus dictum at augue ut
-        pellentesque. In molestie finibus pretium. Nam tincidunt dui diam, vitae
-        sollicitudin sem pretium a. Quisque sit amet sapien facilisis, varius
-        libero sit amet, condimentum sapien. Phasellus ullamcorper erat ipsum,
-        ac pretium massa lobortis a. Morbi vestibulum nec eros mollis
-        consectetur. Nunc blandit at dolor fermentum dignissim.
+        <h2 class="font-semibold text-4xl italic text-emerald-700 mb-5">
+          L'actu des Crocos
+        </h2>
+        <div class="flex flex-wrap">
+          <div class="w-full md:w-1/2">
+            <div v-for="actu in actus" :key="actu.title" class="mb-7">
+              <Actu :actu="actu" />
+            </div>
+          </div>
+          <div class="sm:w-1/2 md:w-1/4 px-5">
+            <nuxt-img
+              src="images/origine-france.webp"
+              format="webp"
+              alt="Livres conçus et fabriqués en France"
+            />
+          </div>
+          <div class="sm:w-1/2 md:w-1/4 px-5">
+            <nuxt-img src="images/gluten.png" format="webp" alt="Sans gluten" />
+          </div>
+        </div>
       </div>
     </section>
   </div>
@@ -37,9 +37,13 @@
 export default {
   async asyncData({ $content }) {
     const carousel = await $content("carousel").sortBy("order", "asc").fetch();
-
+    const actus = await $content("actualites")
+      .sortBy("date", "desc")
+      .limit(2)
+      .fetch();
     return {
       carousel,
+      actus,
     };
   },
 };
@@ -48,5 +52,9 @@ export default {
 <style scoped>
 .slider-home {
   z-index: 2;
+}
+
+h2 {
+  font-family: "Acme", sans-serif;
 }
 </style>
