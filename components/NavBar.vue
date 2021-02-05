@@ -10,7 +10,7 @@
           <Logo />
         </nuxt-link>
 
-        <div class="w-full hidden md:block absolute text-right">
+        <div class="w-full hidden md:block absolute text-right social-networks">
           <div class="container">
             <nav class="space-x-4 mt-5 mr-5">
               <a
@@ -18,11 +18,11 @@
                 v-for="sn in networks"
                 :key="sn.title"
                 :href="sn.href"
+                target="blank"
               >
                 <img
                   :src="require(`@/assets/${sn.image}`)"
                   :alt="`logo ${sn.title}`"
-                  class="sn-image"
                 />
               </a>
             </nav>
@@ -49,10 +49,10 @@
                   :key="index"
                   class="inline-block mx-2"
                 >
-                  <nuxt-link
+                  <Link
                     :to="link.to"
-                    class="text-emerald-700 no-underline font-medium font-bold text-2xl py-2 px-4 lg:-ml-2"
-                    >{{ link.text }}</nuxt-link
+                    class="text-emerald-700 no-underline font-medium font-bold text-2xl py-2 px-4 lg:-ml-2 top-link"
+                    >{{ link.text }}</Link
                   >
                 </li>
               </ul>
@@ -109,41 +109,41 @@
         class="transform text-white top-0 left-0 w-64 bg-emerald-800 fixed h-full overflow-auto ease-in-out transition-all duration-300 z-30"
         :class="isOpen ? 'translate-x-0' : '-translate-x-full'"
       >
-        <div class="p-5 text-white font-medium text-lg hover:text-red-200">
-          <nuxt-link to="/">
-            <p class="text-xl italic title-site">
-              <span class="uppercase font-bold">Éditions</span>
-              les
-              <span class="uppercase">Crocos</span>
-            </p>
-          </nuxt-link>
-        </div>
+        <nav>
+          <div class="p-5 text-white font-medium text-lg hover:text-red-200">
+            <nuxt-link to="/">
+              <p class="text-xl italic title-site">
+                <span class="uppercase font-bold">Éditions</span>
+                les
+                <span class="uppercase">Crocos</span>
+              </p>
+            </nuxt-link>
+          </div>
 
-        <ul class="ml-5">
-          <li
-            v-for="(link, index) in links"
-            :key="index"
-            class="font-medium text-lg py-2 hover:text-red-200"
-            @click="isOpen = false"
-          >
-            <nuxt-link :to="link.to">{{ link.text }}</nuxt-link>
-          </li>
-        </ul>
+          <ul class="ml-5">
+            <li
+              v-for="(link, index) in links"
+              :key="index"
+              class="font-medium text-lg py-2 hover:text-red-200"
+              @click="isOpen = false"
+            >
+              <nuxt-link :to="link.to">{{ link.text }}</nuxt-link>
+            </li>
+          </ul>
 
-        <ul class="ml-5 mt-8">
-          <li class="mt-3" v-for="sn in networks" :key="sn.title">
-            <a :href="sn.href">
-              <img
-                :src="require(`@/assets/${sn.image}`)"
-                :alt="`logo ${sn.title}`"
-                class="sn-image inline-block"
-              />
-              {{ sn.title }}
-            </a>
-          </li>
-        </ul>
-
-        <div class="fixed bottom-0 w-full"></div>
+          <ul class="ml-5 mt-8 social-networks">
+            <li class="mt-3" v-for="sn in networks" :key="sn.title">
+              <a :href="sn.href">
+                <img
+                  :src="require(`@/assets/${sn.image}`)"
+                  :alt="`logo ${sn.title}`"
+                  class="inline-block"
+                />
+                {{ sn.title }}
+              </a>
+            </li>
+          </ul>
+        </nav>
       </aside>
     </nav>
   </div>
@@ -255,24 +255,22 @@ export default {
   position: absolute;
 }
 
-a {
-  //background: -webkit-linear-gradient(rgb(117, 115, 1), rgb(15, 95, 1));
-  // -webkit-background-clip: text;
-  // -webkit-text-fill-color: transparent;
-  //font-family: "Rum Raisin", sans-serif;
-
+.top-link {
   font-family: "Acme", sans-serif;
-  // font-family: "Happy Monkey", sans-serif;
-
-  // font-family: "Boogaloo", sans-serif;
-  //font-family: "Bubblegum Sans", sans-serif;
 }
 
 .title-site {
   font-family: "Acme", sans-serif;
 }
 
-.sn-image {
-  height: 35px;
+.social-networks {
+  z-index: 99;
+  img {
+    height: 35px;
+    transition: transform 0.15s;
+    &:hover {
+      transform: scale(1.3);
+    }
+  }
 }
 </style>

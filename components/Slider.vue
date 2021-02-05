@@ -2,9 +2,22 @@
   <div class="carousel-wrapper px-5 overflow-hidden">
     <VueSlickCarousel v-bind="slickOptions">
       <div v-for="(item, key) in items" :key="key" class="relative">
-        <div class="carousel-text absolute align-bottom w-full">
+        <nuxt-link :to="item.url">
+          <nuxt-picture
+            :src="`${item.image}`"
+            format="webp"
+            quality="70"
+            class="w-full rounded-t-lg"
+            sizes="300:500,600:800"
+            fit="cover"
+            width="600"
+            height="300"
+          />
+        </nuxt-link>
+
+        <div class="carousel-text w-full">
           <div
-            class="absolute rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-teal-700 to-yellow-400 w-full"
+            class="rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-emerald-700 to-emerald-400 w-full"
           >
             <div class="md:flex">
               <div class="flex-1">
@@ -17,24 +30,11 @@
                 ></nuxt-content>
               </div>
 
-              <div class="flex justify-end py-5">
+              <div class="hidden md:block flex justify-end py-5">
                 <Btn v-if="item.url" :to="item.url">En savoir plus</Btn>
               </div>
             </div>
           </div>
-        </div>
-
-        <div>
-          <nuxt-picture
-            :src="`${item.image}`"
-            format="webp"
-            quality="70"
-            class="w-full rounded-lg"
-            sizes="300:500,600:800"
-            fit="cover"
-            width="600"
-            height="300"
-          />
         </div>
       </div>
     </VueSlickCarousel>
@@ -73,10 +73,23 @@ export default {
 }
 
 .slick-prev {
-  left: 5px;
+  left: 15px;
   z-index: 1;
 }
 .slick-next {
-  right: 5px;
+  right: 15px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+  height: 40px;
+  width: 40px;
+  font-size: 40px;
+  color: #11776e;
+}
+
+.slick-dots li button:before,
+.slick-dots li.slick-active button:before {
+  color: white;
 }
 </style>

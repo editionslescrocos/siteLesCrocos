@@ -1,5 +1,5 @@
 <template>
-  <div class="ground">
+  <div class="ground pt-16">
     <img
       class="ground-background"
       :src="require('@/assets/ground.svg')"
@@ -41,19 +41,16 @@
         width="50px"
         class="img-sol shell-2"
       />
+      <img
+        :src="require('@/assets/shell.webp')"
+        alt=""
+        height="40px"
+        width="40px"
+        class="img-sol shell-3"
+      />
 
       <div class="container mx-auto text-center">
         <div class="py-20">
-          <p>
-            © 2021
-            <a
-              href="https://developpeurfullstack.fr"
-              class="hover:text-red-500 underline"
-              >Fabien Grignoux</a
-            >
-            - Tous droits réservés
-          </p>
-
           <p class="mt-3">
             <nuxt-link to="/mentions-legales" class="underline"
               >Mentions légales</nuxt-link
@@ -87,30 +84,37 @@ export default {};
 }
 
 .etoile-1 {
-  margin-left: 10%;
+  bottom: 20%;
+  left: 15%;
   transform: rotate(35deg);
 }
 
 .etoile-2 {
-  margin-left: 80%;
-  margin-top: 10%;
+  top: 10%;
+  left: 5%;
   transform: rotate(155deg);
 }
 
 .etoile-3 {
-  margin-left: 15%;
-  margin-top: 8%;
+  right: 15%;
+  bottom: 8%;
   transform: rotate(220deg);
 }
 
 .shell-1 {
-  margin-left: 85%;
-  margin-top: 3%;
+  right: 10%;
+  top: 3%;
   transform: rotate(155deg);
 }
 
 .shell-2 {
-  margin-left: 20%;
-  margin-top: 2%;
+  left: 15%;
+  top: 25%;
+}
+
+.shell-3 {
+  left: 43%;
+  top: 1%;
+  transform: rotate(-155deg);
 }
 </style>
