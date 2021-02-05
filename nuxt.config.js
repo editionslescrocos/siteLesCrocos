@@ -48,6 +48,7 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
     "nuxt-compress",
+    "@nuxt/image",
     [
       "@nuxtjs/google-fonts",
       {
@@ -72,7 +73,6 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     "@nuxt/content",
-    "@nuxt/image",
     "nuxt-cookie-control",
     "@nuxtjs/sitemap",
     [

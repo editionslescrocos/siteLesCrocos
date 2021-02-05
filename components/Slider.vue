@@ -9,7 +9,6 @@
             quality="70"
             placeholder
             class="w-full rounded-t-lg"
-            sizes="300:500,600:800"
             fit="cover"
             width="600"
             height="300"
@@ -83,16 +82,16 @@ export default {
 
 .slick-prev:before,
 .slick-next:before {
-  height: 40px;
-  width: 40px;
-  font-size: 40px;
+  height: 48px;
+  width: 48px;
+  font-size: 48px;
   color: #11776e;
 }
 
 .slick-prev,
 .slick-next {
-  height: 40px;
-  width: 40px;
+  height: 48px;
+  width: 48px;
 }
 
 .slick-dots li button:before,
