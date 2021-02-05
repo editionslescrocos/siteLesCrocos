@@ -1,7 +1,7 @@
 <template>
   <div>
     <img
-      :src="require('@/assets/logo.png')"
+      :src="require('@/assets/logo.webp')"
       alt="Logo des éditions des crocos"
       height="200px"
     />

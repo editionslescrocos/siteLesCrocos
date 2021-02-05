@@ -13,7 +13,7 @@
 
     <Footer />
     <Bubbles class="bubbles-component" />
-    <CookieControl />
+    <CookieControl locale="fr" />
   </div>
 </template>
 
