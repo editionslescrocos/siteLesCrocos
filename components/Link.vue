@@ -18,7 +18,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-$animate: all 0.05s ease-in-out;
+$animate: all 0.1s ease-in-out;
 * {
   box-sizing: border-box;
 }
@@ -41,7 +41,7 @@ $animate: all 0.05s ease-in-out;
       height: 5px;
       margin: 5px 0 0;
       transition: $animate;
-      transition-duration: 0.75s;
+      transition-duration: 0.5s;
       opacity: 0;
       background-color: darken(rgb(18, 177, 79), 5%);
     }

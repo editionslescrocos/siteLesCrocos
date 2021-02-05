@@ -7,6 +7,7 @@
             :src="`${item.image}`"
             format="webp"
             quality="70"
+            placeholder
             class="w-full rounded-t-lg"
             sizes="300:500,600:800"
             fit="cover"
@@ -17,7 +18,7 @@
 
         <div class="carousel-text w-full">
           <div
-            class="rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-emerald-700 to-emerald-400 w-full"
+            class="rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-emerald-700 to-emerald-500 w-full"
           >
             <div class="md:flex">
               <div class="flex-1">
@@ -86,6 +87,12 @@ export default {
   width: 40px;
   font-size: 40px;
   color: #11776e;
+}
+
+.slick-prev,
+.slick-next {
+  height: 40px;
+  width: 40px;
 }
 
 .slick-dots li button:before,

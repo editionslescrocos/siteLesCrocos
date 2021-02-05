@@ -17,6 +17,10 @@
 </template>
 
 <style lang="scss">
+.container {
+  font-family: "Nunito Sans", sans-serif;
+}
+
 .sea {
   min-height: 50em;
   background: rgb(11, 181, 255);

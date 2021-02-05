@@ -29,7 +29,7 @@
           </div>
         </div>
 
-        <div class="w-full absolute menu">
+        <div class="container absolute menu">
           <div class="text-center mt-5 hidden md:block">
             <h1 class="text-2xl md:text-5xl italic title-site">
               <span class="uppercase font-bold">Éditions</span>
@@ -39,7 +39,7 @@
           </div>
 
           <div
-            class="hidden w-full md:inline-block order-3 md:order-1 mt-5"
+            class="hidden w-full md:inline-block order-3 md:order-1 mt-1"
             id="menu"
           >
             <nav>
@@ -225,7 +225,7 @@ export default {
     ellipse at center,
     rgba(255, 254, 234, 1) 0%,
     rgba(255, 254, 234, 1) 35%,
-    #e9e0b1 100%
+    #e2d69d 100%
   );
 }
 
@@ -234,9 +234,15 @@ export default {
   z-index: 4;
 }
 
-@media screen and (min-width: 200px) and (max-width: 640px) {
+@media screen and (min-width: 200px) and (max-width: 750px) {
   .menu-content {
     min-height: 120px;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .menu-content {
+    min-height: 250px;
   }
 }
 

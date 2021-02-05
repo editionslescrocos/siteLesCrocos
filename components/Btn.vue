@@ -74,7 +74,7 @@ button {
     left: 0;
     width: 0%;
     height: 100%;
-    background-color: #2ea300;
+    background-color: #00771a;
 
     transition: all 0.3s;
     z-index: -1;

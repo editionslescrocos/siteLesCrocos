@@ -4,16 +4,27 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "editionsdescrocos",
     htmlAttrs: {
       lang: "fr"
     },
+    title: "Éditions les crocos",
     meta: [
       { charset: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { hid: "description", name: "description", content: "" }
-    ],
-    link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]
+      {
+        hid: "description",
+        name: "description",
+        content: "Les éditions les crocos proposent des livres pour enfants."
+      },
+      { name: "theme-color", content: "#e5dba6" },
+      { name: "og:title", content: "Éditions les crocos" },
+      { name: "og:type", content: "article" },
+      { name: "og:site_name", content: "Éditions les crocos" },
+      {
+        name: "og:description",
+        content: "Les éditions les crocos proposent des livres pour enfants."
+      }
+    ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -42,14 +53,16 @@ export default {
       {
         display: "swap",
         families: {
-          Fresca: true,
           Acme: true,
-          "Happy+Monkey": true,
-          "Short+Stack": true,
-          Boogaloo: true,
-          Chicle: true,
-          "Bubblegum+Sans": true,
-          "Rum+Raisin": true
+          Nunito: true,
+          "Nunito+Sans": true
+          //Fresca: true,
+          // "Happy+Monkey": true,
+          // "Short+Stack": true,
+          // Boogaloo: true,
+          // Chicle: true,
+          // "Bubblegum+Sans": true,
+          // "Rum+Raisin": true
         }
       }
     ]
@@ -74,6 +87,31 @@ export default {
       }
     ]
   ],
+
+  image: {
+    ipx: {
+      /**
+       * Input directory for images
+       **/
+      dir: "~/static",
+      /**
+       * Cache directory for optimized images
+       **/
+      cacheDir: "~~/node_modules/.cache/nuxt-image",
+      /**
+       * Enable/Disable cache cleaning cron job
+       **/
+      clearCache: false,
+      format: "webp",
+      /**
+       * Modify default behavior of image optimizer
+       **/
+      sharp: {
+        // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
+      },
+      sizes: [320, 420, 768, 1024, 1200]
+    }
+  },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
