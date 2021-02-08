@@ -102,7 +102,7 @@ export default {};
   z-index: 1;
   position: absolute;
   top: 0;
-
+  left: 60px;
   width: 100%;
   max-width: 15rem;
   transform: translateX(-50%);

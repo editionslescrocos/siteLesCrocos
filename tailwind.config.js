@@ -46,7 +46,8 @@ module.exports = {
         "to-teal-600",
         "text-rose-600",
         "py-24",
-        "bg-emerald-900"
+        "bg-emerald-900",
+        "bg-yellow-500"
       ]
     }
   }
