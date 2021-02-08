@@ -24,7 +24,7 @@
             </p>
           </div>
           <div class="w-1/2 md:w-1/4 px-5 text-center pt-5 md:pt-0">
-            <nuxt-img
+            <!-- <nuxt-img
               src="images/les-crocos.jpg"
               format="webp"
               alt="Les crocos"
@@ -32,6 +32,10 @@
               height="200"
               width="200"
               fit="cover"
+            /> -->
+            <img
+              src="images/les-crocos.jpg?webp&size=200"
+              class="rounded-full"
             />
           </div>
           <div class="w-1/2 md:w-1/4 px-5 pt-5">

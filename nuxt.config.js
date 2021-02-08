@@ -48,6 +48,7 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
     "nuxt-compress",
+    "@aceforth/nuxt-optimized-images",
     "@nuxt/image",
     [
       "@nuxtjs/google-fonts",
@@ -81,30 +82,41 @@ export default {
     ]
   ],
 
-  image: {
-    ipx: {
-      /**
-       * Input directory for images
-       **/
-      dir: "~/static",
-      /**
-       * Cache directory for optimized images
-       **/
-      // cacheDir: "~~/node_modules/.cache/nuxt-image",
-      /**
-       * Enable/Disable cache cleaning cron job
-       **/
-      // clearCache: false,
-      format: "webp"
-      /**
-       * Modify default behavior of image optimizer
-       **/
-      // sharp: {
-      //   // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
-      // },
-      // sizes: [320, 420, 768, 1024, 1200]
+  optimizedImages: {
+    inlineImageLimit: 1000,
+    imagesName: ({ isDev }) =>
+      isDev
+        ? "[path][name][hash:optimized].[ext]"
+        : "img/[contenthash:7].[ext]",
+    responsiveImagesName: ({ isDev }) =>
+      isDev
+        ? "[path][name]--[width][hash:optimized].[ext]"
+        : "img/[contenthash:7]-[width].[ext]",
+    handleImages: ["jpeg", "png", "svg", "webp", "gif"],
+    optimizeImages: true,
+    optimizeImagesInDev: true,
+    defaultImageLoader: "img-loader",
+    mozjpeg: {
+      quality: 80
+    },
+    optipng: {
+      optimizationLevel: 3
+    },
+    pngquant: false,
+    gifsicle: {
+      interlaced: true,
+      optimizationLevel: 3
+    },
+    svgo: {
+      // enable/disable svgo plugins here
+    },
+    webp: {
+      preset: "default",
+      quality: 75
     }
   },
+
+  image: {},
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},

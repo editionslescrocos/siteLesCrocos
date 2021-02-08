@@ -5,13 +5,11 @@
         <nuxt-link :to="item.url">
           <nuxt-picture
             :src="`${item.image}`"
-            format="webp"
-            quality="70"
             class="w-full rounded-t-lg"
             fit="cover"
-            width="800"
-            placeholder
-            height="280"
+            format="webp"
+            height="300"
+            width="900"
           />
         </nuxt-link>
 
