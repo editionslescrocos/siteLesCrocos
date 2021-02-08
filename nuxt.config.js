@@ -57,13 +57,6 @@ export default {
           Acme: true,
           Nunito: true,
           "Nunito+Sans": true
-          //Fresca: true,
-          // "Happy+Monkey": true,
-          // "Short+Stack": true,
-          // Boogaloo: true,
-          // Chicle: true,
-          // "Bubblegum+Sans": true,
-          // "Rum+Raisin": true
         }
       }
     ]
@@ -97,19 +90,19 @@ export default {
       /**
        * Cache directory for optimized images
        **/
-      cacheDir: "~~/node_modules/.cache/nuxt-image",
+      // cacheDir: "~~/node_modules/.cache/nuxt-image",
       /**
        * Enable/Disable cache cleaning cron job
        **/
-      clearCache: false,
-      format: "webp",
+      // clearCache: false,
+      format: "webp"
       /**
        * Modify default behavior of image optimizer
        **/
-      sharp: {
-        // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
-      },
-      sizes: [320, 420, 768, 1024, 1200]
+      // sharp: {
+      //   // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
+      // },
+      // sizes: [320, 420, 768, 1024, 1200]
     }
   },
 
