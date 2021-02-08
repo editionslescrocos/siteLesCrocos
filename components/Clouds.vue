@@ -1,10 +1,10 @@
 <template>
-  <div id="clouds" class="pt-10">
-    <div class="cloud x1"></div>
-    <div class="cloud x2"></div>
-    <div class="cloud x3"></div>
-    <div class="cloud x4"></div>
-    <div class="cloud x5"></div>
+  <div id="clouds">
+    <div class="cloud x1 pt-10"></div>
+    <div class="cloud x2 pt-12"></div>
+    <div class="cloud x3 pt-10"></div>
+    <div class="cloud x4 pt-15"></div>
+    <div class="cloud x5 pt-20"></div>
   </div>
 </template>
 

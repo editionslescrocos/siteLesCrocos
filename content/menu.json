@@ -1,0 +1,37 @@
+{
+  "links": [
+    {
+      "text": "Nos livres",
+      "to": "/livres"
+    },
+    {
+      "text": "Actualité",
+      "to": "/acutalite"
+    },
+    {
+      "text": "Qui sommes nous ?",
+      "to": "/qui-sommes-nous"
+    },
+    {
+      "text": "Nous trouver",
+      "to": "/nous-trouver"
+    },
+    {
+      "text": "Contact",
+      "to": "/contact"
+    }
+  ],
+
+  "networks": [
+    {
+      "title": "Instagram",
+      "image": "instagram.svg",
+      "href": ""
+    },
+    {
+      "title": "Facebook",
+      "image": "facebook.svg",
+      "href": ""
+    }
+  ]
+}

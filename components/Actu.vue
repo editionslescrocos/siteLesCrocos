@@ -3,13 +3,15 @@
     <nuxt-img
       :src="`/images/${actu.image}`"
       format="webp"
-      height="200"
-      fill="cover"
+      height="250"
+      width="500"
+      fit="cover"
+      class="rounded-md"
     ></nuxt-img>
-    <h3 class="font-semibold text-xl text-emerald-700">
+    <h3 class="font-semibold text-xl">
       {{ actu.title }}
     </h3>
-    <p>{{ actu.description }}</p>
+    <p class="text-lg">{{ actu.description }}</p>
   </div>
 </template>
 
@@ -25,4 +27,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+img {
+  transition: transform 0.2s;
+
+  &:hover {
+    transform: scale(1.15);
+  }
+}
 </style>

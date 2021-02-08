@@ -113,8 +113,8 @@ export default {};
 }
 
 .shell-3 {
-  left: 43%;
-  top: 1%;
+  right: 17%;
+  top: 40%;
   transform: rotate(-155deg);
 }
 </style>

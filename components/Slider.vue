@@ -3,14 +3,14 @@
     <VueSlickCarousel v-bind="slickOptions">
       <div v-for="(item, key) in items" :key="key" class="relative">
         <nuxt-link :to="item.url">
-          <nuxt-img
+          <nuxt-picture
             :src="`${item.image}`"
             format="webp"
             quality="70"
             placeholder
             class="w-full rounded-t-lg"
             fit="cover"
-            width="600"
+            width="800"
             height="300"
           />
         </nuxt-link>
