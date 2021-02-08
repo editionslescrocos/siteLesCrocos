@@ -7,7 +7,6 @@
             :src="`${item.image}`"
             format="webp"
             quality="70"
-            placeholder
             class="w-full rounded-t-lg"
             fit="cover"
             width="800"
