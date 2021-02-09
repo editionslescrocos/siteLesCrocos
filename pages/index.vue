@@ -8,7 +8,9 @@
       <section>
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
-            <h2 class="font-semibold text-4xl text-white mb-4">
+            <h2
+              class="font-semibold text-4xl text-center md:text-left text-white mb-4"
+            >
               {{ general.presentationTitle }}
             </h2>
             <p>
