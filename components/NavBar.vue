@@ -45,14 +45,14 @@
             <nav>
               <ul class="text-base pt-4 md:pt-0 text-center">
                 <li
-                  v-for="(link, index) in links"
+                  v-for="(menu, index) in menus"
                   :key="index"
                   class="inline-block mx-2"
                 >
                   <Link
-                    :to="link.to"
+                    :to="menu.to"
                     class="text-emerald-700 no-underline font-medium font-bold text-2xl py-2 px-4 lg:-ml-2 top-link"
-                    >{{ link.text }}</Link
+                    >{{ menu.text }}</Link
                   >
                 </li>
               </ul>
@@ -122,12 +122,12 @@
 
           <ul class="ml-5">
             <li
-              v-for="(link, index) in links"
+              v-for="(menu, index) in menus"
               :key="index"
               class="font-medium text-lg py-2 hover:text-red-200"
               @click="isOpen = false"
             >
-              <nuxt-link :to="link.to">{{ link.text }}</nuxt-link>
+              <nuxt-link :to="menu.to">{{ menu.text }}</nuxt-link>
             </li>
           </ul>
 
@@ -151,43 +151,54 @@
 
 <script>
 export default {
+  props: {
+    networks: {
+      type: Array,
+      default: [],
+    },
+    menus: {
+      type: Array,
+      default: [],
+    },
+  },
+
   data() {
     return {
       isOpen: false,
-      networks: [
-        {
-          title: "Instagram",
-          image: "instagram.svg",
-          href: "",
-        },
-        {
-          title: "Facebook",
-          image: "facebook.svg",
-          href: "",
-        },
-      ],
-      links: [
-        {
-          text: "Nos livres",
-          to: "/livres",
-        },
-        {
-          text: "Actualité",
-          to: "/acutalite",
-        },
-        {
-          text: "Qui sommes nous ?",
-          to: "/qui-sommes-nous",
-        },
-        {
-          text: "Nous trouver",
-          to: "/nous-trouver",
-        },
-        {
-          text: "Contact",
-          to: "/contact",
-        },
-      ],
+      //   networks: [
+      //     {
+      //       title: "Instagram",
+      //       image: "instagram.svg",
+      //       href: "",
+      //     },
+      //     {
+      //       title: "Facebook",
+      //       image: "facebook.svg",
+      //       href: "",
+      //     },
+      //   ],
+      //   links: [
+      //     {
+      //       text: "Nos livres",
+      //       to: "/livres",
+      //     },
+      //     {
+      //       text: "Actualité",
+      //       to: "/acutalite",
+      //     },
+      //     {
+      //       text: "Qui sommes nous ?",
+      //       to: "/qui-sommes-nous",
+      //     },
+      //     {
+      //       text: "Nous trouver",
+      //       to: "/nous-trouver",
+      //     },
+      //     {
+      //       text: "Contact",
+      //       to: "/contact",
+      //     },
+      //   ],
     };
   },
   methods: {

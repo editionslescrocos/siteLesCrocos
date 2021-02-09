@@ -1,24 +1,29 @@
 {
-  "links": [
+  "menus": [
     {
       "text": "Nos livres",
-      "to": "/livres"
+      "to": "/livres",
+      "order" :1
     },
     {
       "text": "Actualité",
-      "to": "/acutalite"
+      "to": "/actualite",
+      "order":2
     },
     {
       "text": "Qui sommes nous ?",
-      "to": "/qui-sommes-nous"
+      "to": "/qui-sommes-nous",
+      "order":3
     },
     {
       "text": "Nous trouver",
-      "to": "/nous-trouver"
+      "to": "/nous-trouver",
+      "order": 4
     },
     {
       "text": "Contact",
-      "to": "/contact"
+      "to": "/contact",
+      "order": 5
     }
   ],
 
@@ -26,12 +31,14 @@
     {
       "title": "Instagram",
       "image": "instagram.svg",
-      "href": ""
+      "href": "",
+      "order":1
     },
     {
       "title": "Facebook",
       "image": "facebook.svg",
-      "href": ""
+      "href": "",
+      "order":2
     }
   ]
 }

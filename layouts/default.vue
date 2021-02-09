@@ -1,21 +1,9 @@
 <template>
   <div>
-    <NavBar class="navbar-site" />
-    <div class="sea">
-      <div class="content-site">
-        <section>
-          <div class="container mx-auto">
-            <Nuxt />
-          </div>
-        </section>
-      </div>
-    </div>
-
-    <Footer />
-    <Bubbles class="bubbles-component" />
-    <CookieControl locale="fr" />
+    <Nuxt />
   </div>
 </template>
+
 
 <style lang="scss">
 .container {

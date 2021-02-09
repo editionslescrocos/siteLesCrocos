@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <Layout :networks="networks" :menus="menus">
     <section>
       <Slider :items="carousel" class="pt-7 pb-20 slider-home"></Slider>
     </section>
@@ -23,48 +23,32 @@
               <Btn to="#" class="mt-5" color="yellow-500">En savoir plus</Btn>
             </p>
           </div>
-          <div class="w-1/2 md:w-1/4 px-5 text-center pt-5 md:pt-0">
-            <!-- <nuxt-img
-              src="images/les-crocos.jpg"
+          <div class="w-1/2 md:w-1/4 px-16 text-right pt-5 md:pt-0">
+            <nuxt-picture
+              src="images/tampon_croco.png"
               format="webp"
-              alt="Les crocos"
-              class="rounded-full"
+              alt="Tampon imprimé en France"
               height="200"
               width="200"
               fit="cover"
-            /> -->
-            <img
-              src="images/les-crocos.jpg?webp&size=200"
-              class="rounded-full"
+              class="bg-white rounded-full"
             />
           </div>
-          <div class="w-1/2 md:w-1/4 px-5 pt-5">
+          <div class="w-1/2 md:w-1/4 px-16 pt-5">
             <nuxt-picture
-              src="images/origine-france.webp"
+              src="images/tampon_loup.png"
               format="webp"
-              alt="Livres conçus et fabriqués en France"
+              alt="Tampon livres garantis sans loups"
               height="150"
               width="150"
               fit="cover"
+              class="bg-white rounded-full"
             />
           </div>
         </div>
       </section>
     </div>
-
-    <div class="text-white px-5 mt-20">
-      <section class="actu">
-        <h2 class="font-semibold text-4xl italic text-white mb-4">
-          L'actu des Crocos
-        </h2>
-        <div class="md:flex md:space-x-8">
-          <div v-for="actu in actus" :key="actu.title" class="pb-8">
-            <Actu :actu="actu" />
-          </div>
-        </div>
-      </section>
-    </div>
-  </div>
+  </Layout>
 </template>
 
 <script>
@@ -75,9 +59,15 @@ export default {
       .sortBy("date", "desc")
       .limit(3)
       .fetch();
+
+    const links = await $content("links").fetch();
+    const { menus, networks } = links;
+
     return {
       carousel,
       actus,
+      networks,
+      menus,
     };
   },
 };

@@ -10,6 +10,7 @@
             format="webp"
             height="300"
             width="900"
+            placeholder
           />
         </nuxt-link>
 
