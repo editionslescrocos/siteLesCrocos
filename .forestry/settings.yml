@@ -2,12 +2,15 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/admin-crocos"
-webhook_url:
+webhook_url: 
 sections:
+- type: document
+  path: content/general.json
+  label: Paramètres
+  match: "**/*"
 - type: document
   path: content/links.json
   label: menus
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
