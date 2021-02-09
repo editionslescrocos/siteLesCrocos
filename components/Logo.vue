@@ -10,28 +10,29 @@
 
 <style scoped>
 img {
-  height: 100%;
-  width: 120px;
-  margin-top: 10px;
+  height: 180px;
+  margin-top: 40px;
+  width: auto;
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width: 768px) {
   img {
-    height: 120px;
-    width: 80px;
+    height: 105px;
+    margin-top: 10px;
   }
 }
 
-@media screen and (min-width: 641px) and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1000px) {
   img {
-    height: 120px;
-    width: 80px;
+    margin-top: 70px;
+    height: 160px;
   }
 }
 
-@media screen and (min-width: 1535px) {
+@media screen and (min-width: 1500px) {
   img {
-    width: 160px;
+    height: 230px;
+    margin-top: 0px;
   }
 }
 </style>

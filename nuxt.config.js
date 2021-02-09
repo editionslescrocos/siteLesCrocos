@@ -56,6 +56,7 @@ export default {
         display: "swap",
         families: {
           Acme: true,
+          "Noto+Sans+JP": true,
           Nunito: true,
           "Nunito+Sans": true
         }

@@ -52,7 +52,7 @@
       <div class="container mx-auto text-center">
         <div class="py-20">
           <ul class="mt-3 ">
-            <li class='inline mx-6' v-for="link in footer"><nuxt-link :to="link.to"
+            <li class='md:inline mx-6 my-5 md:my-0' v-for="link in footer"><nuxt-link :to="link.to"
               >{{ link.title }}</nuxt-link
             ></li>
           </ul>

@@ -1,18 +1,17 @@
 <template>
-  <div class="top-page">
-    <Clouds />
+  <div class="top-page bg-gray-50">
     <div class="waves mt-5">
       <Waves />
     </div>
     <nav class="w-full py-1 mb-70 menu">
       <div class="container mx-auto menu-content">
-        <nuxt-link to="/" class="absolute logo ml-5 mt-2 md:mt-10">
+        <nuxt-link to="/" class="absolute logo ml-5 mt-2">
           <Logo />
         </nuxt-link>
 
         <div class="w-full hidden md:block absolute text-right social-networks">
           <div class="container">
-            <nav class="space-x-4 mt-5 mr-5">
+            <nav class="space-x-4 mt-8 mr-5">
               <a
                 class="inline-block"
                 v-for="sn in networks"
@@ -30,11 +29,11 @@
         </div>
 
         <div class="container absolute menu">
-          <div class="text-center mt-5 hidden md:block">
-            <h1 class="text-2xl md:text-5xl italic title-site">
+          <div class="text-center mt-8 hidden md:block">
+            <h1 class="text-2xl md:text-4xl title-site text-emerald-800">
               <span class="uppercase font-bold">Éditions</span>
               les
-              <span class="uppercase">Crocos</span>
+              <span class="uppercase font-bold">Crocos</span>
             </h1>
           </div>
 
@@ -43,7 +42,7 @@
             id="menu"
           >
             <nav>
-              <ul class="text-base pt-4 md:pt-0 text-center">
+              <ul class="text-base pt-4 text-center">
                 <li
                   v-for="(menu, index) in menus"
                   :key="index"
@@ -51,7 +50,7 @@
                 >
                   <Link
                     :to="menu.to"
-                    class="text-emerald-700 no-underline font-medium font-bold text-2xl py-2 px-4 lg:-ml-2 top-link"
+                    class="text-emerald-800 no-underline font-medium font-extrabold text-xl py-2 px-4 lg:-ml-2 top-link"
                     >{{ menu.text }}</Link
                   >
                 </li>
@@ -112,7 +111,7 @@
         <nav>
           <div class="p-5 text-white font-medium text-lg hover:text-red-200">
             <nuxt-link to="/">
-              <p class="text-xl italic title-site">
+              <p class="text-xl title-site">
                 <span class="uppercase font-bold">Éditions</span>
                 les
                 <span class="uppercase">Crocos</span>
@@ -165,40 +164,6 @@ export default {
   data() {
     return {
       isOpen: false,
-      //   networks: [
-      //     {
-      //       title: "Instagram",
-      //       image: "instagram.svg",
-      //       href: "",
-      //     },
-      //     {
-      //       title: "Facebook",
-      //       image: "facebook.svg",
-      //       href: "",
-      //     },
-      //   ],
-      //   links: [
-      //     {
-      //       text: "Nos livres",
-      //       to: "/livres",
-      //     },
-      //     {
-      //       text: "Actualité",
-      //       to: "/acutalite",
-      //     },
-      //     {
-      //       text: "Qui sommes nous ?",
-      //       to: "/qui-sommes-nous",
-      //     },
-      //     {
-      //       text: "Nous trouver",
-      //       to: "/nous-trouver",
-      //     },
-      //     {
-      //       text: "Contact",
-      //       to: "/contact",
-      //     },
-      //   ],
     };
   },
   methods: {
@@ -232,16 +197,16 @@ export default {
   display: flex;
   align-items: flex-end;
 
-  background: radial-gradient(
-    ellipse at center,
-    rgba(255, 254, 234, 1) 0%,
-    rgba(255, 254, 234, 1) 35%,
-    #e2d69d 100%
-  );
+  // background: radial-gradient(
+  //   ellipse at center,
+  //   rgba(255, 254, 234, 1) 0%,
+  //   rgba(255, 254, 234, 1) 35%,
+  //   #e2d69d 100%
+  // );
 }
 
 .menu-content {
-  min-height: 200px;
+  min-height: 240px;
   z-index: 4;
 }
 
@@ -273,7 +238,7 @@ export default {
 }
 
 .top-link {
-  font-family: "Acme", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
 }
 
 .title-site {

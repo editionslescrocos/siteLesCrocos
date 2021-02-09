@@ -4,18 +4,18 @@
       <Slider :items="carousel" class="pt-7 pb-20 slider-home"></Slider>
     </section>
 
-    <div class="mt-5 mx-5 text-white">
+    <div class="mt-5 mx-5 text-gray-50">
       <section>
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
-            <h2 class="font-semibold text-4xl italic text-white mb-4">
+            <h2 class="font-semibold text-4xl text-white mb-4">
               {{ general.presentationTitle }}
             </h2>
             <p>
               {{ general.presentationText }}
             </p>
             <p class="text-center md:text-left">
-              <Btn :to="general.presentationURL" class="mt-5" color="yellow-500"
+              <Btn :to="general.presentationURL" class="mt-5" color="yellow-600"
                 >En savoir plus</Btn
               >
             </p>
