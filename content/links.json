@@ -33,5 +33,20 @@
       "image": "facebook.svg",
       "href": ""
     }
+  ],
+
+  "footer":[
+    {
+      "title":"Contact",
+      "to":"contact"
+    },
+    {
+      "title":"Mentions légales",
+      "to":"mentions-legales"
+    },
+    {
+      "title":"Espace presse",
+      "to":"presse"
+    }
   ]
 }

@@ -1,6 +1,7 @@
 <template>
   <div>
     <Nuxt />
+    <CookieControl locale="fr" />
   </div>
 </template>
 

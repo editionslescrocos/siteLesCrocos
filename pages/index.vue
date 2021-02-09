@@ -1,5 +1,5 @@
 <template>
-  <Layout :networks="networks" :menus="menus">
+  <Layout :networks="networks" :menus="menus" :footer="footer">
     <section>
       <Slider :items="carousel" class="pt-7 pb-20 slider-home"></Slider>
     </section>
@@ -60,7 +60,7 @@ export default {
     const general = await $content("general").fetch();
 
     const links = await $content("links").fetch();
-    const { menus, networks } = links;
+    const { menus, networks, footer } = links;
 
     return {
       carousel,
@@ -68,6 +68,7 @@ export default {
       networks,
       menus,
       general,
+      footer,
     };
   },
 };

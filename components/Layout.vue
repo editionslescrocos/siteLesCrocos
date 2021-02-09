@@ -1,6 +1,11 @@
 <template>
   <div>
-    <NavBar class="navbar-site" :menus="menus" :networks="networks" />
+    <NavBar
+      class="navbar-site"
+      :menus="menus"
+      :networks="networks"
+      :footer="footer"
+    />
     <div class="sea">
       <div class="content-site">
         <section>
@@ -9,11 +14,9 @@
           </div>
         </section>
       </div>
+      <Footer :footer="footer" />
+      <Bubbles class="bubbles-component" />
     </div>
-
-    <Footer :menus="menus" :networks="networks" />
-    <Bubbles class="bubbles-component" />
-    <CookieControl locale="fr" />
   </div>
 </template>
 
@@ -25,6 +28,10 @@ export default {
       default: [],
     },
     menus: {
+      type: Array,
+      default: [],
+    },
+    footer: {
       type: Array,
       default: [],
     },
