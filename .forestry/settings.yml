@@ -4,10 +4,11 @@ auto_deploy: false
 admin_path: "/admin-crocos"
 webhook_url: 
 sections:
+- type: heading
+  label: Parmètres du site
 - type: document
   path: content/general.json
-  label: Paramètres
-  match: "**/*"
+  label: Général
 - type: document
   path: content/links.json
   label: menus
