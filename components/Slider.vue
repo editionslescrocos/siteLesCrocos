@@ -9,7 +9,8 @@
             fit="cover"
             format="webp"
             height="300"
-            width="900"
+            width="800"
+            :placeholder="require('@/assets/placeholder.webp')"
           />
         </nuxt-link>
 

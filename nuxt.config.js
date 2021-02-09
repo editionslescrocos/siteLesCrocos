@@ -57,7 +57,7 @@ export default {
         families: {
           Acme: true,
           "Noto+Sans+JP": true,
-          Nunito: true,
+          //Nunito: true,
           "Nunito+Sans": true
         }
       }
