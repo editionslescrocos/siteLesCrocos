@@ -9,18 +9,15 @@
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
             <h2 class="font-semibold text-4xl italic text-white mb-4">
-              La maison d'édition
+              {{ general.presentationTitle }}
             </h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
-              ultrices enim vel blandit iaculis. Aenean pellentesque enim eu sem
-              sodales lacinia eu et neque. Sed sollicitudin quam velit, sit amet
-              ornare ex varius eu. Proin et lorem ut justo lacinia porttitor in
-              eget sapien. Phasellus eget malesuada nisi. Praesent accumsan nisl
-              varius viverra imperdiet.
+              {{ general.presentationText }}
             </p>
             <p class="text-center md:text-left">
-              <Btn to="#" class="mt-5" color="yellow-500">En savoir plus</Btn>
+              <Btn :to="general.presentationURL" class="mt-5" color="yellow-500"
+                >En savoir plus</Btn
+              >
             </p>
           </div>
           <div class="w-1/2 md:w-1/4 px-8 text-right pt-5 md:pt-0">
@@ -60,6 +57,8 @@ export default {
       .limit(3)
       .fetch();
 
+    const general = await $content("general").fetch();
+
     const links = await $content("links").fetch();
     const { menus, networks } = links;
 
@@ -68,6 +67,7 @@ export default {
       actus,
       networks,
       menus,
+      general,
     };
   },
 };
