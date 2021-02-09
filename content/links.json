@@ -2,28 +2,23 @@
   "menus": [
     {
       "text": "Nos livres",
-      "to": "/livres",
-      "order" :1
+      "to": "/livres"
     },
     {
       "text": "Actualité",
-      "to": "/actualite",
-      "order":2
+      "to": "/actualite"
     },
     {
       "text": "Qui sommes nous ?",
-      "to": "/qui-sommes-nous",
-      "order":3
+      "to": "/qui-sommes-nous"
     },
     {
       "text": "Nous trouver",
-      "to": "/nous-trouver",
-      "order": 4
+      "to": "/nous-trouver"
     },
     {
       "text": "Contact",
-      "to": "/contact",
-      "order": 5
+      "to": "/contact"
     }
   ],
 
@@ -31,14 +26,12 @@
     {
       "title": "Instagram",
       "image": "instagram.svg",
-      "href": "",
-      "order":1
+      "href": ""
     },
     {
       "title": "Facebook",
       "image": "facebook.svg",
-      "href": "",
-      "order":2
+      "href": ""
     }
   ]
 }

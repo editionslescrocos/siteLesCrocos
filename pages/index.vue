@@ -4,7 +4,7 @@
       <Slider :items="carousel" class="pt-7 pb-20 slider-home"></Slider>
     </section>
 
-    <div class="mt-12 mx-5 text-white">
+    <div class="mt-5 mx-5 text-white">
       <section>
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
@@ -23,7 +23,7 @@
               <Btn to="#" class="mt-5" color="yellow-500">En savoir plus</Btn>
             </p>
           </div>
-          <div class="w-1/2 md:w-1/4 px-16 text-right pt-5 md:pt-0">
+          <div class="w-1/2 md:w-1/4 px-8 text-right pt-5 md:pt-0">
             <nuxt-picture
               src="images/tampon_croco.png"
               format="webp"
@@ -34,7 +34,7 @@
               class="bg-white rounded-full"
             />
           </div>
-          <div class="w-1/2 md:w-1/4 px-16 pt-5">
+          <div class="w-1/2 md:w-1/4 px-8 pt-5">
             <nuxt-picture
               src="images/tampon_loup.png"
               format="webp"
