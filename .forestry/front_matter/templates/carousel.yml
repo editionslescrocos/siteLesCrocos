@@ -1,4 +1,21 @@
 ---
 label: carousel
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: url
+  type: text
+  config:
+    required: false
+  label: Lien
+  description: 'Exemple : /books/mon-livre'
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  description: L'image du carrousel
