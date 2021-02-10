@@ -1,5 +1,5 @@
 <template>
-  <div class="carousel-wrapper px-5 overflow-hidden">
+  <div class="slider-wrapper px-5 overflow-hidden">
     <VueSlickCarousel v-bind="slickOptions">
       <div v-for="(item, key) in items" :key="key" class="relative">
         <nuxt-link :to="item.url">
@@ -14,7 +14,7 @@
           />
         </nuxt-link>
 
-        <div class="carousel-text w-full">
+        <div class="slider-text w-full">
           <div
             class="rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-emerald-700 to-emerald-500 w-full"
           >
@@ -62,11 +62,11 @@ export default {
 </script>
 
 <style style="scoped">
-.carousel-wrapper {
+.slider-wrapper {
   position: relative;
 }
 
-.carousel-text {
+.slider-text {
   z-index: 1;
   height: 100%;
 }

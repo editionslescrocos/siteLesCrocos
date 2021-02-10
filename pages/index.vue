@@ -1,7 +1,7 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer">
+  <Layout :networks="networks" :menus="menus" :footer="footer" isHOne="true">
     <section>
-      <Slider :items="carousel" class="pt-7 pb-20 slider-home"></Slider>
+      <Slider :items="slider" class="pt-7 pb-20 slider-home"></Slider>
     </section>
 
     <div class="mt-5 mx-5 text-gray-50">
@@ -53,7 +53,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const carousel = await $content("carousel").sortBy("order", "asc").fetch();
+    const slider = await $content("slider").sortBy("order", "asc").fetch();
     const actus = await $content("actualites")
       .sortBy("date", "desc")
       .limit(3)
@@ -65,7 +65,7 @@ export default {
     const { menus, networks, footer } = links;
 
     return {
-      carousel,
+      slider,
       actus,
       networks,
       menus,

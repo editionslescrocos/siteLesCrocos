@@ -30,11 +30,20 @@
 
         <div class="container absolute menu">
           <div class="text-center mt-8 hidden md:block">
-            <h1 class="text-2xl md:text-4xl title-site text-emerald-800">
+            <h1
+              v-if="isHOne"
+              class="text-2xl md:text-4xl title-site text-emerald-800"
+            >
               <span class="uppercase font-bold">Éditions</span>
               les
               <span class="uppercase font-bold">Crocos</span>
             </h1>
+
+            <p v-else class="text-2xl md:text-4xl title-site text-emerald-800">
+              <span class="uppercase font-bold">Éditions</span>
+              les
+              <span class="uppercase font-bold">Crocos</span>
+            </p>
           </div>
 
           <div
@@ -151,6 +160,10 @@
 <script>
 export default {
   props: {
+    isHOne: {
+      type: Boolean,
+      default: false,
+    },
     networks: {
       type: Array,
       default: [],

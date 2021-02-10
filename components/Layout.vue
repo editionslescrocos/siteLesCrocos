@@ -5,6 +5,7 @@
       :menus="menus"
       :networks="networks"
       :footer="footer"
+      :isHOne="isHOne"
     />
     <div class="sea">
       <div class="content-site">
@@ -23,6 +24,10 @@
 <script>
 export default {
   props: {
+    isHOne: {
+      type: Boolean,
+      default: false,
+    },
     networks: {
       type: Array,
       default: [],
