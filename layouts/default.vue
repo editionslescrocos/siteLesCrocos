@@ -38,4 +38,17 @@
 .bubbles-component {
   z-index: 1;
 }
+
+.page {
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+  }
+
+  h3 {
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+  }
+}
 </style>

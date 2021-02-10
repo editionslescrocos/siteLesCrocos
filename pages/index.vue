@@ -1,5 +1,5 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer" isHOne="true">
+  <Layout :networks="networks" :menus="menus" :footer="footer" isHOne>
     <section>
       <Slider :items="slider" class="pt-7 pb-20 slider-home"></Slider>
     </section>

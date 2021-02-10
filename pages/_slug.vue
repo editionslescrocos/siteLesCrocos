@@ -1,35 +1,38 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer">
     <article>
-
-      <div
-        class="mx-auto rounded-lg bg-gray-50 py-12 pb-24 px-5 md:px-12 md:w-10/12 lg:w-9/12 xl:w-7/12 content"
-      >
-      <header
-        <HeaderPage :doc="doc" />
-      </header>
+      <div class="relative z-10 pt-7 ">
         <nuxt-picture
           :src="doc.image"
           format="webp"
           fit="cover"
-          class="mb-7"
+          class="rounded-md shadow-lg"
           v-if="doc.image"
           :alt="doc.imageAlt"
           width="900"
-          height="350"
+          height="400"
         ></nuxt-picture>
+      </div>
+      <div
+        class="page relative container mx-auto z-20 md:rounded-lg md:-mt-32 shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-10/12 lg:w-9/12 xl:w-7/12 content"
+      >
+      <header
+          <div class="pt-10">
+    <h1 class="text-4xl text-center font-bold mb-3">
+      {{ doc.title }}
+    </h1>
 
+    <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
+      {{ doc.subtitle }}
+    </p>
+
+    <p v-if="doc.description" class="text-left text-lg font-semibold my-7">
+      {{ doc.description }}
+    </p>
+  </div>
+      </header>
         <nuxt-content :document="doc"></nuxt-content>
-        <div class="text-center" v-if="doc.buyUrl">
-          <a :href="doc.buyUrl">
-            <Btn class="mt-20">
-              Acheter
-              <template slot="subText"
-                ><div>Vous serez redirigé sur podia.com</div></template
-              >
-            </Btn>
-          </a>
-        </div>
+
       </div>
     </article>
   </Layout>
