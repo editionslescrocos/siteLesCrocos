@@ -1,7 +1,7 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer">
     <article>
-      <div class="relative z-10 pt-7 ">
+      <div class="relative z-10 pt-7">
         <nuxt-picture
           :src="doc.image"
           format="webp"
@@ -14,25 +14,28 @@
         ></nuxt-picture>
       </div>
       <div
-        class="page relative container mx-auto z-20 md:rounded-lg md:-mt-32 shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-10/12 lg:w-9/12 xl:w-7/12 content"
+        class="page relative container mx-auto z-20 md:rounded-lg md:-mt-32 shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-10/12 lg:w-10/12 xl:w-8/12 content"
       >
-      <header
-          <div class="pt-10">
-    <h1 class="text-4xl text-center font-bold mb-3">
-      {{ doc.title }}
-    </h1>
+        <header>
+          <div class="titles">
+            <div class="pt-10">
+              <h1 class="text-4xl text-center font-bold mb-3">
+                {{ doc.title }}
+              </h1>
 
-    <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
-      {{ doc.subtitle }}
-    </p>
-
-    <p v-if="doc.description" class="text-left text-lg font-semibold my-7">
-      {{ doc.description }}
-    </p>
-  </div>
-      </header>
+              <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
+                {{ doc.subtitle }}
+              </p>
+            </div>
+          </div>
+          <p
+            v-if="doc.description"
+            class="text-left text-lg font-semibold my-7"
+          >
+            {{ doc.description }}
+          </p>
+        </header>
         <nuxt-content :document="doc"></nuxt-content>
-
       </div>
     </article>
   </Layout>

@@ -10,7 +10,7 @@
     <div class="sea">
       <div class="content-site">
         <section>
-          <div class="container mx-auto">
+          <div class="container mx-auto px-4">
             <slot></slot>
           </div>
         </section>

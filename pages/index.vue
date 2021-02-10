@@ -16,10 +16,10 @@
             <p>
               {{ general.presentationText }}
             </p>
-            <p class="text-center md:text-left">
+            <p v-if="general.presentationURL" class="text-center md:text-left">
               <Btn :to="general.presentationURL" class="mt-5" color="yellow-600"
-                >En savoir plus</Btn
-              >
+                >En savoir plus
+              </Btn>
             </p>
           </div>
           <div class="w-1/2 md:w-1/4 px-8 text-right pt-5 md:pt-0">
