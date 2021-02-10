@@ -83,7 +83,30 @@ export default {
     ]
   ],
 
-  image: {},
+  image: {
+    ipx: {
+      /**
+       * Input directory for images
+       **/
+      dir: "~/static",
+      /**
+       * Cache directory for optimized images
+       **/
+      cacheDir: "~~/node_modules/.cache/nuxt-image",
+      /**
+       * Enable/Disable cache cleaning cron job
+       **/
+      clearCache: false,
+      format: "webp",
+      /**
+       * Modify default behavior of image optimizer
+       **/
+      sharp: {
+        // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
+      }
+    },
+    sizes: [320, 420, 768, 1024, 1200]
+  },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
