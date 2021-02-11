@@ -73,6 +73,7 @@
     position: absolute;
     bottom: 0;
     width: 3em; /* or 100px */
+    margin-left: -1.5em;
     height: 0.5em;
     margin-top: 1em;
     border-radius: 1em;

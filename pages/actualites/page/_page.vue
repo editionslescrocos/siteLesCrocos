@@ -35,24 +35,65 @@
             {{ doc.description }}
           </p>
         </header>
+
         <nuxt-content :document="doc"></nuxt-content>
+
+        <list-alternate :items="actus"></list-alternate>
+        <Pagination :pagination="pagination" />
       </div>
     </article>
   </Layout>
 </template>
 
 <script>
+import ListAlternate from "~/components/ListAlternate.vue";
 export default {
+  components: { ListAlternate },
   async asyncData({ $content, params }) {
-    const doc = await $content(params.slug || "index").fetch();
+    const doc = await $content("actualite").fetch();
 
     const general = await $content("general").fetch();
 
     const links = await $content("links").fetch();
     const { menus, networks, footer } = links;
 
+    const targetToFetch = "actualites";
+    const currentPage = parseInt(params.page) || 1;
+    const itemsPerPage = 2;
+
+    const allItems = await $content(targetToFetch)
+      .sortBy("created_at", "desc")
+      .fetch();
+
+    const nbItems = allItems.length;
+    const nbPages = Math.round(nbItems / itemsPerPage);
+
+    const startAt = () => {
+      return (currentPage - 1) * itemsPerPage;
+    };
+
+    const itemsToDisplay = await $content(targetToFetch)
+      .sortBy("created_at", "desc")
+      .limit(itemsPerPage)
+      .skip(startAt())
+      .fetch();
+
+    const nextPage = currentPage < nbPages ? currentPage + 1 : null;
+    const previousPage = currentPage - 1 > 0 ? currentPage - 1 : null;
+
+    const pagination = {
+      url: "actualites-page",
+      currentPage,
+      nextPage,
+      previousPage,
+      nbPages,
+      itemsPerPage,
+    };
+
     return {
       doc,
+      actus: itemsToDisplay,
+      pagination,
       networks,
       menus,
       general,

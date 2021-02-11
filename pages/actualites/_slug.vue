@@ -44,7 +44,7 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const doc = await $content(params.slug || "index").fetch();
+    const doc = await $content("actualites/" + params.slug || "index").fetch();
 
     const general = await $content("general").fetch();
 

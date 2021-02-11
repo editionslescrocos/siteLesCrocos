@@ -6,7 +6,7 @@
     },
     {
       "text": "Actualité",
-      "to": "/actualite"
+      "to": "/actualites"
     },
     {
       "text": "Qui sommes nous ?",
@@ -46,7 +46,7 @@
     },
     {
       "title":"Espace presse",
-      "to":"presse"
+      "to":"espace-presse"
     }
   ]
 }

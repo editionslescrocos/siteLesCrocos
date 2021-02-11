@@ -1,5 +1,5 @@
 <template>
-  <div class="ground pt-12 text-white">
+  <div class="ground text-white">
     <!-- <img
       class="ground-background"
       :src="require('@/assets/ground.svg')"
