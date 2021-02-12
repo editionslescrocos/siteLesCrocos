@@ -3,6 +3,7 @@
     <div
       v-for="(item, index) in items"
       :key="item.order"
+      class="items-center align-center"
       :class="[
         Number.isInteger(index / 2)
           ? 'flex-row-reverse my-7 md:flex mb-20'
@@ -10,23 +11,36 @@
       ]"
     >
       <div
-        :class="[
-          Number.isInteger(index / 2) ? 'md:ml-5 flex-1' : 'md:pr-5 flex-1',
-        ]"
+        class="flex-1 inline-block container"
+        :class="[Number.isInteger(index / 2) ? 'md:ml-5 ' : 'md:pr-5 ']"
       >
         <EmbedYoutube v-if="item.video">{{ item.video }}</EmbedYoutube>
 
-        <nuxt-link :to="item.path">
+        <nuxt-link :to="item.path" v-if="!onlyHref">
           <nuxt-img
             :src="item.image"
             sizes="400"
             format="webp"
             height="300"
-            class="mb-7"
+            :width="portrait ? '300' : 'auto'"
+            class="md:mb-7 mx-auto"
+            :class="portrait ? 'rounded-full' : ''"
             v-if="item.image"
             :alt="item.imageAlt"
           ></nuxt-img>
         </nuxt-link>
+        <nuxt-img
+          v-else
+          :src="item.image"
+          sizes="400"
+          format="webp"
+          height="300"
+          :width="portrait ? '300' : 'auto'"
+          class="md:mb-7 mx-auto"
+          :class="portrait ? 'rounded-full' : ''"
+          v-if="item.image"
+          :alt="item.imageAlt"
+        ></nuxt-img>
       </div>
 
       <div class="flex-1">
@@ -37,9 +51,13 @@
           <nuxt-content :document="item"></nuxt-content>
         </p>
         <p v-if="item.description" class="text-md">{{ item.description }}</p>
-        <nuxt-link :to="`actualite/${item.slug}`">
-          <Btn class="mt-3" :to="item.path">En Savoir plus</Btn>
-        </nuxt-link>
+
+        <Btn v-if="!item.href && !onlyHref" class="mt-3" :to="item.path"
+          >En Savoir plus</Btn
+        >
+        <Btn v-if="item.href" class="mt-3" :href="item.href"
+          >En Savoir plus</Btn
+        >
       </div>
     </div>
   </div>
@@ -51,6 +69,18 @@ export default {
     items: {
       type: Array,
       default: [],
+    },
+    portrait: {
+      type: Boolean,
+      default: false,
+    },
+    onlyHref: {
+      type: Boolean,
+      default: false,
+    },
+    followSlug: {
+      type: Boolean,
+      default: false,
     },
   },
 };

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nuxt-link :to="to">
+    <nuxt-link v-if="to && !href" :to="to">
       <button
         @click="clickAction"
         :type="typeButton"
@@ -13,6 +13,20 @@
         <span class="text-xs"><slot name="subText"></slot></span>
       </button>
     </nuxt-link>
+
+    <a v-if="href" :href="href" target="blank">
+      <button
+        @click="clickAction"
+        :type="typeButton"
+        :disabled="disabled"
+        :class="`inline-block pulse px-6 py-3 text-md font-medium leading-6 text-center text-white  transition bg-${bgColor}  hover:border-white hover:border-1 rounded shadow ripple hover:shadow-lg focus:outline-none `"
+      >
+        <span class="uppercase">
+          <slot></slot>
+        </span>
+        <span class="text-xs"><slot name="subText"></slot></span>
+      </button>
+    </a>
   </div>
 </template>
 
@@ -33,7 +47,11 @@ export default {
     },
     to: {
       type: String,
-      default: "#",
+      default: "",
+    },
+    href: {
+      type: String,
+      default: "",
     },
   },
   computed: {

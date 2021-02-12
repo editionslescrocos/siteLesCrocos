@@ -38,7 +38,7 @@
 
         <nuxt-content :document="doc"></nuxt-content>
 
-        <list-alternate :items="actus"></list-alternate>
+        <list-alternate :items="actus" followSlug></list-alternate>
         <Pagination :pagination="pagination" />
       </div>
     </article>

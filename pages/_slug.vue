@@ -1,19 +1,19 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer">
     <article>
-      <div v-if="doc.image" class="relative z-10 pt-7">
+      <div v-if="doc.image" class="relative pt-7">
         <nuxt-picture
           :src="doc.image"
           format="webp"
           fit="cover"
-          class="rounded-md shadow-inner border-gray-50 border-2"
+          class="rounded-t-md md:rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
           width="900"
           height="400"
         ></nuxt-picture>
       </div>
       <div
-        class="page relative container mx-auto z-20 md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-10/12 lg:w-10/12 xl:w-8/12 content"
+        class="page relative container mx-auto md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-10/12 lg:w-10/12 xl:w-8/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
         <header>
@@ -36,14 +36,24 @@
           </p>
         </header>
         <nuxt-content :document="doc"></nuxt-content>
+
+        <section v-if="team.length">
+          <list-alternate :items="team" portrait onlyHref></list-alternate>
+        </section>
       </div>
     </article>
   </Layout>
 </template>
 
 <script>
+import ListAlternate from "~/components/ListAlternate.vue";
 export default {
+  components: { ListAlternate },
   async asyncData({ $content, params }) {
+    let team = [];
+    if (params.slug === "qui-sommes-nous")
+      team = await $content("team").sortBy("order", "asc").fetch();
+
     const doc = await $content(params.slug || "index").fetch();
 
     const general = await $content("general").fetch();
@@ -53,6 +63,7 @@ export default {
 
     return {
       doc,
+      team,
       networks,
       menus,
       general,
