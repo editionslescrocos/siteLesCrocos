@@ -38,7 +38,7 @@ sections:
 - type: document
   path: content/links.json
   label: menus
-upload_dir: static
+upload_dir: static/images
 public_path: "/static"
 front_matter_path: ''
 use_front_matter_path: false
