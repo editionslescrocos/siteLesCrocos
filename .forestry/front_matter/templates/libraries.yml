@@ -34,5 +34,6 @@ fields:
   label: Lien
   description: Lien vers le site web de la librairie
 pages:
+- places/librairie-de-la-place.md
 - places/librairie-dialogue.md
 - places/librairie-l-esprit-livre.md
