@@ -1,5 +1,5 @@
 ---
 title: Lyon
-image: "/static/lyon.jpg"
-
+image: "/images/lyon.jpg"
+order: 1
 ---

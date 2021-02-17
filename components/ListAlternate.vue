@@ -3,7 +3,7 @@
     <div
       v-for="(item, index) in items"
       :key="item.order"
-      class="items-center align-center"
+      class="items-top align-top"
       :class="[
         Number.isInteger(index / 2)
           ? 'flex-row-reverse my-7 md:flex mb-20'
@@ -29,16 +29,17 @@
             :alt="item.imageAlt"
           ></nuxt-img>
         </nuxt-link>
+
         <nuxt-img
-          v-else
+          v-if="onlyHref && item.image"
           :src="item.image"
           sizes="400"
           format="webp"
           height="300"
-          :width="portrait ? '300' : 'auto'"
+          fit="cover"
+          :width="portrait ? '300' : '500'"
           class="md:mb-7 mx-auto"
           :class="portrait ? 'rounded-full' : ''"
-          v-if="item.image"
           :alt="item.imageAlt"
         ></nuxt-img>
       </div>
@@ -52,11 +53,42 @@
         </p>
         <p v-if="item.description" class="text-md">{{ item.description }}</p>
 
-        <Btn v-if="!item.href && !onlyHref" class="mt-3" :to="item.path"
+        <Btn
+          v-if="!item.href && !onlyHref"
+          class="mt-3 mr-2 inline-block"
+          :to="item.path"
           >En Savoir plus</Btn
         >
-        <Btn v-if="item.href" class="mt-3" :href="item.href"
-          >En Savoir plus</Btn
+
+        <Btn
+          v-if="item.href"
+          class="mt-3 mr-2 inline-block"
+          :href="item.href"
+          target="blank"
+        >
+          <img
+            height="25"
+            width="25"
+            :src="require('@/assets/chain.svg')"
+            alt=""
+            class="inline-block"
+          />
+          Voir le site</Btn
+        >
+
+        <Btn
+          v-if="item.address"
+          class="mt-3 inline-block"
+          :href="`https://www.openstreetmap.org/search?query=${item.address}#map=19/45.75763/4.87488`"
+          target="blank"
+          ><img
+            height="25"
+            width="25"
+            :src="require('@/assets/pin.svg')"
+            alt=""
+            class="inline-block"
+          />
+          Localiser</Btn
         >
       </div>
     </div>

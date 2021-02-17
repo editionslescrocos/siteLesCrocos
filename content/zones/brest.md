@@ -1,5 +1,5 @@
 ---
 title: Brest
-image: "/static/brest.jpg"
-
+image: "/images/brest.jpg"
+order: 2
 ---
