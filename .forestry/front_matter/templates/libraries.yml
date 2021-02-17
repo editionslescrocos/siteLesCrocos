@@ -34,7 +34,7 @@ fields:
       format: markdown
   label: Adresse
   description: L'adresse du lieu
-- name: url
+- name: href
   type: text
   config:
     required: false
