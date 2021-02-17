@@ -1,6 +1,5 @@
 ---
-zone:
-- Lyon
+zone: []
 title: Librairie L'Esprit Livre
 image: "/static/esprit-livre.jpg"
 address: 76 Rue du Dauphiné, 69003 Lyon
