@@ -14,3 +14,6 @@ fields:
     maxSize: 64
   label: Image
   description: Image représentant la zone
+pages:
+- content/zones/brest.md
+- content/zones/lyon.md
