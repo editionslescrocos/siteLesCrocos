@@ -33,3 +33,5 @@ fields:
     required: false
   label: Lien
   description: Lien vers le site web de la librairie
+pages:
+- places/librairie-dialogue.md
