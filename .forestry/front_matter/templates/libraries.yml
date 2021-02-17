@@ -17,7 +17,7 @@ fields:
   config:
     maxSize: 64
   label: Image
-- name: description
+- name: address
   type: textarea
   default: ''
   config:
@@ -25,5 +25,5 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Description
-  description: Un petit mot sur ce lieu
+  label: Adresse
+  description: L'adresse du lieu
