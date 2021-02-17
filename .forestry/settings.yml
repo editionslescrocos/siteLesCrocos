@@ -30,6 +30,8 @@ sections:
   label: Zones géographiques
   create: all
   match: "**/*"
+  templates:
+  - zone
 - type: document
   path: content/general.json
   label: Général

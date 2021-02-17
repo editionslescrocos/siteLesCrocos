@@ -3,10 +3,17 @@ label: libraries
 hide_body: false
 fields:
 - name: zone
-  type: tag_list
+  type: select
   default: []
-  label: Zone
-  description: 'Lieu : Région, ville, arrondissemenet'
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: zones-geographiques
+      file: 
+      path: 
+  label: Zone géographique
 - name: title
   type: text
   config:
