@@ -25,6 +25,11 @@ sections:
   - carousel
 - type: heading
   label: Parmètres du site
+- type: directory
+  path: content/zones
+  label: Zones géographiques
+  create: all
+  match: "**/*"
 - type: document
   path: content/general.json
   label: Général
