@@ -1,4 +1,25 @@
 ---
 label: team
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Nom
+- name: order
+  type: number
+  label: Ordre
+  description: Le plus petit s'affichera en premier
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  description: Photo de portrait
