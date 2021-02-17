@@ -2,16 +2,16 @@
 label: libraries
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: Nom du lieu
 - name: zone
   type: tag_list
   default: []
   label: Zone
   description: 'Lieu : Région, ville, arrondissemenet'
+- name: title
+  type: text
+  config:
+    required: false
+  label: Nom du lieu
 - name: image
   type: file
   config:
@@ -27,3 +27,9 @@ fields:
       format: markdown
   label: Adresse
   description: L'adresse du lieu
+- name: url
+  type: text
+  config:
+    required: false
+  label: Lien
+  description: Lien vers le site web de la librairie
