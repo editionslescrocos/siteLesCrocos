@@ -5,6 +5,11 @@ admin_path: "/admin-crocos"
 webhook_url: 
 sections:
 - type: directory
+  path: places
+  label: Points de vente
+  create: all
+  match: "**/*"
+- type: directory
   path: content/slider
   label: Slider
   create: all
