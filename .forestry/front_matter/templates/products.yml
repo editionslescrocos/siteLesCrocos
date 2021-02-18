@@ -83,4 +83,5 @@ fields:
   label: Pour les livres
 pages:
 - content/products/croco-mug.md
+- content/products/mon-deuxieme-livre.md
 - content/products/mon-premier-livre.md
