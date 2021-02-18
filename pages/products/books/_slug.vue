@@ -1,0 +1,167 @@
+<template>
+  <Layout :networks="networks" :menus="menus" :footer="footer">
+    <article>
+      <div v-if="doc.image" class="relative z-10 pt-7">
+        <nuxt-picture
+          :src="doc.image"
+          format="webp"
+          fit="cover"
+          class="md:rounded-md shadow-inner border-gray-50 border-2"
+          :alt="doc.imageAlt"
+          width="900"
+          height="400"
+        ></nuxt-picture>
+      </div>
+      <div
+        class="relative container mx-auto z-20 md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-10/12 content"
+        :class="doc.image && 'md:-mt-32'"
+      >
+        <header>
+          <div class="md:grid md:grid-cols-3 md:gap-6 mb-10">
+            <div class="titles col-span-2">
+              <div class="pt-10">
+                <h1 class="text-6xl font-bold mb-3">
+                  {{ doc.title }}
+                </h1>
+
+                <p v-if="doc.subtitle" class="text-2xl font-bold">
+                  {{ doc.subtitle }}
+                </p>
+              </div>
+
+              <p
+                v-if="doc.description"
+                class="text-left text-lg font-semibold my-7"
+              >
+                {{ doc.description }}
+              </p>
+
+              <p v-if="doc.books_reserved.auteur">
+                <span class="font-semibold mr-8">Auteur(s)</span>
+                {{ doc.books_reserved.auteur }}
+              </p>
+              <p v-if="doc.books_reserved.pages">
+                <span class="font-semibold mr-8">Nombre de pages</span>
+                {{ doc.books_reserved.pages }}
+              </p>
+              <p v-if="doc.books_reserved.isbn">
+                <span class="font-semibold mr-8">ISBN</span>
+                {{ doc.books_reserved.isbn }}
+              </p>
+
+              <Btn to="#"
+                ><img
+                  class="inline mr-2"
+                  :src="require('@/assets/basket.svg')"
+                  height="25"
+                  width="25"
+                />
+                Commander</Btn
+              >
+            </div>
+
+            <div class="col-span-1 mt-6">
+              <nuxt-picture
+                :src="doc.imageProduct"
+                width="400"
+                height="600"
+                format="webp"
+              />
+              <Btn to="#" isFull @click="index = 0"
+                ><img
+                  class="inline mr-2"
+                  :src="require('@/assets/book.svg')"
+                  height="25"
+                  width="25"
+                />Feuilleter</Btn
+              >
+            </div>
+          </div>
+        </header>
+        <nuxt-content :document="doc"></nuxt-content>
+        <CoolLightBox
+          :items="doc.images"
+          :index="index"
+          @close="index = null"
+          closeOnClickOutsideMobile
+        >
+        </CoolLightBox>
+      </div>
+    </article>
+    <script
+      async
+      src="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.js"
+    ></script>
+    <div
+      hidden
+      id="snipcart"
+      data-api-key="MjcyMzQ3ZWItYzVhZC00Y2E0LTkyZGItNTdlZjFlZDk0YjU1NjM3NDkyNTU2NDg4Nzc2ODMw"
+    ></div>
+  </Layout>
+</template>
+
+<script>
+export default {
+  async asyncData({ $content, params }) {
+    const doc = await $content(
+      "products/books/" + params.slug || "index"
+    ).fetch();
+
+    const general = await $content("general").fetch();
+
+    const links = await $content("links").fetch();
+    const { menus, networks, footer } = links;
+
+    return {
+      doc,
+      networks,
+      menus,
+      general,
+      footer,
+    };
+  },
+
+  data() {
+    return {
+      index: null,
+    };
+  },
+
+  head() {
+    return {
+      title: this.doc.title,
+      link: [
+        {
+          rel: "preconnect",
+          href: "https://app.snipcart.com",
+        },
+        {
+          rel: "preconnect",
+          href: "https://cdn.snipcart.com",
+        },
+        {
+          rel: "stylesheet",
+          href: "https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css",
+        },
+      ],
+      meta: [
+        {
+          hid: "description",
+          name: "description",
+          content: this.doc.description,
+        },
+        { name: "og:title", content: this.doc.title },
+        { name: "og:type", content: "article" },
+        { name: "og:site_name", content: "catherine La Psy" },
+        {
+          name: "og:description",
+          content: this.doc.description,
+        },
+      ],
+    };
+  },
+};
+</script>
+
+<style lang="scss" scoped>
+</style>

@@ -6,11 +6,12 @@ books_reserved:
   auteur: Fabien
 title: Mon premier livre
 description: 'Voici notre premier livre ! '
+image: "images/bdtest.jpg"
 imageProduct: "/images/les-crocodiles.jpg"
 images:
-- "/static/gal1.jpg"
-- "/static/gal2.jpg"
-- "/static/gal3.jpg"
+- "/images/gal1.jpg"
+- "/images/gal2.jpg"
+- "/images/gal3.jpg"
 
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.

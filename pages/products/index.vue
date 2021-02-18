@@ -39,16 +39,16 @@
         <div v-if="books.length">
           <h2 class="text-3xl font-bold mb-4">Nos livres</h2>
           <div class="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-8">
-            <div v-for="book in books" :key="book">
+            <div v-for="book in books" :key="book.path">
               <ProductItem :product="book"></ProductItem>
             </div>
           </div>
         </div>
 
-        <div v-if="otherProducts.length" class="mt-16">
+        <div v-if="otherProducts.length" class="mt-24">
           <h2 class="text-3xl font-bold mb-4">Autres produits</h2>
           <div class="grid grid-cols-3 gap-8">
-            <div v-for="product in otherProducts" :key="product">
+            <div v-for="product in otherProducts" :key="product.path">
               <ProductItem :product="product"></ProductItem>
             </div>
           </div>

@@ -38,7 +38,10 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [{ src: "@/plugins/carousel.js" }],
+  plugins: [
+    { src: "@/plugins/carousel.js" },
+    { src: "@/plugins/coolLightBox.js" }
+  ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
