@@ -46,7 +46,7 @@ sections:
   path: content/links.json
   label: menus
 upload_dir: static/images
-public_path: "/static"
+public_path: ''
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
