@@ -2,7 +2,7 @@
   "menus": [
     {
       "text": "Nos livres",
-      "to": "/livres"
+      "to": "/products"
     },
     {
       "text": "Actualité",

@@ -53,6 +53,23 @@
         </p>
         <p v-if="item.description" class="text-md">{{ item.description }}</p>
 
+        <p v-if="item.address" class="mt-3 font-semibold">
+          <img
+            height="25"
+            width="25"
+            :src="require('@/assets/pin.svg')"
+            alt=""
+            class="inline-block"
+          />
+          <span>Adresse</span> :
+          <a
+            target="blank"
+            :href="`https://www.openstreetmap.org/search?query=#map=19/45.75763/4.87488`"
+            class="underline"
+            >{{ item.address }}</a
+          >
+        </p>
+
         <Btn
           v-if="!item.href && !onlyHref"
           class="mt-3 mr-2 inline-block"
@@ -74,21 +91,6 @@
             class="inline-block"
           />
           Voir le site</Btn
-        >
-
-        <Btn
-          v-if="item.address"
-          class="mt-3 inline-block"
-          :href="`https://www.openstreetmap.org/search?query=${item.address}#map=19/45.75763/4.87488`"
-          target="blank"
-          ><img
-            height="25"
-            width="25"
-            :src="require('@/assets/pin.svg')"
-            alt=""
-            class="inline-block"
-          />
-          Localiser</Btn
         >
       </div>
     </div>
