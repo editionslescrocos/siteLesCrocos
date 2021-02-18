@@ -71,3 +71,5 @@ fields:
         format: markdown
     label: Auteur(s)
   label: Pour les livres
+pages:
+- content/products/mon-premier-livre.md
