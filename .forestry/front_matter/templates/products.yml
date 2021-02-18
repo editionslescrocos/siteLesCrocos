@@ -74,4 +74,5 @@ fields:
     label: Auteur(s)
   label: Pour les livres
 pages:
+- content/products/books/livre-4.md
 - content/products/books/troisieme-livre.md
