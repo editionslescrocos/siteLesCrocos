@@ -18,6 +18,18 @@ fields:
     required: false
   label: Titre
   description: Le nom du produit
+- name: imageProduct
+  type: file
+  config:
+    maxSize: 64
+  label: Image du produit
+  description: 'Image du produit (exemple : couverture du livre)'
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image principale
+  description: Image qui s'affiche en grand (exemple page d'un livre)
 - name: description
   type: textarea
   default: ''
@@ -28,11 +40,6 @@ fields:
       format: markdown
   label: Description rapide
   description: Description rapide du produit
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: Image principale
 - name: images
   type: image_gallery
   config: {}
@@ -66,7 +73,3 @@ fields:
         format: markdown
     label: Auteur(s)
   label: Pour les livres
-pages:
-- content/products/croco-mug.md
-- content/products/mon-deuxieme-livre.md
-- content/products/mon-premier-livre.md
