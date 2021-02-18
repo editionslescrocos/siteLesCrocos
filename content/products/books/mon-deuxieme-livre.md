@@ -1,16 +1,14 @@
 ---
 type: book
+order: 5
 books_reserved:
-  pages: 56
-  isbn: 1f5fd5fd5f5f
-  auteur: Fabien
-title: Mon premier livre
-description: 'Voici notre premier livre ! '
-image: "/static/les-crocodiles.jpg"
-images:
-- "/static/gal1.jpg"
-- "/static/gal2.jpg"
-- "/static/gal3.jpg"
+  pages: 0
+  isbn: ''
+  auteur: ''
+title: Mon deuxième livre
+description: Un deuxième livre !
+image: "/images/crocolivre2jpg.jpg"
+images: []
 
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.

@@ -35,6 +35,20 @@
             {{ doc.description }}
           </p>
         </header>
+
+        <div v-if="books.length">
+          <h2>Nos livres</h2>
+          <div class="grid grid-cols-3 gap-8">
+            <div v-for="book in books" :key="book">
+              <Book :book="book"></Book>
+            </div>
+          </div>
+        </div>
+
+        <div v-if="otherProducts.length">
+          <h2>Autres produits</h2>
+          {{ otherProducts }}
+        </div>
       </div>
     </article>
   </Layout>
@@ -44,8 +58,12 @@
 export default {
   async asyncData({ $content, params }) {
     const doc = await $content(`product` || "index").fetch();
-    const products = await $content("products" || "index")
-      .where()
+
+    const books = await $content("products/books" || "index")
+      .sortBy("order", "asc")
+      .fetch();
+    const otherProducts = await $content("products/others" || "index")
+      .sortBy("order", "asc")
       .fetch();
 
     const general = await $content("general").fetch();
@@ -55,7 +73,8 @@ export default {
 
     return {
       doc,
-      products,
+      books,
+      otherProducts,
       networks,
       menus,
       general,
