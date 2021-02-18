@@ -5,7 +5,7 @@ books_reserved:
   isbn: ''
   auteur: ''
 title: Troisième livre
-imageProduct: "/croco-croque.jpg"
+imageProduct: "images/croco-croque.jpg"
 image: ''
 description: ''
 images: []

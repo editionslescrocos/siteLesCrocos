@@ -7,7 +7,7 @@ books_reserved:
   auteur: ''
 title: Mon deuxième livre
 description: Un deuxième livre !
-image: "/images/crocolivre2jpg.jpg"
+imageProduct: "/images/crocolivre2jpg.jpg"
 images: []
 
 ---

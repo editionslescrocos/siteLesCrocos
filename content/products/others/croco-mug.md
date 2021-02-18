@@ -6,7 +6,7 @@ books_reserved:
   auteur: ''
 title: Croco mug !
 description: Le mug officiel des crocodiles
-image: "/static/mug.png"
+imageProduct: "images/mug.png"
 images: []
 
 ---
