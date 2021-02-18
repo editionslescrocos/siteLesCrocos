@@ -21,9 +21,9 @@ fields:
   default: 0
   required: false
   config:
-    min:
-    max:
-    step:
+    min: 
+    max: 
+    step: 
 pages:
 - content/zones/brest.md
 - content/zones/lyon.md
