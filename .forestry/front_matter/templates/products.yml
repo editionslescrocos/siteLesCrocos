@@ -1,4 +1,73 @@
 ---
 label: products
 hide_body: false
-fields: []
+fields:
+- name: type
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - book
+    - other
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de produit
+  hidden: false
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Le nom du produit
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description rapide
+  description: Description rapide du produit
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image principale
+- name: images
+  type: image_gallery
+  config: {}
+  label: Gallerie d'images
+- name: books_reserved
+  type: field_group
+  config: {}
+  fields:
+  - name: pages
+    type: number
+    label: Nombre de pages
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  - name: isbn
+    type: text
+    config:
+      required: false
+    label: ISBN
+  - name: auteur
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Auteur(s)
+  label: Pour les livres
