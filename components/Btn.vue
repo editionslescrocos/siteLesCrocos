@@ -5,8 +5,9 @@
         @click="clickAction"
         :type="typeButton"
         :disabled="disabled"
+        class="w-full"
         :class="[
-          { 'w-full': isFull },
+          { 'md:w-auto': !isFull },
           `inline-block pulse px-6 py-3 text-md font-medium leading-6 text-center text-white transition bg-${bgColor} hover:border-white hover:border-1 rounded shadow ripple hover:shadow-lg focus:outline-none`,
         ]"
       >

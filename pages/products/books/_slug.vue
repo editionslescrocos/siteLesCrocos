@@ -1,7 +1,7 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer">
     <article>
-      <div v-if="doc.image" class="relative z-10 pt-7">
+      <div v-if="doc.image" class="relative z-10 pt-7 hidden md:block">
         <nuxt-picture
           :src="doc.image"
           format="webp"
@@ -13,12 +13,29 @@
         ></nuxt-picture>
       </div>
       <div
-        class="relative container mx-auto z-20 md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-10/12 content"
+        class="relative container mx-auto z-20 rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-10/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
         <header>
-          <div class="md:grid md:grid-cols-3 md:gap-6 mb-10">
-            <div class="titles col-span-2">
+          <div class="md:flex md:flex-row md:flex-row-reverse">
+            <div class="w-full md:w-1/3 pt-4">
+              <nuxt-picture
+                :src="doc.imageProduct"
+                width="400"
+                height="600"
+                format="webp"
+              />
+              <Btn to="#" isFull @click="index = 0"
+                ><img
+                  class="inline mr-2"
+                  :src="require('@/assets/book.svg')"
+                  height="25"
+                  width="25"
+                />Feuilleter</Btn
+              >
+            </div>
+
+            <div class="titles w-full md:w-2/3">
               <div class="pt-10">
                 <h1 class="text-6xl font-bold mb-3">
                   {{ doc.title }}
@@ -59,26 +76,9 @@
                 Commander</Btn
               >
             </div>
-
-            <div class="col-span-1 mt-6">
-              <nuxt-picture
-                :src="doc.imageProduct"
-                width="400"
-                height="600"
-                format="webp"
-              />
-              <Btn to="#" isFull @click="index = 0"
-                ><img
-                  class="inline mr-2"
-                  :src="require('@/assets/book.svg')"
-                  height="25"
-                  width="25"
-                />Feuilleter</Btn
-              >
-            </div>
           </div>
         </header>
-        <nuxt-content :document="doc"></nuxt-content>
+        <nuxt-content class="mt-6" :document="doc"></nuxt-content>
         <CoolLightBox
           :items="doc.images"
           :index="index"

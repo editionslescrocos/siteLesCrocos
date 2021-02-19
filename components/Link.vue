@@ -22,6 +22,11 @@ $animate: all 0.1s ease-in-out;
 * {
   box-sizing: border-box;
 }
+
+.nuxt-link-active {
+  border-bottom: 5px solid rgb(18, 177, 79);
+}
+
 .link-animated {
   display: flex;
   flex-flow: row nowrap;
@@ -36,7 +41,7 @@ $animate: all 0.1s ease-in-out;
     &:after {
       content: "";
       position: absolute;
-      bottom: -10px;
+      bottom: -5px;
       width: 0px;
       height: 5px;
       margin: 5px 0 0;
