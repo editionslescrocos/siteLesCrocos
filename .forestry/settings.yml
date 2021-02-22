@@ -9,7 +9,7 @@ sections:
 - type: directory
   path: content/slider
   label: Slider
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - carousel
@@ -17,7 +17,7 @@ sections:
   path: content
   label: Pages du site
   create: documents
-  match: "*"
+  match: "*.md"
   templates:
   - page
 - type: directory
