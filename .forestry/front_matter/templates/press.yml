@@ -21,10 +21,16 @@ fields:
   type: file
   config:
     maxSize: 64
-  label: Image
-- name: gallery
-  type: image_gallery
-  config: {}
-  label: Contenu de l'article
+  label: Image de présentation
+- name: url
+  type: text
+  config:
+    required: false
+  label: Lien vers la ressource
+- name: document
+  type: file
+  config:
+    maxSize: 64
+  label: Document à lier (photo, image)
 pages:
 - content/press/le-progres-parle-de-nous.md
