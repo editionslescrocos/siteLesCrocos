@@ -4,6 +4,8 @@ title: Le progrès parle de nous
 image: "/images/librairie3.jpg"
 gallery:
 - "/images/esprit-livre.jpg"
+url: ''
+document: "/images/presse.jpg"
 
 ---
 A nous la gloire et les paillettes !
