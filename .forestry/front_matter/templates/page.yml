@@ -1,0 +1,32 @@
+---
+label: Page
+hide_body: false
+fields:
+- type: text
+  name: type
+  label: type
+- type: field_group
+  name: books_reserved
+  label: books_reserved
+  fields:
+  - type: number
+    name: pages
+    label: pages
+  - type: text
+    name: isbn
+    label: isbn
+  - type: text
+    name: auteur
+    label: auteur
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: imageProduct
+  label: imageProduct
+- type: list
+  name: images
+  label: images
