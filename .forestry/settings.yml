@@ -17,7 +17,7 @@ sections:
   path: content
   label: Pages du site
   create: documents
-  match: "**/*"
+  match: "*"
   templates:
   - page
 - type: directory
