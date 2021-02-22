@@ -1,7 +1,7 @@
 ---
 title: "Espace presse"
 subtitle: "Vous êtes un professionnel de la presse ?"
-image: "images/presse.jpg"
+image: "images/presse.png"
 ---
 ## Lorem Ipsum !
 

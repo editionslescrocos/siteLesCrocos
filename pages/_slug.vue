@@ -36,10 +36,6 @@
           </p>
         </header>
         <nuxt-content :document="doc"></nuxt-content>
-
-        <section v-if="team.length">
-          <list-alternate :items="team" portrait onlyHref></list-alternate>
-        </section>
       </div>
     </article>
   </Layout>
@@ -50,10 +46,6 @@ import ListAlternate from "~/components/ListAlternate.vue";
 export default {
   components: { ListAlternate },
   async asyncData({ $content, params }) {
-    let team = [];
-    if (params.slug === "qui-sommes-nous")
-      team = await $content("team").sortBy("order", "asc").fetch();
-
     const doc = await $content(params.slug || "index").fetch();
 
     const general = await $content("general").fetch();
@@ -63,7 +55,6 @@ export default {
 
     return {
       doc,
-      team,
       networks,
       menus,
       general,

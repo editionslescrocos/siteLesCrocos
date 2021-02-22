@@ -1,7 +1,7 @@
 ---
 title: Nos projets secrets
 description: Voici tous nos projets secrets pour conquérir le monde !
-image: "images/minus_cortex.jpg"
+image: "/images/minus_cortex.jpg"
 createdAt: 2021-06-22T10:58:51.640Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tempus vel leo a rhoncus. Curabitur dignissim hendrerit risus, ut faucibus ex egestas nec. Donec in euismod lorem. Nunc convallis gravida neque eget sollicitudin. Cras consequat est lacus, ut pellentesque lorem dictum ut. Proin nulla nisl, vehicula quis gravida in, efficitur sed massa. Praesent elementum ut magna ut facilisis. Sed vestibulum sodales enim, egestas suscipit nulla suscipit eu. In tincidunt mollis massa sed maximus. Praesent eget commodo quam, convallis bibendum lacus.
