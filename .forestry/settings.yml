@@ -28,6 +28,13 @@ sections:
   templates:
   - products
 - type: directory
+  path: content/press
+  label: Articles de presse
+  create: documents
+  match: "**/*"
+  templates:
+  - press
+- type: directory
   path: content/places
   label: Points de vente
   create: all
