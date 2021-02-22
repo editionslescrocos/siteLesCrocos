@@ -26,3 +26,5 @@ fields:
   type: image_gallery
   config: {}
   label: Contenu de l'article
+pages:
+- content/press/le-progres-parle-de-nous.md
