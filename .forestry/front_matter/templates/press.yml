@@ -7,28 +7,16 @@ fields:
   config:
     required: false
   label: Titre
-- name: month
-  type: select
-  default: ''
+- name: date
+  type: datetime
+  label: Date
+  description: ''
   config:
     required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Mois
-- name: year
-  type: number
-  label: Année
-  description: L'année de la publication
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
+    date_format: DD/MM/YYYY
+    time_format: 
+    display_utc: false
+  default: now
 - name: image
   type: file
   config:
