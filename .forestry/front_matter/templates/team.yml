@@ -7,6 +7,10 @@ fields:
   config:
     required: false
   label: Nom
+- name: isFounder
+  type: boolean
+  label: Membre fondateur ?
+  default: true
 - name: order
   type: number
   label: Ordre
