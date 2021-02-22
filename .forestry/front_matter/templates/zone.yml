@@ -26,4 +26,6 @@ fields:
     step: 
 pages:
 - content/zones/brest.md
+- content/zones/brest.md
+- content/zones/lyon.md
 - content/zones/lyon.md
