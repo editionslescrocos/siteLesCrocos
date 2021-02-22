@@ -4,6 +4,22 @@ auto_deploy: false
 admin_path: "/admin-crocos"
 webhook_url: 
 sections:
+- type: heading
+  label: Contenu du site
+- type: directory
+  path: content/slider
+  label: Slider
+  create: all
+  match: "**/*"
+  templates:
+  - carousel
+- type: directory
+  path: content
+  label: Pages du site
+  create: all
+  match: "**/*"
+  templates:
+  - page
 - type: directory
   path: content/products
   label: Produits
@@ -12,26 +28,25 @@ sections:
   templates:
   - products
 - type: directory
+  path: content/places
+  label: Points de vente
+  create: all
+  match: "**/*"
+- type: directory
   path: content/team
   label: Equipe
   create: all
   match: "**/*"
   templates:
   - team
-- type: directory
-  path: content/places
-  label: Points de vente
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/slider
-  label: Slider
-  create: all
-  match: "**/*"
-  templates:
-  - carousel
 - type: heading
   label: Parmètres du site
+- type: document
+  path: content/general.json
+  label: Général
+- type: document
+  path: content/links.json
+  label: menus
 - type: directory
   path: content/zones
   label: Zones géographiques
@@ -39,12 +54,6 @@ sections:
   match: "**/*"
   templates:
   - zone
-- type: document
-  path: content/general.json
-  label: Général
-- type: document
-  path: content/links.json
-  label: menus
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
