@@ -1,52 +1,57 @@
 {
   "menus": [
     {
-      "text": "Nos livres",
-      "to": "/products"
-    },
-    {
       "text": "Actualité",
-      "to": "/actualites"
+      "to": "/actualite",
+      "order": 2
     },
     {
-      "text": "Qui sommes nous ?",
-      "to": "/qui-sommes-nous"
+      "text": "Nos livres",
+      "to": "/livres",
+      "order": 1
+    },
+    {
+      "text": "A propos",
+      "to": "/qui-sommes-nous",
+      "order": 3
     },
     {
       "text": "Nous trouver",
-      "to": "/nous-trouver"
+      "to": "/nous-trouver",
+      "order": 4
     },
     {
       "text": "Contact",
-      "to": "/contact"
+      "to": "/contact",
+      "order": 5
     }
   ],
-
   "networks": [
     {
       "title": "Instagram",
       "image": "instagram.svg",
-      "href": ""
+      "href": "",
+      "order": 1
     },
     {
       "title": "Facebook",
       "image": "facebook.svg",
-      "href": ""
+      "href": "",
+      "order": 2
     }
   ],
-
-  "footer":[
+  "footer": [
     {
-      "title":"Contact",
-      "to":"contact"
+      "title": "Contact",
+      "to": "contact"
     },
     {
-      "title":"Mentions légales",
-      "to":"mentions-legales"
+      "title": "Mentions légales",
+      "to": "mentions-legales"
     },
     {
-      "title":"Espace presse",
-      "to":"espace-presse"
+      "title": "Espace presse",
+      "to": "espace-presse"
     }
   ]
 }
