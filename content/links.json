@@ -2,7 +2,7 @@
   "menus": [
     {
       "text": "Actualité",
-      "to": "/actualite"
+      "to": "/actualites"
     },
     {
       "text": "Catalogue",
