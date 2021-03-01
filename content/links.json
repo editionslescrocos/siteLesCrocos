@@ -2,42 +2,35 @@
   "menus": [
     {
       "text": "Actualité",
-      "to": "/actualite",
-      "order": 2
+      "to": "/actualite"
     },
     {
-      "text": "Nos livres",
-      "to": "/livres",
-      "order": 1
+      "text": "Catalogue",
+      "to": "/products"
     },
     {
       "text": "A propos",
-      "to": "/qui-sommes-nous",
-      "order": 3
+      "to": "/qui-sommes-nous"
     },
     {
       "text": "Nous trouver",
-      "to": "/nous-trouver",
-      "order": 4
+      "to": "/nous-trouver"
     },
     {
       "text": "Contact",
-      "to": "/contact",
-      "order": 5
+      "to": "/contact"
     }
   ],
   "networks": [
     {
       "title": "Instagram",
       "image": "instagram.svg",
-      "href": "https://www.instagram.com/",
-      "order": 1
+      "href": "https://www.instagram.com/"
     },
     {
       "title": "Facebook",
       "image": "facebook.svg",
-      "href": "",
-      "order": 2
+      "href": ""
     }
   ],
   "footer": [
