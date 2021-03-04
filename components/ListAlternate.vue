@@ -48,9 +48,10 @@
         <h3 class="text-2xl mb-2 pt-2 md:pt-0 md:mt-5">
           {{ item.title }}
         </h3>
-        <p v-if="!item.description" class="text-md">
-          <nuxt-content :document="item"></nuxt-content>
+        <p v-show="!item.description" class="text-md">
+          {{ item.body.children[0].children[0].value }}
         </p>
+
         <p v-if="item.description" class="text-md">{{ item.description }}</p>
 
         <p v-if="item.address" class="mt-3 font-semibold">

@@ -25,6 +25,20 @@ export default {
         name: "og:description",
         content: "Les éditions les crocos proposent des livres pour enfants."
       }
+    ],
+    link: [
+      {
+        rel: "preconnect",
+        href: "https://app.snipcart.com"
+      },
+      {
+        rel: "preconnect",
+        href: "https://cdn.snipcart.com"
+      },
+      {
+        rel: "stylesheet",
+        href: "https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css"
+      }
     ]
   },
 

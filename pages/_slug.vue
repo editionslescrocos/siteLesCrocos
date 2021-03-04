@@ -36,6 +36,7 @@
           </p>
         </header>
         <nuxt-content :document="doc"></nuxt-content>
+        <ContactForm></ContactForm>
       </div>
     </article>
   </Layout>

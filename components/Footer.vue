@@ -1,54 +1,5 @@
 <template>
   <div class="ground text-white">
-    <!-- <img
-      class="ground-background"
-      :src="require('@/assets/ground.svg')"
-      alt=""
-    />
-    <div class="bg-yellow-900 text-yellow-100 sol">
-      <img
-        :src="require('@/assets/etoilemer.svg')"
-        alt=""
-        height="25px"
-        width="25px"
-        class="img-sol etoile-1"
-      />
-      <img
-        :src="require('@/assets/etoilemer.svg')"
-        alt=""
-        height="40px"
-        width="40px"
-        class="img-sol etoile-2"
-      />
-      <img
-        :src="require('@/assets/etoilemer.svg')"
-        alt=""
-        height="55px"
-        width="55px"
-        class="img-sol etoile-3"
-      />
-      <img
-        :src="require('@/assets/shell.webp')"
-        alt=""
-        height="35px"
-        width="35px"
-        class="img-sol shell-1"
-      />
-      <img
-        :src="require('@/assets/shell.webp')"
-        alt=""
-        height="50px"
-        width="50px"
-        class="img-sol shell-2"
-      />
-      <img
-        :src="require('@/assets/shell.webp')"
-        alt=""
-        height="40px"
-        width="40px"
-        class="img-sol shell-3"
-      /> -->
-
       <div class="container mx-auto text-center">
         <div class="py-20">
           <ul class="mt-3 ">

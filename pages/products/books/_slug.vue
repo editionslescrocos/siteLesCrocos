@@ -87,15 +87,6 @@
         </CoolLightBox>
       </div>
     </article>
-    <script
-      async
-      src="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.js"
-    ></script>
-    <div
-      hidden
-      id="snipcart"
-      data-api-key="NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
-    ></div>
   </Layout>
 </template>
 
@@ -129,20 +120,7 @@ export default {
   head() {
     return {
       title: this.doc.title,
-      link: [
-        {
-          rel: "preconnect",
-          href: "https://app.snipcart.com",
-        },
-        {
-          rel: "preconnect",
-          href: "https://cdn.snipcart.com",
-        },
-        {
-          rel: "stylesheet",
-          href: "https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css",
-        },
-      ],
+
       meta: [
         {
           hid: "description",

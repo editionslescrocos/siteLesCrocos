@@ -36,15 +36,15 @@
   "footer": [
     {
       "title": "Contact",
-      "to": "contact"
+      "to": "/contact"
     },
     {
       "title": "Mentions légales",
-      "to": "mentions-legales"
+      "to": "/mentions-legales"
     },
     {
       "title": "Espace presse",
-      "to": "espace-presse"
+      "to": "/espace-presse"
     }
   ]
 }

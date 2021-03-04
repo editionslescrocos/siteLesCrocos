@@ -8,9 +8,7 @@ image: images/anonym.jpg
 
 ---
 ## Les fondateurs
-
 <team display="founder"></team>
 
 ## Les collaborateurs ...
-
 <team display="collaborator"></team>
