@@ -20,8 +20,8 @@ fields:
   description: Le nom du produit
 - name: price
   type: number
-  label: Prix
-  description: Prix du produit
+  label: Prix de vente
+  description: Prix du produit TTC
   default: 0
   required: true
   config:
