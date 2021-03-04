@@ -28,6 +28,21 @@ fields:
     min: 
     max: 
     step: 
+    required: true
+- name: taxes
+  type: select
+  default: TVAREDUITE
+  config:
+    required: true
+    options:
+    - TVA
+    - TVAREDUITE
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Taxes
 - name: imageProduct
   type: file
   config:
