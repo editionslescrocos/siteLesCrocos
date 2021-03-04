@@ -33,15 +33,6 @@
                   width="25"
                 />Feuilleter</Btn
               >
-
-              <Btn class="mt-3" to="#" isFull :product="doc"
-                ><img
-                  class="inline mr-2"
-                  :src="require('@/assets/basket-in.svg')"
-                  height="25"
-                  width="25"
-                />Acheter {{ doc.price }}€</Btn
-              >
             </div>
 
             <div class="titles w-full md:w-2/3">
@@ -74,6 +65,15 @@
                 <span class="font-semibold mr-8">ISBN</span>
                 {{ doc.books_reserved.isbn }}
               </p>
+
+              <Btn class="mt-3" to="#" :product="doc"
+                ><img
+                  class="inline mr-2"
+                  :src="require('@/assets/basket-in.svg')"
+                  height="25"
+                  width="25"
+                />Commander {{ doc.price }}€</Btn
+              >
             </div>
           </div>
         </header>
@@ -157,6 +157,26 @@ export default {
           content: this.doc.description,
         },
       ],
+    };
+  },
+  jsonld() {
+    return {
+      "@context": "http://schema.org",
+      "@type": "Book",
+      description: this.doc.description,
+      genre: "childbook",
+      inLanguage: this.doc.lang || "fr_FR",
+      isFamilyFriendly: "true",
+      isbn: this.doc.isbn,
+      name: this.doc.title,
+      author: this.doc.author,
+      image: this.doc.imageProduct,
+      numberOfPages: this.doc.pages,
+      publisher: {
+        "@type": "Organization",
+        name: "Editions les Crocos",
+      },
+      url: this.doc.path,
     };
   },
 };

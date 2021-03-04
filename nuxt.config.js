@@ -41,7 +41,8 @@ export default {
    */
   plugins: [
     { src: "@/plugins/carousel.js" },
-    { src: "@/plugins/coolLightBox.js" }
+    { src: "@/plugins/coolLightBox.js" },
+    { src: "@/plugins/jsonld" }
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
