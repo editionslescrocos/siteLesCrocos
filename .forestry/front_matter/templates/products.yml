@@ -107,6 +107,20 @@ fields:
       schema:
         format: markdown
     label: Auteur(s)
+  - name: lang
+    type: select
+    default: ''
+    config:
+      required: false
+      options:
+      - fr_FR
+      - en_EN
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Langue
   label: Pour les livres
 pages:
 - content/products/books/livre-4.md
