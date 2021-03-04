@@ -5,6 +5,14 @@
     </div>
     <nav class="w-full py-1 mb-70 menu">
       <div class="container mx-auto menu-content">
+        <button class="header__checkout snipcart-checkout">
+          <img
+            class="inline mr-2"
+            :src="require('@/assets/basket.svg')"
+            height="35"
+            width="35"
+          />Panier (<span class="snipcart-items-count">0</span>)
+        </button>
         <nuxt-link to="/" class="absolute logo ml-5 mt-2">
           <Logo />
         </nuxt-link>

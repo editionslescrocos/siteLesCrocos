@@ -34,10 +34,10 @@
                 />Feuilleter</Btn
               >
 
-              <Btn class="mt-3" to="#" isFull @click="index = 0" :product="doc"
+              <Btn class="mt-3" to="#" isFull :product="doc"
                 ><img
                   class="inline mr-2"
-                  :src="require('@/assets/basket.svg')"
+                  :src="require('@/assets/basket-in.svg')"
                   height="25"
                   width="25"
                 />Acheter {{ doc.price }}€</Btn
@@ -74,16 +74,6 @@
                 <span class="font-semibold mr-8">ISBN</span>
                 {{ doc.books_reserved.isbn }}
               </p>
-
-              <Btn to="#"
-                ><img
-                  class="inline mr-2"
-                  :src="require('@/assets/basket.svg')"
-                  height="25"
-                  width="25"
-                />
-                Commander</Btn
-              >
             </div>
           </div>
         </header>

@@ -9,6 +9,6 @@ imageProduct: "images/51yc9ufjhbl-_sx348_bo1-204-203-200_.jpg"
 image: ''
 description: ''
 images: []
-
+taxes: "TVAREDUITE"
 ---
 test !

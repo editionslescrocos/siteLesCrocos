@@ -10,4 +10,6 @@ image: ''
 description: ''
 images: []
 price: 15
+taxes: "TVAREDUITE"
+weight: "100"
 ---
