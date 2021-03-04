@@ -18,6 +18,16 @@ fields:
     required: false
   label: Titre
   description: Le nom du produit
+- name: price
+  type: number
+  label: Prix
+  description: Prix du produit
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: imageProduct
   type: file
   config:
