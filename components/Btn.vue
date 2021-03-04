@@ -3,7 +3,7 @@
     :type="typeButton"
     :disabled="disabled"
     class="w-full"
-    @click="executeAction()"
+    @click="clickAction()"
     :class="[{ 'md:w-auto': !isFull }, btnLayout]"
   >
     <span class="uppercase">
@@ -56,8 +56,8 @@ export default {
     },
   },
   methods: {
-    executeAction() {
-      this.$emit("action-emited", true);
+    clickAction() {
+      this.$emit("click", "btn-click");
     },
   },
 };
