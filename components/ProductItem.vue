@@ -10,7 +10,9 @@
       />
     </nuxt-link>
     <h3 class="text-xl font-semibold my-3">{{ product.title }}</h3>
-    <Btn :to="product.path">Découvrir</Btn>
+    <nuxt-link :to="product.path">
+      <Btn>Découvrir</Btn>
+    </nuxt-link>
   </div>
 </template>
 

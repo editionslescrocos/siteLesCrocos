@@ -25,7 +25,7 @@
                 height="600"
                 format="webp"
               />
-              <Btn to="#" isFull @click="index = 0"
+              <Btn isFull @click="index = 0"
                 ><img
                   class="inline mr-2"
                   :src="require('@/assets/book.svg')"
@@ -66,13 +66,13 @@
                 {{ doc.books_reserved.isbn }}
               </p>
 
-              <Btn class="mt-3" to="#" :product="doc"
+              <BuyBtn class="mt-3" :product="doc"
                 ><img
                   class="inline mr-2"
                   :src="require('@/assets/basket-in.svg')"
                   height="25"
                   width="25"
-                />Commander {{ doc.price }}€</Btn
+                />Commander {{ doc.price }}€</BuyBtn
               >
             </div>
           </div>

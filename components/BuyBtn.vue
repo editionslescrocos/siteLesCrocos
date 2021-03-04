@@ -3,7 +3,15 @@
     <button
       :type="typeButton"
       :disabled="disabled"
-      :class="[{ 'md:w-auto': !isFull }, btnLayout]"
+      class="w-full"
+      :class="[{ 'md:w-auto': !isFull }, btnLayout, 'snipcart-add-item']"
+      :data-item-id="product.slug"
+      :data-item-name="product.title"
+      :data-item-price="product.price"
+      :data-item-url="product.path"
+      :data-item-image="product.imageProduct"
+      :data-item-description="product.description"
+      :data-item-taxes="product.taxes"
     >
       <span class="uppercase">
         <slot></slot>

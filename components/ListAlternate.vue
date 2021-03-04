@@ -70,28 +70,24 @@
           >
         </p>
 
-        <Btn
-          v-if="!item.href && !onlyHref"
-          class="mt-3 mr-2 inline-block"
-          :to="item.path"
-          >En Savoir plus</Btn
-        >
+        <nuxt-link :to="item.path">
+          <Btn v-if="!item.href && !onlyHref" class="mt-3 mr-2 inline-block"
+            >En Savoir plus</Btn
+          >
+        </nuxt-link>
 
-        <Btn
-          v-if="item.href"
-          class="mt-3 mr-2 inline-block"
-          :href="item.href"
-          target="blank"
-        >
-          <img
-            height="25"
-            width="25"
-            :src="require('@/assets/chain.svg')"
-            alt=""
-            class="inline-block"
-          />
-          Voir le site</Btn
-        >
+        <a :href="item.href" target="blank">
+          <Btn v-if="item.href" class="mt-3 mr-2 inline-block" target="blank">
+            <img
+              height="25"
+              width="25"
+              :src="require('@/assets/chain.svg')"
+              alt=""
+              class="inline-block"
+            />
+            Voir le site</Btn
+          >
+        </a>
       </div>
     </div>
   </div>

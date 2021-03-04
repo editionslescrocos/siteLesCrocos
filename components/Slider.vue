@@ -30,7 +30,9 @@
               </div>
 
               <div class="hidden md:block flex justify-end py-5">
-                <Btn v-if="item.url" :to="item.url">En savoir plus</Btn>
+                <nuxt-link v-if="item.url" :to="item.url">
+                  <Btn>En savoir plus</Btn>
+                </nuxt-link>
               </div>
             </div>
           </div>

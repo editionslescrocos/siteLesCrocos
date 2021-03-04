@@ -16,16 +16,17 @@
               <h3>{{ article.title }}</h3>
               <p class="font-semibold text-lg">{{ article.dateForHuman }}</p>
               <p>
-                <Btn v-if="article.url" :href="article.url" target="blank"
-                  >En savoir plus</Btn
-                >
+                <a v-if="article.url" :href="article.url" target="blank">
+                  <Btn>En savoir plus</Btn>
+                </a>
 
-                <Btn
+                <a
                   v-if="article.document"
                   :href="`images/${article.document}`"
                   target="blank"
-                  >En savoir plus</Btn
                 >
+                  <Btn>En savoir plus</Btn>
+                </a>
               </p>
             </template>
           </div>
