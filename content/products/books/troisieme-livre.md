@@ -9,5 +9,5 @@ imageProduct: "images/croco-croque.jpg"
 image: ''
 description: ''
 images: []
-
+price: 15
 ---

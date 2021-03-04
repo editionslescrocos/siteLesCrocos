@@ -9,7 +9,7 @@ title: Mon deuxième livre
 description: Un deuxième livre !
 imageProduct: "/images/crocolivre2jpg.jpg"
 images: []
-
+price: 22 
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.
 

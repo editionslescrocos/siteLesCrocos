@@ -8,7 +8,7 @@ title: Croco mug !
 description: Le mug officiel des crocodiles
 imageProduct: "images/mug.png"
 images: []
-
+price: 12
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.
 

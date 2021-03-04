@@ -12,7 +12,7 @@ images:
 - "/images/gal1.jpg"
 - "/images/gal2.jpg"
 - "/images/gal3.jpg"
-
+price: 33
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.
 

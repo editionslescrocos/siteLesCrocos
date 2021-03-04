@@ -2,18 +2,31 @@
   <div>
     <nuxt-link v-if="to && !href" :to="to">
       <button
+        v-if="product"
         @click="clickAction"
         :type="typeButton"
         :disabled="disabled"
         class="w-full"
-        :class="[
-          { 'md:w-auto': !isFull },
-          `inline-block pulse px-3 py-2  font-small leading-4 text-center text-white transition bg-${bgColor} hover:border-white hover:border-1 rounded shadow ripple hover:shadow-lg focus:outline-none`,
-        ]"
+        :class="[{ 'md:w-auto': !isFull }, btnLayout, 'snipcart-add-item']"
+        :data-item-id="product.slug"
+        :data-item-title="product.title"
+        :data-item-price="product.price"
+        :data-item-url="product.path"
+        :data-item-image="product.imageProduct"
       >
-        <span class="uppercase">
-          <slot></slot>
-        </span>
+        <span class="uppercase"> <slot></slot> </span>
+        <span class="text-xs"><slot name="subText"></slot></span>
+      </button>
+
+      <button
+        v-else
+        @click="clickAction"
+        :type="typeButton"
+        :disabled="disabled"
+        class="w-full"
+        :class="[{ 'md:w-auto': !isFull }, btnLayout]"
+      >
+        <span class="uppercase"> <slot></slot> </span>
         <span class="text-xs"><slot name="subText"></slot></span>
       </button>
     </nuxt-link>
@@ -23,7 +36,7 @@
         @click="clickAction"
         :type="typeButton"
         :disabled="disabled"
-        :class="`inline-block pulse px- py-2  font-small leading-4 text-center text-white  transition bg-${bgColor}  hover:border-white hover:border-1 rounded shadow ripple hover:shadow-lg focus:outline-none `"
+        :class="btnLayout"
       >
         <span class="uppercase">
           <slot></slot>
@@ -61,11 +74,19 @@ export default {
       type: Boolean,
       default: false,
     },
+    product: {
+      type: Object,
+      default: null,
+    },
   },
+
   computed: {
     bgColor() {
       if (this.disabled) return "gray-400";
       return this.color;
+    },
+    btnLayout() {
+      return `inline-block pulse px-3 py-2  font-small leading-4 text-center text-white transition bg-${this.bgColor} hover:border-white hover:border-1 rounded shadow ripple hover:shadow-lg focus:outline-none`;
     },
   },
   methods: {

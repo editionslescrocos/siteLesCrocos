@@ -33,6 +33,15 @@
                   width="25"
                 />Feuilleter</Btn
               >
+
+              <Btn class="mt-3" to="#" isFull @click="index = 0" :product="doc"
+                ><img
+                  class="inline mr-2"
+                  :src="require('@/assets/basket.svg')"
+                  height="25"
+                  width="25"
+                />Acheter {{ doc.price }}€</Btn
+              >
             </div>
 
             <div class="titles w-full md:w-2/3">
@@ -95,7 +104,7 @@
     <div
       hidden
       id="snipcart"
-      data-api-key="MjcyMzQ3ZWItYzVhZC00Y2E0LTkyZGItNTdlZjFlZDk0YjU1NjM3NDkyNTU2NDg4Nzc2ODMw"
+      data-api-key="NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
     ></div>
   </Layout>
 </template>
