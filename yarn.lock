@@ -1365,6 +1365,11 @@
     minimatch "^3.0.4"
     sitemap "^4.1.1"
 
+"@nuxtjs/snipcart@^1.1.1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/snipcart/-/snipcart-1.1.1.tgz#26f363195bf1800d9c1c74b8d7ed923dff1ab750"
+  integrity sha512-XwyhckiVRQN8NufMbUbVyFt7RRjDjBMwTAfGwmQzu0eNIOZlyO6yHsgVgI9cLdxFDzl5WRXpiH1llPv9VLVq0Q==
+
 "@nuxtjs/tailwindcss@^3.4.2":
   version "3.4.2"
   resolved "https://registry.yarnpkg.com/@nuxtjs/tailwindcss/-/tailwindcss-3.4.2.tgz#2376877b7e3fff35c044e99828d5e7cacfec5621"

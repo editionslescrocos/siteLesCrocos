@@ -2,15 +2,6 @@
   <div>
     <Nuxt />
     <CookieControl locale="fr" />
-    <script
-      async
-      src="https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.js"
-    ></script>
-    <div
-      hidden
-      id="snipcart"
-      data-api-key="NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
-    ></div>
   </div>
 </template>
 

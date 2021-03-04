@@ -25,20 +25,6 @@ export default {
         name: "og:description",
         content: "Les éditions les crocos proposent des livres pour enfants."
       }
-    ],
-    link: [
-      {
-        rel: "preconnect",
-        href: "https://app.snipcart.com"
-      },
-      {
-        rel: "preconnect",
-        href: "https://cdn.snipcart.com"
-      },
-      {
-        rel: "stylesheet",
-        href: "https://cdn.snipcart.com/themes/v3.0.30/default/snipcart.css"
-      }
     ]
   },
 
@@ -65,6 +51,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
+    "@nuxtjs/snipcart",
     "@nuxtjs/tailwindcss",
     "nuxt-compress",
     "@aceforth/nuxt-optimized-images",
@@ -101,6 +88,11 @@ export default {
       }
     ]
   ],
+
+  snipcart: {
+    key:
+      "NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
+  },
 
   image: {
     ipx: {

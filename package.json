@@ -12,6 +12,7 @@
   "dependencies": {
     "@nuxt/content": "^1.11.1",
     "@nuxtjs/sitemap": "^2.4.0",
+    "@nuxtjs/snipcart": "^1.1.1",
     "core-js": "^3.8.2",
     "nuxt": "^2.14.12",
     "nuxt-compress": "^4.1.0",
