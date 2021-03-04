@@ -7,7 +7,6 @@
           format="webp"
           fit="cover"
           class="rounded-t-md md:rounded-md shadow-inner border-gray-50 border-2"
-          :alt="doc.imageAlt"
           width="900"
           height="400"
         ></nuxt-picture>
@@ -36,7 +35,6 @@
           </p>
         </header>
         <nuxt-content :document="doc"></nuxt-content>
-        <ContactForm></ContactForm>
       </div>
     </article>
   </Layout>
