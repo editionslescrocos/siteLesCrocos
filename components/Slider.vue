@@ -1,11 +1,11 @@
 <template>
-  <div class="slider-wrapper px-5 overflow-hidden">
+  <div class="slider-wrapper overflow-hidden">
     <VueSlickCarousel v-bind="slickOptions">
       <div v-for="(item, key) in items" :key="key" class="relative">
         <nuxt-link :to="item.url">
           <nuxt-picture
             :src="`${item.image}`"
-            class="w-full rounded-t-lg"
+            class="w-full"
             fit="cover"
             format="webp"
             height="300"
@@ -16,7 +16,7 @@
 
         <div class="slider-text w-full">
           <div
-            class="rounded-b-lg bottom-0 left-0 py-5 px-5 text-white bg-gradient-to-r from-emerald-700 to-emerald-500 w-full"
+            class="py-5 px-5 text-white bg-gradient-to-r from-emerald-700 to-emerald-500 w-full"
           >
             <div class="md:flex">
               <div class="flex-1">

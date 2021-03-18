@@ -8,17 +8,7 @@
 
 <style lang="scss">
 .container {
-  font-family: "Nunito Sans", sans-serif;
-}
-
-.sea {
-  min-height: 50em;
-  background: rgb(11, 181, 255);
-  background: linear-gradient(
-    180deg,
-    rgba(11, 181, 255, 1) 0%,
-    rgba(2, 48, 108, 1) 100%
-  );
+  font-family: "Alata", sans-serif;
 }
 
 .title-site {
@@ -35,51 +25,53 @@
   z-index: 20;
 }
 
-.bubbles-component {
-  z-index: 1;
+h1,
+h2,
+h3 {
+  font-family: "KGSorry" !important;
 }
 
-.page {
-  h1,
-  h2,
-  h3 {
-    background: linear-gradient(to right, #065f46, #0daa22 70%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  }
+// .page {
+//   h1,
+//   h2,
+//   h3 {
+//     background: linear-gradient(to right, #065f46, #0daa22 70%);
+//     -webkit-background-clip: text;
+//     -webkit-text-fill-color: transparent;
+//   }
 
-  h2 {
-    font-size: 1.5em;
-    margin-bottom: 0.5em;
-    padding-top: 0.5em;
-    font-weight: bold;
-  }
+//   h2 {
+//     font-size: 1.5em;
+//     margin-bottom: 0.5em;
+//     padding-top: 0.5em;
+//     font-weight: bold;
+//   }
 
-  h3 {
-    font-size: 1.3em;
-    margin-bottom: 0.5em;
-    padding-top: 0.5em;
-    font-weight: bold;
-  }
+//   h3 {
+//     font-size: 1.3em;
+//     margin-bottom: 0.5em;
+//     padding-top: 0.5em;
+//     font-weight: bold;
+//   }
 
-  .titles {
-    position: relative;
-    text-align: center;
-    padding-bottom: 0.5em;
-  }
+//   .titles {
+//     position: relative;
+//     text-align: center;
+//     padding-bottom: 0.5em;
+//   }
 
-  .titles:after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    width: 3em; /* or 100px */
-    margin-left: -1.5em;
-    height: 0.5em;
-    margin-top: 1em;
-    border-radius: 1em;
-    background: linear-gradient(to right, #065f46, #0daa22 50%);
-  }
-}
+//   .titles:after {
+//     content: "";
+//     position: absolute;
+//     bottom: 0;
+//     width: 3em; /* or 100px */
+//     margin-left: -1.5em;
+//     height: 0.5em;
+//     margin-top: 1em;
+//     border-radius: 1em;
+//     background: linear-gradient(to right, #065f46, #0daa22 50%);
+//   }
+// }
 
 p {
   margin-bottom: 1em;

@@ -35,7 +35,7 @@ export default {
   //  */
   // plugins: [],
 
-  css: ["vue-slick-carousel/dist/vue-slick-carousel.css"],
+  css: ["vue-slick-carousel/dist/vue-slick-carousel.css",'@/assets/css/main.css',],
   /*
    ** Plugins to load before mounting the App
    */
@@ -61,10 +61,7 @@ export default {
       {
         display: "swap",
         families: {
-          Acme: true,
-          "Noto+Sans+JP": true,
-          //Nunito: true,
-          "Nunito+Sans": true
+          Alata: true,
         }
       }
     ]

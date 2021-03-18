@@ -7,17 +7,15 @@
       :footer="footer"
       :isHOne="isHOne"
     />
-    <div class="sea">
-      <div class="content-site">
-        <section>
-          <div class="container mx-auto px-4">
-            <slot></slot>
-          </div>
-        </section>
-      </div>
-      <Footer :footer="footer" />
-      <Bubbles class="bubbles-component" />
+
+    <div class="content-site">
+      <section>
+        <div class="container mx-auto text-gray-800">
+          <slot></slot>
+        </div>
+      </section>
     </div>
+    <Footer :footer="footer" />
   </div>
 </template>
 

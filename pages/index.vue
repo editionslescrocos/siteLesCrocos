@@ -1,15 +1,15 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer" isHOne>
     <section>
-      <Slider :items="slider" class="pt-7 pb-20 slider-home"></Slider>
+      <Slider :items="slider" class="mx-5 shadow-xl mb-20 slider-home"></Slider>
     </section>
 
-    <div class="mt-5 mx-5 text-gray-50">
+    <div class="mt-5 mx-5">
       <section>
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
             <h2
-              class="font-semibold text-4xl text-center md:text-left text-white mb-4"
+              class="font-semibold text-customGreen text-4xl text-center md:text-left mb-4"
             >
               {{ general.presentationTitle }}
             </h2>
@@ -18,7 +18,7 @@
             </p>
             <p v-if="general.presentationURL" class="text-center md:text-left">
               <nuxt-link :to="general.presentationURL" class="mt-5">
-                <Btn color="yellow-600">En savoir plus </Btn>
+                <Btn color="customGreen">En savoir plus </Btn>
               </nuxt-link>
             </p>
           </div>
@@ -30,7 +30,7 @@
               height="200"
               width="200"
               fit="cover"
-              class="bg-white rounded-full"
+              class="bg-white"
             />
           </div>
           <div class="w-1/2 md:w-1/4 px-8 pt-5">
@@ -41,7 +41,7 @@
               height="150"
               width="150"
               fit="cover"
-              class="bg-white rounded-full"
+              class="bg-white"
             />
           </div>
         </div>

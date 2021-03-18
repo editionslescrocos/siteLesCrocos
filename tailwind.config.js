@@ -14,7 +14,13 @@ module.exports = {
       rose: colors.rose,
       teal: colors.teal,
       blue: colors.blue,
-      emerald: colors.emerald
+      emerald: colors.emerald,
+      customGreen:{
+        DEFAULT:"#3ba23f"
+      },
+      customRed:{
+        DEFAULT:"#c91f3b"
+      }
     }
   },
   purge: {
