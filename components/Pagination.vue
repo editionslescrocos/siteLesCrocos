@@ -45,7 +45,7 @@
                 class="w-12 h-12 flex justify-center items-center cursor-pointer leading-5 transition duration-150 ease-in rounded-full"
                 :class="
                   pageNumber === pagination.currentPage
-                    ? 'bg-emerald-700 text-white'
+                    ? 'bg-customRed text-white'
                     : ''
                 "
               >

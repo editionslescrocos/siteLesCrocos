@@ -19,19 +19,19 @@
         <header>
           <div class="titles">
             <div class="pt-10">
-              <h1 class="text-4xl text-center font-bold mb-3">
+              <h1 class="text-4xl text-center mb-3">
                 {{ doc.title }}
               </h1>
 
-              <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
+              <p
+                v-if="doc.subtitle"
+                class="text-2xl text-center text-customGreen"
+              >
                 {{ doc.subtitle }}
               </p>
             </div>
           </div>
-          <p
-            v-if="doc.description"
-            class="text-left text-lg font-semibold my-7"
-          >
+          <p v-if="doc.description" class="text-left text-lg my-7">
             {{ doc.description }}
           </p>
         </header>

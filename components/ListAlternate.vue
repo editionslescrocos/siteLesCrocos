@@ -45,7 +45,7 @@
       </div>
 
       <div class="flex-1">
-        <h3 class="text-2xl mb-2 pt-2 md:pt-0 md:mt-5">
+        <h3 class="text-2xl mb-2 md:pt-0">
           {{ item.title }}
         </h3>
         <p v-show="!item.description" class="text-md">

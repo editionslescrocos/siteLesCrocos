@@ -17,7 +17,7 @@ export default {
         content: "Les éditions les crocos proposent des livres pour enfants."
       },
       { name: "robots", content: "noindex" },
-      { name: "theme-color", content: "#e5dba6" },
+      { name: "theme-color", content: "#3ba23f" },
       { name: "og:title", content: "Éditions les crocos" },
       { name: "og:type", content: "article" },
       { name: "og:site_name", content: "Éditions les crocos" },

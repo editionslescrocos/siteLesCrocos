@@ -19,11 +19,11 @@
         <header>
           <div class="titles">
             <div class="pt-10">
-              <h1 class="text-4xl text-center font-bold mb-3">
+              <h1 class="text-4xl text-center mb-3 text-customGreen">
                 {{ doc.title }}
               </h1>
 
-              <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
+              <p v-if="doc.subtitle" class="text-2xl text-center">
                 {{ doc.subtitle }}
               </p>
             </div>
