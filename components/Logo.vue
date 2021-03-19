@@ -10,7 +10,7 @@
 
 <style scoped>
 img {
-  height: 160px;
+  height: 140px;
 
   width: auto;
 }

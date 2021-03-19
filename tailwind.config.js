@@ -15,8 +15,10 @@ module.exports = {
       teal: colors.teal,
       blue: colors.blue,
       emerald: colors.emerald,
+     
       customGreen:{
-        DEFAULT:"#3ba23f"
+        DEFAULT:"#3ba23f",
+        dark:"#39913c"
       },
       customRed:{
         DEFAULT:"#c91f3b"
@@ -26,6 +28,9 @@ module.exports = {
   purge: {
     options: {
       safelist: [
+        "customGreen",
+        "customGreen-dark",
+        "customRed",
         "bg-rose-600",
         "bg-gray-100",
         "bg-gray-200",

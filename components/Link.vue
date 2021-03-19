@@ -23,7 +23,7 @@ $animate: all 0.1s ease-in-out;
   box-sizing: border-box;
 }
 
-.nuxt-link-active {
+.nuxt-link-exact-active {
   border-bottom: 5px solid rgb(18, 177, 79);
 }
 

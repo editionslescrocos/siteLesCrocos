@@ -2,7 +2,7 @@
   <div class="top-page container mx-auto mb-8">
     <nav class="w-full py-1 mb-70 menu">
       <div class="flex items-end">
-        <div class="flex-initial">
+        <div class="flex-none">
           <nuxt-link to="/">
             <Logo class="ml-5" />
           </nuxt-link>
@@ -74,6 +74,7 @@
                     :src="require('@/assets/basket.svg')"
                     height="35"
                     width="35"
+                    alt="Produits dans votre panier"
                   />
                   (<span class="snipcart-items-count">0</span>)
                 </button>

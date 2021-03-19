@@ -13,13 +13,13 @@
         ></nuxt-picture>
       </div>
       <div
-        class="relative container mx-auto z-11 md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-11/12 content"
+        class="relative container mx-auto z-11 md:rounded-lg shadow-xl bg-white pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-11/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
         <header>
           <div class="titles">
             <div class="pt-10">
-              <h1 class="text-4xl text-center font-bold mb-3">
+              <h1 class="text-4xl text-customGreen text-center font-bold mb-3">
                 {{ doc.title }}
               </h1>
 

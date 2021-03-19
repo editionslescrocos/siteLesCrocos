@@ -13,7 +13,7 @@
         ></nuxt-picture>
       </div>
       <div
-        class="relative container mx-auto z-20 rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-10/12 content"
+        class="relative container mx-auto z-20 rounded-lg shadow-xl bg-white pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-10/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
         <header>
@@ -37,7 +37,7 @@
 
             <div class="titles w-full md:w-2/3">
               <div class="pt-10">
-                <h1 class="text-6xl font-bold mb-3">
+                <h1 class="text-customGreen text-4xl mb-3">
                   {{ doc.title }}
                 </h1>
 

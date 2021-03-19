@@ -1,5 +1,9 @@
 {
   "menus": [
+        {
+      "text": "Accueil",
+      "to": "/"
+    },
     {
       "text": "Actualité",
       "to": "/actualites"
