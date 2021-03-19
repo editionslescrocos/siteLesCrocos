@@ -19,3 +19,37 @@ fields:
     maxSize: 64
   label: Image
   description: L'image du carrousel
+- name: colorText
+  type: select
+  default: black
+  config:
+    required: false
+    options:
+    - black
+    - white
+    - red-700
+    - green-700
+    - yellow-200
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur du texte
+- name: colorBg
+  type: select
+  default: white
+  config:
+    required: false
+    options:
+    - red-700
+    - black
+    - white
+    - green-700
+    - yellow-200
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Couleur de fond
