@@ -1,24 +1,22 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer" isHOne>
     <section>
-      <Slider :items="slider" class="mx-5 shadow-xl mb-20 slider-home"></Slider>
+      <Slider :items="slider" class="mx-5 shadow-xl mb-10 slider-home"></Slider>
     </section>
 
     <div class="mt-5 mx-5">
       <section>
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
-            <h2
-              class="font-semibold text-customGreen text-4xl text-center md:text-left mb-4"
-            >
+            <h2 class="text-customGreen text-3xl text-center md:text-left mb-4">
               {{ general.presentationTitle }}
             </h2>
             <p>
               {{ general.presentationText }}
             </p>
             <p v-if="general.presentationURL" class="text-center md:text-left">
-              <nuxt-link :to="general.presentationURL" class="mt-5">
-                <Btn color="customGreen">En savoir plus </Btn>
+              <nuxt-link :to="general.presentationURL">
+                <Btn color="customGreen" class="mt-5">En savoir plus </Btn>
               </nuxt-link>
             </p>
           </div>

@@ -1,7 +1,7 @@
 <template>
   <div class="top-page container mx-auto mb-8">
     <nav class="w-full py-1 mb-70 menu">
-      <div class="flex items-end">
+      <div class="flex items-top md:items-top mt-5">
         <div class="flex-none">
           <nuxt-link to="/">
             <Logo class="ml-5" />
