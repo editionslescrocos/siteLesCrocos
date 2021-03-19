@@ -1,12 +1,7 @@
 <template>
   <div class="slider-wrapper overflow-hidden">
     <VueSlickCarousel v-bind="slickOptions">
-      <div
-        v-for="(item, key) in items"
-        :key="key"
-        class="relative"
-        style="background-color: pink"
-      >
+      <div v-for="(item, key) in items" :key="key" class="relative">
         <nuxt-link :to="item.url">
           <nuxt-picture
             :src="`${item.image}`"
@@ -19,7 +14,10 @@
           />
         </nuxt-link>
 
-        <div class="slider-text w-full">
+        <div
+          :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
+          style="background-color: powderblue"
+        >
           <div class="py-3 px-3">
             <div class="md:flex">
               <div class="flex-1">

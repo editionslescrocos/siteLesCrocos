@@ -14,6 +14,7 @@ module.exports = {
       rose: colors.rose,
       teal: colors.teal,
       blue: colors.blue,
+      green: colors.green,
       emerald: colors.emerald,
      
       customGreen:{
@@ -28,9 +29,12 @@ module.exports = {
   purge: {
     options: {
       safelist: [
-        "customGreen",
-        "customGreen-dark",
-        "customRed",
+        "bg-customGreen",
+        "bg-customGreen-dark",
+        "bg-customRed",
+        "text-customGreen",
+        "text-customGreen-dark",
+        "text-customRed",
         "bg-rose-600",
         "bg-gray-100",
         "bg-gray-200",
@@ -58,7 +62,13 @@ module.exports = {
         "text-rose-600",
         "py-24",
         "bg-emerald-900",
-        "bg-yellow-600"
+        "bg-yellow-600",
+        "bg-green-700",
+        "text-green-700",
+        "bg-red-700",
+        "text-red-700",
+        "bg-yellow-200",
+        "text-yellow-200",
       ]
     }
   }
