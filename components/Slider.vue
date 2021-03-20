@@ -18,7 +18,7 @@
           :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
           style="background-color: powderblue"
         >
-          <div class="py-3 px-3">
+          <div class="py-3 px-6">
             <div class="md:flex">
               <div class="flex-1">
                 <span class="font-semibold item-title">
@@ -100,6 +100,7 @@ p {
 
 .slick-dots {
   text-align: right;
+  padding-right: 1em;
 }
 
 .slick-dots li button:before {

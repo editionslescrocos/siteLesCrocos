@@ -1,16 +1,19 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer" isHOne>
     <section>
-      <Slider :items="slider" class="mx-5 shadow-xl mb-10 slider-home"></Slider>
+      <Slider
+        :items="slider"
+        class="mx-5 mt-14 shadow-xl mb-10 slider-home"
+      ></Slider>
     </section>
 
-    <div class="mt-5 mx-5">
+    <div class="mt-20 mx-5">
       <section>
+        <h2 class="text-customGreen text-3xl text-center md:text-left mb-4">
+          {{ general.presentationTitle }}
+        </h2>
         <div class="flex flex-wrap items-center">
           <div class="w-full md:w-1/2 text-lg">
-            <h2 class="text-customGreen text-3xl text-center md:text-left mb-4">
-              {{ general.presentationTitle }}
-            </h2>
             <p>
               {{ general.presentationText }}
             </p>
@@ -21,25 +24,19 @@
             </p>
           </div>
           <div class="w-1/2 md:w-1/4 px-8 text-right pt-5 md:pt-0">
-            <nuxt-picture
-              src="images/tampon_croco.png"
-              format="webp"
+            <nuxt-img
+              src="images/tampon_croco.svg"
               alt="Tampon imprimé en France"
               height="200"
               width="200"
-              fit="cover"
-              class="bg-white"
             />
           </div>
-          <div class="w-1/2 md:w-1/4 px-8 pt-5">
-            <nuxt-picture
-              src="images/tampon_loup.png"
-              format="webp"
+          <div class="w-1/2 md:w-1/4 px-8">
+            <nuxt-img
+              src="images/tampon_loup.svg"
               alt="Tampon livres garantis sans loups"
-              height="150"
-              width="150"
-              fit="cover"
-              class="bg-white"
+              height="200"
+              width="200"
             />
           </div>
         </div>

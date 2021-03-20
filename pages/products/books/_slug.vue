@@ -1,7 +1,7 @@
 <template>
   <Layout :networks="networks" :menus="menus" :footer="footer">
     <article>
-      <div v-if="doc.image" class="relative z-10 pt-7 hidden md:block">
+      <div v-if="doc.image" class="relative z-10 hidden md:block">
         <nuxt-picture
           :src="doc.image"
           format="webp"

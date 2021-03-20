@@ -1,5 +1,5 @@
 <template>
-  <div class="top-page container mx-auto mb-8">
+  <div class="top-page container mx-auto mt-3 mb-3">
     <nav class="w-full py-1 mb-70 menu">
       <div class="flex items-top md:items-top mt-5">
         <div class="flex-none">

@@ -11,7 +11,7 @@
             }"
           >
             <div
-              class="h-12 w-12 mr-1 flex justify-center items-center rounded-full bg-gray-200 cursor-pointer"
+              class="h-8 w-8 mr-1 flex justify-center items-center rounded-full bg-gray-200 cursor-pointer"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -31,7 +31,7 @@
           </nuxt-link>
 
           <div
-            class="flex h-12 font-medium rounded-full bg-gray-200 justify-center items-center"
+            class="flex h-8 font-medium rounded-full bg-gray-200 justify-center items-center"
           >
             <nuxt-link
               v-for="(pageNumber, index) in pagination.nbPages"
@@ -42,7 +42,7 @@
               }"
             >
               <div
-                class="w-12 h-12 flex justify-center items-center cursor-pointer leading-5 transition duration-150 ease-in rounded-full"
+                class="w-8 h-8 flex justify-center items-center cursor-pointer leading-5 transition duration-150 ease-in rounded-full"
                 :class="
                   pageNumber === pagination.currentPage
                     ? 'bg-customRed text-white'
@@ -62,7 +62,7 @@
             }"
           >
             <div
-              class="h-12 w-12 ml-1 flex justify-center items-center rounded-full bg-gray-200 cursor-pointer"
+              class="h-8 w-8 ml-1 flex justify-center items-center rounded-full bg-gray-200 cursor-pointer"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
