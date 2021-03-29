@@ -27,3 +27,5 @@ fields:
     maxSize: 64
   label: Image
   description: Photo de portrait
+pages:
+- content/team/marc-et-simon.md
