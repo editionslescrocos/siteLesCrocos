@@ -28,5 +28,6 @@ fields:
   label: Image
   description: Photo de portrait
 pages:
+- content/team/lorraine.md
 - content/team/marc-et-simon.md
 - content/team/sylvere.md
