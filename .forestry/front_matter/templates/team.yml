@@ -31,7 +31,7 @@ fields:
   type: text
   config:
     required: false
-  label: Lien
+  label: Lien vers un site web
 pages:
 - content/team/et-toi.md
 - content/team/lorraine.md
