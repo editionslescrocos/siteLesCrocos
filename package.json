@@ -4,10 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt build --modern",
+    "build": "nuxt build --modern=client",
     "start": "nuxt start",
-    "start:modern": "nuxt start --modern",
-    "generate": "nuxt generate --modern"
+    "start:modern": "nuxt start --modern=client",
+    "generate": "nuxt generate --modern=client"
   },
   "dependencies": {
     "@nuxt/content": "^1.11.1",

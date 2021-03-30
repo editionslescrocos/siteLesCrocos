@@ -1,3 +1,5 @@
+import getRoutes from "./utils/getRoutes";
+
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: "static",
@@ -125,10 +127,10 @@ export default {
   },
 
   sitemap: {
-    hostname: "https://editionsdescrocos.com",
+    hostname: "https://www.editionsdescrocos.com",
     gzip: true,
     exclude: ["/admin/**"],
-    routes: ["/livres"]
+    routes: getRoutes()
   },
 
   cookies: {
