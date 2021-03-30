@@ -27,6 +27,11 @@ fields:
     maxSize: 64
   label: Image
   description: Photo de portrait
+- name: href
+  type: text
+  config:
+    required: false
+  label: Lien
 pages:
 - content/team/et-toi.md
 - content/team/lorraine.md
