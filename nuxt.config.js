@@ -130,7 +130,9 @@ export default {
     hostname: "https://www.editionsdescrocos.com",
     gzip: true,
     exclude: ["/admin/**"],
-    routes: getRoutes()
+    routes(){
+      return getRoutes()
+    } 
   },
 
   cookies: {
