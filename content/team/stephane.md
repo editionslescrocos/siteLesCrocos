@@ -1,6 +1,6 @@
 ---
 title: Stéphane
-image: images/croco_photo1.jpg
+image: "/images/stephane-pour-le-web.jpg"
 order: 2
 isFounder: true
 
