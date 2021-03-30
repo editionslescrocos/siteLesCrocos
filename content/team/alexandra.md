@@ -1,6 +1,6 @@
 ---
 title: Alexandra
-image: "/images/croco_photo2.jpg"
+image: "/images/photo-alexandra-pour-le-web.jpg"
 order: 1
 isFounder: true
 
