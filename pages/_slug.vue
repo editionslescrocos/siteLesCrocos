@@ -12,7 +12,7 @@
         ></nuxt-picture>
       </div>
       <div
-        class="page relative container bg-white shadow-xl mx-auto md:rounded-lg pb-24 px-5 md:px-12 md:w-10/12 lg:w-10/12 xl:w-8/12 content"
+        class="page relative container bg-white shadow-xl md:rounded-lg pb-24 px-5 md:px-12 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-32'"
       >
         <header>
@@ -22,7 +22,10 @@
                 {{ doc.title }}
               </h1>
 
-              <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
+              <p
+                v-if="doc.subtitle"
+                class="text-2xl mb-5 text-center font-bold"
+              >
                 {{ doc.subtitle }}
               </p>
             </div>

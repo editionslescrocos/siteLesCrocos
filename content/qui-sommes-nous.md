@@ -8,7 +8,6 @@ description: 'En 2018, nous cherchons un livre pour faire découvrir Lyon à nos
   d''une bande de crocos rigolos, convaincus par cette aventure totalement déraisonnable,
   donc indispensable. Au printemps 2021, les Editions les Crocos sont là ! Petite
   visite du marigot :'
-image: images/anonym.jpg
 
 ---
 ## Les fondateurs

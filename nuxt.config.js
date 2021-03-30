@@ -140,7 +140,7 @@ export default {
     optional: [
       {
         name: "Google Analitycs",
-        identifier: "G-JFDNW9JFSX",
+        identifier: "G-L4315DSBHJ",
         description:
           "Nous utilisons l'outil Google Analytics à des fins statistiques afin d'améliorer nos services.",
 
@@ -161,6 +161,6 @@ export default {
   },
 
   googleAnalytics: {
-    id: "IndeiqueID"
+    id: "G-L4315DSBHJ"
   }
 };

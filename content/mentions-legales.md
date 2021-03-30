@@ -1,7 +1,5 @@
 ---
 title: Mentions légales & politique de confidentialité
-image: images/mentions.jpg
-
 ---
 ## MENTIONS LÉGALES
 

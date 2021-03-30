@@ -13,7 +13,7 @@
         ></nuxt-picture>
       </div>
       <div
-        class="relative container mx-auto z-20 rounded-lg shadow-xl bg-white pb-24 px-5 md:px-12 md:w-11/12 lg:w-11/12 xl:w-10/12 content"
+        class="relative container z-20 rounded-lg shadow-xl bg-white pb-24 px-5 md:px-12 mx-auto w-11/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
         <header>

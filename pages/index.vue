@@ -12,31 +12,33 @@
         <h2 class="text-customGreen text-3xl text-center md:text-left mb-4">
           {{ general.presentationTitle }}
         </h2>
-        <div class="flex flex-wrap items-center">
+        <div class="flex justify-center flex-wrap">
           <div class="w-full md:w-1/2 text-lg">
             <p>
               {{ general.presentationText }}
             </p>
             <p v-if="general.presentationURL" class="text-center md:text-left">
               <nuxt-link :to="general.presentationURL">
-                <Btn color="customGreen" class="mt-5">En savoir plus </Btn>
+                <Btn class="mt-5">En savoir plus </Btn>
               </nuxt-link>
             </p>
           </div>
-          <div class="w-1/2 md:w-1/4 px-8 text-right pt-5 md:pt-0">
+          <div class="w-1/2 md:w-1/4 pr-3 pt-10 md:pt-0 text-center center">
             <nuxt-img
               src="images/tampon_croco.svg"
               alt="Tampon imprimé en France"
               height="200"
               width="200"
+              class="inline"
             />
           </div>
-          <div class="w-1/2 md:w-1/4 px-8">
+          <div class="w-1/2 md:w-1/4 pt-10 pl-3 md:pt-0 center text-center">
             <nuxt-img
               src="images/tampon_loup.svg"
               alt="Tampon livres garantis sans loups"
               height="200"
               width="200"
+              class="inline"
             />
           </div>
         </div>

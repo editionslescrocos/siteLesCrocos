@@ -47,6 +47,10 @@
       "to": "/mentions-legales"
     },
     {
+      "title": "Conditions générales de vente",
+      "to": "/conditions-generales-vente"
+    },
+    {
       "title": "Espace presse",
       "to": "/espace-presse"
     }
