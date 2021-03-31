@@ -2,7 +2,7 @@
 isFounder: false
 order: 6
 title: Et Toi?
-image: "/images/krokodil.jpg"
+image: "/images/logo-tranche.svg"
 href: ''
 
 ---

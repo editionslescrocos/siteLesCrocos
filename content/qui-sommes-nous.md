@@ -10,7 +10,7 @@ description: 'En 2018, nous cherchons un livre pour faire découvrir Lyon à nos
   visite du marigot :'
 
 ---
-## **_Les fondateurs_**
+## Les fondateurs
 
 <team display="founder"></team>
 
