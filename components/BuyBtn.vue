@@ -13,7 +13,7 @@
       :data-item-description="product.description"
       :data-item-taxes="product.taxes"
     >
-      <span class="uppercase">
+      <span>
         <slot></slot>
       </span>
       <span class="text-xs"><slot name="subText"></slot></span>

@@ -7,11 +7,14 @@
         width="400"
         height="400"
         fit="outside"
+        :alt="`image
+        du
+        produit
+        ${product.title}`"
       />
     </nuxt-link>
-    <h3 class="text-xl font-semibold my-3">{{ product.title }}</h3>
     <nuxt-link :to="product.path">
-      <Btn>Découvrir</Btn>
+      <Btn isNotRounded isFull>{{ product.title }}</Btn>
     </nuxt-link>
   </div>
 </template>

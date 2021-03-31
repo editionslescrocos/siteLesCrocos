@@ -6,7 +6,7 @@
     @click="clickAction()"
     :class="[{ 'md:w-auto': !isFull }, btnLayout]"
   >
-    <span class="uppercase">
+    <span class="font-semibold">
       <slot></slot>
     </span>
     <span class="text-xs"><slot name="subText"></slot></span>
@@ -39,6 +39,10 @@ export default {
       default: "",
     },
     isFull: {
+      type: Boolean,
+      default: false,
+    },
+    isNotRounded: {
       type: Boolean,
       default: false,
     },

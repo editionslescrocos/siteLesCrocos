@@ -23,22 +23,21 @@
               </nuxt-link>
             </p>
           </div>
-          <div class="w-1/2 md:w-1/4 pr-3 pt-10 md:pt-0 text-center center">
+          <div class="md:w-1/2 pr-3 pt-14 md:pt-0 text-center md:text-right">
             <nuxt-img
               src="images/tampon_croco.svg"
               alt="Tampon imprimé en France"
               height="200"
               width="200"
-              class="inline"
+              class="inline ml-5 lg:mt-0"
             />
-          </div>
-          <div class="w-1/2 md:w-1/4 pt-10 pl-3 md:pt-0 center text-center">
+
             <nuxt-img
               src="images/tampon_loup.svg"
               alt="Tampon livres garantis sans loups"
               height="200"
               width="200"
-              class="inline"
+              class="inline ml-5 md:mt-5 lg:mt-0"
             />
           </div>
         </div>

@@ -21,7 +21,7 @@
           <div class="py-3 px-6">
             <div class="md:flex">
               <div class="flex-1">
-                <span class="font-semibold item-title">
+                <span class="item-title">
                   {{ item.title }}
                 </span>
                 <nuxt-content :document="item"></nuxt-content>

@@ -24,7 +24,7 @@
             height="300"
             :width="portrait ? '300' : 'auto'"
             class="md:mb-7 mx-auto"
-            :class="portrait ? 'rounded-full' : ''"
+            :class="portrait ? 'rounded-full border-8 border-customGreen' : ''"
             v-if="item.image"
             :alt="item.imageAlt"
           ></nuxt-img>
@@ -39,7 +39,7 @@
           fit="cover"
           :width="portrait ? '300' : '500'"
           class="md:mb-7 mx-auto"
-          :class="portrait ? 'rounded-full' : ''"
+          :class="portrait ? 'rounded-full border-8 border-customGreen' : ''"
           :alt="item.imageAlt"
         ></nuxt-img>
       </div>
