@@ -54,13 +54,6 @@ sections:
 - type: document
   path: content/links.json
   label: menus
-- type: directory
-  path: content/zones
-  label: Zones géographiques
-  create: all
-  match: "**/*"
-  templates:
-  - zone
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
