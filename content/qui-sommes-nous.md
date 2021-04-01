@@ -1,7 +1,7 @@
 ---
 title: Qui sommes nous ?
 subtitle: ''
-description: 'En 2018, nous cherchons un livre pour faire découvrir Lyon à nos enfants
+description: 'En 2018, nous cherchions un livre pour faire découvrir Lyon à nos enfants
   de façon ludique et décalée. Faute de le trouver, nous décidons de l''écrire nous-mêmes.
   En 2020, confinés sur notre balcon, nous rêvons d''aller plus loin en montant notre
   propre maison d''édition. Pour que ce rêve devienne réalité, nous nous entourons
