@@ -21,6 +21,13 @@ sections:
   templates:
   - page
 - type: directory
+  path: content/actualites
+  label: Actualités
+  create: documents
+  match: "**/*"
+  templates:
+  - actualites
+- type: directory
   path: content/products
   label: Produits
   create: all
