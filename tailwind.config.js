@@ -16,13 +16,13 @@ module.exports = {
       blue: colors.blue,
       green: colors.green,
       emerald: colors.emerald,
-     
-      customGreen:{
-        DEFAULT:"#3ba23f",
-        dark:"#39913c"
+
+      customGreen: {
+        DEFAULT: "#3ba23f",
+        dark: "#39913c"
       },
-      customRed:{
-        DEFAULT:"#c91f3b"
+      customRed: {
+        DEFAULT: "#c91f3b"
       }
     }
   },
@@ -62,13 +62,14 @@ module.exports = {
         "text-rose-600",
         "py-24",
         "bg-emerald-900",
+        "bg-emerald-700",
         "bg-yellow-600",
         "bg-green-700",
         "text-green-700",
         "bg-red-700",
         "text-red-700",
         "bg-yellow-200",
-        "text-yellow-200",
+        "text-yellow-200"
       ]
     }
   }

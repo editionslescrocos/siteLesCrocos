@@ -46,11 +46,7 @@
           </label>
         </p>
         <p>
-          <Btn
-            @click="sendMessage"
-            class="mt-5"
-            :color="color"
-            :disabled="!isFormCompleted"
+          <Btn @click="sendMessage" class="mt-5" :disabled="!isFormCompleted"
             >Envoyer</Btn
           >
         </p>
@@ -63,17 +59,16 @@
 export default {
   transition: {
     name: "slide",
-    mode: "out-in",
+    mode: "out-in"
   },
   data() {
     return {
-      color: "emerald-700",
       cssFormLayout: `block w-full py-3 px-1 mt-2 text-gray-800 appearance-none rounded  focus:${this.color}`,
       isSent: false,
       name: "",
       email: "",
       message: "",
-      error: false,
+      error: false
     };
   },
   computed: {
@@ -85,7 +80,7 @@ export default {
       )
         return true;
       return false;
-    },
+    }
   },
   methods: {
     async sendMessage() {
@@ -94,7 +89,7 @@ export default {
           "form-name": "contact",
           name: this.name,
           email: this.email,
-          message: this.message,
+          message: this.message
         };
 
         try {
@@ -102,7 +97,7 @@ export default {
             method: "POST",
             headers: { "Content-Type": "application/x-www-form-urlencoded" },
             formData,
-            body: new URLSearchParams(formData).toString(),
+            body: new URLSearchParams(formData).toString()
           });
           console.log("result :", res);
           this.isSent = true;
@@ -118,10 +113,9 @@ export default {
     isValidEmail(email) {
       const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
       return re.test(email);
-    },
-  },
+    }
+  }
 };
 </script>
 
-<style scoped>
-</style>
+<style scoped></style>
