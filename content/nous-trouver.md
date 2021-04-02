@@ -1,9 +1,9 @@
 ---
-title: "Nous trouver"
-subtitle: "A vol de cigogne, nous sommes tout prêt de vous !"
-description : "Voici les endroits où vous pouvez nous retrouver"
----
+title: Nous trouver
+subtitle: Site en construction
+description: Voici les endroits où vous pouvez nous retrouver
 
+---
 ## Salons
 
 ## Chez votre libraire préféré
