@@ -2,11 +2,11 @@
   <button
     :type="typeButton"
     :disabled="disabled"
-    class="w-full plain"
+    class="w-full plain normal-case"
     @click="clickAction()"
     :class="[{ 'md:w-auto': !isFull }, btnLayout]"
   >
-    <span class="font-semibold">
+    <span class="">
       <slot></slot>
     </span>
     <span class="text-xs"><slot name="subText"></slot></span>
@@ -20,43 +20,42 @@ export default {
   props: {
     color: {
       type: String,
-      default: "customRed",
+      default: "customRed"
     },
     typeButton: {
       type: String,
-      default: "button",
+      default: "button"
     },
     disabled: {
       type: Boolean,
-      default: false,
+      default: false
     },
     to: {
       type: String,
-      default: "",
+      default: ""
     },
     href: {
       type: String,
-      default: "",
+      default: ""
     },
     isFull: {
       type: Boolean,
-      default: false,
+      default: false
     },
     isNotRounded: {
       type: Boolean,
-      default: false,
+      default: false
     },
     product: {
       type: Object,
-      default: null,
-    },
+      default: null
+    }
   },
 
   methods: {
     clickAction() {
       this.$emit("click", "btn-click");
-    },
-  },
+    }
+  }
 };
 </script>
-

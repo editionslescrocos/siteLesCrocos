@@ -13,31 +13,13 @@
         ></nuxt-picture>
       </div>
       <div
-        class="relative container z-11 md:rounded-lg shadow-xl bg-white pb-24 px-5 content mx-auto w-11/12"
+        class="page relative container z-11 md:rounded-lg shadow-xl bg-white pb-24 px-5 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-32'"
       >
-        <header>
-          <div class="titles">
-            <div class="pt-10">
-              <h1 class="text-4xl text-customGreen text-center font-bold mb-3">
-                {{ doc.title }}
-              </h1>
-
-              <p v-if="doc.subtitle" class="text-2xl text-center font-bold">
-                {{ doc.subtitle }}
-              </p>
-            </div>
-          </div>
-          <p
-            v-if="doc.description"
-            class="text-left text-lg font-semibold my-7"
-          >
-            {{ doc.description }}
-          </p>
-        </header>
+        <TitlePage :doc="doc" />
 
         <div v-if="books.length">
-          <h2 class="text-3xl font-bold mb-4">Nos livres</h2>
+          <h2 class="text-3xl  mb-4">Nos livres</h2>
           <div class="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-8">
             <div v-for="book in books" :key="book.path">
               <ProductItem :product="book"></ProductItem>
@@ -46,7 +28,7 @@
         </div>
 
         <div v-if="otherProducts.length" class="mt-24">
-          <h2 class="text-3xl font-bold mb-4">Autres produits</h2>
+          <h2 class="text-3xl  mb-4">Autres produits</h2>
           <div class="grid grid-cols-3 gap-8">
             <div v-for="product in otherProducts" :key="product.path">
               <ProductItem :product="product"></ProductItem>
@@ -82,11 +64,10 @@ export default {
       networks,
       menus,
       general,
-      footer,
+      footer
     };
-  },
+  }
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

@@ -16,67 +16,66 @@
         class="relative container z-20 rounded-lg shadow-xl bg-white pb-24 px-5 md:px-12 mx-auto w-11/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
-        <header>
-          <div class="md:flex md:flex-row md:flex-row-reverse">
-            <div class="w-full md:w-1/3 pt-4">
-              <nuxt-picture
-                :src="doc.imageProduct"
-                width="400"
-                height="600"
-                format="webp"
-              />
-              <Btn isFull @click="index = 0"
-                ><img
-                  class="inline mr-2"
-                  :src="require('@/assets/book.svg')"
-                  height="25"
-                  width="25"
-                />Feuilleter</Btn
-              >
-            </div>
-
-            <div class="titles w-full md:w-2/3">
-              <div class="pt-10">
-                <h1 class="text-customGreen text-4xl mb-3">
-                  {{ doc.title }}
-                </h1>
-
-                <p v-if="doc.subtitle" class="text-2xl font-bold">
-                  {{ doc.subtitle }}
-                </p>
-              </div>
-
-              <p
-                v-if="doc.description"
-                class="text-left text-lg font-semibold my-7"
-              >
-                {{ doc.description }}
-              </p>
-
-              <p v-if="doc.books_reserved.auteur">
-                <span class="font-semibold mr-8">Auteur(s)</span>
-                {{ doc.books_reserved.auteur }}
-              </p>
-              <p v-if="doc.books_reserved.pages">
-                <span class="font-semibold mr-8">Nombre de pages</span>
-                {{ doc.books_reserved.pages }}
-              </p>
-              <p v-if="doc.books_reserved.isbn">
-                <span class="font-semibold mr-8">ISBN</span>
-                {{ doc.books_reserved.isbn }}
-              </p>
-
-              <BuyBtn class="mt-3" :product="doc"
-                ><img
-                  class="inline mr-2"
-                  :src="require('@/assets/basket-in.svg')"
-                  height="25"
-                  width="25"
-                />Commander {{ doc.price }}€</BuyBtn
-              >
-            </div>
+        <div class="md:flex md:flex-row md:flex-row-reverse">
+          <div class="w-full md:w-1/3 pt-4">
+            <nuxt-picture
+              :src="doc.imageProduct"
+              width="400"
+              height="600"
+              format="webp"
+            />
+            <Btn isFull @click="index = 0"
+              ><img
+                class="inline mr-2"
+                :src="require('@/assets/book.svg')"
+                height="25"
+                width="25"
+              />Feuilleter</Btn
+            >
           </div>
-        </header>
+
+          <div class="titles w-full md:w-2/3">
+            <div class="pt-10">
+              <h1 class="text-customGreen text-4xl mb-3">
+                {{ doc.title }}
+              </h1>
+
+              <p v-if="doc.subtitle" class="text-2xl">
+                {{ doc.subtitle }}
+              </p>
+            </div>
+
+            <p
+              v-if="doc.description"
+              class="text-left text-lg font-semibold my-7"
+            >
+              {{ doc.description }}
+            </p>
+
+            <p v-if="doc.books_reserved.auteur">
+              <span class="font-semibold mr-8">Auteur(s)</span>
+              {{ doc.books_reserved.auteur }}
+            </p>
+            <p v-if="doc.books_reserved.pages">
+              <span class="font-semibold mr-8">Nombre de pages</span>
+              {{ doc.books_reserved.pages }}
+            </p>
+            <p v-if="doc.books_reserved.isbn">
+              <span class="font-semibold mr-8">ISBN</span>
+              {{ doc.books_reserved.isbn }}
+            </p>
+
+            <BuyBtn class="mt-3" :product="doc"
+              ><img
+                class="inline mr-2"
+                :src="require('@/assets/basket-in.svg')"
+                height="25"
+                width="25"
+              />Commander {{ doc.price }}€</BuyBtn
+            >
+          </div>
+        </div>
+
         <nuxt-content class="mt-6" :document="doc"></nuxt-content>
         <CoolLightBox
           :items="doc.images"
@@ -107,13 +106,13 @@ export default {
       networks,
       menus,
       general,
-      footer,
+      footer
     };
   },
 
   data() {
     return {
-      index: null,
+      index: null
     };
   },
 
@@ -125,16 +124,16 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: this.doc.description,
+          content: this.doc.description
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
         { name: "og:site_name", content: "catherine La Psy" },
         {
           name: "og:description",
-          content: this.doc.description,
-        },
-      ],
+          content: this.doc.description
+        }
+      ]
     };
   },
   jsonld() {
@@ -152,13 +151,12 @@ export default {
       numberOfPages: this.doc.pages,
       publisher: {
         "@type": "Organization",
-        name: "Editions les Crocos",
+        name: "Editions les Crocos"
       },
-      url: this.doc.path,
+      url: this.doc.path
     };
-  },
+  }
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

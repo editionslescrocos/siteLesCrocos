@@ -11,9 +11,9 @@ export default {
   props: {
     to: {
       type: String,
-      default: "#",
-    },
-  },
+      default: "#"
+    }
+  }
 };
 </script>
 
@@ -24,7 +24,13 @@ $animate: all 0.1s ease-in-out;
 }
 
 .nuxt-link-exact-active {
-  border-bottom: 5px solid rgb(18, 177, 79);
+  //border-bottom: 5px solid rgb(18, 177, 79);
+
+  background: transparent;
+  border-radius: 1em;
+  height: 0.35em;
+  bottom: 11px;
+  box-shadow: 0 28px 0 0 #3ba23f;
 }
 
 .link-animated {
@@ -41,14 +47,15 @@ $animate: all 0.1s ease-in-out;
     &:after {
       content: "";
       position: absolute;
-      bottom: -5px;
+      bottom: -6px;
       width: 0px;
-      height: 5px;
+      height: 0.35em;
       margin: 5px 0 0;
       transition: $animate;
       transition-duration: 0.5s;
       opacity: 0;
-      background-color: darken(rgb(18, 177, 79), 5%);
+
+      background-color: #3ba23f;
     }
     &.hover-1 {
       &:before,
@@ -64,9 +71,14 @@ $animate: all 0.1s ease-in-out;
     }
     &.hover-3 {
       &:before {
+        border-top-right-radius: 4em;
+        border-bottom-right-radius: 4em;
+
         left: 50%;
       }
       &:after {
+        border-top-left-radius: 4em;
+        border-bottom-left-radius: 4em;
         right: 50%;
       }
     }

@@ -16,25 +16,7 @@
         class="page relative container mx-auto z-20 md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 md:w-10/12 lg:w-10/12 xl:w-8/12 content"
         :class="doc.image && 'md:-mt-32'"
       >
-        <header>
-          <div class="titles">
-            <div class="pt-10">
-              <h1 class="text-4xl text-center mb-3 text-customGreen">
-                {{ doc.title }}
-              </h1>
-
-              <p v-if="doc.subtitle" class="text-2xl text-center">
-                {{ doc.subtitle }}
-              </p>
-            </div>
-          </div>
-          <p
-            v-if="doc.description"
-            class="text-left text-lg font-semibold my-7"
-          >
-            {{ doc.description }}
-          </p>
-        </header>
+        <TitlePage :doc="doc" />
 
         <nuxt-content :document="doc"></nuxt-content>
 
@@ -123,5 +105,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

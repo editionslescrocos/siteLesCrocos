@@ -13,7 +13,7 @@
           {{ general.presentationTitle }}
         </h2>
         <div class="flex justify-center flex-wrap">
-          <div class="w-full md:w-1/2 text-lg">
+          <div class="w-full md:w-1/2 ">
             <p>
               {{ general.presentationText }}
             </p>
@@ -49,7 +49,9 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const slider = await $content("slider").sortBy("order", "asc").fetch();
+    const slider = await $content("slider")
+      .sortBy("order", "asc")
+      .fetch();
     const actus = await $content("actualites")
       .sortBy("date", "desc")
       .limit(3)
@@ -66,9 +68,9 @@ export default {
       networks,
       menus,
       general,
-      footer,
+      footer
     };
-  },
+  }
 };
 </script>
 

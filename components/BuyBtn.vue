@@ -28,33 +28,32 @@ export default {
   props: {
     color: {
       type: String,
-      default: "customGreen-dark",
+      default: "customGreen-dark"
     },
     typeButton: {
       type: String,
-      default: "button",
+      default: "button"
     },
     disabled: {
       type: Boolean,
-      default: false,
+      default: false
     },
     to: {
       type: String,
-      default: "",
+      default: ""
     },
     href: {
       type: String,
-      default: "",
+      default: ""
     },
     isFull: {
       type: Boolean,
-      default: false,
+      default: false
     },
     product: {
       type: Object,
-      default: null,
-    },
-  },
+      default: null
+    }
+  }
 };
 </script>
-
