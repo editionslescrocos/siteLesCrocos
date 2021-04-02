@@ -1,7 +1,9 @@
 <template>
   <div class="link-animated">
-    <nuxt-link :to="to" class="hover hover-3">
-      <slot></slot>
+    <nuxt-link :to="to">
+      <span class="hover hover-3">
+        <slot></slot>
+      </span>
     </nuxt-link>
   </div>
 </template>
@@ -23,16 +25,6 @@ $animate: all 0.1s ease-in-out;
   box-sizing: border-box;
 }
 
-.nuxt-link-exact-active {
-  //border-bottom: 5px solid rgb(18, 177, 79);
-
-  background: transparent;
-  border-radius: 1em;
-  height: 0.35em;
-  bottom: 11px;
-  box-shadow: 0 28px 0 0 #3ba23f;
-}
-
 .link-animated {
   display: flex;
   flex-flow: row nowrap;
@@ -47,7 +39,7 @@ $animate: all 0.1s ease-in-out;
     &:after {
       content: "";
       position: absolute;
-      bottom: -6px;
+      bottom: -10px;
       width: 0px;
       height: 0.35em;
       margin: 5px 0 0;
@@ -108,5 +100,14 @@ $animate: all 0.1s ease-in-out;
       }
     }
   }
+}
+
+.nuxt-link-exact-active {
+  margin-top: -22px;
+  background: transparent;
+  border-radius: 1em;
+  height: 0.33em;
+  bottom: 35px;
+  box-shadow: 0 29px 0 0 #3ba23f;
 }
 </style>

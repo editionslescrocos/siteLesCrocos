@@ -7,7 +7,7 @@
       :class="[
         Number.isInteger(index / 2)
           ? 'flex-row-reverse my-7 md:flex mb-20'
-          : 'my-7 md:flex mb-20',
+          : 'my-7 md:flex mb-20'
       ]"
     >
       <div
@@ -65,7 +65,9 @@
           <span>Adresse</span> :
           <a
             target="blank"
-            :href="`https://www.openstreetmap.org/search?query=#map=19/45.75763/4.87488`"
+            :href="
+              `https://www.openstreetmap.org/search?query=#map=19/45.75763/4.87488`
+            "
             class="underline"
             >{{ item.address }}</a
           >
@@ -73,7 +75,7 @@
 
         <nuxt-link :to="item.path">
           <Btn v-if="!item.href && !onlyHref" class="mt-3 mr-2 inline-block"
-            >En Savoir plus</Btn
+            >En savoir plus</Btn
           >
         </nuxt-link>
 
@@ -99,21 +101,21 @@ export default {
   props: {
     items: {
       type: Array,
-      default: [],
+      default: []
     },
     portrait: {
       type: Boolean,
-      default: false,
+      default: false
     },
     onlyHref: {
       type: Boolean,
-      default: false,
+      default: false
     },
     followSlug: {
       type: Boolean,
-      default: false,
-    },
-  },
+      default: false
+    }
+  }
 };
 </script>
 
