@@ -1,30 +1,32 @@
 <template>
   <div class="slider-wrapper overflow-hidden">
     <VueSlickCarousel v-bind="slickOptions">
-      <div v-for="(item, key) in items" :key="key" class="relative">
-        <nuxt-link :to="item.url">
+      <div
+        v-for="(item, key) in items"
+        :key="key"
+        class="relative"
+        :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
+      >
+        <a :href="item.url">
           <nuxt-picture
             :src="`${item.image}`"
             class="w-full"
             fit="inside"
-            format="webp"
+            format="jpeg"
             height="400"
             width="800"
             :placeholder="require('@/assets/placeholder.webp')"
           />
-        </nuxt-link>
+        </a>
 
-        <div
-          :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
-          style="background-color: powderblue"
-        >
+        <div style="background-color: powderblue">
           <div class="py-3 px-6">
             <div class="md:flex">
               <div class="flex-1">
                 <span class="item-title">
                   {{ item.title }}
                 </span>
-                <nuxt-content :document="item"></nuxt-content>
+                <p class="item-subtitle">{{ item.subtitle }}</p>
               </div>
 
               <!-- <div class="hidden md:block flex justify-end py-5">
@@ -45,8 +47,8 @@ export default {
   props: {
     items: {
       type: Array,
-      default: [],
-    },
+      default: []
+    }
   },
 
   data() {
@@ -54,10 +56,10 @@ export default {
       slickOptions: {
         slidesToShow: 1,
         arrows: true,
-        dots: true,
-      },
+        dots: true
+      }
     };
-  },
+  }
 };
 </script>
 

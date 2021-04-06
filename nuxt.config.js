@@ -37,7 +37,10 @@ export default {
   //  */
   // plugins: [],
 
-  css: ["vue-slick-carousel/dist/vue-slick-carousel.css",'@/assets/css/main.scss',],
+  css: [
+    "vue-slick-carousel/dist/vue-slick-carousel.css",
+    "@/assets/css/main.scss"
+  ],
   /*
    ** Plugins to load before mounting the App
    */
@@ -63,7 +66,7 @@ export default {
       {
         display: "swap",
         families: {
-          Alata: true,
+          Alata: true
         }
       }
     ]
@@ -107,7 +110,7 @@ export default {
        * Enable/Disable cache cleaning cron job
        **/
       clearCache: false,
-      format: "webp",
+      format: "jpg",
       /**
        * Modify default behavior of image optimizer
        **/
@@ -130,9 +133,9 @@ export default {
     hostname: "https://www.editionsdescrocos.com",
     gzip: true,
     exclude: ["/admin/**"],
-    routes(){
-      return getRoutes()
-    } 
+    routes() {
+      return getRoutes();
+    }
   },
 
   cookies: {

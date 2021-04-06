@@ -4,7 +4,7 @@
       <div v-if="doc.image" class="relative z-10">
         <nuxt-picture
           :src="doc.image"
-          format="webp"
+          format="jpeg"
           fit="cover"
           class="rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
@@ -38,7 +38,7 @@ export default {
       networks,
       menus,
       general,
-      footer,
+      footer
     };
   },
 
@@ -49,18 +49,18 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: this.doc.description,
+          content: this.doc.description
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
         { name: "og:site_name", content: "catherine La Psy" },
         {
           name: "og:description",
-          content: this.doc.description,
-        },
-      ],
+          content: this.doc.description
+        }
+      ]
     };
-  },
+  }
 };
 </script>
 

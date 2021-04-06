@@ -4,7 +4,7 @@
       <div v-if="doc.image" class="relative z-10 hidden md:block">
         <nuxt-picture
           :src="doc.image"
-          format="webp"
+          format="jpeg"
           fit="cover"
           class="md:rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
@@ -22,7 +22,7 @@
               :src="doc.imageProduct"
               width="400"
               height="600"
-              format="webp"
+              format="jpeg"
             />
             <Btn isFull @click="index = 0"
               ><img

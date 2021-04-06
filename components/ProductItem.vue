@@ -3,14 +3,16 @@
     <nuxt-link :to="product.path">
       <nuxt-img
         :src="`${product.imageProduct}`"
-        format="webp"
+        format="jpeg"
         width="400"
         height="400"
         fit="outside"
-        :alt="`image
+        :alt="
+          `image
         du
         produit
-        ${product.title}`"
+        ${product.title}`
+        "
       />
     </nuxt-link>
     <nuxt-link :to="product.path">
@@ -24,11 +26,10 @@ export default {
   props: {
     product: {
       type: Object,
-      default: null,
-    },
-  },
+      default: null
+    }
+  }
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

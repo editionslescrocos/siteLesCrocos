@@ -2,7 +2,7 @@
   <div>
     <nuxt-img
       :src="`/images/${actu.image}`"
-      format="webp"
+      format="jpeg"
       height="250"
       width="500"
       fit="cover"
@@ -20,9 +20,9 @@ export default {
   props: {
     actu: {
       type: Object,
-      default: null,
-    },
-  },
+      default: null
+    }
+  }
 };
 </script>
 

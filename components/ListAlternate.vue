@@ -20,7 +20,7 @@
           <nuxt-img
             :src="item.image"
             sizes="400"
-            format="webp"
+            format="jpeg"
             height="300"
             :width="portrait ? '300' : 'auto'"
             class="md:mb-7 mx-auto"
@@ -34,7 +34,7 @@
           v-if="onlyHref && item.image"
           :src="item.image"
           sizes="400"
-          format="webp"
+          format="jpeg"
           height="300"
           fit="cover"
           :width="portrait ? '300' : '500'"

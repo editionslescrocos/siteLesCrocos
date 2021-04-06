@@ -8,7 +8,7 @@
             <template>
               <nuxt-img
                 :src="article.image"
-                format="webp"
+                format="jpeg"
                 width="450"
                 height="300"
               >
@@ -41,17 +41,17 @@ export default {
   computed: {
     years() {
       const years = [];
-      this.articles.forEach((article) => {
+      this.articles.forEach(article => {
         const articleDate = new Date(article.date);
         years.push(articleDate.getUTCFullYear());
       });
       return new Set(years);
-    },
+    }
   },
 
   data() {
     return {
-      articles: [],
+      articles: []
     };
   },
   async fetch() {
@@ -59,16 +59,15 @@ export default {
       .sortBy("date", "desc")
       .fetch();
 
-    articles.map((article) => {
+    articles.map(article => {
       const articleDate = new Date(article.date);
       const options = { month: "long", year: "numeric" };
       article.dateForHuman = articleDate.toLocaleDateString("fr-FR", options);
     });
 
     this.articles = articles;
-  },
+  }
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

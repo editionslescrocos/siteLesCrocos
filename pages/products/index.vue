@@ -4,7 +4,7 @@
       <div v-if="doc.image" class="relative z-2">
         <nuxt-picture
           :src="doc.image"
-          format="webp"
+          format="jpeg"
           fit="cover"
           class="rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
@@ -16,7 +16,7 @@
         class="page relative container z-11 md:rounded-lg shadow-xl bg-white pb-24 px-5 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-32'"
       >
-        <TitlePage :doc="doc" />
+        <TitlePage :doc="doc" logos />
 
         <div v-if="books.length">
           <h2 class="text-3xl  mb-4">Nos livres</h2>
