@@ -1,6 +1,7 @@
 ---
-title: "Espace presse"
-subtitle: "Vous êtes un professionnel de la presse ?"
+title: On parle de nous
+subtitle: On attend les premières articles de presse...
+
 ---
 ## Lorem Ipsum !
 
