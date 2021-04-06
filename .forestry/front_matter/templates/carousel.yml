@@ -18,7 +18,7 @@ fields:
   config:
     required: false
   label: Lien
-  description: 'Exemple : /books/mon-livre'
+  description: 'Permet de faire un lien vers une page de votre site. Exemple : https://www.editionslescrocos.com/qui-sommes-nous'
 - name: image
   type: file
   config:
