@@ -1,12 +1,18 @@
 ---
 label: slider
-hide_body: false
+hide_body: true
 fields:
 - name: title
   type: text
   config:
     required: false
   label: Titre
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Sous titre
+  description: S'affiche en dessous du titre dans le carrousel
 - name: url
   type: text
   config:
