@@ -7,12 +7,18 @@ fields:
   config:
     required: false
   label: Titre
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Sous titre
+  description: S'affiche en dessous du titre dans le carrousel
 - name: url
   type: text
   config:
     required: false
   label: Lien
-  description: 'Exemple : /books/mon-livre'
+  description: 'Permet de faire un lien vers une page de votre site. Exemple : https://www.editionslescrocos.com/qui-sommes-nous'
 - name: image
   type: file
   config:
