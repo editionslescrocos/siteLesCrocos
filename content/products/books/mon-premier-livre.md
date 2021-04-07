@@ -1,5 +1,5 @@
 ---
-type: book
+type: livre
 books_reserved:
   pages: 56
   isbn: 1f5fd5fd5f5f
