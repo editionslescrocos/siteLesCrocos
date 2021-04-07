@@ -1,6 +1,6 @@
 ---
 type: book
-order: 5
+order: 1
 books_reserved:
   pages: 0
   isbn: ''
@@ -10,8 +10,9 @@ description: Un deuxième livre !
 imageProduct: "/images/crocolivre2jpg.jpg"
 images: []
 price: 22
-taxes: "TVAREDUITE"
-weight: "100"
+taxes: TVAREDUITE
+weight: 100
+
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.
 
