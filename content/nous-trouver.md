@@ -16,4 +16,4 @@ description: Voici les endroits où vous pouvez nous retrouver
 
 ### Lyon
 
-<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="[https://www.librairiedialogues.fr](https://www.atitredaile.fr "https://www.atitredaile.fr")">Une superbe librairie Brestoise</place>
+<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="[Contacts – à Titre d'Aile (atitredaile.fr)](https://atitredaile.fr/contacts/)">Une superbe librairie à la Croix-Rousse</place>
