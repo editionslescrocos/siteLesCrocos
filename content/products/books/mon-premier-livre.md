@@ -4,17 +4,19 @@ books_reserved:
   pages: 56
   isbn: 1f5fd5fd5f5f
   auteur: Fabien
-title: Mon premier livre
+title: Le voyage à Lyon
 description: 'Voici notre premier livre ! '
-image: "images/bdtest.jpg"
-imageProduct: "/images/les-crocodiles.jpg"
+image: images/bdtest.jpg
+imageProduct: "/images/couverture.png"
 images:
 - "/images/gal1.jpg"
 - "/images/gal2.jpg"
 - "/images/gal3.jpg"
-price: 33
-taxes: "TVAREDUITE"
-weight: "100"
+price: 21.5
+taxes: TVAREDUITE
+weight: 750
+order: 4
+
 ---
 Fusce non consequat risus. Quisque eget semper nisl. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed luctus cursus ex, et varius justo lobortis a. Ut eget ornare sem. Nulla porta risus id maximus facilisis. Nunc dapibus diam nisi, vel condimentum justo varius et.
 
