@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-5">
+  <div class="mt-5 mb-5">
     <transition name="slide">
       <Alert v-if="isSent" type="success" title="Message envoyé"
         >Merci pour votre message, nous nous efforcerons de vous répondre le

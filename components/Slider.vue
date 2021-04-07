@@ -12,10 +12,10 @@
             :src="`${item.image}`"
             class="w-full"
             fit="inside"
-            format="jpeg"
+            format="webp"
             height="400"
             width="800"
-            :placeholder="require('@/assets/placeholder.webp')"
+            :placeholder="require('@/assets/placeholder.png')"
           />
         </a>
 

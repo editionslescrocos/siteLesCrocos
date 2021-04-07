@@ -10,6 +10,7 @@
           :alt="doc.imageAlt"
           width="900"
           height="400"
+          :placeholder="require('@/assets/placeholder.png')"
         ></nuxt-picture>
       </div>
       <div
@@ -93,7 +94,7 @@ export default {
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
-        { name: "og:site_name", content: "catherine La Psy" },
+        { name: "og:site_name", content: "Editions les crocos" },
         {
           name: "og:description",
           content: this.doc.description

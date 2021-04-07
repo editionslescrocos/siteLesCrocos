@@ -20,17 +20,27 @@
           <div class="w-full md:w-1/3 pt-4">
             <nuxt-picture
               :src="doc.imageProduct"
-              width="400"
-              height="600"
+              :width="imageDimensions.w"
+              :height="imageDimensions.h"
               format="jpeg"
             />
-            <Btn isFull @click="index = 0"
-              ><img
-                class="inline mr-2"
-                :src="require('@/assets/book.svg')"
-                height="25"
-                width="25"
-              />Feuilleter</Btn
+
+            <Btn
+              v-if="doc.images.length"
+              isFull
+              isNotRounded
+              @click="index = 0"
+            >
+              <template v-if="doc.type === 'livre'"
+                ><img
+                  class="inline mr-2"
+                  :src="require('@/assets/book.svg')"
+                  height="25"
+                  width="25"
+                />Feuilleter</template
+              >
+
+              <template v-else>Plus d'images</template></Btn
             >
           </div>
 
@@ -92,15 +102,10 @@
 <script>
 export default {
   async asyncData({ $content, params }) {
-    const doc = await $content(
-      "products/books/" + params.slug || "index"
-    ).fetch();
-
+    const doc = await $content("products/" + params.slug || "index").fetch();
     const general = await $content("general").fetch();
-
     const links = await $content("links").fetch();
     const { menus, networks, footer } = links;
-
     return {
       doc,
       networks,
@@ -109,17 +114,20 @@ export default {
       footer
     };
   },
-
   data() {
     return {
       index: null
     };
   },
-
+  computed: {
+    imageDimensions() {
+      if (this.doc.type !== "livre") return { w: 400, h: 400 };
+      return { w: 400, h: 600 };
+    }
+  },
   head() {
     return {
       title: this.doc.title,
-
       meta: [
         {
           hid: "description",
@@ -128,7 +136,7 @@ export default {
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
-        { name: "og:site_name", content: "catherine La Psy" },
+        { name: "og:site_name", content: "Editions les crocos" },
         {
           name: "og:description",
           content: this.doc.description

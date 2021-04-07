@@ -10,6 +10,7 @@
           :alt="doc.imageAlt"
           width="900"
           height="400"
+          :placeholder="require('@/assets/placeholder.png')"
         ></nuxt-picture>
       </div>
       <div
@@ -45,11 +46,13 @@ export default {
   async asyncData({ $content, params }) {
     const doc = await $content(`product` || "index").fetch();
 
-    const books = await $content("products/books" || "index")
-      .sortBy("order", "asc")
+    const books = await $content("products" || "index")
+      .where({ type: "livre" })
+      .sortBy("order", "desc")
       .fetch();
-    const otherProducts = await $content("products/others" || "index")
-      .sortBy("order", "asc")
+    const otherProducts = await $content("products" || "index")
+      .where({ type: "autre" })
+      .sortBy("order", "desc")
       .fetch();
 
     const general = await $content("general").fetch();
