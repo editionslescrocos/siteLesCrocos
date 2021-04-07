@@ -7,6 +7,7 @@ description: Voici les endroits où vous pouvez nous retrouver
 ## Salons
 
 ## Chez votre libraire préféré
+
 ### Brest
 
 <place title="Dialogues" address="53 rue de Siam, 29200 Brest" website="https://www.librairiedialogues.fr">Une superbe librairie Brestoise</place>
@@ -14,3 +15,5 @@ description: Voici les endroits où vous pouvez nous retrouver
 <place title="Le Chat Pitre" address="33 rue de l'esbrouffe, 29200 Brest" website="https://www.unchatpitre.fr">Une fausse librairie</place>
 
 ### Lyon
+
+<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="[https://www.librairiedialogues.fr](https://www.atitredaile.fr "https://www.atitredaile.fr")">Une superbe librairie Brestoise</place>
