@@ -1,7 +1,7 @@
 ---
 title: Nous trouver
 subtitle: Site en construction
-description: Voici les endroits où vous pouvez nous retrouver
+description: Site en construction
 
 ---
 ## Salons
