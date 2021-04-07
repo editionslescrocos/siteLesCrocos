@@ -1,6 +1,6 @@
 ---
 title: Nos livres - site en construction
-subtitle: Nos livres sont imprimés en France et garantis sans loups
+subtitle: ''
 description: Cocorico ! …fait le croco qui trouvé un éditeur près de chez lui ! Nous
   imprimons nos livres chez Chirat dans la Loire, un imprimeur certifié Imprim’Vert.
   Nous les distribuons et les diffusons nous-mêmes, avec nos petites pattes. Pour
