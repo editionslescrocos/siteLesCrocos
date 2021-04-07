@@ -1,5 +1,5 @@
 ---
-type: book
+type: livre
 order: 3
 books_reserved:
   pages: 0
