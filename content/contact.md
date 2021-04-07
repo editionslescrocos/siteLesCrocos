@@ -1,9 +1,8 @@
 ---
 title: Nous contacter
 subtitle: ''
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lobortis,
-  risus et tempus maximus, diam elit accumsan tellus, finibus laoreet felis arcu eu
-  ligula.
+description: Vous avez une remarque ? Une question ? Une idée ? Un projet ? N'hésitez
+  pas à nous contacter ! Nous vous répondons dans le plus bref délai...
 
 ---
 <contact-form></contact-form>
