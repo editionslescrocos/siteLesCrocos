@@ -13,6 +13,7 @@ images: []
 taxes: TVAREDUITE
 price: 20.5
 weight: 
+type: livre
 
 ---
 test !
