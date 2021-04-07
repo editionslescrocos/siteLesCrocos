@@ -12,6 +12,20 @@ fields:
     min: 
     max: 
     step: 
+- name: type
+  type: select
+  default: livre
+  config:
+    required: true
+    options:
+    - livre
+    - autre
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de produit
 - name: title
   type: text
   config:
@@ -122,5 +136,8 @@ fields:
         path: 
     label: Langue
   label: Pour les livres
+  showOnly:
+    field: type
+    value: livre
 pages:
 - content/products/books/livre-4.md
