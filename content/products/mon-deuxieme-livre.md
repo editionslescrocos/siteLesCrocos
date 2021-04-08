@@ -1,6 +1,6 @@
 ---
 type: livre
-order: 3
+order: 1
 books_reserved:
   pages: 0
   isbn: ''
