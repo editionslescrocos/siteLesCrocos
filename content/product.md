@@ -9,13 +9,13 @@ description: Cocorico ! …fait le croco qui trouvé un éditeur près de chez l
   !
 
 ---
-## Voici nos supers livres 
+## Voici nos supers livres
 
-Bla bla bla bla bla
+Ceci n'est pas notre livre…
 
 ![](/images/bdtest.jpg)
 
-**dsfdfdsf** 
+**dsfdfdsf**
 
 _ffdsfsd_
 
