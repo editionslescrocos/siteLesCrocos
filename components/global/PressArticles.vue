@@ -14,7 +14,7 @@
               >
               </nuxt-img>
               <h3>{{ article.title }}</h3>
-              <p class="font-semibold text-lg">{{ article.dateForHuman }}</p>
+              <p class=" text-lg">{{ article.dateForHuman }}</p>
               <p>
                 <a v-if="article.url" :href="article.url" target="blank">
                   <Btn>En savoir plus</Btn>
@@ -22,7 +22,7 @@
 
                 <a
                   v-if="article.document"
-                  :href="`images/${article.document}`"
+                  :href="`${article.document}`"
                   target="blank"
                 >
                   <Btn>En savoir plus</Btn>
@@ -37,6 +37,8 @@
 </template>
 
 <script>
+const { DateTime } = require("luxon");
+
 export default {
   computed: {
     years() {
@@ -51,7 +53,8 @@ export default {
 
   data() {
     return {
-      articles: []
+      articles: [],
+      index: null
     };
   },
   async fetch() {
@@ -60,9 +63,11 @@ export default {
       .fetch();
 
     articles.map(article => {
-      const articleDate = new Date(article.date);
       const options = { month: "long", year: "numeric" };
-      article.dateForHuman = articleDate.toLocaleDateString("fr-FR", options);
+
+      var dt = DateTime.fromISO(article.date);
+
+      article.dateForHuman = dt.setLocale("fr").toLocaleString(options);
     });
 
     this.articles = articles;

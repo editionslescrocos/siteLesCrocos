@@ -23,6 +23,7 @@
               :width="imageDimensions.w"
               :height="imageDimensions.h"
               format="jpeg"
+              fit="outside"
             />
 
             <Btn

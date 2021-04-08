@@ -12,7 +12,7 @@
             :src="`${item.image}`"
             class="w-full"
             fit="inside"
-            format="webp"
+            format="jpeg"
             height="400"
             width="800"
             :placeholder="require('@/assets/placeholder.png')"
