@@ -16,4 +16,4 @@ description: Site en construction
 
 ### Lyon
 
-<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="[Contacts – à Titre d'Aile (atitredaile.fr)](https://atitredaile.fr/contacts/)">Une superbe librairie à la Croix-Rousse</place>
+<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="[Contacts – à Titre d'Aile (atitredaile.fr)](https://atitredaile.fr "https://atitredaile.fr")">Une superbe librairie à la Croix-Rousse</place>
