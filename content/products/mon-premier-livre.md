@@ -11,7 +11,7 @@ books_reserved:
     Sylvère Jouin
   lang: fr_FR
 title: Le voyage à Lyon
-description: 'Voici notre premier livre ! '
+description: Une BD jeunesse qui invite aux balades à Lyon
 image: ''
 imageProduct: "/images/couverture.png"
 images:
