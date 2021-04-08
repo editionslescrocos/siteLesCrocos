@@ -6,6 +6,8 @@ description: Site en construction
 ---
 ## Salons
 
+En attente
+
 ## Chez votre libraire préféré
 
 ### Lyon
