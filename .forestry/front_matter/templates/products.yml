@@ -141,4 +141,5 @@ fields:
     value: livre
 pages:
 - content/products/a-stopover-in-lyon.md
+- content/products/cartes-postales.md
 - content/products/mini-livre.md
