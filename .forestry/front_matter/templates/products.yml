@@ -139,3 +139,5 @@ fields:
   showOnly:
     field: type
     value: livre
+pages:
+- content/products/a-stopover-in-lyon.md
