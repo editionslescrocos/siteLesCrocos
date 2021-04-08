@@ -3,6 +3,9 @@ title: Nous contacter
 subtitle: ''
 description: Vous avez une remarque ? Une question ? Une idée ? Un projet ? Contactez-nous.
   Nous vous répondrons dans les plus brefs délais.
+images:
+- ''
+image: "/images/pigeon-voyageur.gif"
 
 ---
 ## Nous contacter par email
