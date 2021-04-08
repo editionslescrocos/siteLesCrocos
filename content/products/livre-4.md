@@ -5,13 +5,13 @@ books_reserved:
   isbn: ''
   auteur: ''
   lang: ''
-title: 'Livre 4 '
+title: Livre factice
 imageProduct: images/51yc9ufjhbl-_sx348_bo1-204-203-200_.jpg
 image: ''
 description: ''
 images: []
 taxes: TVAREDUITE
-price: 20.5
+price: 0
 weight: 
 type: livre
 
