@@ -139,5 +139,3 @@ fields:
   showOnly:
     field: type
     value: livre
-pages:
-- content/products/books/livre-4.md
