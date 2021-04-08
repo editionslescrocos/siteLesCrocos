@@ -1,8 +1,8 @@
 ---
-title: France Bleue Armorique
-image: images/brest.jpg
-date: 2019-10-01T00:00:00+02:00
-url: https://www.youtube.com/watch?v=NAgXIWRz_wg
+title: France 3 Pays de la Loire
+image: "/images/capture-d-ecran-2021-04-08-a-12-48-32.png"
+date: 2021-03-25T00:00:00+01:00
+url: https://www.youtube.com/watch?v=tazOihWhMao
 
 ---
-Présentation de nos livres à la radio
+Interview de notre dessinateur… Pour un autre livre !
