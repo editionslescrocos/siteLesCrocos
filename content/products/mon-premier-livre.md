@@ -6,7 +6,7 @@ books_reserved:
   auteur: Fabien
 title: Le voyage à Lyon
 description: 'Voici notre premier livre ! '
-image: "/images/capture-d-ecran-2021-04-08-a-11-37-18.png"
+image: ''
 imageProduct: "/images/couverture.png"
 images:
 - "/images/capture-d-ecran-2021-04-08-a-11-36-18.png"
