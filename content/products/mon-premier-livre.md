@@ -6,11 +6,11 @@ books_reserved:
   auteur: Fabien
 title: Le voyage à Lyon
 description: 'Voici notre premier livre ! '
-image: images/bdtest.jpg
+image: "/images/capture-d-ecran-2021-04-08-a-11-37-18.png"
 imageProduct: "/images/couverture.png"
 images:
-- "/images/gal1.jpg"
-- "/images/gal2.jpg"
+- "/images/capture-d-ecran-2021-04-08-a-11-36-18.png"
+- "/images/capture-d-ecran-2021-04-08-a-11-37-18.png"
 - "/images/gal3.jpg"
 price: 21.5
 taxes: TVAREDUITE
