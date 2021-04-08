@@ -1,9 +1,15 @@
 ---
 type: livre
 books_reserved:
-  pages: 56
-  isbn: 1f5fd5fd5f5f
-  auteur: Fabien
+  pages: 160
+  isbn: 978-2-9576966-0-4
+  auteur: |-
+    Alexandra Horvath
+
+    Stéphane Perraud
+
+    Sylvère Jouin
+  lang: fr_FR
 title: Le voyage à Lyon
 description: 'Voici notre premier livre ! '
 image: ''
