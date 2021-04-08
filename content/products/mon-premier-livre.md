@@ -6,7 +6,7 @@ books_reserved:
   auteur: |-
     Alexandra Horvath;
 
-    Stéphane Perraud;![](/images/photo-cilvert.jpg)
+    Stéphane Perraud;
 
     Sylvère Jouin
   lang: fr_FR
