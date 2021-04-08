@@ -1,6 +1,6 @@
 ---
 title: On parle de nous
-subtitle: On attend les premières articles de presse...
+subtitle: On attend les premier articles de presse...
 
 ---
 ## Lorem Ipsum !
