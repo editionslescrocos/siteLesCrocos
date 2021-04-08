@@ -1,7 +1,7 @@
 ---
-title: On parle de nous
+title: La presse parle de nous
 subtitle: ''
-description: On attend les premier articles de presse...
+description: On attend les premier articles de presse
 
 ---
 ## LOREM IPSUM
