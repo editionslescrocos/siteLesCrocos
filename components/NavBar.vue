@@ -10,8 +10,8 @@
 
         <div class="flex-grow">
           <div class="pl-8 menu">
-            <div class="mt-8 hidden md:block title-site">
-              <div class="flex pb-3 mr-5 border-b-2 border-gray-200">
+            <div class="mt-8 md:block title-site">
+              <div class="flex pb-3  md:border-b-2  md:border-gray-200">
                 <div class="flex-auto">
                   <h1
                     v-if="isHOne"
@@ -28,10 +28,37 @@
                   </div>
                 </div>
 
-                <div
-                  class="hidden md:block text-right social-networks flex-auto"
-                >
-                  <nav class="space-x-3">
+                <div class="  flex-auto">
+                  <div class="w-full text-right items-center mr-0 ">
+                    <label
+                      for="menu-toggle"
+                      class="cursor-pointer md:hidden block"
+                    >
+                      <button
+                        class="text-black border-2 border-black rounded-md "
+                        aria-label="Open Menu"
+                        @click="drawer"
+                      >
+                        <svg
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="2"
+                          viewBox="0 0 24 24"
+                          class="w-8 h-8"
+                        >
+                          <path d="M4 6h16M4 12h16M4 18h16"></path>
+                        </svg>
+                      </button>
+                    </label>
+
+                    <input class="hidden" type="checkbox" id="menu-toggle" />
+                  </div>
+
+                  <nav
+                    class=" md:block text-right social-networks hidden space-x-3"
+                  >
                     <nuxt-link to="/contact" class="inline-block">
                       <img
                         :src="require(`@/assets/contact.svg`)"
@@ -79,29 +106,6 @@
                   (<span class="snipcart-items-count">0</span>)
                 </button>
               </nav>
-            </div>
-            <div class="w-full text-right items-center mr-0 md:mr-4">
-              <label for="menu-toggle" class="cursor-pointer md:hidden block">
-                <button
-                  class="text-black border-2 border-black rounded-md mr-5"
-                  aria-label="Open Menu"
-                  @click="drawer"
-                >
-                  <svg
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
-                    viewBox="0 0 24 24"
-                    class="w-8 h-8"
-                  >
-                    <path d="M4 6h16M4 12h16M4 18h16"></path>
-                  </svg>
-                </button>
-              </label>
-
-              <input class="hidden" type="checkbox" id="menu-toggle" />
             </div>
           </div>
         </div>
@@ -173,27 +177,27 @@ export default {
   props: {
     isHOne: {
       type: Boolean,
-      default: false,
+      default: false
     },
     networks: {
       type: Array,
-      default: [],
+      default: []
     },
     menus: {
       type: Array,
-      default: [],
-    },
+      default: []
+    }
   },
 
   data() {
     return {
-      isOpen: false,
+      isOpen: false
     };
   },
   methods: {
     drawer() {
       this.isOpen = !this.isOpen;
-    },
+    }
   },
   watch: {
     isOpen: {
@@ -203,14 +207,14 @@ export default {
           if (isOpen) document.body.style.setProperty("overflow", "hidden");
           else document.body.style.removeProperty("overflow");
         }
-      },
-    },
+      }
+    }
   },
   mounted() {
-    document.addEventListener("keydown", (e) => {
+    document.addEventListener("keydown", e => {
       if (e.keyCode == 27 && this.isOpen) this.isOpen = false;
     });
-  },
+  }
 };
 </script>
 

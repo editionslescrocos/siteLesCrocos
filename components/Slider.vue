@@ -22,7 +22,7 @@
         <div style="background-color: powderblue">
           <div class="py-3 px-6">
             <div class="md:flex">
-              <div class="flex-1">
+              <div class="flex-1 text-center">
                 <span class="item-title">
                   {{ item.title }}
                 </span>
