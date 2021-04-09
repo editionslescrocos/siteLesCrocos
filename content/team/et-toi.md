@@ -1,7 +1,7 @@
 ---
 isFounder: false
 order: 6
-title: Et Toi?
+title: Et Vous?
 image: "/images/logo-tranche.svg"
 href: ''
 
