@@ -10,6 +10,7 @@
           :alt="doc.imageAlt"
           width="900"
           height="400"
+          quality="80"
         ></nuxt-picture>
       </div>
       <div
@@ -18,10 +19,11 @@
       >
         <div class="md:flex md:flex-row md:flex-row-reverse">
           <div class="w-full md:w-1/3 pt-4">
-            <nuxt-picture
+            <nuxt-img
               :src="doc.imageProduct"
               :width="imageDimensions.w"
               :height="imageDimensions.h"
+              quality="80"
               format="jpeg"
               fit="outside"
             />
