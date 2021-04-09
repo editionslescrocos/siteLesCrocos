@@ -1,6 +1,6 @@
 ---
 title: Stéphane
-image: "/images/stephane-pour-le-web.jpg"
+image: "/images/stephane-photo.jpg"
 order: 2
 isFounder: true
 
