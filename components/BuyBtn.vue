@@ -28,7 +28,7 @@ export default {
   props: {
     color: {
       type: String,
-      default: "customGreen-dark"
+      default: "customRed"
     },
     typeButton: {
       type: String,

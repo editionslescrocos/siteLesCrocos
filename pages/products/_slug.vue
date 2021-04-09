@@ -79,10 +79,10 @@
             <BuyBtn class="mt-3" :product="doc"
               ><img
                 class="inline mr-2"
-                :src="require('@/assets/basket-in.svg')"
+                :src="require('@/assets/cart.svg')"
                 height="25"
                 width="25"
-              />Commander {{ doc.price }}€</BuyBtn
+              />Commander {{ doc.priceToDiplay }}</BuyBtn
             >
           </div>
         </div>
@@ -144,6 +144,18 @@ export default {
         }
       ]
     };
+  },
+  created() {
+    var formatter = new Intl.NumberFormat("fr-FR", {
+      style: "currency",
+      currency: "EUR"
+
+      // These options are needed to round to whole numbers if that's what you want.
+      //minimumFractionDigits: 0, // (this suffices for whole numbers, but will print 2500.10 as $2,500.1)
+      //maximumFractionDigits: 0, // (causes 2500.99 to be printed as $2,501)
+    });
+
+    this.doc.priceToDiplay = formatter.format(this.doc.price);
   },
   jsonld() {
     return {
