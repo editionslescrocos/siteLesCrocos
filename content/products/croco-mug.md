@@ -16,5 +16,5 @@ weight: 125
 Ce mug n'existe pas… Et c'est bien dommage !
 
 * hehhehe
-* hheheheh :           hhhhhhh
-* hehheh : 160 hg
+* hheheheh :
+* hehheh :
