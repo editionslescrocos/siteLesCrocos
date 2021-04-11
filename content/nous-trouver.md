@@ -5,9 +5,6 @@ description: Site en construction
 image: "/images/carte-pour-site.jpg"
 
 ---
-## Salons
-
-En attente
 
 ## Chez votre libraire préféré
 
