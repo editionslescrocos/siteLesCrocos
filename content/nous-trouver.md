@@ -2,7 +2,7 @@
 title: Nous trouver
 subtitle: Site en construction
 description: Site en construction
-image: "/images/carte-pour-site.jpg"
+image: "/images/carte-2.jpg"
 
 ---
 
