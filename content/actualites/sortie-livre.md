@@ -1,6 +1,6 @@
 ---
 title: C'est le confinement…
-description: "Les Crocos avancent masqués ! On rêve de voyage et de liberté.\n\n"
+description: "Les Crocos avancent masqués !\n\n"
 image: "/images/croco-masque.png"
 createdAt: '2021-06-22T10:58:51.640+00:00'
 
