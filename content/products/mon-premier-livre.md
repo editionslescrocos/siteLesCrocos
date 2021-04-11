@@ -11,7 +11,11 @@ books_reserved:
     Sylvère Jouin
   lang: fr_FR
 title: Le voyage à Lyon
-description: Une BD pour découvrir Lyon à hauteur d'enfant
+description: 'Trois petites cigognes en migration s''arrêtent à Lyon suite à un incident
+  de vol. Elles n''ont qu''une envie : repartir au plus vite ! Mais une série de rencontres
+  va les faire changer d''avis. Avec leurs nouveaux amis, elles se lancent dans une
+  visite insolite de la ville. Une histoire en bande-dessinée pleine de surprises
+  pour découvrir Lyon à hauteur d''enfant.'
 image: ''
 imageProduct: "/images/couverture.png"
 images:
@@ -24,6 +28,4 @@ weight: 750
 order: 3
 
 ---
-Trois petites cigognes en migration s'arrêtent à Lyon suite à un incident de vol. Elles n'ont qu'une envie : repartir au plus vite ! Mais une série de rencontres va les faire changer d'avis.
-
-Avec leurs nouveaux amis, elles se lancent dans une visite insolite de la ville. Une histoire pleine de surprises pour découvrir Lyon à hauteur d'enfant.
+texte à enlever
