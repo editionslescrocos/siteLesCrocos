@@ -14,6 +14,6 @@ description: '2018 : nous cherchons un livre pour faire découvrir Lyon à nos e
 
 <team display="founder"></team>
 
-## Les collaborateurs ...
+## 
 
 <team display="collaborator"></team>
