@@ -8,10 +8,10 @@ images:
 image: "/images/zoophone-3.jpg"
 
 ---
-## Nous contacter par email
+## Via le formulaire
 
 <contact-form></contact-form>
 
-## Nous contacter par téléphone
+## Par téléphone
 
 Nous sommes joignables du lundi au vendredi au [0](tel:0606060606)[784029906]()
