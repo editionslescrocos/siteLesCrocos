@@ -4,9 +4,9 @@ books_reserved:
   pages: 160
   isbn: 978-2-9576966-0-4
   auteur: |-
-    Alexandra Horvath;
+    Alexandra Horvath ;
 
-    Stéphane Perraud;
+    Stéphane Perraud ;
 
     Sylvère Jouin
   lang: fr_FR
