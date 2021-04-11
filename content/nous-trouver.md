@@ -1,7 +1,7 @@
 ---
 title: Nous trouver
 subtitle: Site en construction
-description: Site en construction
+description: ''
 image: "/images/carte-5.jpg"
 
 ---
