@@ -5,8 +5,7 @@ description: ''
 image: "/images/carte-5.jpg"
 
 ---
-
-## Chez votre libraire préféré
+## Points de vente : librairies, musées, boutiques…
 
 ### Lyon
 
