@@ -5,7 +5,7 @@ description: Vous avez une remarque ? Une question ? Une idée ? Un projet ? Con
   Nous vous répondrons dans les plus brefs délais.
 images:
 - ''
-image: "/images/zoophone-2.jpg"
+image: "/images/zoophone-3.jpg"
 
 ---
 ## Nous contacter par email
