@@ -1,7 +1,7 @@
 ---
 title: Nos livres
 subtitle: En travaux. La boutique n'est pas encore ouverte…
-description: texte et logos à droite à enlever
+description: logos à droite à enlever
 
 ---
 ## Voici nos supers livres
