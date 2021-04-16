@@ -1,6 +1,6 @@
 ---
 label: products
-hide_body: false
+hide_body: true
 fields:
 - name: order
   type: number
@@ -84,61 +84,25 @@ fields:
   default: ''
   config:
     required: false
-    wysiwyg: false
+    wysiwyg: true
     schema:
       format: markdown
-  label: Description rapide
+  label: Description
   description: Description rapide du produit
 - name: images
   type: image_gallery
   config: {}
   label: Gallerie d'images
-- name: books_reserved
-  type: field_group
-  config: {}
-  fields:
-  - name: pages
-    type: number
-    label: Nombre de pages
-    description: ''
-    default: 0
-    required: true
-    config:
-      min: 
-      max: 
-      step: 
-  - name: isbn
-    type: text
-    config:
-      required: false
-    label: ISBN
-  - name: auteur
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: Auteur(s)
-  - name: lang
-    type: select
-    default: ''
-    config:
-      required: false
-      options:
-      - fr_FR
-      - en_EN
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: Langue
-  label: Pour les livres
-  showOnly:
-    field: type
-    value: livre
+- name: informations
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Informations
+  description: 'Informations sur le produit : auteurs, nombre de pages, ISBN etc ...'
 pages:
 - content/products/a-stopover-in-lyon.md
 - content/products/cartes-postales.md
