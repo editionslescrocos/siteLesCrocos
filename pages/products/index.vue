@@ -1,5 +1,10 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer">
+  <Layout
+    :general="general"
+    :networks="networks"
+    :menus="menus"
+    :footer="footer"
+  >
     <article>
       <div v-if="doc.image" class="relative z-2">
         <nuxt-picture
@@ -17,7 +22,7 @@
         class="page relative container z-11 md:rounded-lg shadow-xl bg-white pb-24 px-5 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-32'"
       >
-        <TitlePage :doc="doc" logos />
+        <TitlePage :doc="doc" />
 
         <div v-if="books.length">
           <h2 class="text-3xl  mb-4">Nos livres</h2>
@@ -56,7 +61,6 @@ export default {
       .fetch();
 
     const general = await $content("general").fetch();
-
     const links = await $content("links").fetch();
     const { menus, networks, footer } = links;
 

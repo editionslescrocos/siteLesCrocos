@@ -1,5 +1,11 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer" isHOne>
+  <Layout
+    :general="general"
+    :networks="networks"
+    :menus="menus"
+    :footer="footer"
+    isHOne
+  >
     <section>
       <Slider
         :items="slider"
@@ -10,13 +16,11 @@
     <div class="mt-20 mx-5">
       <section>
         <h2 class="text-customGreen text-3xl text-center md:text-left mb-4">
-          {{ general.presentationTitle }}
+          {{ general.presentationTextTitle }}
         </h2>
         <div class="flex justify-center flex-wrap">
           <div class="w-full md:w-1/2 ">
-            <p>
-              {{ general.presentationText }}
-            </p>
+            <p v-html="presentationText"></p>
             <p v-if="general.presentationURL" class="text-center md:text-left">
               <nuxt-link :to="general.presentationURL">
                 <Btn class="mt-5">En savoir plus </Btn>
@@ -70,6 +74,12 @@ export default {
       general,
       footer
     };
+  },
+  computed: {
+    presentationText: function() {
+      const doc = this.general.presentationText;
+      return doc.replace(/\n/g, "<br/>");
+    }
   }
 };
 </script>

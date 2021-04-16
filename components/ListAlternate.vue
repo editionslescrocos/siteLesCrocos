@@ -6,8 +6,8 @@
       class="items-top align-top"
       :class="[
         Number.isInteger(index / 2)
-          ? 'flex-row-reverse my-7 md:flex mb-20'
-          : 'my-7 md:flex mb-20'
+          ? 'flex-row-reverse my-4 md:flex'
+          : 'my-4 md:flex '
       ]"
     >
       <div
@@ -49,7 +49,7 @@
           {{ item.title }}
         </h3>
         <p v-show="!item.description" class="text-md">
-          {{ item.body.children[0].children[0].value }}
+          {{ item.description }}
         </p>
 
         <p v-if="item.description" class="text-md">{{ item.description }}</p>
@@ -73,7 +73,7 @@
           >
         </p>
 
-        <nuxt-link :to="item.path">
+        <nuxt-link :to="item.path" v-if="!item.noLink">
           <Btn v-if="!item.href && !onlyHref" class="mt-3 mr-2 inline-block"
             >En savoir plus</Btn
           >
@@ -88,7 +88,7 @@
               alt=""
               class="inline-block"
             />
-            Voir le site</Btn
+            Site web</Btn
           >
         </a>
       </div>

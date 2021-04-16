@@ -14,10 +14,11 @@
               >
               </nuxt-img>
               <h3>{{ article.title }}</h3>
-              <p class=" text-lg">{{ article.dateForHuman }}</p>
+              <p>{{ article.dateForHuman }}</p>
+              <p v-if="article.description">{{ article.description }}</p>
               <p>
                 <a v-if="article.url" :href="article.url" target="blank">
-                  <Btn>En savoir plus</Btn>
+                  <Btn>Voir</Btn>
                 </a>
 
                 <a
@@ -25,7 +26,7 @@
                   :href="`${article.document}`"
                   target="blank"
                 >
-                  <Btn>En savoir plus</Btn>
+                  <Btn>Voir</Btn>
                 </a>
               </p>
             </template>

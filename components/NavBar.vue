@@ -9,7 +9,7 @@
         </div>
 
         <div class="flex-grow">
-          <div class="pl-8 menu">
+          <div class="pl-12 menu">
             <div class="mt-8 md:block title-site">
               <div class="flex pb-3  md:border-b-2  md:border-gray-200">
                 <div class="flex-auto">
@@ -17,14 +17,14 @@
                     v-if="isHOne"
                     class="text-2xl md:text-4xl title-site text-customGreen"
                   >
-                    Maison d'édition jeunesse
+                    {{ general.presentationTitle }}
                   </h1>
 
                   <div
                     v-if="!isHOne"
                     class="text-2xl md:text-4xl title-site text-customGreen"
                   >
-                    Maison d'édition jeunesse
+                    {{ general.presentationTitle }}
                   </div>
                 </div>
 
@@ -139,7 +139,7 @@
             class="pt-5 pl-5 text-white font-medium text-lg hover:text-red-200"
           >
             <nuxt-link to="/">
-              <p class="text-xl title-site">Éditions les Crocos</p>
+              <p class="text-xl title-site">{{ general.presentationTitle }}</p>
             </nuxt-link>
           </div>
 
@@ -186,6 +186,10 @@ export default {
     menus: {
       type: Array,
       default: []
+    },
+    general: {
+      types: Object,
+      default: null
     }
   },
 

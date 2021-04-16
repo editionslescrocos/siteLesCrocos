@@ -1,5 +1,10 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer">
+  <Layout
+    :general="general"
+    :networks="networks"
+    :menus="menus"
+    :footer="footer"
+  >
     <article>
       <div v-if="doc.image" class="relative z-10">
         <nuxt-picture

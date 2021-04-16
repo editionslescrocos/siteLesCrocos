@@ -13,7 +13,7 @@
             class="w-full"
             fit="inside"
             format="jpeg"
-            height="400"
+            height="280"
             width="800"
             :placeholder="require('@/assets/placeholder.png')"
           />

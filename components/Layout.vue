@@ -3,6 +3,7 @@
     <NavBar
       class="navbar-site"
       :menus="menus"
+      :general="general"
       :networks="networks"
       :footer="footer"
       :isHOne="isHOne"
@@ -24,23 +25,26 @@ export default {
   props: {
     isHOne: {
       type: Boolean,
-      default: false,
+      default: false
     },
     networks: {
       type: Array,
-      default: [],
+      default: []
     },
     menus: {
       type: Array,
-      default: [],
+      default: []
+    },
+    general: {
+      types: Object,
+      default: null
     },
     footer: {
       type: Array,
-      default: [],
-    },
-  },
+      default: []
+    }
+  }
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

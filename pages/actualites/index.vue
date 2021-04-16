@@ -1,5 +1,10 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer">
+  <Layout
+    :general="general"
+    :networks="networks"
+    :menus="menus"
+    :footer="footer"
+  >
     <article>
       <div v-if="doc.image" class="relative z-10">
         <nuxt-picture
@@ -14,7 +19,7 @@
         ></nuxt-picture>
       </div>
       <div
-        class="page relative container z-20 md:rounded-lg shadow-xl bg-gray-50 pb-24 px-5 md:px-12 content mx-auto w-11/12"
+        class="page relative container z-20 md:rounded-lg shadow-xl  pb-24 px-5 md:px-12 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-32'"
       >
         <TitlePage :doc="doc" />
@@ -41,7 +46,7 @@ export default {
 
     const targetToFetch = "actualites";
     const currentPage = 1;
-    const itemsPerPage = 2;
+    const itemsPerPage = 4;
 
     const allItems = await $content(targetToFetch)
       .sortBy("created_at", "desc")

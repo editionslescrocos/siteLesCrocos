@@ -12,6 +12,7 @@
       :data-item-image="product.imageProduct"
       :data-item-description="product.description"
       :data-item-taxes="product.taxes"
+      :data-item-weight="product.weight"
     >
       <span>
         <slot></slot>

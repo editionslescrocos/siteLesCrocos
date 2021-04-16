@@ -2,8 +2,7 @@
 date: 2021-04-08T12:50:34.000+02:00
 title: Magazine Village
 image: "/images/article-village.jpg"
-url: ''
+url: ""
 document: "/images/visuel-presse-2.jpg"
-
+description: "Notre dessinateur est partout !"
 ---
-Notre dessinateur est partout !

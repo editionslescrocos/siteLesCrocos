@@ -1,5 +1,10 @@
 <template>
-  <Layout :networks="networks" :menus="menus" :footer="footer">
+  <Layout
+    :general="general"
+    :networks="networks"
+    :menus="menus"
+    :footer="footer"
+  >
     <article>
       <div v-if="doc.image" class="relative z-10 hidden md:block">
         <nuxt-picture
@@ -47,7 +52,7 @@
             >
           </div>
 
-          <div class="titles w-full md:w-2/3">
+          <div class="titles  md:mr-5 w-full md:w-2/3">
             <div class="pt-10">
               <h1 class="text-customGreen text-4xl mb-3">
                 {{ doc.title }}
@@ -58,24 +63,8 @@
               </p>
             </div>
 
-            <p
-              v-if="doc.description"
-              class="text-left text-lg font-semibold my-7"
-            >
-              {{ doc.description }}
-            </p>
-
-            <p v-if="doc.books_reserved.auteur">
-              <span class="font-semibold mr-8">Auteur(s)</span>
-              {{ doc.books_reserved.auteur }}
-            </p>
-            <p v-if="doc.books_reserved.pages">
-              <span class="font-semibold mr-8">Nombre de pages</span>
-              {{ doc.books_reserved.pages }}
-            </p>
-            <p v-if="doc.books_reserved.isbn">
-              <span class="font-semibold mr-8">ISBN</span>
-              {{ doc.books_reserved.isbn }}
+            <p class="text-left  my-5">
+              <nuxt-content :document="doc" />
             </p>
 
             <BuyBtn class="mt-3" :product="doc"
@@ -88,8 +77,6 @@
             >
           </div>
         </div>
-
-        <nuxt-content class="mt-6" :document="doc"></nuxt-content>
         <CoolLightBox
           :items="doc.images"
           :index="index"
