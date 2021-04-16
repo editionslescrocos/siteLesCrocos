@@ -1,6 +1,6 @@
 ---
 label: products
-hide_body: true
+hide_body: false
 fields:
 - name: order
   type: number
@@ -41,26 +41,6 @@ fields:
     maxSize: 64
   label: Image principale
   description: Image qui s'affiche en grand (exemple page d'un livre)
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Description
-  description: Description rapide du produit
-- name: informations
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Informations
-  description: 'Informations sur le produit : auteurs, nombre de pages, ISBN etc ...'
 - name: images
   type: image_gallery
   config: {}
