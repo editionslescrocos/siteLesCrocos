@@ -7,6 +7,15 @@ fields:
   config:
     required: false
   label: Titre
+- name: Description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: description
 - name: date
   type: datetime
   label: Date
