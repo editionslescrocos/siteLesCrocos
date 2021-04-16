@@ -89,10 +89,6 @@ fields:
       format: markdown
   label: Description
   description: Description rapide du produit
-- name: images
-  type: image_gallery
-  config: {}
-  label: Gallerie d'images
 - name: informations
   type: textarea
   default: ''
@@ -103,6 +99,10 @@ fields:
       format: markdown
   label: Informations
   description: 'Informations sur le produit : auteurs, nombre de pages, ISBN etc ...'
+- name: images
+  type: image_gallery
+  config: {}
+  label: Gallerie d'images
 pages:
 - content/products/a-stopover-in-lyon.md
 - content/products/cartes-postales.md
