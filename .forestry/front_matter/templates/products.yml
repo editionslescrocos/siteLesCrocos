@@ -12,20 +12,6 @@ fields:
     min: 
     max: 
     step: 
-- name: type
-  type: select
-  default: livre
-  config:
-    required: true
-    options:
-    - livre
-    - autre
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Type de produit
 - name: title
   type: text
   config:
@@ -43,30 +29,6 @@ fields:
     max: 
     step: 
     required: true
-- name: taxes
-  type: select
-  default: TVAREDUITE
-  config:
-    required: true
-    options:
-    - TVA
-    - TVAREDUITE
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Taxes
-- name: weight
-  type: number
-  label: Poids
-  description: poids du produit en grammes
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
 - name: imageProduct
   type: file
   config:
@@ -103,6 +65,44 @@ fields:
   type: image_gallery
   config: {}
   label: Gallerie d'images
+- name: type
+  type: select
+  default: livre
+  config:
+    required: true
+    options:
+    - livre
+    - autre
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de produit
+- name: taxes
+  type: select
+  default: TVAREDUITE
+  config:
+    required: true
+    options:
+    - TVA
+    - TVAREDUITE
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Taxes
+- name: weight
+  type: number
+  label: Poids
+  description: poids du produit en grammes
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - content/products/a-stopover-in-lyon.md
 - content/products/cartes-postales.md
