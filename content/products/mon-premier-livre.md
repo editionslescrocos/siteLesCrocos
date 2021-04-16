@@ -26,6 +26,8 @@ price: 21.5
 taxes: TVAREDUITE
 weight: 750
 order: 3
+informations: "pages: 160  \nisbn: 978-2-9576966-0-4  \nauteur: \n\n* Alexandra Horvath
+  ;\n* Stéphane Perraud\n* Sylvère Jouin"
 
 ---
 texte à enlever
