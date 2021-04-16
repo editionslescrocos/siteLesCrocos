@@ -7,6 +7,10 @@ fields:
   config:
     required: false
   label: Titre
+- name: noLink
+  type: boolean
+  label: Ne pas faire de lien
+  description: Si activé il n'y aura pas de lien pour lire la suite
 - name: description
   type: textarea
   default: ''
