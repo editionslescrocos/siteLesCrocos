@@ -6,8 +6,8 @@
       class="items-top align-top"
       :class="[
         Number.isInteger(index / 2)
-          ? 'flex-row-reverse my-4 md:flex'
-          : 'my-4 md:flex '
+          ? 'flex-row-reverse my-2 md:flex'
+          : 'my-2 md:flex '
       ]"
     >
       <div

@@ -66,7 +66,7 @@ export default {
     articles.map(article => {
       const options = { month: "long", year: "numeric" };
 
-      var dt = DateTime.fromISO(article.date);
+      var dt = DateTime.fromISO(article.date, { locale: "fr" });
 
       article.dateForHuman = dt.setLocale("fr").toLocaleString(options);
     });

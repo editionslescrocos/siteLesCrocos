@@ -4,9 +4,9 @@
       <nuxt-img
         :src="`${product.imageProduct}`"
         format="jpeg"
-        width="400"
-        height="400"
-        fit="outside"
+        width="380"
+        height="380"
+        fit="inside"
         :alt="
           `image
         du

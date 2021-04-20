@@ -14,13 +14,13 @@
           class="md:rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
           width="900"
-          height="400"
+          height="300"
           quality="80"
         ></nuxt-picture>
       </div>
       <div
         class="relative container z-20 rounded-lg shadow-xl bg-white pb-24 px-5 md:px-12 mx-auto w-11/12 content"
-        :class="doc.image && 'md:-mt-32'"
+        :class="doc.image && 'md:-mt-16'"
       >
         <div class="md:flex md:flex-row md:flex-row-reverse">
           <div class="w-full md:w-1/3 pt-4">
@@ -77,6 +77,7 @@
             >
           </div>
         </div>
+        <Back to="/actualites">Retour au catalogue</Back>
         <CoolLightBox
           :items="doc.images"
           :index="index"
@@ -111,8 +112,8 @@ export default {
   },
   computed: {
     imageDimensions() {
-      if (this.doc.type !== "livre") return { w: 400, h: 400 };
-      return { w: 400, h: 600 };
+      if (this.doc.type !== "livre") return { w: 500, h: 500 };
+      return { w: 500, h: 700 };
     }
   },
   head() {

@@ -22,8 +22,7 @@ pour découvrir Lyon à hauteur d'enfant.
 pages: 160  
 isbn: 978-2-9576966-0-4
 
-auteurs:
-
+auteurs:  
 - Alexandra Horvath
 - Stéphane Perraud
 - Sylvère Jouin"

@@ -14,13 +14,13 @@
           class="rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
           width="900"
-          height="400"
+          height="300"
           :placeholder="require('@/assets/placeholder.png')"
         ></nuxt-picture>
       </div>
       <div
         class="page relative container z-11 md:rounded-lg shadow-xl bg-white pb-24 px-5 content mx-auto w-11/12"
-        :class="doc.image && 'md:-mt-32'"
+        :class="doc.image && 'md:-mt-16'"
       >
         <TitlePage :doc="doc" />
 
