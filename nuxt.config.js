@@ -27,19 +27,19 @@ export default {
         name: "og:description",
         content: "Les éditions les crocos proposent des livres pour enfants."
       }
-    ],
-    link: [
-      { rel: "preconnect", href: "https://app.snipcart.com" },
-      { rel: "preconnect", href: "https://cdn.snipcart.com" },
-      {
-        rel: "stylesheet",
-        href: "https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.css"
-      },
-      { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }
-    ],
-    script: [
-      { src: "https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.js" }
     ]
+    // link: [
+    //   { rel: "preconnect", href: "https://app.snipcart.com" },
+    //   { rel: "preconnect", href: "https://cdn.snipcart.com" },
+    //   {
+    //     rel: "stylesheet",
+    //     href: "https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.css"
+    //   },
+    //   { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }
+    // ],
+    // script: [
+    //   { src: "https://cdn.snipcart.com/themes/v3.1.0/default/snipcart.js" }
+    // ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -68,7 +68,7 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    //"@nuxtjs/snipcart",
+    "@nuxtjs/snipcart",
     "@nuxtjs/tailwindcss",
     "nuxt-compress",
     "@aceforth/nuxt-optimized-images",
@@ -103,10 +103,10 @@ export default {
     ]
   ],
 
-  // snipcart: {
-  //   key:
-  //     "NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
-  // },
+  snipcart: {
+    key:
+      "NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
+  },
 
   image: {
     ipx: {
