@@ -1,43 +1,38 @@
 <template>
-  <div class="md:flex md:justify-between mb-8">
-    <div>
-      <span class="font-bold" v-if="title">{{ title }}</span
-      ><br />
-      <slot></slot>
-      <p v-if="address">
-        <a
-          :href="`https://www.openstreetmap.org/search?query=${address}`"
-          target="blank"
-          class="underline"
-        >
-          <img
-            class="inline-block w-5 h-5 mr-1"
-            :src="require('@/assets/pin.svg')"
+  <div class="md:justify-between mb-8">
+    <span class="font-bold" v-if="title">{{ title }}</span
+    ><br />
+    <slot></slot>
+    <p v-if="address">
+      <a
+        :href="`https://www.openstreetmap.org/search?query=${address}`"
+        target="blank"
+        class="underline"
+      >
+        <img
+          class="inline-block w-5 h-5 mr-1"
+          :src="require('@/assets/pin.svg')"
+          alt=""
+          height="20"
+          width="20"
+        />
+        {{ address }}</a
+      >
+    </p>
+    <p>
+      <a v-if="website" :href="website" target="blank">
+        <Btn
+          ><img
+            :src="require('@/assets/chain.svg')"
             alt=""
             height="20"
             width="20"
+            class="inline-block w-5 h-5 mr-1"
           />
-          {{ address }}</a
+          Site web</Btn
         >
-      </p>
-    </div>
-
-    <div class="flex">
-      <div>
-        <a v-if="website" :href="website" target="blank">
-          <Btn
-            ><img
-              :src="require('@/assets/chain.svg')"
-              alt=""
-              height="20"
-              width="20"
-              class="inline-block w-5 h-5 mr-1"
-            />
-            Site web</Btn
-          >
-        </a>
-      </div>
-    </div>
+      </a>
+    </p>
   </div>
 </template>
 
@@ -46,19 +41,18 @@ export default {
   props: {
     title: {
       type: String,
-      default: "",
+      default: ""
     },
     address: {
       type: String,
-      default: "",
+      default: ""
     },
     website: {
       type: String,
-      default: "",
-    },
-  },
+      default: ""
+    }
+  }
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
