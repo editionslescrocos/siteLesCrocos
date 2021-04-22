@@ -1,10 +1,11 @@
 ---
-
 title: Nous trouver
 subtitle: Site en construction
 description: ""
 image: "/images/carte-5.jpg"
----## Points de vente : librairies, musées, boutiques…
+---
+
+## Points de vente : librairies, musées, boutiques…
 
 ### Lyon
 
