@@ -1,10 +1,10 @@
 ---
 title: Nous trouver
 subtitle: Site en construction
-description: ""
+description: ''
 image: "/images/carte-5.jpg"
----
 
+---
 ## Points de vente : librairies, musées, boutiques…
 
 ### Lyon
@@ -15,3 +15,11 @@ image: "/images/carte-5.jpg"
 <place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">Une super librairie de BD lyonnaise</place>
 
 </two-columns>
+
+<place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="[https://labd.net](https://labd.net "https://labd.net")">Une super librairie de BD lyonnaise</place>
+
+<place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="[https://labd.net](https://labd.net "https://labd.net")">Une super librairie de BD lyonnaise</place>
+
+### Grenoble
+
+<place title="Librairie LA GRENOBLOISE" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="[https://labd.net](https://labd.net "https://labd.net")">Une super librairie de BD lyonnaise</place>
