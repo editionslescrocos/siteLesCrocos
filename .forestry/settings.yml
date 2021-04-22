@@ -42,11 +42,6 @@ sections:
   templates:
   - press
 - type: directory
-  path: content/places
-  label: Points de vente
-  create: all
-  match: "**/*"
-- type: directory
   path: content/team
   label: Equipe
   create: all
