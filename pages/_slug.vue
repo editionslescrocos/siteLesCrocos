@@ -7,15 +7,16 @@
   >
     <article>
       <div v-if="doc.image" class="relative">
-        <nuxt-picture
+        <nuxt-img
           :src="doc.image"
           format="jpeg"
           fit="cover"
           class="rounded-t-md md:rounded-md shadow-inner border-gray-50 border-2"
+          sizes="sm:500 md:700 lg:900 "
           width="900"
           height="300"
           :placeholder="require('@/assets/placeholder.png')"
-        ></nuxt-picture>
+        ></nuxt-img>
       </div>
       <div
         class="page relative container bg-white shadow-xl md:rounded-lg pb-24 px-5 md:px-12 content mx-auto w-11/12"
