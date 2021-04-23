@@ -52,9 +52,9 @@
             >
           </div>
 
-          <div class="titles  md:mr-5 w-full md:w-2/3">
+          <div class=" md:mr-5 w-full md:w-2/3">
             <div class="pt-10">
-              <h1 class="text-customGreen text-4xl mb-3">
+              <h1 class=" text-2xl mb-3">
                 {{ doc.title }}
               </h1>
 
@@ -77,7 +77,7 @@
             >
           </div>
         </div>
-        <Back to="/actualites">Retour au catalogue</Back>
+        <Back to="/products">Retour au catalogue</Back>
         <CoolLightBox
           :items="doc.images"
           :index="index"
@@ -170,4 +170,8 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+h1 {
+  font-family: "Alata", sans-serif !important;
+}
+</style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="md:justify-between mb-8">
+  <div class="md:justify-between mb-12 md:mb-6">
     <span class="font-bold" v-if="title">{{ title }}</span
     ><br />
     <slot></slot>

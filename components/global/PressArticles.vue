@@ -2,7 +2,7 @@
   <div>
     <div v-for="year in years" :key="year">
       <h2 class="mt-8">{{ year }}</h2>
-      <div class="md:grid md:grid-cols-2 md:gap-6">
+      <div class="mb-8 md:mb-2 md:grid md:grid-cols-2 md:gap-6">
         <template v-for="article in articles">
           <div v-if="article.date.includes(year)">
             <template>
@@ -64,16 +64,33 @@ export default {
       .fetch();
 
     articles.map(article => {
-      const options = { month: "long", year: "numeric" };
-
-      var dt = DateTime.fromISO(article.date, { locale: "fr" });
-
-      article.dateForHuman = dt.setLocale("fr").toLocaleString(options);
+      let dt = DateTime.fromISO(article.date);
+      const numMonth = dt.setLocale("fr").toLocaleString({ month: "numeric" });
+      const month = getMonthInFrench(numMonth);
+      const year = dt.setLocale("fr").toLocaleString({ year: "numeric" });
+      article.dateForHuman = `${month} ${year}`;
     });
 
     this.articles = articles;
   }
 };
+
+function getMonthInFrench(nbMonth) {
+  return [
+    "janvier",
+    "févrer",
+    "mars",
+    "avril",
+    "mai",
+    "juin",
+    "juillet",
+    "août",
+    "septembre",
+    "octobre",
+    "novembre",
+    "décembre"
+  ][nbMonth++];
+}
 </script>
 
 <style lang="scss" scoped></style>

@@ -35,7 +35,7 @@
 
         <div v-if="otherProducts.length" class="mt-24">
           <h2 class="text-3xl  mb-4">Autres produits</h2>
-          <div class="grid grid-cols-3 gap-8">
+          <div class="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-8">
             <div v-for="product in otherProducts" :key="product.path">
               <ProductItem :product="product"></ProductItem>
             </div>

@@ -4,15 +4,15 @@
       <div class="flex items-top md:items-top mt-5">
         <div class="flex-none">
           <nuxt-link to="/">
-            <Logo class="ml-5" />
+            <Logo class="ml-2 md:ml-5" />
           </nuxt-link>
         </div>
 
         <div class="flex-grow">
-          <div class="pl-12 menu">
+          <div class="px-2 md:pl-12 menu">
             <div class="mt-8 md:block title-site">
               <div class="flex pb-3  md:border-b-2  md:border-gray-200">
-                <div class="flex-auto">
+                <div class="flex-auto text-center md:text-left">
                   <h1
                     v-if="isHOne"
                     class="text-2xl md:text-4xl title-site text-customGreen"
@@ -83,7 +83,7 @@
             </div>
 
             <div
-              class="hidden flex-grow md:inline-block order-3 md:order-1 mt-1"
+              class="hidden ml-2 flex-grow md:inline-block order-3 md:order-1 mt-1"
               id="menu"
             >
               <nav class="flex space-x-4">

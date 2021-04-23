@@ -8,13 +8,12 @@
         :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
       >
         <a :href="item.url">
-          <nuxt-picture
+          <nuxt-img
             :src="`${item.image}`"
-            class="w-full"
-            fit="inside"
+            class="w-full image"
+            fit="cover"
             format="jpeg"
-            height="320"
-            width="800"
+            sizes="sm:300px md:400px lg:550px"
             :placeholder="require('@/assets/placeholder.png')"
           />
         </a>
@@ -73,6 +72,23 @@ p {
   position: relative;
 }
 
+.image {
+  height: 550px;
+  object-fit: cover;
+}
+
+@media (max-width: 500px) {
+  .image {
+    height: 300px;
+  }
+}
+
+@media (min-width: 501px) and (max-width: 950px) {
+  .image {
+    height: 400px;
+  }
+}
+
 .slider-text {
   height: 100%;
 }
@@ -106,7 +122,7 @@ p {
 }
 
 .slick-dots li button:before {
-  margin-top: -50px;
+  margin-top: -40px;
   font-size: 20px;
   height: 20px;
   width: 20px;

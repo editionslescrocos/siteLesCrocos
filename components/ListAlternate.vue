@@ -3,7 +3,7 @@
     <div
       v-for="(item, index) in items"
       :key="item.order"
-      class="items-top align-top"
+      class="items-top align-top mb-20 md:mb-2"
       :class="[
         Number.isInteger(index / 2)
           ? 'flex-row-reverse my-2 md:flex'
