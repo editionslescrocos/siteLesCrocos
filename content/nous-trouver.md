@@ -5,9 +5,8 @@ description: ''
 image: "/images/carte-5.jpg"
 
 ---
-## Points de vente : librairies, musées, boutiques…
 
-### Lyon
+## Lyon
 
 <two-columns>
 
@@ -23,7 +22,7 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-### Autour de Lyon
+## Autour de Lyon
 
 <two-columns>
 
