@@ -1,21 +1,47 @@
 ---
 title: Mentions légales & politique de confidentialité
+
 ---
 ## MENTIONS LÉGALES
 
-Nous vous informons que, en accord avec les dispositions des articles 6-III et 19 de la loi pour la Confiance dans l’Économie Numérique, ce service de communication au public en ligne est édité par Editions les Crocos, 2B Rue Louis Bouquet, 69009 Lyon. Numéro de téléphone, à ne pas utiliser pour une quelconque prospection commerciale : 07 84 02 99 06.
+### Editeur
 
-Le directeur et l’éditeur de publication du présent site internet est Stéphane Perraud, Président de la S.A.S Editions les Crocos.
+* La société Editions les Crocos
 
-O2 Switch SARL, 222 Boulevard Gustave Flaubert, 63000 Clermont-Ferrand est l’hébergeur du présent site internet. Leur numéro de téléphone est le 04 44 44 60 40.
+  Société par Action Simplifiée au capital social de 5 000 euros. 
+* N°RCS : 898 008 438
+* N° TVA intercommunautaire XXX
+* Adresse du siège social : 2B rue Louis Bouquet, 69009 Lyon, France
+* Téléphone : +33 7 84 02 99 06
+* Adresse mail : contact@editionslescrocos.com
 
-L’adresse e-mail de contact du présent site est contact@editionslescrocos.com.
+### Directeur de publication
+
+Le directeur de publication du présent site internet est Monsieur Stéphane Perraud, joignable aux mêmes coordonnées que l'éditeur. 
+
+### Hébergeur
+
+XXX O2 Switch SARL, 222 Boulevard Gustave Flaubert, 63000 Clermont-Ferrand, France est l’hébergeur du présent site internet. Leur numéro de téléphone est le 04 44 44 60 40.
 
 ### Propriété intellectuelle
 
-L’éditeur du site possède, sauf mention explicite, la propriété totale et exclusive de tous les éléments composant le présent site : vidéos, images, textes, structure générale notamment.
+Sous réserve des droits de ses partenaires, le contenu du site est la propriété exclusive de l’Éditeur et est protégé par les lois françaises et internationales relatives à la propriété intellectuelle. Ce droit de propriété inclut, le cas échéant, les bases de données présentes sur le site qui sont protégées au titre du droit sui generis des producteurs de bases de données.
 
-Une quelconque représentation de ce site, qu’elle soit totale ou partielle, par une personne n’ayant pas obtenue l’autorisation explicite de la part de l’éditrice, constituerait une contrefaçon sanctionnée par les articles L. 335-2 et suivants du Code de la propriété intellectuelle et est donc de fait interdite et illégale. L’article L. 122-5 du Code de la propriété intellectuelle permet en revanche une courte citation du contenu à la condition que soient mentionnés clairement le nom de l’auteure et la source, avec un lien vers la page reliée du présent site web.
+Les éléments du site, pris dans leur ensemble ou individuellement, ne peuvent faire l’objet d’aucune utilisation, transformation, traduction, adaptation, reproduction, exploitation, totale ou partielle, non expressément autorisée par l’Éditeur, sous peine de poursuites. Cela signifie notamment que les utilisateurs du site ne peuvent télécharger ou copier-coller ces contenus à défaut d’autorisation expresse par la loi ou par l’Éditeur.
+
+### Liens hypertextes
+
+Le site est susceptible de diriger l’utilisateur via des liens hypertextes vers d’autres sites internet du même Éditeur ou de tiers. Il appartient à l’utilisateur de consulter les mentions légales de ces sites et de respecter leurs éventuelles conditions d’utilisation.
+
+L’Éditeur ne pourra en aucun cas être tenu pour responsable des informations diffusées sur les sites vers lesquels renvoient des liens hypertextes présents sur son site ainsi que de tous préjudices de quelque nature que ce soit résultant notamment de l’accès à ceux-ci.
+
+Si une personne dirige ses utilisateurs vers le présent site internet, l’Éditeur se réserve la possibilité de demander la suppression du lien hypertexte pointant vers ce site s’il estime que ce lien n’est pas conforme à ses droits et intérêts légitimes.
+
+### Crédits
+
+Le site a été réalisé par Fabien Grignoux.
+
+Les photographies sur le site ont été réalisées par Stéphane Perraud et ne sont pas libre de droits.
 
 ### Informatique et Libertés
 
