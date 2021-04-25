@@ -7,7 +7,7 @@
   >
     <article>
       <div v-if="doc.image" class="relative">
-        <nuxt-img
+        <nuxt-picture
           :src="doc.image"
           format="jpeg"
           fit="cover"
@@ -16,7 +16,7 @@
           width="900"
           height="300"
           :placeholder="require('@/assets/placeholder.png')"
-        ></nuxt-img>
+        ></nuxt-picture>
       </div>
       <div
         class="page relative container bg-white shadow-xl md:rounded-lg pb-24 px-5 md:px-12 content mx-auto w-11/12"
