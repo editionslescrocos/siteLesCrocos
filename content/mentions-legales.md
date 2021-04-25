@@ -43,6 +43,8 @@ Le site a été réalisé par Fabien Grignoux.
 
 Les photographies sur le site ont été réalisées par Stéphane Perraud et ne sont pas libre de droits.
 
+## Colitique de confidentialité
+
 ### Informatique et Libertés
 
 Les informations communiquées par le biais de formulaires sur le présent site internet possèdent l’utilité de répondre à la demande de l’utilisateur, et ne sont utilisées que par l’éditrice du site. L’utilisateur en est informé, conformément à l’article 32 de la loi n°78-17 du 6 janvier 1978 modifiée en 2004, relative à l’informatique, aux fichiers et aux libertés.
