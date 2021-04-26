@@ -51,6 +51,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Les mots bleus" address="13 rue Pierre Bouvier, 69270 Fontaines sur Saône" website="https://www.librairielesmotsbleus.com">Derrière cette façade toute bleue, demandez Marie ou Daphné.</place>
 
+<place title="Les mots bleus" address="13 rue Pierre Bouvier, 69270 Fontaines sur Saône" website="https://www.librairielesmotsbleus.com">Derrière cette façade toute bleue, demandez Marie ou Daphné.</place>
+
 </two-columns>
 
 ## Salons du livre
