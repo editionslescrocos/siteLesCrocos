@@ -37,6 +37,14 @@ image: "/images/carte-5.jpg"
 
 <place title="Les mots bleus" address="13 rue Pierre Bouvier, 69270 Fontaines sur Saône" website="https://www.librairielesmotsbleus.com">Derrière cette façade toute bleue, demandez Marie ou Daphné.</place>
 
+<place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local ! Y compris les livres !</place>
+
+<place title="Fantasio" address="33 avenue Henri Barbusse, 69100 Villeurbanne" website="https://www.facebook.com/librairiefantasio/"> Au cœur des Gratte-ciel et des Crocos </place>
+
+<place title="Expérience bis" address="42 rue Michel Servet, 69100 Villeurbanne" website="https://www.librairie-experience.com"> Au cœur des Gratte-ciel et des Crocos </place>
+
+<place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website=""> Epicerie engagée et éco-responsable ! Franchement trop bien. </place>
+
 </two-columns>
 
 ## Salons du livre
