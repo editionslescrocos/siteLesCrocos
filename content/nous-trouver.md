@@ -35,7 +35,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Expérience bis" address="42 rue Michel Servet, 69100 Villeurbanne" website="https://www.librairie-experience.com"> La librairie BD de Villeurbanne </place>
 
-<place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website="https://lell.market/"> Epicerie engagée et éco-responsable ! Avec un petit rayon librairie à découvrir. </place>
+<place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website="https://lell.market/"> Epicerie engagée et éco-responsable ! Avec un petit rayon librairie à découvrir</place>
 
 <place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres !</place>
 
@@ -45,18 +45,10 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Un coup de cœur pour cette librairie pleine d'idées !</place>
+<place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Un coup de cœur pour cette librairie pleine d'idées</place>
 
-<place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">LA librairie de Trévoux. Fondée par un collectif d'habitants !</place>
+<place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">LA librairie de Trévoux. Fondée par un collectif d'habitants</place>
 
-<place title="Les mots bleus" address="13 rue Pierre Bouvier, 69270 Fontaines sur Saône" website="https://www.librairielesmotsbleus.com">Derrière cette façade toute bleue, demandez Marie ou Daphné.</place>
-
-</two-columns>
-
-## Salons du livre
-
-### Bientôt...
-
-<two-columns>
+<place title="Les mots bleus" address="13 rue Pierre Bouvier, 69270 Fontaines sur Saône" website="https://www.librairielesmotsbleus.com">Derrière cette façade toute bleue, demandez Marie ou Daphné</place>
 
 </two-columns>
