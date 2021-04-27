@@ -19,11 +19,11 @@ va les faire changer d'avis. Avec leurs nouveaux amis, elles se lancent dans une
 visite insolite de la ville. Une histoire en bande-dessinée pleine de surprises
 pour découvrir Lyon à hauteur d'enfant.
 
-pages: 160  
-isbn: 978-2-9576966-0-4
-
-auteurs:
-
-- Alexandra Horvath
-- Stéphane Perraud
-- Sylvère Jouin"
+* Auteurs : Alexandra Horvath et Stéphane Perraud
+* Dessinateur : Le Cil Vert
+* 160 pages
+* Age : 5-9 ans
+* Couverture cartonnée
+* Format : 26,3 cm x 20,3 cm
+* ISBN : 978-2-9576966-0-4
+* Date de parution : avril 2021
