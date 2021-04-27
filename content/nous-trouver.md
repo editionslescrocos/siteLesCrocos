@@ -29,7 +29,7 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-## Villeurbanne
+## Autour de Lyon
 
 <two-columns>
 
@@ -38,12 +38,6 @@ image: "/images/carte-5.jpg"
 <place title="Expérience bis" address="42 rue Michel Servet, 69100 Villeurbanne" website="https://www.librairie-experience.com"> La librairie BD de Villeurbanne </place>
 
 <place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website="https://lell.market/"> Epicerie engagée et éco-responsable ! Avec un petit rayon librairie à découvrir</place>
-
-<two-columns>
-
-## Autour de Lyon
-
-<two-columns>
 
 <place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse !</place>
 
