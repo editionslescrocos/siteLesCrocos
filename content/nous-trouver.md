@@ -1,6 +1,6 @@
 ---
 title: Nous trouver
-subtitle: Site en construction
+subtitle: ''
 description: ''
 image: "/images/carte-5.jpg"
 
