@@ -8,16 +8,16 @@ title: Mentions légales & politique de confidentialité
 
 * La société Editions les Crocos
 
-  Société par Action Simplifiée au capital social de 5 000 euros. 
+  Société par Action Simplifiée au capital social de 5 000 euros.
 * N°RCS : 898 008 438
-* N° TVA intercommunautaire XXX
+* N° TVA intercommunautaire : FR 94898008438
 * Adresse du siège social : 2B rue Louis Bouquet, 69009 Lyon, France
 * Téléphone : +33 7 84 02 99 06
 * Adresse mail : contact@editionslescrocos.com
 
 ### Directeur de publication
 
-Le directeur de publication du présent site internet est Monsieur Stéphane Perraud, joignable aux mêmes coordonnées que l'éditeur. 
+Le directeur de publication du présent site internet est Monsieur Stéphane Perraud, joignable aux mêmes coordonnées que l'éditeur.
 
 ### Hébergeur
 
