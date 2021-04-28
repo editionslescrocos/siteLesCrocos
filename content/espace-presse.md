@@ -1,7 +1,7 @@
 ---
 title: La presse parle de nous
 subtitle: ''
-description: Bientôt les premiers articles de presse ?
+description: Rubrique en construction. En attendant les vrais articles de presse…
 
 ---
 <press-articles></press-articles>
