@@ -70,3 +70,5 @@ image: "/images/carte-5.jpg"
 <two-columns>
 
 <place title="Bientôt…"> </place>
+
+<two-columns>
