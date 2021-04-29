@@ -25,11 +25,11 @@ image: "/images/carte-5.jpg"
 
 <place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Ici, on trouve aussi des livres jeunesse en anglais. Dont le nôtre !</place>
 
-<place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Venez tester la nouvelle adresse !</place>
+<place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse !</place>
 
 <place title="Librairie Rive gauche" address="19 Rue de Marseille, 69007 Lyon" website="https://www.facebook.com/librairierivegauche/">Magnifique librairie au cœur de la Guillotière</place>
 
-<place title="Librairie Rive gauche" address="19 Rue de Marseille, 69007 Lyon" website="https://www.facebook.com/librairierivegauche/">Magnifique librairie au cœur de la Guillotière</place>
+<place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="http://librairielamadeleine.fr//">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter !</place>
 
 <place title="Damn Fine Bookstore" address="20 Rue Bechevelin, 69007 Lyon" website="https://damnfinebookstore.com/">Une librairie internationale, avec des livres en anglais, allemand, italien, espagnol et portugais + un coffee shop. The place to be !</place>
 
