@@ -18,7 +18,7 @@ Auteurs : Alexandra Horvath et Stéphane Perraud
 
 Dessinateur : Le Cil Vert
 
-ville. Une histoire en bande-dessinée pleine de surprises pour découvrir Lyon à hauteur d'enfant.
+ville. Une histoire en bande-dessinée pleine de surprises pour découvrir Lyon à hauteur d'enfant. ville. Une histoire en bande-dessinée pleine de surprises pour découvrir Lyon à hauteur d'enfant.
 
 * 160 pages
 * Age : 5-9 ans
