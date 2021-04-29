@@ -14,10 +14,8 @@ order: 3
 ---
 Trois petites cigognes en migration s'arrêtent à Lyon suite à un incident de vol. Elles n'ont qu'une envie : repartir au plus vite ! Mais une série de rencontres va les faire changer d'avis. Avec leurs nouveaux amis, elles se lancent dans une visite insolite de la ville. Une histoire en bande-dessinée pleine de surprises pour découvrir Lyon à hauteur d'enfant.
 
-Auteurs : Alexandra Horvath et Stéphane Perraud
-
-Dessinateur : Le Cil Vert
-
+* Auteurs : Alexandra Horvath et Stéphane Perraud
+* Dessinateur : Le Cil Vert
 * 160 pages
 * Age : 5-9 ans
 * Couverture cartonnée
