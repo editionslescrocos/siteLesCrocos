@@ -49,6 +49,8 @@ image: "/images/carte-5.jpg"
 
 <place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website="https://lell.market/"> Epicerie engagée et éco-responsable ! Avec un petit rayon librairie à découvrir</place>
 
+</two-columns>
+
 ## Autour de Lyon
 
 <two-columns>
