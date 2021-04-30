@@ -47,6 +47,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Expérience bis" address="42 rue Michel Servet, 69100 Villeurbanne" website="https://www.librairie-experience.com"> La librairie BD de Villeurbanne </place>
 
+<place title="Lettres à croquer" address="104 Cours Emile Zola, 69100 Villeurbanne" website="https://www.lettresacroquer.fr/">Des libraires qui croquent des livres ? Aux Editions les crocos, on ne peut que craquer !</place>
+
 <place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website="https://lell.market/"> Epicerie engagée et éco-responsable ! Avec un petit rayon librairie à découvrir</place>
 
 </two-columns>
