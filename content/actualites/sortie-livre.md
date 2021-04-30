@@ -1,7 +1,7 @@
 ---
 title: C'est le confinement…
 description: "Les Crocos avancent masqués !\n\n"
-image: "/images/croco-masque.png"
+image: "/images/imageactu_crocos.jpg"
 createdAt: '2021-06-22T10:58:51.640+00:00'
 noLink: false
 
