@@ -45,7 +45,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Fantasio" address="33 avenue Henri Barbusse, 69100 Villeurbanne" website="https://www.facebook.com/librairiefantasio/"> La plus grosse librairie de la ville, au cœur des Gratte-ciel </place>
 
-<place title="Expérience bis" address="42 rue Michel Servet, 69100 Villeurbanne" website="https://www.librairie-experience.com"> La librairie BD de Villeurbanne </place>
+<place title="Expérience bis" address="42 rue Michel Servet, 69100 Villeurbanne" website="https://www.librairie-experience.com"> La librairie BD de Villeurbanne. Au rayon jeunesse, la pétillante Flo, dingue de costumes… </place>
 
 <place title="Lettres à croquer" address="104 Cours Emile Zola, 69100 Villeurbanne" website="https://www.lettresacroquer.fr/">Des libraires qui croquent des livres ? Aux Editions les crocos, on ne peut que craquer !</place>
 
