@@ -1,7 +1,7 @@
 ---
 title: En projet
 description: Mangez avec les Crocos !
-image: "/images/manger.png"
+image: "/images/imageactu_simon.jpg"
 createdAt: '2020-06-22T10:58:51.640+00:00'
 noLink: false
 
