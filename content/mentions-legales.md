@@ -8,7 +8,7 @@ title: Mentions légales & politique de confidentialité
 
 * La société Editions les Crocos
 
-  Société par Action Simplifiée au capital social de 5 000 euros.
+  Société par Action Simplifiée au capital social de 5 000 euros
 * N°RCS : 898 008 438
 * N° TVA intercommunautaire : FR 94898008438
 * Adresse du siège social : 2B rue Louis Bouquet, 69009 Lyon, France
