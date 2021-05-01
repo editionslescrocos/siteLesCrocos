@@ -269,15 +269,3 @@ Tout litige relatif à l’interprétation ou à l’exécution de la politique 
 ## POUR NOUS CONTACTER
 
 Toute question concernant la Politique de confidentialité Editions les Crocos peut être adressée en cliquant sur le formulaire contact sur le site, ou via e-mail à editions@ailesetgraines.com.
-
-## Réalisation du site internet
-
-**Fabien Grignoux**  
-mail : [**fabien.grignoux@outlook.com**](mailto:fabien.grignoux@outlook.com)  
-site internet : [**https://developpeurfullstack.fr**](https://developpeurfullstack.fr "https://developpeurfullstack.fr")
-
-## Hébergement
-
-**Netlify**  
-610 22nd Street, Suite 315,  
-San Francisco, CA 94107 Site web : [**https://www.netlify.com**](https://www.netlify.com "https://www.netlify.com")
