@@ -1,17 +1,11 @@
 ---
 type: autre
-title: Croco mug !
+title: Mug croco
 imageProduct: images/mug.png
 images: []
-price: 12
+price: 0
 taxes: TVA
 weight: 125
+
 ---
-
-Le mug officiel des crocodiles
-
 Ce mug n'existe pas… Et c'est bien dommage !
-
-- hehhehe
-- hheheheh :
-- hehheh :
