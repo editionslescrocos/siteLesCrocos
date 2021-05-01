@@ -21,7 +21,11 @@ Le directeur de publication du présent site internet est Monsieur Stéphane Per
 
 ### Hébergeur
 
-XXX O2 Switch SARL, 222 Boulevard Gustave Flaubert, 63000 Clermont-Ferrand, France est l’hébergeur du présent site internet. Leur numéro de téléphone est le 04 44 44 60 40.
+Netlify  
+2325 3rd Street, Suite 296, San Francisco, California 94107,  
+Site web : **https://www.netlify.com**
+
+support@netlify.com
 
 ### Propriété intellectuelle
 
@@ -40,6 +44,9 @@ Si une personne dirige ses utilisateurs vers le présent site internet, l’Édi
 ### Crédits
 
 Le site a été réalisé par Fabien Grignoux.
+
+mail : [fabien.grignoux@outlook.com](mailto:fabien.grignoux@outlook.com)  
+site internet : [https://developpeurfullstack.fr]()
 
 Les photographies sur le site ont été réalisées par Stéphane Perraud et ne sont pas libre de droits.
 
