@@ -4,15 +4,15 @@ title: Conditions générales de vente
 ---
 Dernière mise à jour le 6 avril 2021.
 
-Bienvenue et merci pour votre confiance. Vous trouverez ci-après les Conditions Générales de Vente applicable au site www.editionslescrocos.com
+Bienvenue et merci pour votre confiance. Vous trouverez ci-après les Conditions Générales de Vente applicable au site www.editionslescrocos.com. Notre objectif est que vous soyez satisfait(e) de votre achat. Dans les cas contraires, n'hésitez pas à nous contacter via notre formulaire sur le site. 
 
 ## Article 1. DÉFINITIONS
 
 Les termes assortis d’une majuscule renvoient aux définitions suivantes :
 
-**La « Société »** désigne la société Editions les Crocos SAS dont le siège est situé au 2B rue Louis Bouquet 69009 Lyon, immatriculée au Registre du Commerce et des Sociétés sous le numéro \[…\] dont le numéro de TVA intracommunautaire est \[…\]
+**La « Société »** désigne la société Editions les Crocos SAS dont le siège est situé au 2B rue Louis Bouquet 69009 Lyon, immatriculée au Registre du Commerce et des Sociétés sous le numéro 898 008 438 dont le numéro de TVA intracommunautaire est FR 94898008438.
 
-**Le « Site »** désigne le site internet accessible à partir du lien URL [https://www.editionslescrocos.com](https://www.editionslescrocos.com "https://www.editionslescrocos.com").
+**Le « Site »** désigne le site internet accessible à partir du lien URL https://www.editionslescrocos.com.
 
 **L’ « Utilisateur »** désigne toute personne naviguant sur le Site.
 
@@ -52,7 +52,7 @@ Les Produits régis par les CGV sont décrits et présentés avec la plus grande
 
 **4.1. Majorité.** Le Client garantit à la Société qu’il est majeur et qu'il dispose des autorisations éventuellement nécessaires pour utiliser le mode de paiement choisi par lui, lors de la validation de la Commande.
 
-**4.2. Commande sur le Site.** Après avoir sélectionné le Produit qu’il souhaite acheter sur le Site, l’Utilisateur est dirigé vers une page de commande sur laquelle il renseigne ses coordonnées personnelles (nom, prénom, email, adresse postale, numéro de téléphone) et, le cas échéant, toutes les informations et coordonnées nécessaires et exactes pour permettre la livraison du Produit et la facturation de la Commande. L’Utilisateur sélectionne les modalités de paiement (paiement unique ou en plusieurs fois, mode de paiement) selon les possibilités offertes par la Société.
+**4.2. Commande sur le Site.** Après avoir sélectionné le Produit qu’il souhaite acheter sur le Site, l’Utilisateur est dirigé vers une page de commande sur laquelle il renseigne ses coordonnées personnelles (nom, prénom, email, adresse postale, numéro de téléphone) et, le cas échéant, toutes les informations et coordonnées nécessaires et exactes pour permettre la livraison du Produit et la facturation de la Commande. L’Utilisateur sélectionne les modalités de paiement selon les possibilités offertes par la Société.
 
 **4.3. Vérification des informations.** Le Client est seul responsable de l’exactitude des informations fournies et garantit la Société contre toute fausse identité. Le Client ne pourra tenir responsable la Société d’un manquement résultant de l’inexactitude ou de la fausseté des informations fournies au moment de la commande, qui seront utilisées pour livrer le Produit. Le Client doit s’assurer qu’il pourra effectivement recevoir le colis à l’adresse renseignée, en fonction des délais de livraison indiqués lors de la Commande.
 
@@ -82,7 +82,7 @@ En cas de vente internationale, tous droits de douane et taxes diverses exigible
 
 **5.3. Mode de paiement.** Pour régler sa commande, le Client dispose, à son choix, de l'ensemble des modes de paiement mis à sa disposition par la Société et listés sur le Site (notamment : Stripe, virement ou prélèvement bancaire).
 
-Le Client choisit le mode de prélèvement bancaire avec les systèmes et services de paiement proposés qui sont des services sécurisés fournis par des tiers à la Société soumis à des conditions contractuelles propres sur lesquelles la Société n’exerce aucun contrôle – notamment à titre indicatif pour Stripe ( [https://stripe.com/payment-terms/legal](https://stripe.com/payment-terms/legal "https://stripe.com/payment-terms/legal")).
+Le Client choisit le mode de prélèvement bancaire avec les systèmes et services de paiement proposés qui sont des services sécurisés fournis par des tiers à la Société soumis à des conditions contractuelles propres sur lesquelles la Société n’exerce aucun contrôle – notamment à titre indicatif pour Stripe ( https://stripe.com/payment-terms/legal).
 
 Dans ce cas, le paiement s’effectue par prélèvement SEPA ou à partir des informations de carte bancaire communiquées, selon le mode de paiement proposé par le prestataire de service de paiement et le choix du Client. La Société se réserve la possibilité de faire appel aux prestataires de service de paiement de son choix et d’en changer à tout moment.
 
@@ -116,53 +116,53 @@ A moins que la loi n’en dispose autrement, et sauf disposition contraire dans 
 
 **7.1. Délai.** Le Client dispose d’un droit lui permettant de se rétracter sans donner de motif dans un délai de quatorze jours, pour tout ou partie des Produits commandés. Ce délai est compté en jours calendaires et court à compter du lendemain de la réception du Produit par le Client ou tout tiers autorisé pour la livraison, à l’adresse indiquée ou en point de retrait. Dans le cas d'une Commande portant sur plusieurs Produits livrés séparément ou dans le cas d'une Commande d'un Produit composé de lots ou de pièces multiples dont la livraison est échelonnée sur une période définie, le délai court à compter de la réception du dernier Produit, ou lot/pièce. Si le délai expire un samedi, un dimanche ou un jour férié, il est prorogé jusqu'à l’expiration de la dernière heure du premier jour ouvrable suivant.
 
-**7.2. Mode d’exercice.** Pour exercer le droit de rétractation, le Client notifie sa décision de rétractation contrat au moyen d'une déclaration dénuée d'ambiguïté par voie postale à l’adresse 2B rue Louis Bouquet 69009 Lyon ou par mail à l’adresse contact@editionslescrocos.com. Le Client peut utiliser le modèle de formulaire de rétractation reproduit ci-après dans un encadré mais ce n'est pas obligatoire. La charge de la preuve de l'exercice du droit de rétractation pèse sur le Client.
+**7.2. Mode d’exercice.** Pour exercer le droit de rétractation, le Client notifie sa décision de rétractation contrat au moyen d'une déclaration dénuée d'ambiguïté par voie postale à l’adresse 2B rue Louis Bouquet 69009 Lyon, ou par mail à l’adresse contact@editionslescrocos.com. Le Client peut utiliser le modèle de formulaire de rétractation reproduit ci-après dans un encadré mais ce n'est pas obligatoire. La charge de la preuve de l'exercice du droit de rétractation pèse sur le Client.
 
 **7.3. Renvoi du Produit.** Le Client doit renvoyer ou restituer le Produit pour lequel il s’est rétracté, auprès de la Société au plus tard quatorze jours après l’envoi de sa décision de se rétracter. Ce délai est réputé respecté si le bien est renvoyé avant l'expiration du délai de quatorze jours dans les conditions de retour prévues. Les frais de retour des produits sont à la charge du Client. Les modalités de retour des Produits sont précisées à l’article « MODALITES DE RETOUR DES PRODUITS » auquel le Client se reporte.
 
 **7.4. Remboursement.** En cas de rétractation du Client, la Société rembourse le prix du Produit au plus tard quatorze jours, courant dès le lendemain du jour de la réception de la décision de rétractation du Client. La Société procède au remboursement en utilisant le même moyen de paiement que celui utilisé par le Client pour la transaction initiale, sauf s’il accepte expressément d'un moyen différent ; en tout état de cause, ce remboursement n'occasionnera pas de frais pour le Client. La Société pourra différer le remboursement jusqu'à ce que le Produit soit réceptionné, ou jusqu'à ce que le Client ait fourni une preuve d'expédition du Produit, la date retenue étant celle du premier de ces faits.
 
-**Attention manque tableau**
+**7.5. Modèle de formulaire de rétractation**
 
-### ATTENTION, CE DROIT DE RÉTRACTATION NE POURRA PAS ÊTRE EXERCÉ lorsque le Client est un professionnel.
+Veuillez copier sur une feuille A4 le texte ci-dessous si vous souhaitez vous rétracter du contrat :
+
+A l'attention de la Société Editions les Crocos SAS, 2B rue Louis Bouquet 69009 Lyon, [contact@editionslescrocos.com](mailto:contact@editionslescrocos.com) :
+
+_Je vous notifie par la présente ma rétractation du contrat portant sur la vente du produit ci-dessous :_
+
+* _Commandé le :_
+* _Nom de l'acheteur :_
+* _Adresse de l'acheteur :_
+
+  _Signature de l'acheteur uniquement en cas de notification du présent formulaire sur papier._ 
+
+  _Date :_
+
+###### ATTENTION, CE DROIT DE RÉTRACTATION NE POURRA PAS ÊTRE EXERCÉ lorsque le Client est un professionnel.
 
 ## Article 8. GARANTIES
 
 **8.1. Conditions.** Il est rappelé que les garanties légales de conformité et de vice caché sont prévues ci- après au bénéfice des Clients ayant la qualité de consommateur ou non-professionnels et supposent un usage normal des Produits selon les usages en vigueur. Ces garanties s’appliquent en dehors de toute garantie commerciale. Il est conseillé de contrôler le produit au moment de sa livraison et dans le cas où le Produit livré serait non conforme (**erreur de produit, produit défectueux, endommagé ou incomplet**), d’émettre des réserves écrites au plus tard dans les trois (3) jours suivant cette livraison, sans préjudice du délai de rétractation de quatorze (14) jours. En cas de défaut de conformité ou de vice- caché constaté, le Client retourne le Produit défectueux à la Société. Dans tous les cas, les délais légaux s’appliqueront.
 
-**8.2. Garantie de conformité.** La garantie de conformité est une garantie légale qui s’applique en dehors de tout engagement commercial. Le Client dispose d’un délai de deux ans à compter de la délivrance du Produit pour agir en application de la garantie légale de conformité. Dans ce cas, le Client choisit entre sa réparation ou son remplacement. Toutefois, si ce choix entraîne un coût manifestement disproportionné au regard de l'autre modalité possible, compte tenu de la valeur du bien ou de l'importance du défaut, le choix du Client pourra être écarté.
+**8.2. Dispositions légales.** En acceptant les CGV, le Client atteste avoir pris connaissance des dispositions légales suivantes :
 
-**8.3. Garantie contre les vices cachés.** La garantie contre les vices cachés est une garantie légale qui s’applique en dehors de tout engagement commercial. Le Client peut également décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l’article 1641 du Code civil. Dans cette hypothèse, le Client peut demander la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil. Dans tous les cas, l’article en question sera susceptible de faire l’objet d’une analyse directement par le fabricant, qu’il s’agisse de la Société ou d’un tiers.
-
-**8.4. Dispositions légales.** En acceptant les CGV, le Client atteste avoir pris connaissance des dispositions légales suivantes :
-
-Article **L. 217-4** du Code de la consommation : « Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité. »
+Article **L. 217-4** du Code de la consommation : « Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage.
 
 Article **L. 217-5** du Code de la consommation « Le bien est conforme au contrat :
 
-1° S'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
-
-\- s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;
-
-\- s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;
-
-2° Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté... » Article **L. 217-12** du Code de la consommation : « L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien. »
-
-Article **L. 217-16** du Code de la consommation : « Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir.
-
-Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention. » Article **1641** du Code civil : « Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. » Article **1648** du Code civil : « L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
-
-Dans le cas prévu par l'article 1642-1, l'action doit être introduite, à peine de forclusion, dans l'année qui suit la date à laquelle le vendeur peut être déchargé des vices ou des défauts de conformité apparents. »
+* s'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
+* s'il correspond à la description donnée par le vendeur sur le Site ;
+* s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage.
 
 ## Article 9. CONDITIONS DE RETOUR
 
 **9.1. Adresse.** Les produits sont à renvoyer à l’adresse suivante : Editions les Crocos, 2B rue Louis Bouquet, 69009 Lyon. Il sera demandé au Client de joindre dans son colis de renvoi une copie du courrier de confirmation de la Commande au format A4 ou un document manuscrit indiquant le numéro de la Commande et le montant réglé lors de la Commande, ainsi que le formulaire de rétractation ou toute autre déclaration dénuée d’ambiguïté quant à l’exercice du droit de rétractation, d’une garantie légale ou le cas échéant commerciale, justifiant le retour du Produit.
 
-**9.2. Etat.** Le Client doit retourner le Produit dans son conditionnement et emballage initial, comme il a été adressé par la Société peu important qu’il s’agisse de Produits d’occasion, le cas échéant. Tout Produit abîmé par rapport à l’état dans lequel il a été adressé, incomplet, ou dont l’emballage aurait été détérioré ne pourra faire l’objet d’aucune reprise, échange ou remboursement au Client. Notamment, tout Produit endommagé ou présentant des traces d’usures nouvelles et/ou odeurs ne peut faire l’objet d’un retour, y compris sur le fondement du droit de rétractation.
+**9.2. Etat.** Le Client doit retourner le Produit dans son conditionnement et emballage initial, comme il a été adressé par la Société. Tout Produit abîmé par rapport à l’état dans lequel il a été adressé, incomplet, ou dont l’emballage aurait été détérioré ne pourra faire l’objet d’aucune reprise, échange ou remboursement au Client. Notamment, tout Produit endommagé ou présentant des traces d’usures nouvelles et/ou odeurs ne peut faire l’objet d’un retour, y compris sur le fondement du droit de rétractation.
 
 **9.3. Frais de renvoi.** Les frais de retour sont à la charge du Client, y compris en cas d’exercice du droit de rétractation.
 
-**9.4. Remboursement.** Après réception du colis, la Société procède au remboursement intégral du Produit retourné, à l'exclusion des frais de livraison (sauf mention contraire dans les CGV, ou lorsque la loi prévoit ce remboursement). En cas de Commande de plusieurs Produits et de retour d’une partie de la Commande uniquement, le remboursement des frais de livraison se fait au prorata du nombre de Produits commandés et retournés dans les conditions prévues. A moins que la loi n’en dispose autrement, ne seront remboursés que les produits qui (i) sont renvoyés avec leurs emballages et étiquettes d'origine. En cas de retour ne respectant pas les conditions légales et/ou commerciales prévues, aucun remboursement ne saurait être exigible et le Client restera propriétaire du produit retourné, qu’il pourra venir récupérer directement auprès de la Société, ou qui lui sera renvoyé à ses frais dans un délai d’un mois au maximum, suivant la notification du refus de remboursement par la Société.
+**9.4. Remboursement.** Après réception du colis, la Société procède au remboursement intégral du Produit retourné, à l'exclusion des frais de livraison (sauf mention contraire dans les CGV, ou lorsque la loi prévoit ce remboursement). En cas de Commande de plusieurs Produits et de retour d’une partie de la Commande uniquement, le remboursement des frais de livraison se fait au prorata du nombre de Produits commandés et retournés dans les conditions prévues. A moins que la loi n’en dispose autrement, ne seront remboursés que les produits qui sont renvoyés avec leurs emballages d'origine. En cas de retour ne respectant pas les conditions légales et/ou commerciales prévues, aucun remboursement ne saurait être exigible et le Client restera propriétaire du produit retourné, qu’il pourra venir récupérer directement auprès de la Société, ou qui lui sera renvoyé à ses frais dans un délai d’un mois au maximum, suivant la notification du refus de remboursement par la Société.
 
 ## Article 10. ACCÈS AU SITE
 
@@ -176,11 +176,11 @@ Dans le cas prévu par l'article 1642-1, l'action doit être introduite, à pein
 
 La Société respecte la vie privée de ses Utilisateurs et Clients. Elle s’engage à ce que la collecte et le traitement automatisé de vos données qui ont pour finalité la fourniture et l’amélioration du Site, la prospection commerciale, la gestion des Commandes, des contrats et la délivrance des Produits, effectués à partir du Site soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés dans sa dernière version.
 
-Les informations demandées dans le cadre des formulaires disponibles sur le Site marquées d’un astérisque sont obligatoires et nécessaires à la gestion des demandes, et le défaut de réponse dans un champ obligatoire entraînera l'impossibilité pour la Société de traiter les demandes des Utilisateurs.
+Les informations demandées dans le cadre des formulaires disponibles sur le Site sont obligatoires et nécessaires à la gestion des demandes, et le défaut de réponse dans un champ entraînera l'impossibilité pour la Société de traiter les demandes des Utilisateurs.
 
 Les données à caractère personnel des personnes physiques ne seront pas conservées au-delà de la durée strictement nécessaire à la poursuite des finalités indiquées. Certaines données permettant d’établir la preuve d’un droit ou d’un contrat, peuvent faire l’objet d’une politique d’archivage intermédiaire pour une durée correspondant aux délais de prescription et forclusion des actions judiciaires ou administratives susceptibles de survenir.
 
-Tout Utilisateur est informé et accepte que le Site peut comporter des dispositifs techniques qui permettent de suivre l’utilisation (compte de l’utilisateur connecté, adresse IP, type d’application utilisées, logs divers de connexion et d’utilisation au compte Utilisateur…) et sont susceptibles d’être utilisées dans le cadre de la lutte anti-contrefaçon, et/ou pour identifier et/ou prévenir une éventuelle utilisation illicite ou non-conforme du Site
+Tout Utilisateur est informé et accepte que le Site peut comporter des dispositifs techniques qui permettent de suivre l’utilisation (compte de l’utilisateur connecté, adresse IP, type d’application utilisées, logs divers de connexion et d’utilisation au compte Utilisateur…) et sont susceptibles d’être utilisées dans le cadre de la lutte anti-contrefaçon, et/ou pour identifier et/ou prévenir une éventuelle utilisation illicite ou non-conforme du Site.
 
 Conformément à la loi Informatique et libertés et au RGPD, toute personne concernée par les traitements effectués par la Société dispose, selon les conditions du droit applicable, d’un droit d’accès, de rectification, à la limitation du traitement, d’opposition au traitement, à la portabilité, d’effacement de ses données ainsi qu’un droit de ne pas faire l’objet d’une décision automatisée y compris un profilage. Le cas échéant, la personne concernée dispose également du droit de retirer son consentement à tout moment.
 
@@ -240,17 +240,13 @@ Le Client peut également être invité à accepter les CGV modifiées et à dé
 
 **17.1. Responsabilité des Utilisateurs et Clients**
 
-L’Utilisateur ou le Client est seul responsable des interprétations qu'il fait des informations fournies au titre des contenus des Produits, des conseils qu'il déduit ou qui lui ont été fournis et des adaptations réalisées pour ses activités propres. L'exploitation des informations se fait sous la seule responsabilité du Client et à ses risques et périls, ce que le Client accepte expressément.
-
-Lorsque le Produit est livré avec un mode d’emploi ou tout guide d’usage, y compris par renvoi à un lien URL, le Client s’engage à en prendre connaissance et utiliser le Produit conformément aux recommandations fournies.
+L’Utilisateur ou le Client est seul responsable des interprétations qu'il fait des informations fournies au titre des contenus des Produits, des conseils qu'il déduit ou qui lui ont été fournis. L'exploitation des informations se fait sous la seule responsabilité du Client et à ses risques et périls, ce que le Client accepte expressément.
 
 Dans les espaces d’échange, le Client assume en tant qu’éditeur, la responsabilité de la communication au public des informations et la responsabilité éditoriale de toute sa communication, physique et en ligne et notamment mais non exclusivement de son ou ses sites, blogs, pages et comptes sur les réseaux sociaux. Le Client est le seul responsable de la qualité, de la licéité et de la pertinence des données et contenus qu’il transmet au public.
 
-###### 17.2. Limitation de responsabilité vis à vis des Clients professionnels
+## 17.2. Limitation de responsabilité vis à vis des Clients professionnels
 
 Quel que soit le type de Produit commandé par le Client professionnel, la responsabilité de la Société est expressément limitée à l’indemnisation des dommages directs prouvés par le Client professionnel. En aucun cas, la responsabilité de la Société ne saurait être engagée au titre des dommages indirects tels que la perte de données, de fichier(s), perte d’exploitation, préjudice commercial, manque à gagner, atteinte à l’image et à la réputation du Client professionnel.
-
-De la même manière, la Société ne pourra être tenue responsable des dommages directs et indirects causés au matériel de l’Utilisateur, lors de l’accès au Site, et résultant soit de l’utilisation d’un matériel ne répondant pas aux conditions prévues, soit de l’apparition d’un bug ou d’une incompatibilité.
 
 EN TOUT ÉTAT DE CAUSE, LA RESPONSABILITÉ DE LA SOCIÉTÉ EST PLAFONNÉE À L'ÉGARD DES PROFESSIONNELS AU MONTANT DU PRIX PAYÉ HORS TAXES PAR LE CLIENT EN CONTREPARTIE DE LA FOURNITURE DU PRODUIT DANS LE CADRE DUQUEL S’INSCRIT LE LITIGE. CE MONTANT S’ENTEND COMME LE MAXIMUM QUE POURRAIT ETRE AMENE A REGLER LA SOCIÉTÉ À TITRE D'INDEMNITÉ (DOMMAGE ET INTÉRÊTS) ET DE PÉNALITÉS, QUELS QUE SOIENT LES CHEFS DE PRÉJUDICES ALLÉGUÉS ET LES FONDEMENTS JURIDIQUES RETENUS À MOINS QUE LA LOI OU LA JURISPRUDENCE NE S’Y OPPOSE.
 
@@ -268,10 +264,8 @@ Le Client accepte que la Société puisse céder le présent contrat à ses soci
 
 **19.1. Résolution amiable.** En cas de litige, le Client s'adressera en priorité à la Société pour tenter de trouver une solution amiable.
 
-###### 19.2 Médiation.
+**19.2 Médiation.** En cas de difficulté dans l'application du présent contrat, le Client consommateur résidant en Europe a la possibilité, avant toute action en justice, de solliciter le recours d’un médiateur de la consommation identifiable sur le site [https://www.economie.gouv.fr/mediation-conso]()
 
-En cas de difficulté dans l'application du présent contrat, le Client consommateur résidant en Europe a la possibilité, avant toute action en justice, de solliciter le recours d’un médiateur de la consommation identifiable sur le site [https://www.economie.gouv.fr/mediation-conso](https://www.economie.gouv.fr/mediation-conso "https://www.economie.gouv.fr/mediation-conso")
-
-Le médiateur tentera, en toute indépendance et impartialité, de rapprocher les parties en vue d'aboutir à une solution amiable. Les parties restent libres d'accepter ou de refuser le recours à la médiation ainsi que, en cas de recours à la médiation, d'accepter ou de refuser la solution proposée par le médiateur. Dans ce contexte, tout consommateur européen peut saisir la Plateforme de Règlement en ligne des litiges (RLL) accessible à partir de l’adresse URL suivant : [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage "https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage").
+Le médiateur tentera, en toute indépendance et impartialité, de rapprocher les parties en vue d'aboutir à une solution amiable. Les parties restent libres d'accepter ou de refuser le recours à la médiation ainsi que, en cas de recours à la médiation, d'accepter ou de refuser la solution proposée par le médiateur. Dans ce contexte, tout consommateur européen peut saisir la Plateforme de Règlement en ligne des litiges (RLL) accessible à partir de l’adresse URL suivant : [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage.]()
 
 **19.3. Litige entre professionnels.** EN CAS DE LITIGE SURVENANT ENTRE UN CLIENT PROFESSIONNEL ET LA SOCIÉTÉ PORTANT SUR LA COMMANDE, L’INTERPRETATION, L’EXECUTION ET/OU LA RÉSILIATION DU CONTRAT, IL EST ATTRIBUÉ COMPÉTENCE EXCLUSIVE AUX TRIBUNAUX DANS LE RESSORT DE LA VILLE DE LYON, NONOBSTANT PLURALITE DE DEFENDEURS OU APPEL EN GARANTIE, MEME POUR LES PROCEDURES D’URGENCE OU LES PROCEDURES CONSERVATOIRES PAR VOIE DE RÉFÉRÉ OU REQUÊTE.
