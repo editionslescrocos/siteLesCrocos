@@ -3,7 +3,7 @@ title: En projet
 description: |-
   Mangez avec les Crocos !
 
-  Notre prochain projet est encore un secret. Mais si vous voulez en savoir plus, cliquez sur le lien ci-dessous.
+  Notre prochain projet est encore un secret. Mais si vous voulez en savoir plus…
 image: "/images/imageactu_simon.jpg"
 createdAt: '2020-06-22T10:58:51.640+00:00'
 noLink: false
@@ -17,6 +17,6 @@ noLink: false
 * l'accueil reste souriant, même quand vous débarquez avec 6 enfants !
 * le rapport qualité-prix est super
 
-Le tout à Lyon ou pas trop loin. 
+Le tout à Lyon ou pas trop loin.
 
-N'hésitez pas à nous envoyer un petit mail à l'adresse : contact@editionslescrocos.com !
+N'hésitez pas à nous envoyer un mail à l'adresse : contact@editionslescrocos.com !
