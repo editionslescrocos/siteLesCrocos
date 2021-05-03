@@ -59,6 +59,16 @@ fields:
       file: 
       path: 
   label: Type de produit
+- name: informations
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Informations
+  description: Auteurs, ISBN, Nombre de pages ...
 - name: taxes
   type: select
   default: TVAREDUITE
