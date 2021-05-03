@@ -105,7 +105,14 @@ export default {
 
   snipcart: {
     key:
-      "NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw"
+      "NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw",
+    locales: {
+      fr: {
+        actions: {
+          checkout: "Passer la commande"
+        }
+      }
+    }
   },
 
   image: {
