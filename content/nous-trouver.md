@@ -1,11 +1,9 @@
 ---
 title: Nous trouver
-subtitle: ''
-description: ''
+subtitle: ""
+description: ""
 image: "/images/carte-5.jpg"
-
----
-## Lyon
+---## Lyon
 
 <two-columns>
 
@@ -75,4 +73,4 @@ image: "/images/carte-5.jpg"
 
 <place title="Bientôt…"> </place>
 
-<two-columns>
+</two-columns>
