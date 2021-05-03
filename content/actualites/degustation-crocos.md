@@ -1,6 +1,9 @@
 ---
 title: En projet
-description: Mangez avec les Crocos !
+description: |-
+  Mangez avec les Crocos !
+
+  Notre prochain projet est encore un secret. Mais si vous voulez en savoir plus, cliquez sur le lien ci-dessous.
 image: "/images/imageactu_simon.jpg"
 createdAt: '2020-06-22T10:58:51.640+00:00'
 noLink: false
