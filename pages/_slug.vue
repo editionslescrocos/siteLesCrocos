@@ -6,18 +6,7 @@
     :footer="footer"
   >
     <article>
-      <div v-if="doc.image" class="relative">
-        <nuxt-picture
-          :src="doc.image"
-          fit="cover"
-          :placeholder="require('@/assets/placeholder.png')"
-          format="webp"
-          quality="80"
-          width="1200"
-          height="500"
-          sizes="sm:500px md:800px lg:1000px xl:1200px"
-        ></nuxt-picture>
-      </div>
+      <TopImage :image="doc.image" :imageAlt="doc.imageAlt" />
       <div
         class="page relative container bg-white shadow-xl md:rounded-lg pb-24 px-5 md:px-12 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-16'"
