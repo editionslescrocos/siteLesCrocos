@@ -9,13 +9,13 @@
       <div v-if="doc.image" class="relative">
         <nuxt-picture
           :src="doc.image"
-          format="jpeg"
           fit="cover"
-          class="rounded-t-md md:rounded-md shadow-inner border-gray-50 border-2"
-          sizes="sm:500 md:700 lg:900 "
-          width="900"
-          height="300"
           :placeholder="require('@/assets/placeholder.png')"
+          format="webp"
+          quality="80"
+          width="1200"
+          height="500"
+          sizes="sm:500px md:800px lg:1000px xl:1200px"
         ></nuxt-picture>
       </div>
       <div

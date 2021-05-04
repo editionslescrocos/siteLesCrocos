@@ -114,7 +114,6 @@ export default {
       }
     }
   },
-
   image: {
     ipx: {
       /**
@@ -129,23 +128,24 @@ export default {
        * Enable/Disable cache cleaning cron job
        **/
       clearCache: false,
-      format: "jpg",
+      format: "webp",
       /**
        * Modify default behavior of image optimizer
        **/
       sharp: {
         // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
       }
-    },
-    sizes: [320, 420, 768, 1024, 1200]
+    }
   },
-
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
     //transpile: ["VueCarousel"]
+    babel: {
+      plugins: [["@babel/plugin-proposal-private-methods", { loose: true }]]
+    }
   },
 
   sitemap: {

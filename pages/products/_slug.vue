@@ -9,13 +9,14 @@
       <div v-if="doc.image" class="relative z-10 hidden md:block">
         <nuxt-picture
           :src="doc.image"
-          format="jpeg"
           fit="cover"
           class="md:rounded-md shadow-inner border-gray-50 border-2"
           :alt="doc.imageAlt"
-          width="900"
-          height="300"
+          format="webp"
           quality="80"
+          width="1200"
+          height="500"
+          sizes="sm:500px md:800px lg:1000px xl:1200px"
         ></nuxt-picture>
       </div>
       <div
