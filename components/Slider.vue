@@ -27,12 +27,6 @@
                 </span>
                 <p class="item-subtitle">{{ item.subtitle }}</p>
               </div>
-
-              <!-- <div class="hidden md:block flex justify-end py-5">
-                <nuxt-link v-if="item.url" :to="item.url">
-                  <Btn>En savoir plus</Btn>
-                </nuxt-link>
-              </div> -->
             </div>
           </div>
         </div>
@@ -132,5 +126,11 @@ p {
 
 .slick-dots li.slick-active button:before {
   color: #c91f3b;
+}
+
+@media (max-width: 700px) {
+  .slick-dots {
+    display: none !important;
+  }
 }
 </style>
