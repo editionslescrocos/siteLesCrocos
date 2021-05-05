@@ -13,10 +13,11 @@ images:
 informations: ''
 
 ---
-Following a mid-flight incident, three young storks find themselves unexpectedly having to stop over in Lyon. What was initially supposed to be their first solo migration quickly becomes a thrilling discovery of the city. Packed with fun adverntures and some very cool new friends, join us in visiting the city of Lyon just as a child would experience it for the first time.
+Following a mid-flight incident, three young storks find themselves unexpectedly having to stop over in Lyon. What was initially supposed to be their first solo migration quickly becomes a thrilling discovery of the city. Packed with fun adventures and some very cool new friends, join us in visiting the city of Lyon just as a child would experience it for the first time.
 
 * Auteurs : Alexandra Horvath et Stéphane Perraud
 * Dessinateur : Le Cil Vert
+* Traduction : Lorraine Batta
 * 160 pages
 * Age : 5-9 ans
 * Couverture cartonnée
