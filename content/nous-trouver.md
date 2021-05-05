@@ -31,11 +31,11 @@ image: "/images/carte-5.jpg"
 
 <place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Ici, on trouve aussi des livres jeunesse en anglais. Dont le nôtre !</place>
 
-<place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil très sympa"</place>
+<place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil très sympa</place>
 
 <place title="Le Rameau d'or" address="32 Cours Franklin Roosevelt, 69006 Lyon" website="http://www.librairie-rameaudor.com/">Une des plus anciennes librairies de Lyon, indépendante et fière de l'être"</place>
 
-<place title="Inter-Fun" address="59 Rue Vendôme, 69006 Lyon" website="https://www.inter-fun.fr/">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !"</place>
+<place title="Inter-Fun" address="59 Rue Vendôme, 69006 Lyon" website="https://www.inter-fun.fr/">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !</place>
 
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse</place>
 
