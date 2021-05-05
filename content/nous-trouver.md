@@ -19,15 +19,15 @@ image: "/images/carte-5.jpg"
 
 <place title="Gibert Joseph" address="3 Quai du Dr Gailleton, 69002 Lyon" website="https://www.facebook.com/GibertLibrairieLyon/">La partie BD est accessible par le quai…</place>
 
-<place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse"</place>
+<place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse</place>
 
 <place title="Librairie L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Incroyable ! Ici, les libraires parlent même le chinois et le hongrois…</place>
 
-<place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">La librairie BD de la Croix-Rousse</place>
+<place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">La librairie BD de la Croix-Rousse, qui nous soutient depuis le début</place>
 
 <place title="Vivement dimanche" address="7 rue de Mail, 69004 Lyon" website="https://www.vivementdimanche.com">La Benjamine bien sûr…</place>
 
-<place title="Librairie des Canuts" address="17 Place de la Croix-Rousse, 69004 Lyon" website="https://lalibrairiedescanuts.wordpress.com/">Beaucoup d'ouvrages sur Lyon</place>
+<place title="Librairie des Canuts" address="17 Place de la Croix-Rousse, 69004 Lyon" website="https://lalibrairiedescanuts.wordpress.com/">Beaucoup d'ouvrages sur Lyon. Et pour la jeunesse, descendez l'escalier</place>
 
 <place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Ici, on trouve aussi des livres jeunesse en anglais. Dont le nôtre !</place>
 
@@ -35,13 +35,13 @@ image: "/images/carte-5.jpg"
 
 <place title="Le Rameau d'or" address="32 Cours Franklin Roosevelt, 69006 Lyon" website="http://www.librairie-rameaudor.com/">Une des plus anciennes librairies de Lyon, indépendante et fière de l'être"</place>
 
-<place title="Inter-Fun" address="59 Rue Vendôme, 69006 Lyon" website="https://www.inter-fun.fr/">Une librairie jeunesse qui propose aussi bien des titres en français, qu'en anglais, en espagnol, en allemand ou en italien. So fun !"</place>
+<place title="Inter-Fun" address="59 Rue Vendôme, 69006 Lyon" website="https://www.inter-fun.fr/">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !"</place>
 
-<place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse !</place>
+<place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse</place>
 
 <place title="Librairie Rive gauche" address="19 Rue de Marseille, 69007 Lyon" website="https://www.facebook.com/librairierivegauche/">Magnifique librairie au cœur de la Guillotière</place>
 
-<place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="http://librairielamadeleine.fr//">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter !</place>
+<place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="http://librairielamadeleine.fr//">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter</place>
 
 <place title="Damn Fine Bookstore" address="20 Rue Bechevelin, 69007 Lyon" website="https://damnfinebookstore.com/">Une librairie internationale, avec des livres en anglais, allemand, italien, espagnol et portugais + un coffee shop. The place to be !</place>
 
