@@ -112,7 +112,12 @@ export default {
           checkout: "Passer la commande"
         }
       }
-    }
+    },
+    attributes: [
+      ["data-cart-custom1-name", "Do you accept terms?"],
+      ["data-cart-custom1-options", "true|false"],
+      ["data-cart-custom1-required", "true"]
+    ]
   },
   image: {
     ipx: {
