@@ -1,29 +1,41 @@
 ---
 title: Nous trouver
-subtitle: ""
-description: ""
+subtitle: ''
+description: ''
 image: "/images/carte-5.jpg"
----
 
+---
 ## Lyon
 
 <two-columns>
 
-<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">La librairie jeunesse des Pentes de la Croix-Rousse</place>
+<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse</place>
 
-<place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD de la Presqu'île</place>
+<place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil, dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse</place>
 
-<place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, une librairie in-con-tour-na-ble</place>
+<place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste</place>
+
+<place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de la Presqu'île. Levez le nez : sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs</place>
+
+<place title="Gibert Joseph" address="3 Quai du Dr Gailleton, 69002 Lyon" website="https://www.facebook.com/GibertLibrairieLyon/">La partie BD est accessible par le quai…</place>
+
+<place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse"</place>
 
 <place title="Librairie L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Incroyable ! Ici, les libraires parlent même le chinois et le hongrois…</place>
 
 <place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">La librairie BD de la Croix-Rousse</place>
 
-<place title="Vivement dimanche" address="7 rue de Mail, 69004 Lyon" website="https://www.vivementdimanche.com">La Benjamine bien sûr</place>
+<place title="Vivement dimanche" address="7 rue de Mail, 69004 Lyon" website="https://www.vivementdimanche.com">La Benjamine bien sûr…</place>
 
 <place title="Librairie des Canuts" address="17 Place de la Croix-Rousse, 69004 Lyon" website="https://lalibrairiedescanuts.wordpress.com/">Beaucoup d'ouvrages sur Lyon</place>
 
 <place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Ici, on trouve aussi des livres jeunesse en anglais. Dont le nôtre !</place>
+
+<place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil très sympa"</place>
+
+<place title="Le Rameau d'or" address="32 Cours Franklin Roosevelt, 69006 Lyon" website="http://www.librairie-rameaudor.com/">Une des plus anciennes librairies de Lyon, indépendante et fière de l'être"</place>
+
+<place title="Inter-Fun" address="59 Rue Vendôme, 69006 Lyon" website="https://www.inter-fun.fr/">Une librairie jeunesse qui propose aussi bien des titres en français, qu'en anglais, en espagnol, en allemand ou en italien. So fun !"</place>
 
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse !</place>
 
