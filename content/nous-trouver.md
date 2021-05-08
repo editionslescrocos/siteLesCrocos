@@ -79,7 +79,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie à l'accueil chaleureux, où l'on se sent un peu comme à la maison</place>
 
-<place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont les rois !>
+<place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont les rois !</place>
 
 <place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse !</place>
 
