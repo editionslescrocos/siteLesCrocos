@@ -45,7 +45,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Inter-Fun" address="108 Rue de Sèze, 69006 Lyon" website="https://www.inter-fun.fr">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !</place>
 
-<place title="La page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Si vous allez au Parc de la Tête d'Or, un détour ici s'impose…</place>
+<place title="La Page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Pour bouquiner au Parc de la Tête d'Or, un détour ici s'impose.</place>
 
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse.</place>
 
@@ -53,7 +53,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Terre des livres" address="86 rue de Marseille, 69007 Lyon" website="http://www.terredeslivres.fr/">Une librairie artisanale avec des livres jusqu'au plafond, dont un joli fond consacré à l'Afrique. On adore venir fouiner ici !</place>
 
-<place title="La Voie aux chapitres" address="4 Rue Saint-Jérôme, 69007 Lyon" website="https://www.lavoieauxchapitres.fr/">Besoin d'un vrai conseil de lecture ? La voie est libre.</place>
+<place title="La Voie aux chapitres" address="4 Rue Saint-Jérôme, 69007 Lyon" website="https://www.lavoieauxchapitres.fr/">Besoin d'un vrai conseil de lecture ? Sylvain vous montre la voie…</place>
 
 <place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="http://librairielamadeleine.fr//">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter.</place>
 
@@ -93,13 +93,13 @@ image: "/images/carte-5.jpg"
 
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
-<place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Coup de cœur pour cette librairie qui nous soutient depuis le début</place>
+<place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Demandez Sarah, elle connaît notre BD par cœur.</place>
 
 <place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie indispensable, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
 
 <place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
 
-<place title="L'Epimont" address="166 Route de la Rivière, 69250 Poleymieux-au-Mont-d'Or" website="https://www.facebook.com/lepimont/">Bien plus qu'une épicerie. Testez le café et le coin lecture et repartez avec un livre</place>
+<place title="L'Epimont" address="166 Route de la Rivière, 69250 Poleymieux-au-Mont-d'Or" website="https://www.facebook.com/lepimont/">Bien plus qu'une épicerie. Testez le café et le coin lecture et repartez avec un livre.</place>
 
 </two-columns>
 
