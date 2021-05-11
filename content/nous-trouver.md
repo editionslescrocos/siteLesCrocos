@@ -23,7 +23,9 @@ image: "/images/carte-5.jpg"
 
 <place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée, poussez les portes de cette librairie et partez en voyage.</place>
 
-<place title="Librairie L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Incroyable ! Ici, les libraires parlent même le chinois et le hongrois…</place>
+<place title="La Librairie du Cours" address="83 cours du docteur Long, 69003 Lyon" website="http://www.lalibrairieducours.fr/">On craque pour la table et les chaises en forme de champignon !</place>
+
+<place title="L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Ici, les libraires sont tellement ouverts d'esprit qu'ils parlent même chinois et hongrois !</place>
 
 <place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">La librairie BD de la Croix-Rousse, qui nous soutient depuis le début.</place>
 
@@ -43,17 +45,21 @@ image: "/images/carte-5.jpg"
 
 <place title="Inter-Fun" address="108 Rue de Sèze, 69006 Lyon" website="https://www.inter-fun.fr">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !</place>
 
-<place title="La page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Des grands bacs en bois et deux petites chaises rouges… Ici les enfants se sentent comme chez eux.</place>
+<place title="La page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Si vous allez au Parc de la Tête d'Or, un détour ici s'impose…</place>
 
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse.</place>
 
 <place title="Librairie Rive gauche" address="19 Rue de Marseille, 69007 Lyon" website="https://www.facebook.com/librairierivegauche/">Superbe librairie au cœur de la Guillotière.</place>
+
+<place title="Terre des livres" address="86 rue de Marseille, 69007 Lyon" website="http://www.terredeslivres.fr/">Une librairie artisanale avec des livres jusqu'au plafond, dont un joli fond consacré à l'Afrique. On adore venir fouiner ici !</place>
 
 <place title="La Voie aux chapitres" address="4 Rue Saint-Jérôme, 69007 Lyon" website="https://www.lavoieauxchapitres.fr/">Besoin d'un vrai conseil de lecture ? La voie est libre.</place>
 
 <place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="http://librairielamadeleine.fr//">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter.</place>
 
 <place title="Damn Fine Bookstore" address="20 Rue Bechevelin, 69007 Lyon" website="https://damnfinebookstore.com/">Une librairie internationale, avec des livres en anglais, allemand, italien, espagnol et portugais + un coffee shop. The place to be !</place>
+
+<place title="Librairie de la place" address="12 place Ambroise Courtois , 69008 Lyon" website="https://www.facebook.com/librairiedelaplace.fr">L'intérieur ressemble à une cabane en bois. On aime venir y dénicher un livre de voyage, des poèmes et bien sûr… Des livres jeunesse !</place>
 
 <place title="Les mangeurs d'étoiles" address="29 rue de la Claire, 69009 Lyon" website="https://m.facebook.com/LesmangeursdetoilesLibrairie/">Une librairie de quartier comme on aime, cachée dans une petite rue de Vaise.</place>
 
