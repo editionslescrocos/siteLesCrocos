@@ -91,6 +91,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse.</place>
 
+<place title="Les mots bleus" address="13 Rue Pierre Bouvier, 69270 Fontaines-sur-Saône" website="http://librairielesmotsbleus.com/"> Trois drôles de dames aux commandes de cette librairie toute de bleu vêtue. L'aventure commence dès la porte franchie…</place>
+
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
 <place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Demandez Sarah, elle connaît notre BD par cœur.</place>
