@@ -4,9 +4,7 @@ title: Le voyage à Lyon
 image: ''
 imageProduct: "/images/essai-catalogue_couvfr.jpg"
 images:
-- "/images/feuilletage-p8_9.jpg"
-- "/images/feuilletage-p14_15.jpg"
-- "/images/feuilletage-p40_41.jpg"
+- "/images/feuilletage-passage.jpg"
 - "/images/feuilletage-p38_39.jpg"
 - "/images/feuilletage-pmetro.jpg"
 - "/images/feuilletage-cr.jpg"
