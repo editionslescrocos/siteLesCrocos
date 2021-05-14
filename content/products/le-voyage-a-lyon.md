@@ -4,8 +4,8 @@ title: Le voyage à Lyon
 image: ''
 imageProduct: "/images/essai-catalogue_couvfr.jpg"
 images:
+- "/images/feuilletage-p14_15.jpg"
 - "/images/feuilletage-p8_9.jpg"
-- "/images/capture-d-ecran-2021-04-08-a-11-36-18.png"
 - "/images/capture-d-ecran-2021-04-08-a-11-37-18.png"
 price: 21.5
 taxes: TVAREDUITE
