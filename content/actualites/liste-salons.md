@@ -1,5 +1,5 @@
 ---
-title: Nous ne serons pas cette année à Angoulême
+title: Nous n'étions pas à Angoulême cette année…
 description: |-
   Mais uniquement parce que le salon a été annulé, bien sûr ;-)
 
