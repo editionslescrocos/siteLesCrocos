@@ -2,7 +2,7 @@
 type: livre
 title: Le voyage à Lyon
 image: ''
-imageProduct: "/images/essai-catalogue_couvfr.jpg"
+imageProduct: "/images/essai-catalogue_couvfr-1.jpg"
 images:
 - "/images/feuilletage-p8_9.jpg"
 - "/images/feuilletage-p14_15.jpg"
