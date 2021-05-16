@@ -5,7 +5,7 @@ type: autre
 taxes: TVA
 weight: 360
 title: Deux carnets Cigognes !
-imageProduct: "/images/carnets-pour-essai.jpg"
+imageProduct: "/images/carnets-carre.jpg"
 image: ''
 images: []
 
