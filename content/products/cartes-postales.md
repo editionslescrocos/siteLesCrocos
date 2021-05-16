@@ -1,13 +1,17 @@
 ---
-order:
+order: -1
 type: autre
-price: 2
+price: 10
 taxes: TVA
-weight: 6
-title: Cartes postales
-imageProduct: "/images/capture.PNG"
-image: ""
+weight: 55
+title: Huit cartes postales
+imageProduct: "/images/cartes-carre.jpg"
+image: ''
 images: []
----
 
-Bientôt ici les plus belles cartes postales du monde…
+---
+Huit cartes postales inspirées de la BD "le voyage à Lyon".
+
+Format : 13 x 18 cm
+
+Imprimées dans la Loire.
