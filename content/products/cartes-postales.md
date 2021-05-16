@@ -5,12 +5,12 @@ price: 10
 taxes: TVA
 weight: 55
 title: Huit cartes postales
-imageProduct: "/images/cartes-carre.jpg"
+imageProduct: "/images/capture.PNG"
 image: ''
 images: []
 
 ---
-Huit cartes postales inspirées de la BD "le voyage à Lyon".
+Huit cartes postales surprise (dont celle-ci), inspirées de la BD "le voyage à Lyon".
 
 Format : 13 x 18 cm
 
