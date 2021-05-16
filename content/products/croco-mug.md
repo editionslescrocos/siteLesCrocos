@@ -1,11 +1,10 @@
 ---
 type: autre
-title: Mug croco
-imageProduct: images/mug.png
+title: Pack petit migrateur
+imageProduct: "/images/pack-petit-voyageur-essai.jpg"
 images: []
-price: 0
+price: 35
 taxes: TVA
-weight: 125
+weight: 1000
 
 ---
-Ce mug n'existe pas… Et c'est bien dommage !
