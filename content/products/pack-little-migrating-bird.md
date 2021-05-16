@@ -5,7 +5,7 @@ type: autre
 taxes: TVA
 weight: 1100
 title: Pack little migrating bird
-imageProduct: "/images/pack-petit-migrateur-anglais-carre2.jpg"
+imageProduct: "/images/pack-petit-migrateur-cadre-vert.jpg"
 image: ''
 images: []
 
