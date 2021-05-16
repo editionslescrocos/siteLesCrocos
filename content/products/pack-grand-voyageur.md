@@ -5,7 +5,7 @@ type: autre
 taxes: TVA
 weight: 1800
 title: Pack Grand voyageur
-imageProduct: "/images/pack-grand-voyageur-essai.jpg"
+imageProduct: "/images/pack-grand-voayeur-carre.jpg"
 image: ''
 images: []
 
