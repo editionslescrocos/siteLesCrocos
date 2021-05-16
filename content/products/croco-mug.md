@@ -1,7 +1,7 @@
 ---
 type: autre
 title: Pack petit migrateur
-imageProduct: "/images/pack-petit-migrateur-pour-le-web.jpg"
+imageProduct: "/images/pack-petit-migrateur-cadre-vert-1.jpg"
 images: []
 price: 35
 taxes: TVA
