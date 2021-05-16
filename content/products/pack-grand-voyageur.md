@@ -4,8 +4,8 @@ price: 50
 type: autre
 taxes: TVA
 weight: 1800
-title: Pack Grand voyageur
-imageProduct: "/images/pack-grand-voayeur-carre.jpg"
+title: Pack Grand migrateur
+imageProduct: "/images/pack-grand-migrateur-cadre-vert-pour-le-web.jpg"
 image: ''
 images: []
 
