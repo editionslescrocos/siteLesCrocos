@@ -10,8 +10,8 @@ image: ''
 description: ''
 images:
 - "/images/chap2-b.jpg"
-- "/images/chap4-c.jpg"
 - "/images/chap3-b.jpg"
+- "/images/chap4-c.jpg"
 - "/images/chap5-b.jpg"
 - "/images/chap5-f.jpg"
 - "/images/chap8-e.jpg"
