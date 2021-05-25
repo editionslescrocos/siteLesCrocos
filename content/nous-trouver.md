@@ -1,6 +1,6 @@
 ---
 title: Nous trouver
-subtitle: ''
+subtitle: A Lyon, les lieux de vente sont classés par arrondissement
 description: ''
 image: "/images/carte-5.jpg"
 
@@ -36,6 +36,8 @@ image: "/images/carte-5.jpg"
 <place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Ici, on trouve aussi des livres jeunesse en anglais. Dont le nôtre.</place>
 
 <place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">Des choix affirmés et un coup de pouce aux auteurs locaux.</place>
+
+<place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique du musée propose des marionnettes, des livres sur Lyon… Et notre BD en anglais et en français ! Elle est accessible sans visiter le musée (ce qui serait tout de même dommage)</place>
 
 <place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil super sympa.</place>
 
