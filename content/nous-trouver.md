@@ -1,11 +1,11 @@
 ---
 title: Nous trouver
-subtitle: A Lyon, les lieux de vente sont classés par arrondissement
+subtitle: A Lyon et ailleurs…
 description: ''
 image: "/images/carte-5.jpg"
 
 ---
-## Lyon
+## Lyon (par arrondissement)
 
 <two-columns>
 
