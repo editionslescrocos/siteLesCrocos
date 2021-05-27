@@ -13,6 +13,7 @@
       :data-item-description="product.description"
       :data-item-taxes="product.taxes"
       :data-item-weight="product.weight"
+      data-item-has-taxes-included="true"
     >
       <span>
         <slot></slot>

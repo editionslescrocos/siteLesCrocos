@@ -16,9 +16,14 @@
       "text": "A propos",
       "to": "/qui-sommes-nous"
     },
+
     {
       "text": "Nous trouver",
       "to": "/nous-trouver"
+    },
+    {
+      "text": "Newsletter",
+      "to": "/newsletter"
     },
     {
       "text": "Contact",
