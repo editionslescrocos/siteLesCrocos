@@ -29,6 +29,14 @@ fields:
     max: 
     step: 
     required: true
+- name: taxes
+  type: text
+  config:
+    required: true
+  label: Taxes
+  description: Inscrire ici le code TVA Snipcart (en majuscules) :<br>TVA<br>TVAREDUITE<br>...
+    ou autre TVA particulière pour les packs par exemple
+  default: TVAREDUITE
 - name: imageProduct
   type: file
   config:
@@ -59,20 +67,6 @@ fields:
       file: 
       path: 
   label: Type de produit
-- name: taxes
-  type: select
-  default: TVAREDUITE
-  config:
-    required: true
-    options:
-    - TVA
-    - TVAREDUITE
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Taxes
 - name: weight
   type: number
   label: Poids
