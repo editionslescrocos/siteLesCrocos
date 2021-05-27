@@ -61,6 +61,7 @@ fields:
     options:
     - livre
     - autre
+    - pack
     source:
       type: simple
       section: 
