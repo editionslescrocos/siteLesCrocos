@@ -30,6 +30,15 @@
             </div>
           </div>
         </div>
+
+        <div v-if="packs.length" class="mt-24">
+          <h2 class="text-3xl  mb-4">Nos packs</h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 xl:grid-cols-4 gap-8">
+            <div v-for="product in packs" :key="product.path">
+              <ProductItem :product="product"></ProductItem>
+            </div>
+          </div>
+        </div>
       </div>
     </article>
   </Layout>
@@ -48,6 +57,10 @@ export default {
       .where({ type: "autre" })
       .sortBy("order", "desc")
       .fetch();
+    const packs = await $content("products" || "index")
+      .where({ type: "pack" })
+      .sortBy("order", "desc")
+      .fetch();
 
     const general = await $content("general").fetch();
     const links = await $content("links").fetch();
@@ -57,6 +70,7 @@ export default {
       doc,
       books,
       otherProducts,
+      packs,
       networks,
       menus,
       general,

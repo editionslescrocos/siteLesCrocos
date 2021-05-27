@@ -1,12 +1,11 @@
 ---
 order: 2
 price: 50
-type: autre
+type: pack
 taxes: TVA
 weight: 1800
 title: Pack Grand migrateur
 imageProduct: "/images/pack-grand-migrateur-cadre-vert-pour-le-web.jpg"
-image: ''
+image: ""
 images: []
-
 ---
