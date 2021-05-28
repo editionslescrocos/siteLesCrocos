@@ -5,7 +5,7 @@ description: ''
 image: "/images/carte-5.jpg"
 
 ---
-## Lyon (par arrondissement)
+## Lyon (par arrondissements)
 
 <two-columns>
 
