@@ -13,6 +13,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil, dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse.</place>
 
+<place title="Oh my gone" address="1 Rue de la Martinière, 69001 Lyon" website="https://ohmygone.com/fr/">Une boutique spécialisée dans les souvenirs de Lyon… Juste en face du Mur des Lyonnais !</place>
+
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste.</place>
 
 <place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de la Presqu'île. Levez le nez : sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs…</place>
@@ -38,6 +40,8 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">Des choix affirmés et un coup de pouce aux auteurs locaux.</place>
 
 <place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique du musée propose des marionnettes, des livres sur Lyon… Et notre BD en anglais et en français ! Elle est accessible sans visiter le musée (ce qui serait tout de même dommage)</place>
+
+<place title="Tribu des gones" address="22 Rue Saint-Jean, 69005 Lyon" website="https://tribudesgones.com/">Des tas d'objets rigolos sur Lyon… Et des livres dédiés à la ville.</place>
 
 <place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil super sympa.</place>
 
