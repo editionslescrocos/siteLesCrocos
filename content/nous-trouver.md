@@ -11,6 +11,8 @@ image: "/images/carte-5.jpg"
 
 <place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse.</place>
 
+<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une toute petite librairie en haut des pentes, sympa et décontractée. Tutoiement de rigueur !</place>
+
 <place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil, dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse.</place>
 
 <place title="Oh my gone" address="1 Rue de la Martinière, 69001 Lyon" website="https://ohmygone.com/fr/">Une boutique spécialisée dans les souvenirs de Lyon… Juste en face du Mur des Lyonnais !</place>
