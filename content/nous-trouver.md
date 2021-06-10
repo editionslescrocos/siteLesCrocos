@@ -23,7 +23,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse !</place>
 
-<place title="Musée des Confluences" address="86 Quai Perrache, 69002 Lyon" website="https://momie.fr/">Le premier musée de France en termes de fréquentation, hors Paris ! Profitez-en aussi pour visiter la librairie…</place>
+<place title="Musée des Confluences" address="86 Quai Perrache, 69002 Lyon" website="https://www.museedesconfluences.fr">Le premier musée de France en termes de fréquentation, hors Paris ! Profitez-en aussi pour visiter la librairie…</place>
 
 <place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée, poussez les portes de cette librairie et partez en voyage.</place>
 
