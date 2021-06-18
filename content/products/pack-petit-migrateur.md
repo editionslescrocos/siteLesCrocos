@@ -1,6 +1,7 @@
 ---
 type: pack
-title: Pack petit migrateur
+title: 'Pack petit migrateur (prix unitaires TTC: livre: 21,50; cahier: 3 euros; cartes
+  postales: 0,31 euros)   '
 imageProduct: "/images/pack-petit-migrateur-cadre-vert-1.jpg"
 images: []
 price: 35
