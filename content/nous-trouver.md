@@ -11,11 +11,13 @@ image: "/images/carte-5.jpg"
 
 <place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse.</place>
 
-<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une toute petite librairie en haut des pentes, sympa et décontractée. Tutoiement de rigueur !</place>
+<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie,sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur !</place>
 
 <place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil, dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse.</place>
 
 <place title="Oh my gone" address="1 Rue de la Martinière, 69001 Lyon" website="https://ohmygone.com/fr/">Une boutique spécialisée dans les souvenirs de Lyon… Juste en face du Mur des Lyonnais !</place>
+
+<place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">En français comme en anglais, on est dans la librairie du musée</place>
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste.</place>
 
@@ -106,6 +108,8 @@ image: "/images/carte-5.jpg"
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
 <place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Demandez Sarah, elle connaît notre BD par cœur.</place>
+
+<place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société !</place>
 
 <place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie indispensable, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
 
