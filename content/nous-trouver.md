@@ -11,15 +11,17 @@ image: "/images/carte-5.jpg"
 
 <place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse.</place>
 
-<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie,sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur !</place>
+<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie, sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur !</place>
 
-<place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil, dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse.</place>
+<place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil. Dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse.</place>
 
 <place title="Oh my gone" address="1 Rue de la Martinière, 69001 Lyon" website="https://ohmygone.com/fr/">Une boutique spécialisée dans les souvenirs de Lyon… Juste en face du Mur des Lyonnais !</place>
 
-<place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">En français comme en anglais, on est dans la librairie du musée</place>
+<place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">Ne manquez pas la librairie du musée. Notre BD y est. En français comme en anglais !</place>
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste.</place>
+
+<place title="Librairie La Bourse" address="8 Rue Lanterne, 69001 Lyon" website="https://librairielabourse.com/">Le temple de l'occasion… Qui fait aussi un peu de neuf. La preuve !</place>
 
 <place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de la Presqu'île. Levez le nez : sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs…</place>
 
