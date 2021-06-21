@@ -47,7 +47,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">Des choix affirmés et un coup de pouce aux auteurs locaux.</place>
 
-<place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique du musée propose des marionnettes, des livres sur Lyon… Et notre BD en anglais et en français ! Elle est accessible sans visiter le musée (ce qui serait tout de même dommage)</place>
+<place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique du musée propose des marionnettes, des livres sur Lyon et notre BD en anglais et en français. Elle est accessible sans visiter le musée (ce qui serait dommage)</place>
 
 <place title="Musée Miniature et cinéma" address="60 Rue Saint-Jean, 69005 Lyon" website="www.museeminiatureetcinema.fr">Le musée est dans notre livre… Notre livre est au musée ! On adore ce lieu !</place>
 
