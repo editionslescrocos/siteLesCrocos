@@ -49,6 +49,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique du musée propose des marionnettes, des livres sur Lyon… Et notre BD en anglais et en français ! Elle est accessible sans visiter le musée (ce qui serait tout de même dommage)</place>
 
+<place title="Musée Miniature et cinéma" address="60 Rue Saint-Jean, 69005 Lyon" website="www.museeminiatureetcinema.fr">Le musée est dans notre livre… Notre livre est au musée ! On adore ce lieu !</place>
+
 <place title="Tribu des gones" address="22 Rue Saint-Jean, 69005 Lyon" website="https://tribudesgones.com/">Des tas d'objets rigolos sur Lyon… Et des livres dédiés à la ville.</place>
 
 <place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil super sympa.</place>
