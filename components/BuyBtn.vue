@@ -10,7 +10,7 @@
       :data-item-price="product.price"
       :data-item-url="product.path"
       :data-item-image="product.imageProduct"
-      :data-item-description="product.description"
+      :data-item-description="product.invoiceInfos"
       :data-item-taxes="product.taxes"
       :data-item-weight="product.weight"
       data-item-has-taxes-included="true"
