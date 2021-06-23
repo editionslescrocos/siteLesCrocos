@@ -2,95 +2,95 @@
 label: products
 hide_body: false
 fields:
-  - name: order
-    type: number
-    label: Ordre
-    description: Le nombre le plus élevé s'affiche en premier
-    default: 0
+- name: order
+  type: number
+  label: Ordre
+  description: Le nombre le plus élevé s'affiche en premier
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre
+  description: Le nom du produit
+- name: price
+  type: number
+  label: Prix de vente
+  description: Prix du produit TTC
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
     required: true
-    config:
-      min:
-      max:
-      step:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Titre
-    description: Le nom du produit
-  - name: price
-    type: number
-    label: Prix de vente
-    description: Prix du produit TTC
-    default: 0
+- name: taxes
+  type: text
+  config:
     required: true
-    config:
-      min:
-      max:
-      step:
-      required: true
-  - name: taxes
-    type: text
-    config:
-      required: true
-    label: Taxes
-    description:
-      Inscrire ici le code TVA Snipcart (en majuscules) :<br>TVA<br>TVAREDUITE<br>...
-      ou autre TVA particulière pour les packs par exemple
-    default: TVAREDUITE
-  - name: imageProduct
-    type: file
-    config:
-      maxSize: 64
-    label: Image du produit
-    description: "Image du produit (exemple : couverture du livre)"
-  - name: image
-    type: file
-    config:
-      maxSize: 64
-    label: Image principale
-    description: Image qui s'affiche en grand (exemple page d'un livre)
-  - name: images
-    type: image_gallery
-    config: {}
-    label: Gallerie d'images
-  - name: type
-    type: select
-    default: livre
-    config:
-      required: true
-      options:
-        - livre
-        - autre
-        - pack
-      source:
-        type: simple
-        section:
-        file:
-        path:
-    label: Type de produit
-  - name: weight
-    type: number
-    label: Poids
-    description: poids du produit en grammes
-    default: 0
+  label: Taxes
+  description: Inscrire ici le code TVA Snipcart (en majuscules) :<br>TVA<br>TVAREDUITE<br>...
+    ou autre TVA particulière pour les packs par exemple
+  default: TVAREDUITE
+- name: imageProduct
+  type: file
+  config:
+    maxSize: 64
+  label: Image du produit
+  description: 'Image du produit (exemple : couverture du livre)'
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image principale
+  description: Image qui s'affiche en grand (exemple page d'un livre)
+- name: images
+  type: image_gallery
+  config: {}
+  label: Gallerie d'images
+- name: type
+  type: select
+  default: livre
+  config:
     required: true
-    config:
-      min:
-      max:
-      step:
-  - name: invoiceInfos
-    type: textarea
-    default: ""
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Informations pour la facture
+    options:
+    - livre
+    - autre
+    - pack
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de produit
+- name: weight
+  type: number
+  label: Poids
+  description: poids du produit en grammes
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: invoiceInfos
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Informations pour la facture
+  description: Détails des taux de TVA pour les packs
 pages:
-  - content/products/a-stopover-in-lyon.md
-  - content/products/cartes-postales.md
-  - content/products/deux-carnets-cigognes.md
-  - content/products/pack-grand-voyageur.md
-  - content/products/pack-little-migrating-bird.md
+- content/products/a-stopover-in-lyon.md
+- content/products/cartes-postales.md
+- content/products/deux-carnets-cigognes.md
+- content/products/pack-grand-voyageur.md
+- content/products/pack-little-migrating-bird.md
