@@ -17,6 +17,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Oh my gone" address="1 Rue de la Martinière, 69001 Lyon" website="https://ohmygone.com/fr/">Une boutique spécialisée dans les souvenirs de Lyon… Juste en face du Mur des Lyonnais !</place>
 
+<place title="Archipel Librairie" address="21 Place des Terreaux, 69001 Lyon" website="https://www.archipel-librairie.fr/">Une librairie spécialisée dans l'architecture, l'urbanisme, le design…Vous y trouverez tout ce qu'on ne trouve pas ailleurs</place>
+
 <place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">Ne manquez pas la librairie du musée. Notre BD y est. En français comme en anglais !</place>
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste.</place>
