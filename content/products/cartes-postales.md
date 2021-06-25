@@ -8,6 +8,7 @@ title: Huit cartes postales
 imageProduct: "/images/capture.PNG"
 image: ''
 images:
+- "/images/carte-postale-2.jpg"
 - "/images/cigognes.jpg"
 - "/images/au-dessus-de-lyon.jpg"
 invoiceInfos: ''
