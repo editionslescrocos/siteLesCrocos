@@ -11,7 +11,7 @@ image: "/images/carte-5.jpg"
 
 <place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse.</place>
 
-<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie, sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur !</place>
+<place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie, sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur</place>
 
 <place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez l'œil. Dans cette petite librairie, toute la mezzanine est consacrée à la jeunesse.</place>
 
