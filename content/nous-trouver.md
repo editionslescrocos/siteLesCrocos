@@ -103,13 +103,15 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie à l'accueil chaleureux, où l'on se sent comme à la maison.</place>
+<place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie lumineuse où l'on se sent très vite comme à la maison.</place>
 
-<place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois !</place>
+<place title="Le Jardin des lettres" address="87 Avenue Edouard Millaud, 69290 Craponne" website="https://www.jardin-des-lettres.fr/"> Ici poussent en permanence de nouveaux livres pour petits et grands enfants… Magique !</place>
+
+<place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois</place>
 
 <place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse.</place>
 
-<place title="Les mots bleus" address="13 Rue Pierre Bouvier, 69270 Fontaines-sur-Saône" website="http://librairielesmotsbleus.com/"> Trois drôles de dames aux commandes de cette librairie toute de bleu vêtue. L'aventure commence dès la porte franchie…</place>
+<place title="Les mots bleus" address="13 Rue Pierre Bouvier, 69270 Fontaines-sur-Saône" website="http://librairielesmotsbleus.com/"> Trois drôles de dames aux commandes de cette librairie toute de bleu vêtue…</place>
 
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
@@ -117,7 +119,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société !</place>
 
-<place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie indispensable, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
+<place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie géniale, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
 
 <place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
 
