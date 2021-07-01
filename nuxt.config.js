@@ -104,7 +104,7 @@ export default {
 
   snipcart: {
     key:
-      "NGRjZGU0MTYtNzg5YS00Y2I2LWJiMjEtYTM1ODhhMDQyZjExNjM3NTAyOTQxNzQ2NTE0NjYw",
+      "OWQyYWZjYWMtMjExOC00ZmU3LThlM2YtZjRkYmI4ZWNiMGNiNjM3NTAyOTQxNzQ2NTE0NjYw",
     locales: {
       fr: {
         actions: {
