@@ -52,220 +52,225 @@ Les photographies sur le site ont été réalisées par Stéphane Perraud et ne 
 
 ## Colitique de confidentialité
 
-### Informatique et Libertés
+Dernière mise à jour : 1er juillet 2021.
 
-Les informations communiquées par le biais de formulaires sur le présent site internet possèdent l’utilité de répondre à la demande de l’utilisateur, et ne sont utilisées que par l’éditrice du site. L’utilisateur en est informé, conformément à l’article 32 de la loi n°78-17 du 6 janvier 1978 modifiée en 2004, relative à l’informatique, aux fichiers et aux libertés.
+Les trois choses les plus importantes à retenir (car sinon ça va être long ;-) :
 
-L’utilisateur bénéficie d’un droit de rectification, d’accès et d’opposition au traitement des informations et données dont il est l’auteur, en accord avec cette même loi. Pour user de vos droits, vous devez contacter l’éditeur du site par le biais d’un e-mail à stephane.perraud@editionslescrocos.com.
+1. Nous avons veillé à limiter les informations personnelles demandées au strict nécessaire (conformément au principe de minimisation des données) pour l'exécution de votre demande.
+2. Nous ne possédons jamais les renseignements relatifs à votre carte de paiement (c'est la sociétés de traitement de paiements avec laquelle nous travaillons qui s’en chargent : Stripe).
+3. Editions les Crocos ne vend ni ne loue vos données personnelles à des tiers à des fins de marketing ou toute autre fin que ce soit, EN AUCUN CAS.
 
-En accord avec la loi n°78-17 du 6 janvier 1978 modifiée en 2004, relative à l’informatique, aux fichiers et aux libertés, le présent site internet a fait l’objet d’une déclaration auprès de la Commission Nationale de l’Informatique et des Libertés (www.cnil.fr) sous le numéro 2178606. Notamment dans le cadre de la Newsletter, les données nominatives collectées à partir du présent site web sont traitées automatiquement en accord avec les exigences de cette loi. Ces données personnelles collectées ne sont et ne seront en aucun cas distribuées à des tiers, ni prêtées, ni vendues, ni louées.
+### 1. DÉFINITIONS
 
-### Analyse du trafic
+Les termes assortis d’une majuscule renvoient aux définitions suivantes :
 
-**Ce site utilise** Slimstat ainsi qu’un logiciel de sécurité, qui analysent le trafic du site internet editions.ailesetgraines.com en utilisant vos données de connexion et vos cookies, c’est-à-dire les fichiers textes hébergés sur votre ordinateur, afin de lire l’activité du site, d’en faire un usage commercial et également de repérer une éventuelle attaque malveillante sur le présent site.
+**La « Société »** désigne la société Editions les Crocos dont le siège est situé 2B rue Louis Bouquet, immatriculée au Registre du Commerce et des Sociétés sous le numéro 898 008 438 dont le numéro de TVA intracommunautaire est FR 94898008438.
 
-En utilisant ce site Web, vous acceptez que vos données de connexion et cookies soient traités aux fins décrites ci-dessus, ainsi que celles décrites dans notre politique de confidentialité (lien en bas de cette page).
+**Le « Site »** désigne le site internet accessible à partir du lien URL https://editionslescrocos.com.
 
-Informations à trouver plus bas :
+**« Vous** » désigne les personnes concernées par les Traitements effectués sur le Site (utilisateurs, prospects, clients…).
 
-* L’identité et les coordonnées du responsable de traitement.
-* Les finalités du traitement ainsi que la base juridique du traitement.
-* Les destinataires ou les catégories de destinataires des DCP.
-* Le cas échéant, le fait que le responsable du traitement ait l’intention d’effectuer un transfert de données à caractère personnel vers un pays tiers ou une organisation internationale, et l’existence ou l’absence d’une décision d’adéquation rendue par la Commission. Dans le cas des transferts visés à l’article 46 ou 47, ou encore à l’article 49, paragraphe 1, deuxième alinéa, la référence aux garanties appropriées ou adaptées et les moyens d’en obtenir une copie ou l’endroit où elles ont été mises à disposition.
-* La durée pendant laquelle les DCP seront conservées ou, lorsque cela n’est pas possible, les critères utilisés pour déterminer cette durée.
-* L’existence du droit auprès du responsable du traitement, de demander l’accès aux données à caractère personnel, la rectification ou l’effacement de celles-ci, ou une limitation du traitement relatif à la personne concernée, ainsi que du droit de s’opposer au traitement et du droit à la portabilité des données.
-* Le droit d’introduire une réclamation auprès d’une autorité de contrôle.
-* La source d’où proviennent les données à caractère personnel et, le cas échéant, une mention indiquant qu’elles sont issues ou non de sources accessibles au public.
-* L’existence d’une prise de décision automatisée, y compris un profilage, visé à l’article 22, paragraphes 1 et 4, et, au moins en pareil cas, des informations utiles concernant la logique sous-jacente, ainsi que l’importance et les conséquences prévues de ce traitement pour la personne concernée.
+La « **Politique** » désigne la présente politique de confidentialité.
 
-## NOTRE POLITIQUE DE CONFIDENTIALITÉ
+Une « **Donnée** » correspond à toute information sur une personne physique identifiée ou identifiable (la « **personne concernée** ») directement ou indirectement, notamment par référence à un identifiant (nom, numéro d'identification, données de localisation, identifiant en ligne…) ou à un ou plusieurs éléments propres à son identité.
 
-L’entreprise Editions les Crocos met tout en œuvre pour protéger les données personnelles des visiteurs de ce site dans le respect de la législation tant française qu’européenne sur la protection des données à caractère personnel, conformément au Règlement Général sur la Protection des Données (RGPD) et la Loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
+Un « **Traitement** » correspond à toute opération appliquée à des Données (collecte, enregistrement, organisation, conservation, adaptation, communication par transmission, diffusion, effacement…).
 
-Sachez que la collecte de vos données à caractère personnel se limite au strict nécessaire, conformément au principe de minimisation des données.
+Un « **responsable de traitement** » est celui qui, seul ou conjointement avec d'autres, détermine les finalités et les moyens du traitement et un « **sous-traitant** » est celui qui traite des Données pour le compte du responsable du traitement. Sur le Site, sauf mention contraire, nous sommes responsables de traitement des Données.
 
-### 1. Définitions
+Un « **destinataire** » est la personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication de données personnelles, qu'il s'agisse ou non d'un tiers.
 
-Le site : correspond au site editionslescrocos ainsi que l’ensemble du site, pages Internet et services en ligne proposés par Editions les Crocos, qui exploite le site accessible à partir de l’adresse URL suivante : [https://editions.ailesetgraines.com/](https://editions.ailesetgraines.com/ "https://editions.ailesetgraines.com/")
+La « **Réglementation** » désigne le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données (‘’RGPD’’) ; la Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés ; les règles applicables en matière de prospection commerciale prévues par le Code des postes et des télécommunications, et plus généralement les lois et règlements applicables aux Traitements de Données que nous réalisons
 
-Les Cookies : petits fichiers déposés sur le disque dur à l’insu de l’internaute, lors de la consultation de certains sites web, et qui conservent des informations en vue d’une connexion ultérieure.
+### 2. SITE ET PROSPECTION COMMERCIALE
 
-Donnée à caractère personnel : correspond en droit français à toute information relative à une personne physique identifiée ou qui peut être identifiée, directement ou indirectement, par référence à un numéro d’identification ou à un ou plusieurs éléments qui lui sont propres.
+Le Site présente les activités de notre Société et divers formulaires (contact, abonnement à la newsletter…). En complétant les formulaires et en communiquant avec nous via le Site, vous nous transmettez les catégories d’informations suivantes :
 
-Éditeur / Editrice : la personne, physique ou morale, qui édite les services de communication au public en ligne, c’est-à-dire concernant le site [https://editions.ailesetgraines.com](https://editions.ailesetgraines.com "https://editions.ailesetgraines.com") : Stéphane Perraud, président de la société Edition les Crocos, 2B rue Louis Bouquet, 69009 Lyon. Numéro de téléphone, à ne pas utiliser pour une quelconque prospection commerciale : 06 75 69 93 16.
+\- **Données d’identité** : nom
 
-Utilisateur / client : toute personne morale ou physique utilisant le Site Editions les Crocos.
+\- **Données de contact et correspondances** : adresse mail. 
 
-RGPD : Règlement Général sur la Protection des Données à caractère personnel applicable à compter du 25 Mai 2018.
+En cas de demande via notre formulaire, la nature de votre demande et le contenu de votre demande.
 
-Traitement de données à caractère personnel, selon la CNIL : ” Toute opération, ou ensemble d’opérations, portant sur de telles données, quel que soit le procédé utilisé (collecte, enregistrement, organisation, conservation, adaptation, modification, extraction, consultation, utilisation, communication par transmission, diffusion ou toute autre forme de mise à disposition, rapprochement ou interconnexion, verrouillage, effacement ou destruction, …) “
+Conformément à notre intérêt légitime, et le cas échéant lorsque cela est nécessaire à l'exécution de mesures précontractuelles prises à votre demande ou d'un contrat, nous réalisons des traitements sur les Données susvisées pour les finalités suivantes :
 
-### 2- Responsable du traitement : éditeur / éditrice
+\- Présentation des produits et services de la Société ;
 
-Le responsable du traitement des données personnelles visées présentement est la société Editions les Crocos elle-même, c’est-à-dire : Stéphane Perraud, président et éditeur de l’entreprise Editions les Crocos, 2B rue Louis Bouquet, 69009 Lyon. Numéro de téléphone, à ne pas utiliser pour une quelconque prospection commerciale : 06 .
+\- Gestion, traitement et suivi des demandes et des échanges avec la Société, via le Site
 
-### 3- Protection des données à caractère personnel
+\- Gestion de la relation avec les prospects ;
 
-Les informations vous concernant sont destinées aux Editions les Crocos (responsable du traitement), conformément à la loi dite « Informatique et Libertés » du 6 janvier 1978 et au Règlement Général sur la Protection des Données 2016/679 (RGPD).
+\- Gestion des avis des personnes sur des produits, services ou contenus de la Société ;
 
-Vous disposez bien sûr d’un droit d’accès, de rectification et de suppression des données qui vous concernent et ce à tout moment.
+\- Prospection et/ou envoi d’informations, gestion des opérations techniques de prospection, choix des personnes pour réaliser des actions de fidélisation, prospection, sondage, test produit ;
 
-Si vous nous avez laissé votre e-mail, nous vous informons que nous enregistrons les statistiques sur les e-mails, pour une durée de 3 ans minimum sans retour contraire de votre part.
+\- Organisation de jeux concours, de loteries ou de toute opération promotionnelle sur le Site.
 
-En vous connectant sur le site Editions les Crocos, vous accédez à un contenu protégé par la loi, notamment par les dispositions du Code de la propriété intellectuelle. Editions les Crocos n’autorise qu’un usage strictement personnel des données, informations ou contenus auxquels vous accédez, limité à un enregistrement temporaire sur votre ordinateur ainsi que la reproduction, en un unique exemplaire, pour copie de sauvegarde ou impression sur papier. Toute autre utilisation est strictement soumise à notre autorisation expresse au préalable. En poursuivant votre visite de notre site vous acceptez donc de respecter les restrictions ci-dessus.
+Les données utilisées à des fins de gestion de la prospection commerciale sont conservées au maximum pendant trois ans à compter du dernier contact actif émanant du prospect ou client, et avant en cas de retrait de votre consentement à recevoir des messages de notre part. Les Données des avis et contributions sont conservées pendant la durée d’accès au public de l’avis sur le Site.
 
-Editions les Crocos engage donc ses clients à respecter les lois en vigueur et les règles déontologiques et éthiques d’usage nécessaires à l’établissement d’une relation de confiance entre l’émetteur du message et son destinataire. Editions les Crocos engage ses clients à respecter un ensemble d’obligations au travers de ses conditions générales de services.
+### 3. VENTE EN LIGNE
 
-Tout manquement à ces obligations peut donner lieu à des poursuites et à un arrêt de contact entre l’entreprise Editions les Crocos et l’utilisateur.
+Le Site permet d’effectuer des achats, ce qui nous amène à effectuer des Traitements sur les Données suivantes :
 
-Les échanges ou locations de fichiers sont traités dans le cadre d’accords de confidentialité avec Editions les Crocos.
+### - Données d’identité et de contact
 
-### 4- Nature des données collectées
+\- **Données relatives à la relation contractuelle et commerciale** : Détails du contenu de la commande ; échanges précontractuels et relatifs à la commande (objet, date…) ; communications avec la Société.
 
-Editions les Crocos vous informe clairement sur les traitements de données à caractère personnel que cette société met en œuvre dans le cadre de son activité : comment les données sont collectées, utilisées et protégées ?
+\- **Données de paiement et transactionnelles** : date de la transaction, montant, moyen de paiement, numéro de commande, données de facturation.
 
-Tout utilisateur dispose du droit de demander au responsable de traitement, c’est-à-dire aux Editions les Crocos :
+Ces informations sont nécessaires à la gestion de notre fichier clients-prospects, et plus précisément pour les finalités suivantes conformément à nos CGV acceptées lors de la commande sur le Site et à nos obligations légales :
 
-* l’accès aux données à caractère personnel fournies.
-* la rectification ou l’effacement de celles-ci.
-* une limitation du traitement relatif à sa personne.
-* s’opposer au traitement.
-* la portabilité des données.
-* introduire une réclamation auprès de la CNIL.
-* 
+\- Effectuer les opérations relatives à la gestion des fichiers concernant : les contrats dont inscriptions ; les commandes ; la délivrance du produit ou service ; les garanties légales et commerciales ; les factures ; la comptabilité et le suivi de la relation commerciale (service après-vente) y compris pour les avis sur les offres de la Société ;
 
-Editions les Crocos s’engage à ce que tout sous-traitant présente des garanties contractuelles suffisantes quant à la mise en œuvre des exigences du règlement européen sur la protection des données, notamment avec la RGPD.
+\- Prévention et lutte contre la fraude et aux moyens de paiement et notamment contre la fraude à la carte bancaire ;
 
-Editions les Crocos pourra faire appel à un ou plusieurs sous-traitant(s) pour mener des activités de traitement spécifiques qui seront soumises aux conditions de la présente Politique.
+**Paiement sécurisé.** Toutes les transactions effectuées sur notre Site sont sécurisées. Les paiements par carte bancaire sont assurés par nos prestataire de service de paiement (« PSP »), tels qu’indiqués dans nos conditions générales ou dans la page de commande de nos produits et services. Nous disposons ainsi d’un système de cryptage SSL pour protéger vos données personnelles ainsi que les moyens de paiement utilisés. A aucun moment, nous ne sommes directement en possession de vos coordonnées bancaires grâce à ce processus.
 
-#### 4.1- Données collectées sur le site
+**Durées de conservation.** 
 
-Lorsque vous vous inscrivez à nos services ou acheter nos produits, les données suivantes peuvent être collectées et traitées : e-mail, civilité, prénom, nom, pays, numéro de TVA intracommunautaire, et le cas échéant mot de passe, adresse postale, numéro de téléphone, pseudo sur divers groupes et réseaux sociaux, adresse(s) IP et nom de domaine, données de connexion et données de navigation, informations relatives aux abonnements et correspondances sur notre site. Et certaines données sont collectées automatiquement du fait de vos actions sur le site.
+Données traitées à des fins de prospection commerciale : **3 ans** à compter du dernier comportement actif du prospect ou de la collecte des Données.
 
-Editions les Crocos ne cède et ne communique aucune donnée personnelle à des tiers.
+Données nécessaires au traitement de votre commande et à la gestion des relations contractuelles et commerciales : **3 ans** à compter du dernier comportement actif du client ou à défaut, à compter de la fin de la relation contractuelle. Pour les pièces comptables (bons de commande, bons de livraison, factures client) : **10 ans** à compter de la clôture de l’exercice.
 
-#### 4.2- Collecte des données techniques à des fins commerciales et statistiques
+Commandes portant sur un montant inférieur à 120,00 euros : **5 ans** à compter de la conclusion du contrat.
 
-Les données sont automatiquement collectées et enregistrées par notre site et les réseaux sociaux que l’on utilise à des fins publicitaires, commerciales et statistiques. Ces informations nous aident à personnaliser et à améliorer continuellement nos services.
+Contrats de commande portant sur un montant supérieur à 120,00 euros : **10 ans** à compter de la date de la livraison ou de la prestation de service.
 
-#### 5- Finalité des traitements
+4\. **LIVRAISON DE PRODUITS MATÉRIELS**
 
-L’objectif étant de toujours vous proposer des services de qualité : faciliter le fonctionnement, résoudre les éventuels problèmes afin d’améliorer l’utilisation de notre site et de nos services, personnaliser, évaluer, améliorer nos services et contenus ; analyser le volume et l’historique de votre utilisation de nos services ; respecter nos obligations légales et règlementaires.
+Pour vous livrer les produits commandés sur le Site, nous vous demanderons votre adresse postale de livraison, si cette dernière est différente de l’adresse de facturation. Si la livraison d’un bien est à destination d’un tiers, vous confirmez avoir l’autorisation de transmettre ses données d’identité et de livraison. Ces Données seront transmises au transporteur chargé de la livraison.
 
-Sachez qu’un lien de désinscription est inclus dans chaque newsletter et e-mail marketing envoyé. Pour ceux d’entre vous ayant explicitement choisi de recevoir notre newsletter, vous pouvez facilement vous en désinscrire en suivant les liens de désinscription figurant dans chacun de ces e-mails.
+D’autres informations nécessaires à la livraison feront l’objet de Traitements conformément à nos CGV et notre intérêt légitime (mode de livraison, taille du colis, informations de suivi de la livraison, date de livraison, bon de réception, signature du bon etc.).
 
-Ainsi Editions les Crocos peut recueillir :
+Le transporteur chargé de la livraison applique sa propre politique de confidentialité sur les Données qui lui sont transmises dans le cadre de la commande ou qu’il est amené à collecter au cours de la livraison.
 
-* prénom, nom, ton adresse e-mail et adresse IP.
-* Le détail des achats que vous effectuez sur le site Editions les Crocos, notamment le montant, la devise et la méthode de paiement. Nous ne conservons pas les renseignements relatifs à votre carte de paiement (ce sont les sociétés de traitement de paiements avec lesquelles nous travaillons qui s’en chargent : stripe, clickfunnels ).
-* Toutes les autres informations que vous nous donnez volontairement par le biais d’un formulaire, ou que vous nous partagez en nous écrivant : e-mail, messages privées facebook et instagram écrits ou vidéos, commentaires, réponses au sondage, demandes d’informations, etc…
+#### 5. ÉVÉNEMENTS -
 
-Editions les Crocos peut être amenée à accéder, à des fins statistiques et publicitaires :
+**Inscriptions et organisation.** Nous pouvons organiser des évènements en présentiel ou à distance, des conférences, évènements festifs ou d’affaire (les « Evènements ») qui peuvent être gratuits ou payants. Les données personnelles nécessaire à l’organisation, la gestion, le traitement et le suivi des invitations, des inscriptions et des participations à ces Evènements font l’objet de traitements informatisés de données. Ces Données peuvent être archivées pendant cinq ans après l'événement.
 
-* Aux statistiques relatives à ton ouverture de mes e-mails et tes clics sur les liens qu’ils contiennent.
-* A des informations sur les pages que tu as visité sur mon site, le type, la version du navigateur et ton système d’exploitation.
+**Image.** Par ailleurs, nous pourrons être amenés à fixer votre image et/ou votre voix sur des supports photos, audios ou vidéos lors d’un Evènement, conformément à nos CGV ou tout autre accord distinct. Les captations pourront être enregistrées et publiées par la Société, y compris sur les réseaux sociaux conformément à ses intérêts légitimes. Si vous ne souhaitez pas apparaître nous vous demandons de nous en informer au préalable, de couper votre caméra en cas d’évènement à distance, de vous placer en fond de salle, de ne pas participer aux photos groupées, de ne pas faire un signe au photographe / cameraman en cas d’évènement en présentiel.
 
-Editions les Crocos utilise ces informations pour :
+### 6. RÉSEAUX SOCIAUX ET SITES TIERS
 
-* Communiquer avec vous et répondre à vos questions.
-* Vous donner accès aux services et produits que vous avez acheté, vous envoyer des e-mails
-* Administrer et améliorer son site internet et optimiser les technologies si nécessaire.
-* Analyser les performances des contenus de son site, les trajets de navigation et identifier les éventuels dysfonctionnements.
-* Mener des campagnes de marketing ciblées pour promouvoir nos services et nos produits
+**Echanges sur les réseaux sociaux.** Nous pouvons vous contacter ou répondre à vos questions via les réseaux sociaux, si vous nous avez contacté dans un premier temps par ce biais. Vous êtes informés que l’usage des réseaux sociaux entraîne des traitements de données à caractère personnel par les fournisseurs de ces réseaux (voir leur politique de confidentialité).
 
-Editions les Crocos peut publier sur son site une liste des témoignages et interviews comportant des informations sur le nom, le prénom, une photo, des vidéos de nos clients et leurs informations de contacts (site, e-mail, téléphone…). Editions les Crocos s’engage à obtenir l’autorisation expresse de chaque client avant publication sur le site de tout témoignage et interview. Si vous souhaitez être retiré/e de la liste, vous pouvez nous contacter sur le formulaire contact ou à editions@ailesetgraines.com et nous supprimerons vos informations au plus vite.
+**Informations publiques.** Les informations vous concernant, que vous nous avez transmises, peuvent éventuellement être enrichies pour des finalités commerciales, de prospection, de communication, de sollicitation ou de marketing, au moyen d’autres sources d’informations comme les réseaux sociaux. Cela comprend les informations dites « publiques » ou auxquelles nous pouvons avoir accès en tant qu’administrateur d’une page ou d’un groupe. La base légale de ce traitement est notre intérêt légitime en tant que société commerciale.
 
-### 6- Destinataire des données
+**Interconnexion.** Dans le cas ou votre espace membre peut se connecter à un autre service (par exemple, un réseau social) pour faire des envois croisés alors le service tiers pourra nous communiquer des informations dont vous avez autorisé la divulgation. Vous êtes informé que les éditeurs de services tiers pourront également collecter des informations concernant la consultation et/ou l’utilisation du Site, conformément à leur propre politique de traitement des données personnelles. Plus d’informations sur l’inscription au Site à partir d’un compte tiers, pour :
 
-Les données personnelles vous concernant collectées sur le site sont destinées à la propre utilisation par Editions les Crocos, et peuvent être transmises aux sociétés sous-traitantes auxquelles Editions les Crocos peut faire appel dans le cadre de l’exécution de ses services. Editions les Crocos assure la conformité avec les exigences de protection des données pour toutes ces sociétés sous-traitantes. Editions les Crocos ne vend ni ne loue vos données personnelles à des tiers à des fins de marketing ou toute autre fin que ce soit, EN AUCUN CAS.
+Facebook: https://www.facebook.com/help/223184117694507[ ](https://www.facebook.com/help/223184117694507); https://developers.facebook.com/docs/facebook-login/overview
 
-Actuellement les destinataires de données sont :
+Google: https://support.google.com/accounts/answer/112802?co=GENIE.Platform%3DDesktop&hl=fr
 
-* SG autorépondeur: Gestion de messagerie
-* Paypal : Gestion des paiements
-* Stripe : Gestion des paiements
-* Facebook : Gestion des publicités et de la promotion de notre travail
-* Instagram : Gestion des publicités et de la promotion de notre travail
-* Messenger : Gestion des publicités et de la promotion de notre travail
+### 7. EXERCICE DE VOS DROITS
 
-### 7- Droit d’accès, de rectification et de suppression
+**Pour toute demande d’exercice des droits susvisés ou pour plus d’informations, vous pouvez contacter la Société à l’adresse :** [contact@editionslescrocos.com](mailto:contact@editionslescrocos.com) ou par voie postale à l’adresse du siège de la Société indiqué en-tête.
 
-Conformément à la loi Informatique et Libertés et le Règlement Général sur la Protection des Données 2016/679 (RGPD), vous disposez des droits d’accès, de rectification et de suppression des données personnelles vous concernant que vous pouvez exercer en nous envoyant un message via le formulaire contact du site ou via l’adresse e-mail : editions@ailesetgraines.com
+Conformément à la réglementation, vous disposez des droits suivants sur vos Données :
 
-### 8- Utilisation des cookies
+\- **Droit d’accès** à vos Données, incluant le droit d’en demander copie, et aux informations fournies dans la présente politique de confidentialité (art. 15 RGPD). Lorsque la base légale du traitement de données est notre intérêt légitime, vous avez la possibilité de demander les informations relatives à la mise en balance que nous avons effectuée entre les intérêts de nos clients ceux de la Société préalablement à ce traitement.
 
-La durée de conservation des cookies est conforme aux recommandations de la CNIL.
+\- **Droit de rectification** (art. 16 RGPD) et de mise à jour de vos données dont nous disposons.
 
-Ces cookies peuvent être utilisés à des fins statistiques notamment pour optimiser les services rendus à l’Utilisateur, à partir du traitement des informations concernant la fréquence d’accès, la personnalisation des pages ainsi que les opérations réalisées et les informations consultées.
+\- **Droit à l’effacement** de vos Données (art. 17 RGPD) lorsque les données ne nous sont plus nécessaires, que vous avez retiré votre consentement à leur Traitement (s’il reposait sur notre consentement) ou que vous vous opposez au Traitement reposant sur notre intérêt légitime ou au traitement effectué à des fins de prospection ou à des fins de profilage lié à la prospection.
 
-Vous êtes informé/e que Editions les Crocos est susceptible de déposer des cookies sur votre terminal. Le cookie enregistre des informations relatives à la navigation sur le service (les pages que vous avez consultées, la date et l’heure de la consultation…) que nous pourrons lire lors de vos visites ultérieures. Editions les Crocos peut être amené à recueillir des informations de navigation via l’utilisation de ces cookies.
+\- **Droit de retirer à tout moment votre consentement** (art. 13-2c RGPD) pour tous les traitements de données reposant sur la base légale de votre consentement. Par ailleurs, en matière de prospection commerciale, vous avez la possibilité de vous désinscrire à tout moment de nos listes de diffusion en cliquant sur le lien de désabonnement présent dans nos communications ou en nous contactant pour ne plus recevoir de message de sollicitation.
 
-Vous reconnaissez avoir été informé que l’Editeur peut avoir recours à des cookies, et l’y autorisez. Si vous ne souhaitez pas que des cookies soient utilisés sur votre terminal, la plupart des navigateurs vous permettent de désactiver les cookies en passant par les options de réglage.
+\- **Droit à la limitation** du Traitement, qui, sauf motif impérieux, ne pourra plus être mis en œuvre qu’avec votre accord (art.18 RGPD) lorsque :
 
-Vous pouvez vous opposer à l’enregistrement des cookies en paramétrant votre navigateur.
+\- Vous contestez l’exactitude des données, pendant le temps nécessaire à leur vérification,
 
-Attention : si vous choisissez de refuser l’enregistrement des cookies dans votre ordinateur, ou si vous supprimez ceux qui y sont enregistrés, nous déclinons toute responsabilité pour les conséquences liées au fonctionnement dégradé de nos services résultant de l’impossibilité pour nous d’enregistrer ou de consulter les cookies nécessaires à leur fonctionnement, et que vous auriez refusés ou supprimés.
+\- Si le traitement de données est illicite mais que vous vous opposez à l’effacement des données et choisissez plutôt la limitation du traitement,
 
-### 9- Conservation des données
+\- Lorsque nous n’avons plus besoin des données mais qu’elles vous sont encore nécessaires pour la constatation, l’exercice ou la défense de vos droits en justice.
 
-Conformément à l’article 6-5° de la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, les données à caractère personnel faisant l’objet d’un traitement ne sont pas conservées au-delà du temps nécessaire à l’exécution des obligations définies lors de la conclusion du contrat ou de la durée prédéfinie de la relation contractuelle. Editions les Crocos stocke donc vos données le temps nécessaire à la fourniture du service.
+\- Lorsque vous vous êtes opposé au traitement fondé sur notre intérêt légitime, pendant le temps nécessaire à la mise en balance de nos intérêts respectifs.
 
-Conformément à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, vous disposez par ailleurs d’un droit de suppression sur vos données que vous pouvez exercer à tout moment en prenant contact avec Editions les Crocos.
+\- **Droit à la portabilité** des Données directement fournies par la personne concernée lorsqu’elles font l’objet de traitements automatisés fondés sur votre consentement ou sur un contrat (art. 20 RGPD). Ce droit signifie que vous avez la possibilité de demander la communication de ces données dans un format structuré, couramment utilisé et lisible par machine afin qu’elles soient communiquées à un autre responsable de traitement.
 
-Pour des raisons de sécurité, si vous ne vous êtes pas authentifié/e sur le Site ou que vous n’avez pas eu un comportement actif (clic sur un lien) pendant une période de trois ans, vous recevrez un e-mail vous invitant à vous connecter dans les plus brefs délais, sans quoi vos données seront supprimées de nos bases de données.
+\- **Droit d’opposition** (art. 21 RGPD) au traitement de vos données lorsque ce Traitement a pour base légale notre intérêt légitime.
 
-### 10- Lieu de stockage des données de transferts
+\- **Droit de définir le sort de vos Données après votre mort** (art. 40-1 de la loi 78-17 du 6 janvier 1978) et de choisir éventuellement un tiers de confiance à qui la Société devra les confier.
 
-Les serveurs d’hébergement sur lesquels AILES et GRAINES traite et stocke les bases de données respectent les nouvelles lois en vigueur en France et dans l’Union Européenne, dont la RGPD.
+Vous pouvez également obtenir [plus d’informations sur le site de la CNIL.](https://www.cnil.fr/fr/les-droits-pour-maitriser-vos-donnees-personnelles)
 
-### 11- Données de tiers
+En cas de demande d’exercice, la Société se réserve la possibilité de vous demander de préciser votre demande et de fournir un justificatif d’identité (qui sera conservé un an en cas d’exercice du droit d’accès ou de rectification et trois ans en cas d’exercice du droit d’opposition). Si notre réponse ne vous apportait pas une pleine satisfaction, vous bénéficiez toujours de la **possibilité d’introduire une réclamation** auprès de l’autorité de contrôle et de protection des Données personnelles dont vous relevez (en France, la CNIL).
 
-Editions les Crocos a accès à toutes les informations contenues dans les e-mails et autres messages privés. Seules les entreprises utilisées pour les envois de messages ont la possibilité de lire les données (par exemple les différents réseaux sociaux avec lesquels nous échangeons, liés à leur politique de confidentialité).
+### 8. DURÉES DE CONSERVATION
 
-En aucun cas Editions les Crocos ne vend, partage ou loue ses listes de diffusion à des tiers, ni ne les utilise à des fins autres que celles exposées présentement.
+**Engagements.** Des moyens de suppression effective des Données sont mis en place dès lors que la durée de conservation ou d'archivage nécessaire à l'accomplissement des finalités déterminées ou imposées est atteinte, notamment après suppression de votre compte auprès de notre Société ou au terme du contrat avec notre Société.
 
-### 12- Sécurité
+**Minimisation.** En tout état de cause, les Données faisant l'objet d'un Traitement ne sont pas conservées au-delà du temps nécessaire à l'exécution des obligations définies lors de la conclusion du contrat, ou posées par la législation en vigueur. Au-delà, elles pourront être anonymisées et conservées à des fins statistiques, notamment sous une forme agrégée.
 
-Dans le cadre de ses services, Editions les Crocos accorde la plus haute importance à la sécurité et à l’intégrité des données personnelles de ses clients. Ainsi, et conformément au RGPD, Editions les Crocos s’engage à prendre toutes les précautions utiles afin de préserver la sécurité des données et notamment les protéger contre toute destruction accidentelle ou illicite, perte accidentelle, altération, diffusion ou accès non autorisé, ainsi que contre toute autre forme de traitement illicite ou communication à des personnes non autorisées.
+**Contentieux.** De même, nous pouvons archiver les informations démontrant l’exécution de nos obligations contractuelles jusqu’à l’expiration des délais de prescription / forclusion applicables aux actions en justices, et ce pour la bonne défense de nos intérêts devant les juridictions en cas de contentieux ultérieur. Cela concerne notamment mais non exclusivement les durées prévues par le code de commerce, le code civil et le code de la consommation.
 
-A cette fin, Editions les Crocos utilise seulement des sites qui s’engagent à respecter toutes les mesures nécessaires pour protéger les informations liées aux règlements et aux cartes de crédit. Par ailleurs, afin d’éviter notamment tout accès non autorisé, de garantir l’exactitude et une bonne utilisation des données, Editions les Crocos a mis en place des procédures afin de pouvoir au mieux respecter ses engagements en lien avec la réglementation RGPD. Malgré tout, personne ne peut se considérer comme étant complètement à l’abri d’une attaque de pirates. C’est pourquoi dans le cas où une faille de sécurité venait à vous impacter, Editions les Crocos s’engage à vous en informer dès que possible et à faire ses meilleurs efforts pour prendre toutes les mesures possibles pour neutraliser l’intrusion et en minimiser les impacts. Dans le cas où vous subiriez un dommage du fait de l’exploitation d’une faille de sécurité par un tiers, Editions les Crocos s’engage à vous fournir toute l’assistance nécessaire afin que vous puissiez faire valoir vos droits.
+### 9. DESTINATAIRES
 
-Il convient de garder à l’esprit que tout utilisateur, client ou pirate découvrant une faille de sécurité et l’exploitant s’expose à des sanctions pénales et que Editions les Crocos prendra toutes les mesures, y compris par le biais d’un dépôt de plainte et/ou d’une action en justice, pour préserver les données et droits de ses utilisateurs et les siens et d’en limiter l’impact au maximum.
+**Engagements.** Nous nous engageons à ce que tout destinataire de données présente des garanties contractuelles suffisantes et appropriées pour respecter vos droits, afin que le traitement réponde aux exigences du RGPD lorsque ce règlement s’applique (notamment en matière de sous-traitance). Sur la base de nos obligations légales, vos Données pourront être divulguées en application d'une loi, d'un règlement ou en vertu d'une décision d'une autorité réglementaire ou judiciaire compétente.
 
-En aucun cas les engagements définis au point ci-dessus relatifs à la notification en cas de faille de sécurité ne peuvent être assimilés à une quelconque reconnaissance de faute ou de responsabilité quant à la survenance de l’incident en question.
+Les informations que vous nous communiquez sont à usage interne par les personnes habilitées, elles sont strictement confidentielles et ne peuvent être divulguées à des tiers, sauf dans les conditions prévues par la Réglementation en cas d’accord exprès ou si vous avez décidé de les rendre publiques.
 
-### 13- Responsabilités et garanties
+**Sous-traitance.** Nos prestataires externes (ex : fournisseurs, transporteurs…) peuvent, dans le cadre des traitements décrits ci-avant, être destinataires de données personnelles lorsque cela est nécessaire à la réalisation de leur mission.
 
-Sauf cas de force majeure, Editions les Crocos garantit à l’Utilisateur la bonne exécution de ses prestations dans le respect des présentes Conditions Générales.
+**Transfert hors UE**. Nous nous engageons à veiller au respect de la réglementation applicable relative aux transferts des données vers des pays situés en dehors de l’Union Européenne et notamment selon les modalités suivantes :
 
-En aucun cas Editions les Crocos ne peut être tenu responsable vis-à-vis des tiers d’un préjudice résultant de l’envoi des e-mails ou SMS pour le compte de l’Utilisateur, et ce à quelque titre que ce soit.
+\- Nous transférerons les données des visiteurs, prospects et clients vers des pays reconnus comme offrant un niveau de protection adéquat ;
 
-La responsabilité de l’Utilisateur peut être engagée du fait du non-respect des présentes Conditions Générales, de la politique de confidentialité et anti-spam Editions les Crocos ou de toute disposition légale, règlementaire ou résultant d’une convention internationale applicable.
+\- Lorsque le pays de destination ne bénéficie pas d’un niveau de protection adéquat, nous encadrons les flux par des outils de transfert conformes à la réglementation (clauses contractuelles types de la commission européenne, notamment).
 
-### 14- Portabilité des données
+**Agrégation de données non personnelles.** Nous pouvons publier, divulguer et utiliser les informations agrégées (informations relatives aux utilisateurs du site, aux prospects, aux clients…) que nous combinons de sorte qu’aucune personne physique ne soit identifiable individuellement. Ce traitement est effectué conformément à notre intérêt légitime à des fins statistiques, d’analyse du secteur et du marché, de présentation de nos activités, à des fins promotionnelles et publicitaires et à d’autres fins commerciales.
 
-Editions les Crocos s’engage à vous offrir la possibilité de vous faire restituer l’ensemble des données vous concernant sur simple demande. L’Utilisateur se voit ainsi garantir une meilleure maîtrise de ses données, et garde la possibilité de les réutiliser. Ces données devront être fournies dans un format ouvert et aisément réutilisable, directement entre les mains d’un autre responsable de traitement lorsque cela est souhaité et techniquement possible.
+### 10. SÉCURITÉ INFORMATIQUE
 
-### 15- Suppression des données
+**Engagements.** Nous nous engageons à mettre en œuvre les mesures techniques et organisationnelles appropriées grâce à des moyens de sécurisation physiques et logistiques pour limiter les risques d'accès accidentels, non autorisés ou illégaux, de divulgation, d'altération, de perte ou encore de destruction des données personnelles vous concernant.
 
-L’Utilisateur a la possibilité de supprimer ses données à tout moment, par simple demande à Editions les Crocos via le formulaire contact ou par l’envoi d’un e-mail à elodie.alexis@ailesetgraines.com. Il peut également le faire à la fin de chaque e-mail envoyé par Editions les Crocos.
+**Avertissements.** Nous vous invitons à rester prudent(e) sur ce que vous décidez de rendre public sur internet. En ce qui concerne les **données personnelles** y compris relevant de votre vie privée ou sensibles **rendues publiques à votre initiative** ou déduites _via_ vos contributions, commentaires et prises de position de quelque nature que ce soit sur le Site, ou encore les réseaux sociaux sur des groupes et/ou conversations avec d’autres utilisateurs du Site.
 
-En cas de violation d’une ou de plusieurs dispositions des présentes ou de tout autre document incorporé aux présentes par référence, l’Editeur se réserve le droit de mettre fin ou de restreindre sans aucun avertissement préalable et à sa seule discrétion, votre usage et accès aux services, à votre compte et à tous les Sites.
+**Protocole Https.** L’adresse URL du Site est accompagnée d’un cadenas fermé ou une clé apparaît en bas à droite de votre navigateur signalant l’existence du protocole de sécurité Https, applicable au stockage des données notamment. Cela signifie que vous êtes dans une zone de navigation sécurisée, notamment lorsque que votre numéro de carte bancaire vous est demandé.
 
-### 16- Droit applicable et transfert des données dans un autre pays
+**Violation de données.** Dans l'éventualité où un évènement entraînant la réalisation des risques de modification, de disparition ou d’accès non autorisé aux Données, nous nous engageons à :
 
-La Politique de Confidentialité est régie par le droit français et évolue avec lui. Elles sont rédigées en français. Editions les Crocos s’engage à respecter la réglementation applicable relative aux transferts des données, de la RGPD et ce qu’importe le pays.
+\- Examiner les causes de l'incident ;
 
-### 17- Modification de la politique de confidentialité des données
+\- Prendre les mesures nécessaires pour limiter les effets négatifs et préjudices pouvant résulter dudit incident ;
 
-Editions les Crocos se réserve le droit de faire évoluer la présente Politique de confidentialité à tout moment, notamment en application des changements apportés aux lois et réglementations en vigueur. Nous vous recommandons de vérifier ces règles de temps en temps pour rester informé de nos procédures et règles concernant vos informations personnelles.
+\- Notifier l'incident à l’autorité compétente et/ou aux personnes concernées dans les plus brefs délais lorsque cela répond à une exigence légale.
 
-En cas de modification des présentes, Editions les Crocos s’engage à ne pas baisser le niveau de confidentialité de manière substantielle sans l’information préalable des personnes concernées.
+En aucun cas les engagements définis au point ci-dessus ne peuvent être assimilés à une quelconque reconnaissance de faute ou de responsabilité quant à la survenance de cet incident.
 
-### 18- Litige et recours
+### 11. GENERALITES
 
-Tout litige relatif à l’interprétation ou à l’exécution de la politique de confidentialité sera jugé conformément au droit français et relèvera de la compétence des tribunaux d’instance ou de grande instance français.
+  
+**Caractère obligatoire.** Nous avons veillé à vous demander très peu d’information personnelle pour l’exécution de votre demande. En cas de demande incomplète (par exemple : commande en ligne, demande de renseignement etc.), la Société se réserve de demander des informations complémentaires ou d’écarter par tout moyen technique la possibilité de valider le formulaire concerné.
 
-## POUR NOUS CONTACTER
+**Liens hypertextes.** Le Site peut fournir des liens vers d’autres sites, applications et services que les siens, qui peuvent être exploités par des sociétés tierces. Nous ne sommes pas responsables du traitement des données personnelles effectués par ces sites tiers, ou les sites pointant vers le Site, dont l’utilisateur est invité à consulter les politiques de protection des données personnelles pour plus d’informations. La Politique est applicable uniquement aux activités de la Société, qui ne pourra être tenue responsable des manquements d’un tiers à ses obligations en matière de protection des données personnelles.
+
+**Champ d’application.** La Politique n’est pas exhaustive de l’ensemble des traitements et nous nous réservons la possibilité de la compléter par tout moyen.
+
+**Langue.** La Politique est rédigée en français. Dans le cas où elle serait traduite en une ou plusieurs langues, seul le texte français ferait foi en cas de litige.
+
+**Non-renonciation.** L'inapplication temporaire ou permanente d'une ou plusieurs clauses des présentes ne saurait valoir renonciation de sa part aux autres clauses des présentes qui continuent à produire leurs effets.
+
+**Modifications - Mises à jour.** Nous nous réservons la possibilité de modifier la présente politique de confidentialité. Les personnes concernées seront averties lorsque cela est prévu par la réglementation applicable. La date de mise à jour est indiquée en en-tête et nous vous invitons à la consulter régulièrement.
+
+### INFORMATION SUR LES COOKIES
+
+**Présentation :** Les cookies et traceurs (ci-après « cookies ») désignent les témoins de connexion et plus généralement, tout fichier - déposé lors de la consultation d’un site web ou d’une application mobile, de l’installation ou de l’utilisation d’un logiciel dans l’équipement terminal de l’utilisateur - ayant pour objet la lecture ou l’écriture d’informations dans cet équipement. Les cookies nous permettent de collecter des **Données de consultation du Site** (adresse IP, fournisseur d’accès à Internet, configuration matérielle, configuration logicielle, type et langue du navigateur...).
+
+Les cookies peuvent être déposés par la Société ou par des sociétés tierces sans votre consentement lorsqu’ils sont strictement nécessaires au fonctionnement du site ou pour faciliter la communication au public en ligne, par exemple lorsqu’ils sont destinés à l’authentification, à garder en mémoire le contenu d’un panier d’achat, à générer des statistiques de fréquentation, ou encore pour limiter l’accès gratuit à un échantillon de contenu demandé par les utilisateurs.
+
+**Durée** : La durée maximale de conservation des cookies est de 13 mois après leur premier dépôt dans votre terminal et cette durée n’est pas prolongée à chaque visite.
+
+**Consentement au dépôt de cookies :** Vous êtes informé de la présence des cookies non strictement nécessaires par un bandeau d’information sur le Site. A l’exception des cas d’usage non soumis au consentement, les cookies et traceurs ne feront l’objet d’un dépôt sur votre terminal qu’avec votre accord exprès. Il pourra vous être demandé périodiquement de réitérer votre consentement, afin de nous assurer que celui-ci est toujours valide.
+
+**Paramétrage des cookies :** Vous avez toujours la possibilité de modifier vos préférences directement via le Site grâce à l’outil de paramétrage dédié, ou via les paramètres de votre navigateur ([Firefox](https://support.mozilla.org/fr/kb/protection-renforcee-contre-pistage-firefox-ordinateur?redirectlocale=fr&redirectslug=activer-desactiver-cookies) avec protection renforcée contre le pistage ; [Firefox](https://support.mozilla.org/fr/kb/effacer-les-cookies-pour-supprimer-les-information) avec suppression des cookies ; [Chrome](https://support.google.com/chrome/answer/95647?hl=fr) ; Internet Explorer [;](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac) [Safari](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac) [; Opera](https://help.opera.com/en/latest/web-preferences/#cookies) ; [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)). Vous pouvez également configurer le navigateur de votre terminal afin d’activer l’option « Do Not Track », qui indiquera aux sites visités, aux régies publicitaires ou aux applications que vous ne souhaitez pas être « suivi ». Cette fonctionnalité est disponible notamment pour les navigateurs suivants : [Firefox](https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister) ; [Chrome ](https://support.google.com/chrome/answer/114836); [Internet](https://support.microsoft.com/fr-fr/help/17288/windows-internet-explorer-11-use-do-not-track) [Explorer ](https://support.microsoft.com/fr-fr/help/17288/windows-internet-explorer-11-use-do-not-track); [Safari ](https://support.apple.com/kb/PH21416?locale=fr_FR); [Opera ](http://help.opera.com/Windows/12.10/en/notrack.html); [Microsoft Edge.](https://privacy.microsoft.com/fr-FR/windows-10-microsoft-edge-and-privacy)
+
+**En cas de refus des cookies non indispensables au fonctionnement du Site :** Certaines fonctionnalités du Site tels que les lecteurs vidéo ou des contenus interactifs font appel à des services proposés par des tiers et déposent des cookies leur permettant d’identifier votre consultation du contenu. En cas de refus du dépôt de ces cookies, les fonctionnalités de personnalisation ne pourront pas fonctionner et les contenus qui vous seront proposés (notamment les suggestions de vidéos ou publicités) seront toujours présentes mais seront sans lien avec vos centres d’intérêt.
+
+**Types de cookies :** Outre les cookies ayant pour finalité exclusive de permettre ou faciliter la communication via notre Site ou les cookies strictement nécessaires à la fourniture du Site ou Service auquel vous avez souscrit, nous utilisons des cookies et traceurs pour la finalité suivante :
+
+\- **Mesure d’audience** : La Société utilise des traceurs dans le but de mesurer l’audience du Site afin d’optimiser le Site en fonction des statistiques sur sa fréquentation et les navigations des internautes.
+
+### POUR NOUS CONTACTER
 
 Toute question concernant la Politique de confidentialité Editions les Crocos peut être adressée en cliquant sur le formulaire contact sur le site, ou via e-mail à editions@ailesetgraines.com.
