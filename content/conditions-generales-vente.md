@@ -4,9 +4,9 @@ title: Conditions générales de vente
 ---
 Dernière mise à jour le 6 avril 2021.
 
-Bienvenue et merci pour votre confiance. Vous trouverez ci-après les Conditions Générales de Vente applicable au site www.editionslescrocos.com. Notre objectif est que vous soyez satisfait(e) de votre achat. Dans les cas contraires, n'hésitez pas à nous contacter via notre formulaire sur le site. 
+Bienvenue et merci pour votre confiance. Vous trouverez ci-après les Conditions Générales de Vente applicable au site www.editionslescrocos.com. Notre objectif est que vous soyez satisfait(e) de votre achat. Dans les cas contraires, n'hésitez pas à nous contacter via notre formulaire sur le site.
 
-## Article 1. DÉFINITIONS
+### Article 1. DÉFINITIONS
 
 Les termes assortis d’une majuscule renvoient aux définitions suivantes :
 
@@ -26,7 +26,7 @@ Les termes assortis d’une majuscule renvoient aux définitions suivantes :
 
 **Le « Partenaire »** désigne tout partenaire professionnel avec qui la Société entretient une relation d’affaires ou à qui la Société peut faire appel dans le cadre de la vente d’un Produit et vers qui le Client pourrait être renvoyé dans le cadre de sa Commande.
 
-## Article 2. DOMAINE D’APPLICATION
+### Article 2. DOMAINE D’APPLICATION
 
 **2.1. Objet.** Les présentes CGV régissent la vente de tout Produit à un Utilisateur sur le Site, ce qui inclut les conditions d’utilisation du Site mis à disposition par la Société.
 
@@ -40,35 +40,31 @@ Par cette acceptation, le Client reconnaît que, préalablement à toute command
 
 Sauf preuve contraire, les données enregistrées par le Site constituent la preuve de l'ensemble des faits, acceptation et transactions.
 
-**2.5. Portée des CGV.** Le Client peut demander une copie de la version des CGV applicables à sa Commande à tout moment. Aucune condition spécifique, à l’initiative du Client, ne pourra venir s’ajouter et/ou se substituer aux présentes. La Société se réserve la possibilité de prévoir des conditions particulières pour la vente de certains Produits, offres spéciales, garanties spéciales, etc. qui sont fournies au Client avant la Commande. Le fait pour la Société, à un moment donné et pour quelque motif que ce soit, de ne pas se prévaloir d’un manquement par le Client à l’une quelconque des obligations contenues dans les présentes, ne saurait être interprété comme une renonciation à s’en prévaloir pour l’avenir.
+**2.5. Portée des CGV.** Le Client peut demander une copie de la version des CGV applicables à sa Commande à tout moment. Aucune condition spécifique, à l’initiative du Client, ne pourra venir s’ajouter et/ou se substituer aux présentes. 
 
-## Article 3. CARACTÉRISTIQUES DES PRODUITS
+### Article 3. CARACTÉRISTIQUES DES PRODUITS
 
-Le Client peut se reporter à la présentation du Produit sur le Site, qui fait l’objet d’un récapitulatif dans sa page de Commande et dans le mail de confirmation. Le Client est expressément averti que toute offre de Produit est susceptible d’évoluer. Seul le Produit décrit lors de la Commande est dû au Client.
+Le Client peut se reporter à la présentation du Produit sur le Site, qui fait l’objet d’un récapitulatif dans sa page de Commande. 
 
-Les Produits régis par les CGV sont décrits et présentés avec la plus grande exactitude possible. Toutefois si des erreurs ou omissions ont pu se produire quant à cette présentation, la responsabilité de la Société ne saurait être engagée à moins qu’il ne s’agisse d’un élément substantiel du Produit en cause. Le Produit acheté par le Client est fourni dans sa version à jour à la date d’achat.
+### Article 4. COMMANDE
 
-## Article 4. COMMANDE
+**4.1. Commande sur le Site.** Après avoir sélectionné le Produit qu’il souhaite acheter sur le Site, l’Utilisateur est dirigé vers une page de commande sur laquelle il renseigne ses coordonnées personnelles (nom, prénom, email, adresse postale, numéro de téléphone) et, le cas échéant, toutes les informations et coordonnées nécessaires et exactes pour permettre la livraison du Produit et la facturation de la Commande. L’Utilisateur sélectionne les modalités de paiement selon les possibilités offertes par la Société.
 
-**4.1. Majorité.** Le Client garantit à la Société qu’il est majeur et qu'il dispose des autorisations éventuellement nécessaires pour utiliser le mode de paiement choisi par lui, lors de la validation de la Commande.
+**4.2. Vérification des informations.** Le Client est seul responsable de l’exactitude des informations fournies et garantit la Société contre toute fausse identité. Le Client ne pourra tenir responsable la Société d’un manquement résultant de l’inexactitude ou de la fausseté des informations fournies au moment de la commande, qui seront utilisées pour livrer le Produit. Le Client doit s’assurer qu’il pourra effectivement recevoir le colis à l’adresse renseignée, en fonction des délais de livraison indiqués lors de la Commande.
 
-**4.2. Commande sur le Site.** Après avoir sélectionné le Produit qu’il souhaite acheter sur le Site, l’Utilisateur est dirigé vers une page de commande sur laquelle il renseigne ses coordonnées personnelles (nom, prénom, email, adresse postale, numéro de téléphone) et, le cas échéant, toutes les informations et coordonnées nécessaires et exactes pour permettre la livraison du Produit et la facturation de la Commande. L’Utilisateur sélectionne les modalités de paiement selon les possibilités offertes par la Société.
+**4.3. Obligation de paiement.** Toute Commande parvenue à la Société est réputée ferme et définitive, entraîne adhésion et acceptation pleine et entière des présentes CGV dans les conditions prévues, et obligation de paiement de tout Produit commandé.
 
-**4.3. Vérification des informations.** Le Client est seul responsable de l’exactitude des informations fournies et garantit la Société contre toute fausse identité. Le Client ne pourra tenir responsable la Société d’un manquement résultant de l’inexactitude ou de la fausseté des informations fournies au moment de la commande, qui seront utilisées pour livrer le Produit. Le Client doit s’assurer qu’il pourra effectivement recevoir le colis à l’adresse renseignée, en fonction des délais de livraison indiqués lors de la Commande.
-
-**4.5. Obligation de paiement.** Toute Commande parvenue à la Société est réputée ferme et définitive, entraîne adhésion et acceptation pleine et entière des présentes CGV dans les conditions prévues, et obligation de paiement de tout Produit commandé.
-
-**4.6. Signature électronique** La fourniture en ligne des coordonnées bancaires du Client et la validation finale de la commande vaudront preuve de l'accord du Client et vaudront :
+**4.4. Signature électronique** La fourniture en ligne des coordonnées bancaires du Client et la validation finale de la commande vaudront preuve de l'accord du Client et vaudront :
 
 \- Exigibilité des sommes dues au titre de la Commande ;
 
 \- Signature et acceptation expresse de toutes les opérations effectuées.
 
-**4.7. Validation de la Commande.** Après avoir lu et accepté les CGV en cochant la case prévue à cet effet, le Client est dirigé vers une page récapitulative de sa commande, sur laquelle il fournit ses coordonnées bancaires avant de valider son paiement. Il appartient au Client de vérifier les informations récapitulatives de sa commande et de les rectifier le cas échéant, avant de valider le paiement de la commande. Ce second clic confirme définitivement la commande du Client.
+**4.5. Validation de la Commande.** Après avoir lu et accepté les CGV en cochant la case prévue à cet effet, le Client est dirigé vers une page récapitulative de sa commande, sur laquelle il fournit ses coordonnées bancaires avant de valider son paiement. Il appartient au Client de vérifier les informations récapitulatives de sa commande et de les rectifier le cas échéant, avant de valider le paiement de la commande. Ce second clic confirme définitivement la commande du Client.
 
-**4.8. Confirmation de Commande.** Le Client reçoit un mail de confirmation et récapitulatif de sa Commande dès que le paiement est effectivement validé par la Société ou son prestataire de service de paiement. Le Client doit disposer d’une boîte aux lettres électronique d’envoi et de réception fonctionnelle. A défaut, il ne pourra recevoir de confirmation écrite de sa commande à l’adresse électronique renseignée, ni recevoir le mail récapitulatif de sa commande.
+**4.6. Confirmation de Commande.** Le Client reçoit un mail de confirmation et récapitulatif de sa Commande dès que le paiement est effectivement validé par la Société ou son prestataire de service de paiement. Le Client doit disposer d’une boîte aux lettres électronique d’envoi et de réception fonctionnelle. A défaut, il ne pourra recevoir de confirmation écrite de sa commande à l’adresse électronique renseignée, ni recevoir le mail récapitulatif de sa commande.
 
-**4.9. Preuve de la transaction.** Les registres informatisés, conservés dans les systèmes informatiques de la Société dans des conditions raisonnables de sécurité, seront considérés comme les preuves des communications, des Commandes et des paiements intervenus entre les parties. L'archivage des bons de commande et des factures est effectué sur un support fiable et durable pouvant être produit à titre de preuve.
+**4.7. Preuve de la transaction.** Les registres informatisés, conservés dans les systèmes informatiques de la Société dans des conditions raisonnables de sécurité, seront considérés comme les preuves des communications, des Commandes et des paiements intervenus entre les parties. L'archivage des bons de commande et des factures est effectué sur un support fiable et durable pouvant être produit à titre de preuve.
 
 ## Article 5. CONDITIONS TARIFAIRES
 
@@ -104,7 +100,7 @@ La Société pourra contacter le Client pour lui demander des pièces complémen
 
 **6.3. Délai de livraison**. Sauf mention contraire sur le Site au moment de la Commande et/ou sur la page de Commande et à moins que la loi n’autorise un délai plus long, la Société s'engage à livrer tout Produit dans un délai de 15 jours après réception de la Commande. Les délais de livraison indiqués lors de la Commande peuvent être plus longs et varier compte-tenu des contingences de livraison des services postaux et de tout événement imprévisible et extérieur à la Société ou au transporteur (ex : grève).
 
-**6.4. Retard de livraison.** Lorsque le Produit commandé n'est pas livré à la date ou à l'expiration du délai mentionné sur le bon de Commande ou prévu dans les CGV, le Client peut, après avoir enjoint sans succès la Société à exécuter son obligation de livraison dans un délai supplémentaire raisonnable, résoudre le contrat par lettre recommandée avec demande d'avis de réception ou par un écrit sur un autre support durable. Le contrat est considéré comme résolu à la réception par la Société de la lettre ou de l'écrit l'informant de cette résolution, à moins que la Société ne se soit exécutée entre-temps. Lorsque le contrat est résolu dans ces conditions, la Société rembourse le Client de la totalité des sommes versées, au plus tard dans les quatorze jours suivant la date à laquelle le contrat a été dénoncé**_._**
+**6.4. Retard de livraison.__ Lorsque le Produit commandé n'est pas livré à la date ou à l'expiration du délai mentionné sur le bon de Commande ou prévu dans les CGV, le Client peut, après avoir enjoint sans succès la Société à exécuter son obligation de livraison dans un délai supplémentaire raisonnable, résoudre le contrat par lettre recommandée avec demande d'avis de réception ou par un écrit sur un autre support durable. Le contrat est considéré comme résolu à la réception par la Société de la lettre ou de l'écrit l'informant de cette résolution, à moins que la Société ne se soit exécutée entre-temps. Lorsque le contrat est résolu dans ces conditions, la Société rembourse le Client de la totalité des sommes versées, au plus tard dans les quatorze jours suivant la date à laquelle le contrat a été dénoncé**_._**
 
 A moins que la loi n’en dispose autrement, et sauf disposition contraire dans les présentes, les dépassements de délai de livraison ne peuvent donner lieu à dommages-intérêts ou indemnités de quelque nature que ce soit. La Société se réserve la possibilité de transmettre la contestation du Client au transporteur chargé de la livraison, lequel pourra, le cas échéant, être amené à demander de plus amples informations au Client concernant le retard signalé.
 
@@ -134,7 +130,7 @@ _Je vous notifie par la présente ma rétractation du contrat portant sur la ven
 * _Nom de l'acheteur :_
 * _Adresse de l'acheteur :_
 
-  _Signature de l'acheteur uniquement en cas de notification du présent formulaire sur papier._ 
+  _Signature de l'acheteur uniquement en cas de notification du présent formulaire sur papier._
 
   _Date :_
 
