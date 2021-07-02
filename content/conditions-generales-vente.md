@@ -22,7 +22,7 @@ Les termes assortis d’une majuscule renvoient aux définitions suivantes :
 
 **Le « Client »** désigne la personne physique ou morale, professionnelle ou non, achetant un Produit auprès de la Société sur le Site.
 
-**Les « Conditions Générales de Vente » ou « CGV »** désigne les présentes conditions générales de vente, applicables dans le cadre de la relation contractuelle entre la Société et ses Clients, qui comprennent la politique de confidentialité éventuellement disponible sur le Site et tout élément du Site auquel elles renvoient expressément.
+**Les « Conditions Générales de Vente » ou « CGV »** désignent les présentes conditions générales de vente, applicables dans le cadre de la relation contractuelle entre la Société et ses Clients, qui comprennent la politique de confidentialité éventuellement disponible sur le Site et tout élément du Site auquel elles renvoient expressément.
 
 **Le « Partenaire »** désigne tout partenaire professionnel avec qui la Société entretient une relation d’affaires ou à qui la Société peut faire appel dans le cadre de la vente d’un Produit et vers qui le Client pourrait être renvoyé dans le cadre de sa Commande.
 
@@ -40,11 +40,11 @@ Par cette acceptation, le Client reconnaît que, préalablement à toute command
 
 Sauf preuve contraire, les données enregistrées par le Site constituent la preuve de l'ensemble des faits, acceptation et transactions.
 
-**2.5. Portée des CGV.** Le Client peut demander une copie de la version des CGV applicables à sa Commande à tout moment. Aucune condition spécifique, à l’initiative du Client, ne pourra venir s’ajouter et/ou se substituer aux présentes. 
+**2.5. Portée des CGV.** Le Client peut demander une copie de la version des CGV applicables à sa Commande à tout moment. Aucune condition spécifique, à l’initiative du Client, ne pourra venir s’ajouter et/ou se substituer aux présentes.
 
 ### Article 3. CARACTÉRISTIQUES DES PRODUITS
 
-Le Client peut se reporter à la présentation du Produit sur le Site, qui fait l’objet d’un récapitulatif dans sa page de Commande. 
+Le Client peut se reporter à la présentation du Produit sur le Site, qui fait l’objet d’un récapitulatif dans sa page de Commande.
 
 ### Article 4. COMMANDE
 
@@ -66,7 +66,7 @@ Le Client peut se reporter à la présentation du Produit sur le Site, qui fait 
 
 **4.7. Preuve de la transaction.** Les registres informatisés, conservés dans les systèmes informatiques de la Société dans des conditions raisonnables de sécurité, seront considérés comme les preuves des communications, des Commandes et des paiements intervenus entre les parties. L'archivage des bons de commande et des factures est effectué sur un support fiable et durable pouvant être produit à titre de preuve.
 
-## Article 5. CONDITIONS TARIFAIRES
+### Article 5. CONDITIONS TARIFAIRES
 
 **5.1. Tarifs applicables.** Le Produit commandé est vendu aux tarifs en vigueur figurant sur le Site lors de l'enregistrement de la Commande du Client par la Société.
 
@@ -76,31 +76,27 @@ En cas de vente internationale, tous droits de douane et taxes diverses exigible
 
 **5.2. Exigibilité des sommes.** La validation de la Commande rend exigibles toutes les sommes dues au titre de celle-ci. En validant sa commande, le Client autorise la Société (ou ses Partenaires, prestataires de service de paiement) à envoyer des instructions à sa banque pour débiter le compte bancaire dont les coordonnées ont été renseignées par le Client, selon les éventuelles échéances indiquées dans le récapitulatif de la Commande.
 
-**5.3. Mode de paiement.** Pour régler sa commande, le Client dispose, à son choix, de l'ensemble des modes de paiement mis à sa disposition par la Société et listés sur le Site (notamment : Stripe, virement ou prélèvement bancaire).
+**5.3. Mode de paiement.** Pour régler sa commande, le Client dispose, à son choix, de l'ensemble des modes de paiement mis à sa disposition par la Société et listés sur le Site. 
 
-Le Client choisit le mode de prélèvement bancaire avec les systèmes et services de paiement proposés qui sont des services sécurisés fournis par des tiers à la Société soumis à des conditions contractuelles propres sur lesquelles la Société n’exerce aucun contrôle – notamment à titre indicatif pour Stripe ( https://stripe.com/payment-terms/legal).
+Le Client choisit le mode de prélèvement bancaire avec les systèmes et services de paiement proposés qui sont des services sécurisés fournis par des tiers à la Société , soumis à des conditions contractuelles propres sur lesquelles la Société n’exerce aucun contrôle – notamment à titre indicatif pour Stripe ( https://stripe.com/payment-terms/legal).
 
 Dans ce cas, le paiement s’effectue par prélèvement SEPA ou à partir des informations de carte bancaire communiquées, selon le mode de paiement proposé par le prestataire de service de paiement et le choix du Client. La Société se réserve la possibilité de faire appel aux prestataires de service de paiement de son choix et d’en changer à tout moment.
 
 **5.4. Autorisation de débit.** En communiquant ses informations bancaires lors de la vente, le Client autorise la Société à débiter le compte du montant du prix indiqué sur le Site pour le Produit correspondant.
 
-**5.5. Offres spéciales et bons de réduction.** La Société se réserve la possibilité de proposer des offres de lancement limitées dans le temps, des offres promotionnelles ou réductions de prix sur ses Produits et de réviser ses offres et tarifs sur le Site à tout moment, dans les conditions prévues par la loi. Les tarifs applicables sont ceux en vigueur au moment de la commande du Client, qui ne peut se prévaloir d’autres tarifs, antérieurs ou postérieurs à sa commande. Les bons de réduction peuvent être soumis à des conditions particulières et sont en tout état de cause strictement personnels à leur bénéficiaire et utilisables une seule fois.
+**5.5. Offres spéciales et bons de réduction.** La Société se réserve la possibilité de proposer des offres de lancement limitées dans le temps, des offres promotionnelles ou réductions de prix sur ses Produits et de réviser ses offres et tarifs sur le Site à tout moment, dans les conditions prévues par la loi. Les tarifs applicables sont ceux en vigueur au moment de la commande du Client, qui ne peut se prévaloir d’autres tarifs, antérieurs ou postérieurs à sa commande. 
 
 **5.6. Incident de paiement - Fraude.** La Société se réserve le droit de suspendre tout traitement de la Commande et toute livraison en cas de refus d'autorisation de paiement par carte bancaire de la part des organismes officiellement accrédités ou en cas de non-paiement. La Société se réserve notamment le droit de refuser d'honorer une commande émanant d'un Client qui n'aurait pas réglé totalement ou partiellement une Commande précédente ou avec lequel un litige de paiement serait en cours.
 
-La Société pourra contacter le Client pour lui demander des pièces complémentaires pour exécuter le paiement de la Commande. La Société peut s’appuyer sur les informations délivrées par le système d’analyse des Commandes. La fourniture des pièces demandées est nécessaire à la confirmation de la Commande par la Société. Afin de lutter contre la fraude à la carte bleue, une vérification visuelle des moyens de paiement peut être réalisée par la Société avant de livrer le Produit. En cas d'utilisation frauduleuse de sa carte bancaire, le Client est invité, dès le constat de cette utilisation, à contacter la Société, et ce sans préjudice des démarches devant être réalisées par le Client auprès de sa banque.
-
-**5.7. Défaut ou retard de paiement.** Les intérêts et pénalités prévus par la loi s’appliquent en cas de défaut ou retard de paiement du Client consommateur ou professionnel.
-
-## Article 6. LIVRAISON
+### Article 6. LIVRAISON
 
 **6.1. Disponibilité des stocks.** Les Produits sont offerts à la vente et livrés dans la limite des stocks disponibles. En cas d'indisponibilité du Produit commandé, la Société en informe immédiatement le Client et peut lui proposer un Produit d'une qualité et d'un prix équivalents ou, à défaut, procéder au remboursement de la Commande si le Client est un consommateur. En dehors du remboursement du prix du Produit indisponible, la Société n'est tenue à aucune indemnité d'annulation, sauf si l'inexécution du contrat lui est personnellement imputable.
 
-**6.2. Réserve de propriété et transfert des risques.** La Société demeure propriétaire des Produits vendus jusqu'au complet paiement du prix et le Client s'engage, tant que la propriété ne lui est pas transférée, à prendre toutes les précautions utiles à la bonne conservation des Produits. Sauf dans le cas où le paiement intégral du prix n'a pas été encaissé à la Commande, la propriété du Produit est transférée au Client dès sa livraison. Tout risque de perte ou d'endommagement d’un Produit est transféré au Client au moment où ce dernier ou un tiers désigné par lui (par exemple, un point de retrait, un concierge, etc.) et autre que le transporteur proposé par la Société, en prend physiquement possession. En tout état de cause, lorsque le Client confie la livraison du bien à un transporteur autre que celui proposé par la Société, le risque de perte ou d'endommagement du Produit est transféré au Client lors de sa remise au transporteur.
+**6.2. Réserve de propriété et transfert des risques.** Tout risque de perte ou d'endommagement d’un Produit est transféré au Client au moment où ce dernier ou un tiers désigné par lui (par exemple, un point de retrait, un concierge, etc.) et autre que le transporteur proposé par la Société, en prend physiquement possession. En tout état de cause, lorsque le Client confie la livraison du bien à un transporteur autre que celui proposé par la Société, le risque de perte ou d'endommagement du Produit est transféré au Client lors de sa remise au transporteur.
 
 **6.3. Délai de livraison**. Sauf mention contraire sur le Site au moment de la Commande et/ou sur la page de Commande et à moins que la loi n’autorise un délai plus long, la Société s'engage à livrer tout Produit dans un délai de 15 jours après réception de la Commande. Les délais de livraison indiqués lors de la Commande peuvent être plus longs et varier compte-tenu des contingences de livraison des services postaux et de tout événement imprévisible et extérieur à la Société ou au transporteur (ex : grève).
 
-**6.4. Retard de livraison.__ Lorsque le Produit commandé n'est pas livré à la date ou à l'expiration du délai mentionné sur le bon de Commande ou prévu dans les CGV, le Client peut, après avoir enjoint sans succès la Société à exécuter son obligation de livraison dans un délai supplémentaire raisonnable, résoudre le contrat par lettre recommandée avec demande d'avis de réception ou par un écrit sur un autre support durable. Le contrat est considéré comme résolu à la réception par la Société de la lettre ou de l'écrit l'informant de cette résolution, à moins que la Société ne se soit exécutée entre-temps. Lorsque le contrat est résolu dans ces conditions, la Société rembourse le Client de la totalité des sommes versées, au plus tard dans les quatorze jours suivant la date à laquelle le contrat a été dénoncé**_._**
+**6.4. Retard de livraison.** Lorsque le Produit commandé n'est pas livré à la date ou à l'expiration du délai mentionné sur le bon de Commande ou prévu dans les CGV, le Client peut, après avoir enjoint sans succès la Société à exécuter son obligation de livraison dans un délai supplémentaire raisonnable, résoudre le contrat par lettre recommandée avec demande d'avis de réception ou par un écrit sur un autre support durable. Le contrat est considéré comme résolu à la réception par la Société de la lettre ou de l'écrit l'informant de cette résolution, à moins que la Société ne se soit exécutée entre-temps. Lorsque le contrat est résolu dans ces conditions, la Société rembourse le Client de la totalité des sommes versées, au plus tard dans les quatorze jours suivant la date à laquelle le contrat a été dénoncé_._
 
 A moins que la loi n’en dispose autrement, et sauf disposition contraire dans les présentes, les dépassements de délai de livraison ne peuvent donner lieu à dommages-intérêts ou indemnités de quelque nature que ce soit. La Société se réserve la possibilité de transmettre la contestation du Client au transporteur chargé de la livraison, lequel pourra, le cas échéant, être amené à demander de plus amples informations au Client concernant le retard signalé.
 
@@ -108,9 +104,9 @@ A moins que la loi n’en dispose autrement, et sauf disposition contraire dans 
 
 **6.6. Etat du Produit.** Lorsque le Produit est livré à l'adresse indiquée par le Client lors de la Commande par un transporteur, il appartient au Client de vérifier en présence du livreur l'état du Produit livré et, en cas d'avarie ou de livraison incomplète, d'émettre des réserves sur le bon de livraison ou sur le récépissé de transport, et éventuellement de refuser la livraison du Produit auprès du livreur directement.
 
-## Article 7. DROIT DE RÉTRACTATION
+### Article 7. DROIT DE RÉTRACTATION
 
-**7.1. Délai.** Le Client dispose d’un droit lui permettant de se rétracter sans donner de motif dans un délai de quatorze jours, pour tout ou partie des Produits commandés. Ce délai est compté en jours calendaires et court à compter du lendemain de la réception du Produit par le Client ou tout tiers autorisé pour la livraison, à l’adresse indiquée ou en point de retrait. Dans le cas d'une Commande portant sur plusieurs Produits livrés séparément ou dans le cas d'une Commande d'un Produit composé de lots ou de pièces multiples dont la livraison est échelonnée sur une période définie, le délai court à compter de la réception du dernier Produit, ou lot/pièce. Si le délai expire un samedi, un dimanche ou un jour férié, il est prorogé jusqu'à l’expiration de la dernière heure du premier jour ouvrable suivant.
+**7.1. Délai.** Le Client dispose d’un droit lui permettant de se rétracter sans donner de motif dans un délai de quatorze jours, pour tout ou partie des Produits commandés. Ce délai est compté en jours calendaires et court à compter du lendemain de la réception du Produit par le Client ou tout tiers autorisé pour la livraison, à l’adresse indiquée ou en point de retrait. Si le délai expire un samedi, un dimanche ou un jour férié, il est prorogé jusqu'à l’expiration de la dernière heure du premier jour ouvrable suivant.
 
 **7.2. Mode d’exercice.** Pour exercer le droit de rétractation, le Client notifie sa décision de rétractation contrat au moyen d'une déclaration dénuée d'ambiguïté par voie postale à l’adresse 2B rue Louis Bouquet 69009 Lyon, ou par mail à l’adresse contact@editionslescrocos.com. Le Client peut utiliser le modèle de formulaire de rétractation reproduit ci-après dans un encadré mais ce n'est pas obligatoire. La charge de la preuve de l'exercice du droit de rétractation pèse sur le Client.
 
@@ -124,51 +120,37 @@ Veuillez copier sur une feuille A4 le texte ci-dessous si vous souhaitez vous r�
 
 A l'attention de la Société Editions les Crocos SAS, 2B rue Louis Bouquet 69009 Lyon, [contact@editionslescrocos.com](mailto:contact@editionslescrocos.com) :
 
-_Je vous notifie par la présente ma rétractation du contrat portant sur la vente du produit ci-dessous :_
+_Je vous notifie par la présente, ma rétractation du contrat portant sur la vente du produit ci-dessous :_
 
 * _Commandé le :_
 * _Nom de l'acheteur :_
 * _Adresse de l'acheteur :_
 
-  _Signature de l'acheteur uniquement en cas de notification du présent formulaire sur papier._
+  _Signature de l'acheteur (uniquement en cas de notification du présent formulaire sur papier)._
 
   _Date :_
 
 ###### ATTENTION, CE DROIT DE RÉTRACTATION NE POURRA PAS ÊTRE EXERCÉ lorsque le Client est un professionnel.
 
-## Article 8. GARANTIES
+### Article 8. CONDITIONS DE RETOUR
 
-**8.1. Conditions.** Il est rappelé que les garanties légales de conformité et de vice caché sont prévues ci- après au bénéfice des Clients ayant la qualité de consommateur ou non-professionnels et supposent un usage normal des Produits selon les usages en vigueur. Ces garanties s’appliquent en dehors de toute garantie commerciale. Il est conseillé de contrôler le produit au moment de sa livraison et dans le cas où le Produit livré serait non conforme (**erreur de produit, produit défectueux, endommagé ou incomplet**), d’émettre des réserves écrites au plus tard dans les trois (3) jours suivant cette livraison, sans préjudice du délai de rétractation de quatorze (14) jours. En cas de défaut de conformité ou de vice- caché constaté, le Client retourne le Produit défectueux à la Société. Dans tous les cas, les délais légaux s’appliqueront.
+**8.1. Adresse.** Les produits sont à renvoyer à l’adresse suivante : Editions les Crocos, 2B rue Louis Bouquet, 69009 Lyon. Il sera demandé au Client de joindre dans son colis de renvoi une copie du courrier de confirmation de la Commande au format A4 ou un document manuscrit indiquant le numéro de la Commande et le montant réglé lors de la Commande, ainsi que le formulaire de rétractation ou toute autre déclaration dénuée d’ambiguïté quant à l’exercice du droit de rétractation, d’une garantie légale ou le cas échéant commerciale, justifiant le retour du Produit.
 
-**8.2. Dispositions légales.** En acceptant les CGV, le Client atteste avoir pris connaissance des dispositions légales suivantes :
+**8.2. Etat.** Tout Produit abîmé par rapport à l’état dans lequel il a été adressé, incomplet, ou dont l’emballage aurait été détérioré ne pourra faire l’objet d’aucune reprise, échange ou remboursement au Client. Notamment, tout Produit endommagé ou présentant des traces d’usures nouvelles et/ou odeurs ne peut faire l’objet d’un retour, y compris sur le fondement du droit de rétractation.
 
-Article **L. 217-4** du Code de la consommation : « Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage.
+**8.3. Frais de renvoi.** Les frais de retour sont à la charge du Client, y compris en cas d’exercice du droit de rétractation.
 
-Article **L. 217-5** du Code de la consommation « Le bien est conforme au contrat :
+**8.4. Remboursement.** Après réception du colis, la Société procède au remboursement intégral du Produit retourné, à l'exclusion des frais de livraison (sauf mention contraire dans les CGV, ou lorsque la loi prévoit ce remboursement). En cas de Commande de plusieurs Produits et de retour d’une partie de la Commande uniquement, le remboursement des frais de livraison se fait au prorata du nombre de Produits commandés et retournés dans les conditions prévues. En cas de retour ne respectant pas les conditions légales et/ou commerciales prévues, aucun remboursement ne saurait être exigible et le Client restera propriétaire du produit retourné, qu’il pourra venir récupérer directement auprès de la Société, ou qui lui sera renvoyé à ses frais dans un délai d’un mois au maximum, suivant la notification du refus de remboursement par la Société.
 
-* s'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
-* s'il correspond à la description donnée par le vendeur sur le Site ;
-* s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage.
+### Article 9. ACCÈS AU SITE
 
-## Article 9. CONDITIONS DE RETOUR
+**9.1. Accès au Site.** Le Site est accessible gratuitement à toute personne disposant d’un accès à Internet. Tous les coûts afférents à l’accès au Site, que ce soit les frais matériels, logiciels ou d’accès à Internet sont exclusivement à la charge de l’Utilisateur. La Société ne pourra être tenue responsable de dommages matériels liés à l’utilisation du Site. De plus, l’Utilisateur s’engage à accéder au Site en utilisant un matériel récent, ne contenant pas de virus et avec un navigateur de dernière génération mis à jour. L’Utilisateur est seul responsable du bon fonctionnement de son équipement informatique ainsi que de son accès à l’internet.
 
-**9.1. Adresse.** Les produits sont à renvoyer à l’adresse suivante : Editions les Crocos, 2B rue Louis Bouquet, 69009 Lyon. Il sera demandé au Client de joindre dans son colis de renvoi une copie du courrier de confirmation de la Commande au format A4 ou un document manuscrit indiquant le numéro de la Commande et le montant réglé lors de la Commande, ainsi que le formulaire de rétractation ou toute autre déclaration dénuée d’ambiguïté quant à l’exercice du droit de rétractation, d’une garantie légale ou le cas échéant commerciale, justifiant le retour du Produit.
+**9.2. Maintenance.** Le Site peut faire l’objet d’opérations de maintenance. A cette fin, la Société se réserve la possibilité d’interrompre, de suspendre momentanément ou de modifier sans préavis l’accès à tout ou partie du Site afin d’en assurer la maintenance (notamment par le biais de mises à jour) ou pour toute autre raison, sans que l’interruption n’ouvre droit à aucune obligation ni indemnisation.
 
-**9.2. Etat.** Le Client doit retourner le Produit dans son conditionnement et emballage initial, comme il a été adressé par la Société. Tout Produit abîmé par rapport à l’état dans lequel il a été adressé, incomplet, ou dont l’emballage aurait été détérioré ne pourra faire l’objet d’aucune reprise, échange ou remboursement au Client. Notamment, tout Produit endommagé ou présentant des traces d’usures nouvelles et/ou odeurs ne peut faire l’objet d’un retour, y compris sur le fondement du droit de rétractation.
+**9.3. Responsabilité contractuelle**. La Société met en œuvre tous les moyens raisonnables à sa disposition pour assurer un accès continu et de qualité au Site, mais n’est tenue à aucune obligation d’y parvenir. Notamment, la Société ne peut être tenue responsable de tout dysfonctionnement du réseau ou des serveurs ou de tout autre événement échappant à son contrôle raisonnable, qui empêcherait l’accès au Site.
 
-**9.3. Frais de renvoi.** Les frais de retour sont à la charge du Client, y compris en cas d’exercice du droit de rétractation.
-
-**9.4. Remboursement.** Après réception du colis, la Société procède au remboursement intégral du Produit retourné, à l'exclusion des frais de livraison (sauf mention contraire dans les CGV, ou lorsque la loi prévoit ce remboursement). En cas de Commande de plusieurs Produits et de retour d’une partie de la Commande uniquement, le remboursement des frais de livraison se fait au prorata du nombre de Produits commandés et retournés dans les conditions prévues. A moins que la loi n’en dispose autrement, ne seront remboursés que les produits qui sont renvoyés avec leurs emballages d'origine. En cas de retour ne respectant pas les conditions légales et/ou commerciales prévues, aucun remboursement ne saurait être exigible et le Client restera propriétaire du produit retourné, qu’il pourra venir récupérer directement auprès de la Société, ou qui lui sera renvoyé à ses frais dans un délai d’un mois au maximum, suivant la notification du refus de remboursement par la Société.
-
-## Article 10. ACCÈS AU SITE
-
-**10.1. Accès au Site.** Le Site est accessible gratuitement à toute personne disposant d’un accès à Internet. Tous les coûts afférents à l’accès au Site, que ce soit les frais matériels, logiciels ou d’accès à Internet sont exclusivement à la charge de l’Utilisateur. La Société ne pourra être tenue responsable de dommages matériels liés à l’utilisation du Site. De plus, l’Utilisateur s’engage à accéder au Site en utilisant un matériel récent, ne contenant pas de virus et avec un navigateur de dernière génération mis à jour. L’Utilisateur est seul responsable du bon fonctionnement de son équipement informatique ainsi que de son accès à l’internet.
-
-**10.2. Maintenance.** Le Site peut faire l’objet d’opérations de maintenance. A cette fin, la Société se réserve la possibilité d’interrompre, de suspendre momentanément ou de modifier sans préavis l’accès à tout ou partie du Site afin d’en assurer la maintenance (notamment par le biais de mises à jour) ou pour toute autre raison, sans que l’interruption n’ouvre droit à aucune obligation ni indemnisation.
-
-**10.3. Responsabilité contractuelle**. La Société met en œuvre tous les moyens raisonnables à sa disposition pour assurer un accès continu et de qualité au Site, mais n’est tenue à aucune obligation d’y parvenir. Notamment, la Société ne peut être tenue responsable de tout dysfonctionnement du réseau ou des serveurs ou de tout autre événement échappant à son contrôle raisonnable, qui empêcherait l’accès au Site.
-
-## Article 11. PROTECTION DES DONNÉES PERSONNELLES
+### Article 10. PROTECTION DES DONNÉES PERSONNELLES
 
 La Société respecte la vie privée de ses Utilisateurs et Clients. Elle s’engage à ce que la collecte et le traitement automatisé de vos données qui ont pour finalité la fourniture et l’amélioration du Site, la prospection commerciale, la gestion des Commandes, des contrats et la délivrance des Produits, effectués à partir du Site soient conformes au règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés dans sa dernière version.
 
@@ -184,7 +166,7 @@ Toute demande d’exercice peut être adressée par mail à l’adresse contact@
 
 Pour plus d’information sur les traitements automatisés de données et les modalités d’exercice de ses droits, tout Utilisateur peut consulter la politique de confidentialité accessible à tout moment sur le Site et les mentions d’information sur les cookies utilisés par la Société.
 
-## Article 12. SITES PARTENAIRES – LIENS HYPERTEXTE
+### Article 11. SITES PARTENAIRES – LIENS HYPERTEXTE
 
 L’Utilisateur peut accéder, par les liens hypertexte présents sur le Site, aux sites de Partenaires ou de tiers, qui ne sont pas soumis aux présentes CGV. L’Utilisateur est, en conséquence, invité à prendre connaissance des conditions générales d’utilisation ou de vente ainsi que des politiques de confidentialité ou toutes autres informations légales, applicables à ces sites tiers.
 
@@ -192,17 +174,17 @@ L’Utilisateur est informé que le Site peut nécessiter l’accès à d’autr
 
 Si un site tiers dirige ses utilisateurs vers le Site, la Société se réserve la possibilité de demander la suppression du lien hypertexte pointant vers le Site si elle estime que ce lien n’est pas conforme à ses droits et intérêts légitimes.
 
-## Article 13. CAS DE FORCE MAJEURE OU FORTUIT
+### Article 12. CAS DE FORCE MAJEURE OU FORTUIT
 
-L’exécution des obligations de la Société aux termes des présentes est suspendue en cas de survenance d’un cas fortuit ou de force majeure qui en empêcherait l’exécution. Cette suspension peut concerner tout ou partie de la Commande. Dans ce cas, la Société avisera le Client de la survenance d’un tel évènement dès que possible et de la durée estimée de la suspension. Seul un empêchement définitif pourra donner lieu à restitution. Si l’empêchement définitif est partiel, seule une restitution partielle sera accordée.
+###### L’exécution des obligations de la Société aux termes des présentes est suspendue en cas de survenance d’un cas fortuit ou de force majeure qui en empêcherait l’exécution. Cette suspension peut concerner tout ou partie de la Commande. Dans ce cas, la Société avisera le Client de la survenance d’un tel évènement dès que possible et de la durée estimée de la suspension. Seul un empêchement définitif pourra donner lieu à restitution. Si l’empêchement définitif est partiel, seule une restitution partielle sera accordée.
 
 Dans les conditions prévues par la loi, les Clients acceptent expressément qu’ils ne pourront invoquer un cas de force majeure pour repousser un paiement (d’une facture par exemple) d’un Produit ou refuser la livraison d’une Commande passée.
 
-Sont considérés comme cas de force majeure ou cas fortuit, outre ceux habituellement reconnus par la jurisprudence des cours et tribunaux et sans que cette liste ne soit restrictive : les grèves ou conflits sociaux internes ou externes à la Société, les désastres naturels, les incendies, l’interruption des télécommunications, les épidémies et pandémies, l’interruption de l’approvisionnement en énergie, interruption des communications ou des transports de tout type ou toute autre circonstance échappant au contrôle raisonnable de la Société.
+Sont considérés comme cas de force majeure ou cas fortuit, outre ceux habituellement reconnus par la jurisprudence des cours et tribunaux et sans que cette liste ne soit restrictive : les grèves ou conflits sociaux internes ou externes à la Société, les désastres naturels, les incendies, l’interruption des télécommunications, les épidémies et pandémies, l’interruption de l’approvisionnement en énergie, l'interruption des communications ou des transports de tout type ou toute autre circonstance échappant au contrôle raisonnable de la Société.
 
 La responsabilité de la Société ne saurait en aucun cas être engagée en raison de difficultés rencontrées par l’Utilisateur ou le Client dans l’accès au Site en raison d’une défaillance technique ou logicielle ou de toute autre cause qui lui est étrangère. Le Client reconnaît être averti des aléas techniques inhérents à Internet et au réseau mobile et des dysfonctionnements qui peuvent en résulter. En conséquence, la Société ne saurait être tenue responsable des éventuelles indisponibilités, ralentissements ou défaillances du réseau Internet ou de solutions informatiques quelconques, sauf en cas de négligence avérée de sa part.
 
-## Article 14. PROPRIÉTÉ INTELLECTUELLE
+### Article 13. PROPRIÉTÉ INTELLECTUELLE
 
 La Société ou ses Partenaires sont titulaires de tous les droits de propriété intellectuelle relatifs au Site et aux Produits. Les droits de propriété intellectuelle portent notamment mais pas exclusivement sur tous les contenus, textes, images, vidéos, graphismes, logos, icônes, sons, logiciels figurant sur le Site et/ou les Produits.
 
@@ -214,17 +196,17 @@ Tous les signes distinctifs utilisés par la Société sont protégés par la lo
 
 Le non-respect de la propriété intellectuelle de la Société ou de ses Partenaires sera analysé comme une faute grave de l’Utilisateur ou Client portant préjudice à la Société qui se réserve la possibilité, dans ce cas, de demander tous dommages-intérêts.
 
-## Article 15. RÉFÉRENCES CLIENT ET COMMUNICATION
+### Article 14. RÉFÉRENCES CLIENT ET COMMUNICATION
 
-**15.1. Référence-Client.** Le Client pourra être sollicité par la Société afin d’être cité comme acheteur d’un Produit. Avec l’accord du Client, la Société pourra être autorisée à mentionner le nom du Client, l’avis qu’il a donné à la Société sur le Produit ainsi qu’une description objective de la nature du Produit qui lui a été vendu dans ses listes de références et propositions à l’attention de ses prospects et de sa clientèle notamment sur le Site, à des fins promotionnelles et publicitaires, à l’occasion d’entretiens avec des tiers, de communications à son personnel, de documents internes de gestion prévisionnelle, ainsi qu’en cas de dispositions légales, réglementaires ou comptables l’exigeant.
+**14.1. Référence-Client.** Le Client pourra être sollicité par la Société afin d’être cité comme acheteur d’un Produit. Avec l’accord du Client, la Société pourra être autorisée à mentionner le nom du Client, l’avis qu’il a donné à la Société sur le Produit ainsi qu’une description objective de la nature du Produit qui lui a été vendu dans ses listes de références et propositions à l’attention de ses prospects et de sa clientèle notamment sur le Site, à des fins promotionnelles et publicitaires, à l’occasion d’entretiens avec des tiers, de communications à son personnel, de documents internes de gestion prévisionnelle, ainsi qu’en cas de dispositions légales, réglementaires ou comptables l’exigeant.
 
-**15.2. Autorisation d'exploitation.** Lorsque le Client adresse des écrits, des vidéos et/ou photographies à la Société pour donner son avis ou témoigner sur le Produit fourni par la Société, et le cas échéant émet des commentaires ou publications concernant la Société (par exemple, sur ses réseaux sociaux), auxquels sont rattachés son identifiant et sa photo de profil, alors le Client autorise la Société à exploiter ces contenus pour la promotion de ses activités commerciales. Les contenus sont susceptibles d'être protégés par des droits à l'image et/ou des droits d'auteur, et dans ce cas, le Client concède à la Société la possibilité de les adapter (sur la forme) et de les reproduire sur tous supports, notamment en les présentant comme référence commerciale et/ou en tant qu'avis. Par exemple, la Société pourra prendre des captures d'écran des publications sur les réseaux sociaux la concernant ou sur le Produit livré au Client, et les reproduire sur le Site en tant qu'avis.
+**14.2. Autorisation d'exploitation.** Lorsque le Client adresse des écrits, des vidéos et/ou photographies à la Société pour donner son avis ou témoigner sur le Produit fourni par la Société, et le cas échéant émet des commentaires ou publications concernant la Société (par exemple, sur ses réseaux sociaux), auxquels sont rattachés son identifiant et sa photo de profil, alors le Client autorise la Société à exploiter ces contenus pour la promotion de ses activités commerciales. Les contenus sont susceptibles d'être protégés par des droits à l'image et/ou des droits d'auteur, et dans ce cas, le Client concède à la Société la possibilité de les adapter (sur la forme) et de les reproduire sur tous supports, notamment en les présentant comme référence commerciale et/ou en tant qu'avis. Par exemple, la Société pourra prendre des captures d'écran des publications sur les réseaux sociaux la concernant ou sur le Produit livré au Client, et les reproduire sur le Site en tant qu'avis.
 
-Le Client reconnaît être entièrement rempli de ses droits et ne pourra prétendre à aucune rémunération pour l’exploitation des droits visés par le présent paragraphe. Ces droits sont concédés pour la durée de vie du Client concerné, augmentée d'une durée de 70 ans, et pour le monde entier. La Société se réserve la possibilité de soumettre au Client toute autre demande d'autorisation de prise de vue et de cession de droits, pour tous les cas non prévus aux présentes ou à titre ponctuel.
+Le Client reconnaît être entièrement rempli de ses droits et ne pourra prétendre à aucune rémunération pour l’exploitation des droits visés par le présent paragraphe. 
 
-**15.3. Évènement.** Les dispositions du paragraphe précédent s’appliquent de la même manière s’agissant de vidéos et photographies prises à l’occasion de tout type d'événement (public, réservé aux clients, etc.) organisés ou co-organisé par la Société. Les captations pourront être enregistrées et publiées par la Société, y compris sur les réseaux sociaux. Si le Client ne souhaite pas apparaître sur une éventuelle publication des images, il lui plaira de se placer en fond de salle, de ne pas participer aux photos groupées, de ne pas faire un signe au photographe / cameraman dans le champ duquel il pourrait être placé.
+**14.3. Évènement.** Les dispositions du paragraphe précédent s’appliquent de la même manière s’agissant de vidéos et photographies prises à l’occasion de tout type d'événement (public, réservé aux clients, etc.) organisé ou co-organisé par la Société. Les captations pourront être enregistrées et publiées par la Société, y compris sur les réseaux sociaux. Si le Client ne souhaite pas apparaître sur une éventuelle publication des images, il lui plaira de se placer en fond de salle, de ne pas participer aux photos groupées, de ne pas faire un signe au photographe / cameraman dans le champ duquel il pourrait être placé.
 
-## Article 16. EVOLUTION DES CONDITIONS GÉNÉRALES
+### Article 15. EVOLUTION DES CONDITIONS GÉNÉRALES
 
 La Société se réserve le droit de modifier les termes, conditions et mentions des CGV à tout moment et sans préavis afin de les adapter aux évolutions du Site ou de l’évolution de ses offres. Les conditions applicables sont celles acceptées par le Client et adressées au Client en cas de vente à distance par tout moyen de communication sur un support durable.
 
@@ -232,21 +214,21 @@ Les modifications des CGV apportées par la Société ne s’appliqueront pas au
 
 Le Client peut également être invité à accepter les CGV modifiées et à défaut, les dernières ayant été acceptées continuent à s’appliquer jusqu’à ce que le Produit soit effectivement livré. En cas d’impossibilité pour la Société de continuer à livrer le Produit dans les précédentes conditions, le Client dispose de la faculté de demander la résiliation et son remboursement.
 
-## Article 17. RESPONSABILITÉ
+### Article 16. RESPONSABILITÉ
 
-**17.1. Responsabilité des Utilisateurs et Clients**
+**16.1. Responsabilité des Utilisateurs et Clients**
 
 L’Utilisateur ou le Client est seul responsable des interprétations qu'il fait des informations fournies au titre des contenus des Produits, des conseils qu'il déduit ou qui lui ont été fournis. L'exploitation des informations se fait sous la seule responsabilité du Client et à ses risques et périls, ce que le Client accepte expressément.
 
 Dans les espaces d’échange, le Client assume en tant qu’éditeur, la responsabilité de la communication au public des informations et la responsabilité éditoriale de toute sa communication, physique et en ligne et notamment mais non exclusivement de son ou ses sites, blogs, pages et comptes sur les réseaux sociaux. Le Client est le seul responsable de la qualité, de la licéité et de la pertinence des données et contenus qu’il transmet au public.
 
-## 17.2. Limitation de responsabilité vis à vis des Clients professionnels
+###### 16.2. Limitation de responsabilité vis à vis des Clients professionnels
 
 Quel que soit le type de Produit commandé par le Client professionnel, la responsabilité de la Société est expressément limitée à l’indemnisation des dommages directs prouvés par le Client professionnel. En aucun cas, la responsabilité de la Société ne saurait être engagée au titre des dommages indirects tels que la perte de données, de fichier(s), perte d’exploitation, préjudice commercial, manque à gagner, atteinte à l’image et à la réputation du Client professionnel.
 
 EN TOUT ÉTAT DE CAUSE, LA RESPONSABILITÉ DE LA SOCIÉTÉ EST PLAFONNÉE À L'ÉGARD DES PROFESSIONNELS AU MONTANT DU PRIX PAYÉ HORS TAXES PAR LE CLIENT EN CONTREPARTIE DE LA FOURNITURE DU PRODUIT DANS LE CADRE DUQUEL S’INSCRIT LE LITIGE. CE MONTANT S’ENTEND COMME LE MAXIMUM QUE POURRAIT ETRE AMENE A REGLER LA SOCIÉTÉ À TITRE D'INDEMNITÉ (DOMMAGE ET INTÉRÊTS) ET DE PÉNALITÉS, QUELS QUE SOIENT LES CHEFS DE PRÉJUDICES ALLÉGUÉS ET LES FONDEMENTS JURIDIQUES RETENUS À MOINS QUE LA LOI OU LA JURISPRUDENCE NE S’Y OPPOSE.
 
-## Article 18. GENERALITES
+### Article 17. GENERALITES
 
 Les CGV et toutes les opérations d'achat et de vente qui y sont visées sont régies par le droit français. Les CGV et le Site sont rédigés en langue française. Dans le cas où ils seraient traduits en une ou plusieurs langues, seul le texte français ferait foi en cas de litige.
 
@@ -256,12 +238,12 @@ L'inapplication temporaire ou permanente d'une ou plusieurs clauses par la Soci�
 
 Le Client accepte que la Société puisse céder le présent contrat à ses sociétés affiliées ou à un acquéreur sans son accord préalable.
 
-## Article 19. LITIGES
+### Article 18. LITIGES
 
-**19.1. Résolution amiable.** En cas de litige, le Client s'adressera en priorité à la Société pour tenter de trouver une solution amiable.
+**18.1. Résolution amiable.** En cas de litige, le Client s'adressera en priorité à la Société pour tenter de trouver une solution amiable.
 
-**19.2 Médiation.** En cas de difficulté dans l'application du présent contrat, le Client consommateur résidant en Europe a la possibilité, avant toute action en justice, de solliciter le recours d’un médiateur de la consommation identifiable sur le site [https://www.economie.gouv.fr/mediation-conso]()
+**18.2 Médiation.** En cas de difficulté dans l'application du présent contrat, le Client consommateur résidant en Europe a la possibilité, avant toute action en justice, de solliciter le recours d’un médiateur de la consommation identifiable sur le site [https://www.economie.gouv.fr/mediation-conso]()
 
 Le médiateur tentera, en toute indépendance et impartialité, de rapprocher les parties en vue d'aboutir à une solution amiable. Les parties restent libres d'accepter ou de refuser le recours à la médiation ainsi que, en cas de recours à la médiation, d'accepter ou de refuser la solution proposée par le médiateur. Dans ce contexte, tout consommateur européen peut saisir la Plateforme de Règlement en ligne des litiges (RLL) accessible à partir de l’adresse URL suivant : [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage.]()
 
-**19.3. Litige entre professionnels.** EN CAS DE LITIGE SURVENANT ENTRE UN CLIENT PROFESSIONNEL ET LA SOCIÉTÉ PORTANT SUR LA COMMANDE, L’INTERPRETATION, L’EXECUTION ET/OU LA RÉSILIATION DU CONTRAT, IL EST ATTRIBUÉ COMPÉTENCE EXCLUSIVE AUX TRIBUNAUX DANS LE RESSORT DE LA VILLE DE LYON, NONOBSTANT PLURALITE DE DEFENDEURS OU APPEL EN GARANTIE, MEME POUR LES PROCEDURES D’URGENCE OU LES PROCEDURES CONSERVATOIRES PAR VOIE DE RÉFÉRÉ OU REQUÊTE.
+**18.3. Litige entre professionnels.** EN CAS DE LITIGE SURVENANT ENTRE UN CLIENT PROFESSIONNEL ET LA SOCIÉTÉ PORTANT SUR LA COMMANDE, L’INTERPRETATION, L’EXECUTION ET/OU LA RÉSILIATION DU CONTRAT, IL EST ATTRIBUÉ COMPÉTENCE EXCLUSIVE AUX TRIBUNAUX DANS LE RESSORT DE LA VILLE DE LYON, NONOBSTANT PLURALITE DE DEFENDEURS OU APPEL EN GARANTIE, MEME POUR LES PROCEDURES D’URGENCE OU LES PROCEDURES CONSERVATOIRES PAR VOIE DE RÉFÉRÉ OU REQUÊTE.
