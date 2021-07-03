@@ -2,9 +2,9 @@
 title: Conditions générales de vente
 
 ---
-Dernière mise à jour le 6 avril 2021.
+Dernière mise à jour le 1er juillet 2021.
 
-Bienvenue et merci pour votre confiance. Vous trouverez ci-après les Conditions Générales de Vente applicable au site www.editionslescrocos.com. Notre objectif est que vous soyez satisfait(e) de votre achat. Dans les cas contraires, n'hésitez pas à nous contacter via notre formulaire sur le site.
+Bienvenue et merci pour votre confiance. Vous trouverez ci-après les Conditions Générales de Vente applicables au site www.editionslescrocos.com. Notre objectif est que vous soyez satisfait(e) de votre achat. Dans les cas contraires, n'hésitez pas à nous contacter via notre formulaire sur le site.
 
 ### Article 1. DÉFINITIONS
 
@@ -76,7 +76,7 @@ En cas de vente internationale, tous droits de douane et taxes diverses exigible
 
 **5.2. Exigibilité des sommes.** La validation de la Commande rend exigibles toutes les sommes dues au titre de celle-ci. En validant sa commande, le Client autorise la Société (ou ses Partenaires, prestataires de service de paiement) à envoyer des instructions à sa banque pour débiter le compte bancaire dont les coordonnées ont été renseignées par le Client, selon les éventuelles échéances indiquées dans le récapitulatif de la Commande.
 
-**5.3. Mode de paiement.** Pour régler sa commande, le Client dispose, à son choix, de l'ensemble des modes de paiement mis à sa disposition par la Société et listés sur le Site. 
+**5.3. Mode de paiement.** Pour régler sa commande, le Client dispose, à son choix, de l'ensemble des modes de paiement mis à sa disposition par la Société et listés sur le Site.
 
 Le Client choisit le mode de prélèvement bancaire avec les systèmes et services de paiement proposés qui sont des services sécurisés fournis par des tiers à la Société , soumis à des conditions contractuelles propres sur lesquelles la Société n’exerce aucun contrôle – notamment à titre indicatif pour Stripe ( https://stripe.com/payment-terms/legal).
 
@@ -84,7 +84,7 @@ Dans ce cas, le paiement s’effectue par prélèvement SEPA ou à partir des in
 
 **5.4. Autorisation de débit.** En communiquant ses informations bancaires lors de la vente, le Client autorise la Société à débiter le compte du montant du prix indiqué sur le Site pour le Produit correspondant.
 
-**5.5. Offres spéciales et bons de réduction.** La Société se réserve la possibilité de proposer des offres de lancement limitées dans le temps, des offres promotionnelles ou réductions de prix sur ses Produits et de réviser ses offres et tarifs sur le Site à tout moment, dans les conditions prévues par la loi. Les tarifs applicables sont ceux en vigueur au moment de la commande du Client, qui ne peut se prévaloir d’autres tarifs, antérieurs ou postérieurs à sa commande. 
+**5.5. Offres spéciales et bons de réduction.** La Société se réserve la possibilité de proposer des offres de lancement limitées dans le temps, des offres promotionnelles ou réductions de prix sur ses Produits et de réviser ses offres et tarifs sur le Site à tout moment, dans les conditions prévues par la loi. Les tarifs applicables sont ceux en vigueur au moment de la commande du Client, qui ne peut se prévaloir d’autres tarifs, antérieurs ou postérieurs à sa commande.
 
 **5.6. Incident de paiement - Fraude.** La Société se réserve le droit de suspendre tout traitement de la Commande et toute livraison en cas de refus d'autorisation de paiement par carte bancaire de la part des organismes officiellement accrédités ou en cas de non-paiement. La Société se réserve notamment le droit de refuser d'honorer une commande émanant d'un Client qui n'aurait pas réglé totalement ou partiellement une Commande précédente ou avec lequel un litige de paiement serait en cours.
 
@@ -202,7 +202,7 @@ Le non-respect de la propriété intellectuelle de la Société ou de ses Parten
 
 **14.2. Autorisation d'exploitation.** Lorsque le Client adresse des écrits, des vidéos et/ou photographies à la Société pour donner son avis ou témoigner sur le Produit fourni par la Société, et le cas échéant émet des commentaires ou publications concernant la Société (par exemple, sur ses réseaux sociaux), auxquels sont rattachés son identifiant et sa photo de profil, alors le Client autorise la Société à exploiter ces contenus pour la promotion de ses activités commerciales. Les contenus sont susceptibles d'être protégés par des droits à l'image et/ou des droits d'auteur, et dans ce cas, le Client concède à la Société la possibilité de les adapter (sur la forme) et de les reproduire sur tous supports, notamment en les présentant comme référence commerciale et/ou en tant qu'avis. Par exemple, la Société pourra prendre des captures d'écran des publications sur les réseaux sociaux la concernant ou sur le Produit livré au Client, et les reproduire sur le Site en tant qu'avis.
 
-Le Client reconnaît être entièrement rempli de ses droits et ne pourra prétendre à aucune rémunération pour l’exploitation des droits visés par le présent paragraphe. 
+Le Client reconnaît être entièrement rempli de ses droits et ne pourra prétendre à aucune rémunération pour l’exploitation des droits visés par le présent paragraphe.
 
 **14.3. Évènement.** Les dispositions du paragraphe précédent s’appliquent de la même manière s’agissant de vidéos et photographies prises à l’occasion de tout type d'événement (public, réservé aux clients, etc.) organisé ou co-organisé par la Société. Les captations pourront être enregistrées et publiées par la Société, y compris sur les réseaux sociaux. Si le Client ne souhaite pas apparaître sur une éventuelle publication des images, il lui plaira de se placer en fond de salle, de ne pas participer aux photos groupées, de ne pas faire un signe au photographe / cameraman dans le champ duquel il pourrait être placé.
 
