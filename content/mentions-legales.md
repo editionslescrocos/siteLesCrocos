@@ -48,25 +48,25 @@ Le site a été réalisé par Fabien Grignoux.
 mail : [fabien.grignoux@outlook.com](mailto:fabien.grignoux@outlook.com)  
 site internet : [https://developpeurfullstack.fr]()
 
-Les photographies sur le site ont été réalisées par Stéphane Perraud et ne sont pas libre de droits.
+Les photographies sur le site ont été réalisées par Stéphane Perraud et ne sont pas libres de droits.
 
-## Colitique de confidentialité
+## Politique de confidentialité
 
 Dernière mise à jour : 1er juillet 2021.
 
-Les trois choses les plus importantes à retenir (car sinon ça va être long ;-) :
+Les trois choses les plus importantes à retenir (sinon ça va être long ;-)) :
 
 1. Nous avons veillé à limiter les informations personnelles demandées au strict nécessaire (conformément au principe de minimisation des données) pour l'exécution de votre demande.
-2. Nous ne possédons jamais les renseignements relatifs à votre carte de paiement (c'est la sociétés de traitement de paiements avec laquelle nous travaillons qui s’en chargent : Stripe).
-3. Editions les Crocos ne vend ni ne loue vos données personnelles à des tiers à des fins de marketing ou toute autre fin que ce soit, EN AUCUN CAS.
+2. Nous ne collectons pas les renseignements relatifs à votre carte de paiement. C'est la société de traitement de paiements (Stripe) avec laquelle nous travaillons qui s’en charge.
+3. Notre société, Editions les Crocos, ne vend ni ne loue en aucun cas vos données personnelles à des tiers à des fins de marketing ou à toute autre fin que ce soit.
 
 ### 1. DÉFINITIONS
 
 Les termes assortis d’une majuscule renvoient aux définitions suivantes :
 
-**La « Société »** désigne la société Editions les Crocos dont le siège est situé 2B rue Louis Bouquet, immatriculée au Registre du Commerce et des Sociétés sous le numéro 898 008 438 dont le numéro de TVA intracommunautaire est FR 94898008438.
+**La « Société »** désigne la société Editions les Crocos dont le siège est situé 2B rue Louis Bouquet, 69009 Lyon, immatriculée au Registre du Commerce et des Sociétés sous le numéro 898 008 438 dont le numéro de TVA intracommunautaire est FR 94898008438.
 
-**Le « Site »** désigne le site internet accessible à partir du lien URL https://editionslescrocos.com.
+**Le « Site »** désigne le site internet accessible à partir du lien URL https://www.editionslescrocos.com.
 
 **« Vous** » désigne les personnes concernées par les Traitements effectués sur le Site (utilisateurs, prospects, clients…).
 
@@ -88,15 +88,15 @@ Le Site présente les activités de notre Société et divers formulaires (conta
 
 \- **Données d’identité** : nom
 
-\- **Données de contact et correspondances** : adresse mail. 
+\- **Données de contact et correspondances** : adresse mail.
 
 En cas de demande via notre formulaire, la nature de votre demande et le contenu de votre demande.
 
-Conformément à notre intérêt légitime, et le cas échéant lorsque cela est nécessaire à l'exécution de mesures précontractuelles prises à votre demande ou d'un contrat, nous réalisons des traitements sur les Données susvisées pour les finalités suivantes :
+Conformément à notre intérêt légitime, et le cas échéant lorsque cela est nécessaire à l'exécution de mesures pré-contractuelles prises à votre demande ou d'un contrat, nous réalisons des traitements sur les Données susvisées pour les finalités suivantes :
 
 \- Présentation des produits et services de la Société ;
 
-\- Gestion, traitement et suivi des demandes et des échanges avec la Société, via le Site
+\- Gestion, traitement et suivi des demandes et des échanges avec la Société, via le Site ;
 
 \- Gestion de la relation avec les prospects ;
 
@@ -106,7 +106,7 @@ Conformément à notre intérêt légitime, et le cas échéant lorsque cela est
 
 \- Organisation de jeux concours, de loteries ou de toute opération promotionnelle sur le Site.
 
-Les données utilisées à des fins de gestion de la prospection commerciale sont conservées au maximum pendant trois ans à compter du dernier contact actif émanant du prospect ou client, et avant en cas de retrait de votre consentement à recevoir des messages de notre part. Les Données des avis et contributions sont conservées pendant la durée d’accès au public de l’avis sur le Site.
+Les données utilisées à des fins de gestion de la prospection commerciale sont conservées au maximum pendant trois ans à compter du dernier contact actif émanant du prospect ou client, ou avant en cas de retrait de votre consentement à recevoir des messages de notre part. Les Données des avis et contributions sont conservées pendant la durée d’accès au public de l’avis sur le Site.
 
 ### 3. VENTE EN LIGNE
 
@@ -114,7 +114,7 @@ Le Site permet d’effectuer des achats, ce qui nous amène à effectuer des Tra
 
 ### - Données d’identité et de contact
 
-\- **Données relatives à la relation contractuelle et commerciale** : Détails du contenu de la commande ; échanges précontractuels et relatifs à la commande (objet, date…) ; communications avec la Société.
+\- **Données relatives à la relation contractuelle et commerciale** : Détails du contenu de la commande ; échanges pré-contractuels et relatifs à la commande (objet, date…) ; communications avec la Société.
 
 \- **Données de paiement et transactionnelles** : date de la transaction, montant, moyen de paiement, numéro de commande, données de facturation.
 
@@ -124,9 +124,9 @@ Ces informations sont nécessaires à la gestion de notre fichier clients-prospe
 
 \- Prévention et lutte contre la fraude et aux moyens de paiement et notamment contre la fraude à la carte bancaire ;
 
-**Paiement sécurisé.** Toutes les transactions effectuées sur notre Site sont sécurisées. Les paiements par carte bancaire sont assurés par nos prestataire de service de paiement (« PSP »), tels qu’indiqués dans nos conditions générales ou dans la page de commande de nos produits et services. Nous disposons ainsi d’un système de cryptage SSL pour protéger vos données personnelles ainsi que les moyens de paiement utilisés. A aucun moment, nous ne sommes directement en possession de vos coordonnées bancaires grâce à ce processus.
+**- Paiement sécurisé.** Toutes les transactions effectuées sur notre Site sont sécurisées. Les paiements par carte bancaire sont assurés par nos prestataire de service de paiement (« PSP »), tels qu’indiqués dans nos conditions générales ou dans la page de commande de nos produits et services. Nous disposons ainsi d’un système de cryptage SSL pour protéger vos données personnelles ainsi que les moyens de paiement utilisés. A aucun moment, nous ne sommes directement en possession de vos coordonnées bancaires grâce à ce processus.
 
-**Durées de conservation.** 
+**- Durées de conservation.**
 
 Données traitées à des fins de prospection commerciale : **3 ans** à compter du dernier comportement actif du prospect ou de la collecte des Données.
 
@@ -136,7 +136,7 @@ Commandes portant sur un montant inférieur à 120,00 euros : **5 ans** à compt
 
 Contrats de commande portant sur un montant supérieur à 120,00 euros : **10 ans** à compter de la date de la livraison ou de la prestation de service.
 
-4\. **LIVRAISON DE PRODUITS MATÉRIELS**
+### 4. **LIVRAISON DE PRODUITS MATÉRIELS**
 
 Pour vous livrer les produits commandés sur le Site, nous vous demanderons votre adresse postale de livraison, si cette dernière est différente de l’adresse de facturation. Si la livraison d’un bien est à destination d’un tiers, vous confirmez avoir l’autorisation de transmettre ses données d’identité et de livraison. Ces Données seront transmises au transporteur chargé de la livraison.
 
@@ -144,7 +144,7 @@ D’autres informations nécessaires à la livraison feront l’objet de Traitem
 
 Le transporteur chargé de la livraison applique sa propre politique de confidentialité sur les Données qui lui sont transmises dans le cadre de la commande ou qu’il est amené à collecter au cours de la livraison.
 
-#### 5. ÉVÉNEMENTS -
+### 5. ÉVÉNEMENTS
 
 **Inscriptions et organisation.** Nous pouvons organiser des évènements en présentiel ou à distance, des conférences, évènements festifs ou d’affaire (les « Evènements ») qui peuvent être gratuits ou payants. Les données personnelles nécessaire à l’organisation, la gestion, le traitement et le suivi des invitations, des inscriptions et des participations à ces Evènements font l’objet de traitements informatisés de données. Ces Données peuvent être archivées pendant cinq ans après l'événement.
 
@@ -152,23 +152,23 @@ Le transporteur chargé de la livraison applique sa propre politique de confiden
 
 ### 6. RÉSEAUX SOCIAUX ET SITES TIERS
 
-**Echanges sur les réseaux sociaux.** Nous pouvons vous contacter ou répondre à vos questions via les réseaux sociaux, si vous nous avez contacté dans un premier temps par ce biais. Vous êtes informés que l’usage des réseaux sociaux entraîne des traitements de données à caractère personnel par les fournisseurs de ces réseaux (voir leur politique de confidentialité).
+**Echanges sur les réseaux sociaux.** Nous pouvons vous contacter ou répondre à vos questions via les réseaux sociaux, si vous nous avez contactés dans un premier temps par ce biais. Vous êtes informés que l’usage des réseaux sociaux entraîne des traitements de données à caractère personnel par les fournisseurs de ces réseaux (voir leur politique de confidentialité).
 
 **Informations publiques.** Les informations vous concernant, que vous nous avez transmises, peuvent éventuellement être enrichies pour des finalités commerciales, de prospection, de communication, de sollicitation ou de marketing, au moyen d’autres sources d’informations comme les réseaux sociaux. Cela comprend les informations dites « publiques » ou auxquelles nous pouvons avoir accès en tant qu’administrateur d’une page ou d’un groupe. La base légale de ce traitement est notre intérêt légitime en tant que société commerciale.
 
-**Interconnexion.** Dans le cas ou votre espace membre peut se connecter à un autre service (par exemple, un réseau social) pour faire des envois croisés alors le service tiers pourra nous communiquer des informations dont vous avez autorisé la divulgation. Vous êtes informé que les éditeurs de services tiers pourront également collecter des informations concernant la consultation et/ou l’utilisation du Site, conformément à leur propre politique de traitement des données personnelles. Plus d’informations sur l’inscription au Site à partir d’un compte tiers, pour :
+**Interconnexion.** Dans le cas ou votre espace membre peut se connecter à un autre service (par exemple, un réseau social) pour faire des envois croisés alors le service tiers pourra nous communiquer des informations dont vous avez autorisé la divulgation. Vous êtes informé que les éditeurs de services tiers pourront également collecter des informations concernant la consultation et/ou l’utilisation du Site, conformément à leur propre politique de traitement des données personnelles. Plus d’informations sur l’inscription au Site à partir d’un compte tiers pour :
 
-Facebook: https://www.facebook.com/help/223184117694507[ ](https://www.facebook.com/help/223184117694507); https://developers.facebook.com/docs/facebook-login/overview
+Facebook : https://www.facebook.com/help/223184117694507[ ](https://www.facebook.com/help/223184117694507); https://developers.facebook.com/docs/facebook-login/overview
 
-Google: https://support.google.com/accounts/answer/112802?co=GENIE.Platform%3DDesktop&hl=fr
+Google : https://support.google.com/accounts/answer/112802?co=GENIE.Platform%3DDesktop&hl=fr
 
 ### 7. EXERCICE DE VOS DROITS
 
-**Pour toute demande d’exercice des droits susvisés ou pour plus d’informations, vous pouvez contacter la Société à l’adresse :** [contact@editionslescrocos.com](mailto:contact@editionslescrocos.com) ou par voie postale à l’adresse du siège de la Société indiqué en-tête.
+**Pour toute demande d’exercice des droits susvisés ou pour plus d’informations, vous pouvez contacter la Société à l’adresse :** [contact@editionslescrocos.com](mailto:contact@editionslescrocos.com) ou par voie postale à l’adresse du siège de la Société indiquée en-tête.
 
 Conformément à la réglementation, vous disposez des droits suivants sur vos Données :
 
-\- **Droit d’accès** à vos Données, incluant le droit d’en demander copie, et aux informations fournies dans la présente politique de confidentialité (art. 15 RGPD). Lorsque la base légale du traitement de données est notre intérêt légitime, vous avez la possibilité de demander les informations relatives à la mise en balance que nous avons effectuée entre les intérêts de nos clients ceux de la Société préalablement à ce traitement.
+\- **Droit d’accès** à vos Données, incluant le droit d’en demander copie, et aux informations fournies dans la présente politique de confidentialité (art. 15 RGPD). Lorsque la base légale du traitement de données est notre intérêt légitime, vous avez la possibilité de demander les informations relatives à la mise en balance que nous avons effectuée entre les intérêts de nos clients et ceux de la Société, préalablement à ce traitement.
 
 \- **Droit de rectification** (art. 16 RGPD) et de mise à jour de vos données dont nous disposons.
 
@@ -196,7 +196,7 @@ Vous pouvez également obtenir [plus d’informations sur le site de la CNIL.](h
 
 En cas de demande d’exercice, la Société se réserve la possibilité de vous demander de préciser votre demande et de fournir un justificatif d’identité (qui sera conservé un an en cas d’exercice du droit d’accès ou de rectification et trois ans en cas d’exercice du droit d’opposition). Si notre réponse ne vous apportait pas une pleine satisfaction, vous bénéficiez toujours de la **possibilité d’introduire une réclamation** auprès de l’autorité de contrôle et de protection des Données personnelles dont vous relevez (en France, la CNIL).
 
-### 8. DURÉES DE CONSERVATION
+### 8. DURÉE DE CONSERVATION
 
 **Engagements.** Des moyens de suppression effective des Données sont mis en place dès lors que la durée de conservation ou d'archivage nécessaire à l'accomplissement des finalités déterminées ou imposées est atteinte, notamment après suppression de votre compte auprès de notre Société ou au terme du contrat avec notre Société.
 
@@ -224,7 +224,7 @@ Les informations que vous nous communiquez sont à usage interne par les personn
 
 **Engagements.** Nous nous engageons à mettre en œuvre les mesures techniques et organisationnelles appropriées grâce à des moyens de sécurisation physiques et logistiques pour limiter les risques d'accès accidentels, non autorisés ou illégaux, de divulgation, d'altération, de perte ou encore de destruction des données personnelles vous concernant.
 
-**Avertissements.** Nous vous invitons à rester prudent(e) sur ce que vous décidez de rendre public sur internet. En ce qui concerne les **données personnelles** y compris relevant de votre vie privée ou sensibles **rendues publiques à votre initiative** ou déduites _via_ vos contributions, commentaires et prises de position de quelque nature que ce soit sur le Site, ou encore les réseaux sociaux sur des groupes et/ou conversations avec d’autres utilisateurs du Site.
+**Avertissements.** Nous vous invitons à rester prudent(e) sur ce que vous décidez de rendre public sur internet, notamment les **données personnelles** relevant de votre vie privée ou sensibles **rendues publiques à votre initiative** ou déduites _via_ vos contributions, commentaires et prises de position de quelque nature que ce soit sur le Site, ou encore les réseaux sociaux sur des groupes et/ou conversations avec d’autres utilisateurs du Site.
 
 **Protocole Https.** L’adresse URL du Site est accompagnée d’un cadenas fermé ou une clé apparaît en bas à droite de votre navigateur signalant l’existence du protocole de sécurité Https, applicable au stockage des données notamment. Cela signifie que vous êtes dans une zone de navigation sécurisée, notamment lorsque que votre numéro de carte bancaire vous est demandé.
 
@@ -236,12 +236,11 @@ Les informations que vous nous communiquez sont à usage interne par les personn
 
 \- Notifier l'incident à l’autorité compétente et/ou aux personnes concernées dans les plus brefs délais lorsque cela répond à une exigence légale.
 
-En aucun cas les engagements définis au point ci-dessus ne peuvent être assimilés à une quelconque reconnaissance de faute ou de responsabilité quant à la survenance de cet incident.
+En aucun cas les engagements définis au point ci-dessus ne peuvent être assimilés à une quelconque reconnaissance de faute ou de responsabilité de la Société quant à la survenance de cet incident.
 
 ### 11. GENERALITES
 
-  
-**Caractère obligatoire.** Nous avons veillé à vous demander très peu d’information personnelle pour l’exécution de votre demande. En cas de demande incomplète (par exemple : commande en ligne, demande de renseignement etc.), la Société se réserve de demander des informations complémentaires ou d’écarter par tout moyen technique la possibilité de valider le formulaire concerné.
+**Caractère obligatoire.** Nous avons veillé à vous demander très peu d’informations personnelles pour l’exécution de votre demande. En cas de demande incomplète (par exemple : commande en ligne, demande de renseignements, etc.), la Société se réserve le droit de demander des informations complémentaires ou d’écarter par tout moyen technique la possibilité de valider le formulaire concerné.
 
 **Liens hypertextes.** Le Site peut fournir des liens vers d’autres sites, applications et services que les siens, qui peuvent être exploités par des sociétés tierces. Nous ne sommes pas responsables du traitement des données personnelles effectués par ces sites tiers, ou les sites pointant vers le Site, dont l’utilisateur est invité à consulter les politiques de protection des données personnelles pour plus d’informations. La Politique est applicable uniquement aux activités de la Société, qui ne pourra être tenue responsable des manquements d’un tiers à ses obligations en matière de protection des données personnelles.
 
@@ -253,24 +252,24 @@ En aucun cas les engagements définis au point ci-dessus ne peuvent être assimi
 
 **Modifications - Mises à jour.** Nous nous réservons la possibilité de modifier la présente politique de confidentialité. Les personnes concernées seront averties lorsque cela est prévu par la réglementation applicable. La date de mise à jour est indiquée en en-tête et nous vous invitons à la consulter régulièrement.
 
-### INFORMATION SUR LES COOKIES
+### 12. INFORMATION SUR LES COOKIES
 
-**Présentation :** Les cookies et traceurs (ci-après « cookies ») désignent les témoins de connexion et plus généralement, tout fichier - déposé lors de la consultation d’un site web ou d’une application mobile, de l’installation ou de l’utilisation d’un logiciel dans l’équipement terminal de l’utilisateur - ayant pour objet la lecture ou l’écriture d’informations dans cet équipement. Les cookies nous permettent de collecter des **Données de consultation du Site** (adresse IP, fournisseur d’accès à Internet, configuration matérielle, configuration logicielle, type et langue du navigateur...).
+**Présentation :** Les cookies et traceurs (ci-après « Cookies ») désignent les témoins de connexion et plus généralement, tout fichier - déposé lors de la consultation d’un site web ou d’une application mobile, de l’installation ou de l’utilisation d’un logiciel dans l’équipement terminal de l’utilisateur - ayant pour objet la lecture ou l’écriture d’informations dans cet équipement. Les Cookies nous permettent de collecter des **Données de consultation du Site** (adresse IP, fournisseur d’accès à Internet, configuration matérielle, configuration logicielle, type et langue du navigateur...).
 
-Les cookies peuvent être déposés par la Société ou par des sociétés tierces sans votre consentement lorsqu’ils sont strictement nécessaires au fonctionnement du site ou pour faciliter la communication au public en ligne, par exemple lorsqu’ils sont destinés à l’authentification, à garder en mémoire le contenu d’un panier d’achat, à générer des statistiques de fréquentation, ou encore pour limiter l’accès gratuit à un échantillon de contenu demandé par les utilisateurs.
+Les Cookies peuvent être déposés par la Société ou par des sociétés tierces sans votre consentement lorsqu’ils sont strictement nécessaires au fonctionnement du site ou pour faciliter la communication au public en ligne, par exemple lorsqu’ils sont destinés à l’authentification, à garder en mémoire le contenu d’un panier d’achat, à générer des statistiques de fréquentation, ou encore pour limiter l’accès gratuit à un échantillon de contenu demandé par les utilisateurs.
 
-**Durée** : La durée maximale de conservation des cookies est de 13 mois après leur premier dépôt dans votre terminal et cette durée n’est pas prolongée à chaque visite.
+**Durée** : La durée maximale de conservation des Cookies est de 13 mois après leur premier dépôt dans votre terminal et cette durée n’est pas prolongée à chaque visite.
 
-**Consentement au dépôt de cookies :** Vous êtes informé de la présence des cookies non strictement nécessaires par un bandeau d’information sur le Site. A l’exception des cas d’usage non soumis au consentement, les cookies et traceurs ne feront l’objet d’un dépôt sur votre terminal qu’avec votre accord exprès. Il pourra vous être demandé périodiquement de réitérer votre consentement, afin de nous assurer que celui-ci est toujours valide.
+**Consentement au dépôt de Cookies :** Vous êtes informé de la présence des Cookies non strictement nécessaires par un bandeau d’information sur le Site. A l’exception des cas d’usage non soumis au consentement, les Cookies et traceurs ne feront l’objet d’un dépôt sur votre terminal qu’avec votre accord exprès. Il pourra vous être demandé périodiquement de réitérer votre consentement, afin de nous assurer que celui-ci est toujours valide.
 
-**Paramétrage des cookies :** Vous avez toujours la possibilité de modifier vos préférences directement via le Site grâce à l’outil de paramétrage dédié, ou via les paramètres de votre navigateur ([Firefox](https://support.mozilla.org/fr/kb/protection-renforcee-contre-pistage-firefox-ordinateur?redirectlocale=fr&redirectslug=activer-desactiver-cookies) avec protection renforcée contre le pistage ; [Firefox](https://support.mozilla.org/fr/kb/effacer-les-cookies-pour-supprimer-les-information) avec suppression des cookies ; [Chrome](https://support.google.com/chrome/answer/95647?hl=fr) ; Internet Explorer [;](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac) [Safari](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac) [; Opera](https://help.opera.com/en/latest/web-preferences/#cookies) ; [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)). Vous pouvez également configurer le navigateur de votre terminal afin d’activer l’option « Do Not Track », qui indiquera aux sites visités, aux régies publicitaires ou aux applications que vous ne souhaitez pas être « suivi ». Cette fonctionnalité est disponible notamment pour les navigateurs suivants : [Firefox](https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister) ; [Chrome ](https://support.google.com/chrome/answer/114836); [Internet](https://support.microsoft.com/fr-fr/help/17288/windows-internet-explorer-11-use-do-not-track) [Explorer ](https://support.microsoft.com/fr-fr/help/17288/windows-internet-explorer-11-use-do-not-track); [Safari ](https://support.apple.com/kb/PH21416?locale=fr_FR); [Opera ](http://help.opera.com/Windows/12.10/en/notrack.html); [Microsoft Edge.](https://privacy.microsoft.com/fr-FR/windows-10-microsoft-edge-and-privacy)
+**Paramétrage des Cookies :** Vous avez la possibilité de modifier vos préférences directement via le Site grâce à l’outil de paramétrage dédié, ou via les paramètres de votre navigateur ([Firefox](https://support.mozilla.org/fr/kb/protection-renforcee-contre-pistage-firefox-ordinateur?redirectlocale=fr&redirectslug=activer-desactiver-cookies) avec protection renforcée contre le pistage ; [Firefox](https://support.mozilla.org/fr/kb/effacer-les-cookies-pour-supprimer-les-information) avec suppression des Cookies ; [Chrome](https://support.google.com/chrome/answer/95647?hl=fr) ; Internet Explorer [;](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac) [Safari](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac) [; Opera](https://help.opera.com/en/latest/web-preferences/#cookies) ; [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)). Vous pouvez également configurer le navigateur de votre terminal afin d’activer l’option « Do Not Track », qui indiquera aux sites visités, aux régies publicitaires ou aux applications que vous ne souhaitez pas être « suivi ». Cette fonctionnalité est disponible notamment pour les navigateurs suivants : [Firefox](https://support.mozilla.org/fr/kb/comment-activer-option-ne-pas-pister) ; [Chrome ](https://support.google.com/chrome/answer/114836); [Internet](https://support.microsoft.com/fr-fr/help/17288/windows-internet-explorer-11-use-do-not-track) [Explorer ](https://support.microsoft.com/fr-fr/help/17288/windows-internet-explorer-11-use-do-not-track); [Safari ](https://support.apple.com/kb/PH21416?locale=fr_FR); [Opera ](http://help.opera.com/Windows/12.10/en/notrack.html); [Microsoft Edge.](https://privacy.microsoft.com/fr-FR/windows-10-microsoft-edge-and-privacy)
 
-**En cas de refus des cookies non indispensables au fonctionnement du Site :** Certaines fonctionnalités du Site tels que les lecteurs vidéo ou des contenus interactifs font appel à des services proposés par des tiers et déposent des cookies leur permettant d’identifier votre consultation du contenu. En cas de refus du dépôt de ces cookies, les fonctionnalités de personnalisation ne pourront pas fonctionner et les contenus qui vous seront proposés (notamment les suggestions de vidéos ou publicités) seront toujours présentes mais seront sans lien avec vos centres d’intérêt.
+**En cas de refus des Cookies non indispensables au fonctionnement du Site :** Certaines fonctionnalités du Site tels que les lecteurs vidéo ou des contenus interactifs font appel à des services proposés par des tiers et déposent des Cookies leur permettant d’identifier votre consultation du contenu. En cas de refus du dépôt de ces Cookies, les fonctionnalités de personnalisation ne pourront pas fonctionner et les contenus qui vous seront proposés (notamment les suggestions de vidéos ou publicités) seront toujours présentes mais seront sans lien avec vos centres d’intérêt.
 
-**Types de cookies :** Outre les cookies ayant pour finalité exclusive de permettre ou faciliter la communication via notre Site ou les cookies strictement nécessaires à la fourniture du Site ou Service auquel vous avez souscrit, nous utilisons des cookies et traceurs pour la finalité suivante :
+**Types de Cookies :** Outre les Cookies ayant pour finalité exclusive de permettre ou faciliter la communication via notre Site ou les Cookies strictement nécessaires à la fourniture du Site ou Service auquel vous avez souscrit, nous utilisons des Cookies et traceurs pour la finalité suivante :
 
 \- **Mesure d’audience** : La Société utilise des traceurs dans le but de mesurer l’audience du Site afin d’optimiser le Site en fonction des statistiques sur sa fréquentation et les navigations des internautes.
 
-### POUR NOUS CONTACTER
+### 13. POUR NOUS CONTACTER
 
-Toute question concernant la Politique de confidentialité Editions les Crocos peut être adressée en cliquant sur le formulaire contact sur le site, ou via e-mail à editions@ailesetgraines.com.
+Toute question concernant la Politique de confidentialité Editions les Crocos peut être adressée en cliquant sur le formulaire contact sur le site, ou via e-mail à : contact@editionslescrocos.com
