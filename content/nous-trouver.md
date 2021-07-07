@@ -119,11 +119,27 @@ image: "/images/carte-5.jpg"
 
 <place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société !</place>
 
-<place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie géniale, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
-
 <place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
 
 <place title="L'Epimont" address="166 Route de la Rivière, 69250 Poleymieux-au-Mont-d'Or" website="https://www.facebook.com/lepimont/">Bien plus qu'une épicerie. Testez le café et le coin lecture et repartez avec un livre.</place>
+
+</two-columns>
+
+## Ain
+
+<two-columns>
+
+<place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie géniale, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
+
+<place title="Librairie Montbarbon" address="14 Place Carriat, 01000 Bourg-en-Bresse" website="https://www.montbarbon.com/"> Une immense librairie sur deux niveaux, installée dans un ancien relais de poste du 19e siècle. 50 000 titres disponibles… A donner le tournis !</place>
+
+<place title="Librairie du théâtre Zannini" address="8 Cours de Verdun, 01000 Bourg-en-Bresse" website="https://www.librairiedutheatre.fr/">Vous cherchez le théâtre ? Hum, le bâtiment en face de la librairie Zannini, je crois…</place>
+
+<place title="La nouvelle page" address="2 rue pasteur, 01400 Châtillon-sur-Chalaronne" website="https://www.facebook.com/La-Nouvelle-Page-439641209798963/">Un lieu chaleureux avec une petite salle dédiée aux enfants au fond de la boutique, véritable caverne d'Ali Baba remplie de livres et de jeux !</place>
+
+<place title="Librairie Blanche-Neige" address="Centre commercial du Bugey, 01500 Ambérieu-en-Bugey" website="https://www.facebook.com/Librairie-Blanche-Neige-665679453619796/">Ici, on soutient les auteurs et les éditeurs régionaux. Raison de plus pour s'y arrêter</place>
+
+<place title="Librairie Ex Libris" address="19 Rue Pasteur, 01150 Lagnieu" website="https://www.facebook.com/Librairie-Ex-Libris-561256540701736/">Un très joli lieu tout en pierres, plein de surprises à l'intérieur. Lionel, le gérant, est un passionné</place>
 
 </two-columns>
 
