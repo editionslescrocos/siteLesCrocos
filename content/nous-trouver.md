@@ -39,6 +39,8 @@ image: "/images/carte-5.jpg"
 
 <place title="L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Ici, les libraires sont tellement ouverts d'esprit qu'ils parlent même chinois et hongrois !</place>
 
+<place title="U Culture Montchat" address="2 place Antoinette, 69003 Lyon" website="https://www.facebook.com/Uculture-Montchat-1631058827107486/">Un bon rayon jeunesse dans un lieu inattendu. Pour les conseils, demandez Lisa</place>
+
 <place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">La librairie BD de la Croix-Rousse, qui nous soutient depuis le début.</place>
 
 <place title="Vivement dimanche" address="7 rue de Mail, 69004 Lyon" website="https://www.vivementdimanche.com">La Benjamine bien sûr.</place>
