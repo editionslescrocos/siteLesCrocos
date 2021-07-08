@@ -125,6 +125,20 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
+## Villefranche-sur-Saône
+
+<two-columns>
+
+<place title="Librairie des Marais" address="132 Rue de la République, 69400 Villefranche-sur-Saône" website="http://librairiedesmarais.com/">Un vrai commerce de proximité avec des choix éthiques, des coups de cœur, des partis pris… Aux manettes : Bertrand.</place>
+
+<place title="La Boussole" address="240 Rue de Belleville, 69400 Villefranche-sur-Saône" website="https://www.facebook.com/librairielaboussole"> Une librairie spécialisée BD, dotée d'un comptoir et d'une terrasse ! De quoi perdre le nord…</place>
+
+<place title="Librairie BD Les 9 mondes" address="262 Rue nationale, 69400 Villefranche-sur-Saône" website="https://www.les9mondes.com/">Enthousiaste, pétillante, passionnée et volubile, demandez Mathilde !</place>
+
+<place title="Librairie Develay" address="1012 Rue nationale, 69400 Villefranche-sur-Saône" website="https://ebook-develay.net/"> Des livres, de la papeterie, des jeux, des jouets… Un vaste lieu pour faire des cadeaux</place>
+
+</two-columns>
+
 ## Ain
 
 <two-columns>
