@@ -21,9 +21,11 @@ image: "/images/carte-5.jpg"
 
 <place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">Ne manquez pas la librairie du musée. Notre BD y est. En français comme en anglais !</place>
 
+<place title="Librairie La Bourse" address="8 Rue Lanterne, 69001 Lyon" website="https://librairielabourse.com/">Le temple de l'occasion… Qui fait aussi un peu de neuf. La preuve !</place>
+
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste.</place>
 
-<place title="Librairie La Bourse" address="8 Rue Lanterne, 69001 Lyon" website="https://librairielabourse.com/">Le temple de l'occasion… Qui fait aussi un peu de neuf. La preuve !</place>
+<place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
 <place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de la Presqu'île. Levez le nez : sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs…</place>
 
