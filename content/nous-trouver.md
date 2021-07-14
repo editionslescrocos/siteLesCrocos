@@ -59,6 +59,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Tribu des gones" address="22 Rue Saint-Jean, 69005 Lyon" website="https://tribudesgones.com/">Des tas d'objets rigolos sur Lyon… Et des livres dédiés à la ville.</place>
 
+<place title="La boutique de Fourvière" address="7 place de Fourvière, 69005 Lyon" website="https://boutiquedefourviere.com//">Montez les 345 marches de la basilique… Et offre-vous un livre pour vous récompenser !</place>
+
 <place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil super sympa.</place>
 
 <place title="Le Rameau d'or" address="32 Cours Franklin Roosevelt, 69006 Lyon" website="http://www.librairie-rameaudor.com/">Une des plus anciennes librairies de Lyon, indépendante et fière de l'être.</place>
