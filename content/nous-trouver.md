@@ -23,7 +23,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie La Bourse" address="8 Rue Lanterne, 69001 Lyon" website="https://librairielabourse.com/">Le temple de l'occasion… Qui fait aussi un peu de neuf. La preuve :-)</place>
 
-<place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est si vaste…</place>
+<place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
 <place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
@@ -35,7 +35,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Musée des Confluences" address="86 Quai Perrache, 69002 Lyon" website="https://www.museedesconfluences.fr">Le premier musée de France en termes de fréquentation, hors Paris ! Profitez-en aussi pour visiter la librairie…</place>
 
-<place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée… Tout le monde à bord !</place>
+<place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée… Bienvenue à bord !</place>
 
 <place title="La Librairie du Cours" address="83 cours du docteur Long, 69003 Lyon" website="http://www.lalibrairieducours.fr/">On craque pour la table et les chaises en forme de champignon.</place>
 
@@ -49,7 +49,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie des Canuts" address="17 Place de la Croix-Rousse, 69004 Lyon" website="https://lalibrairiedescanuts.wordpress.com/">Généraliste, mais avec un joli fond d'ouvrages sur Lyon. Pour le rayon jeunesse, descendez l'escalier.</place>
 
-<place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Des choix, on trouve aussi des livres jeunesse en anglais. Dont le nôtre.</place>
+<place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Des choix affirmés, des libraires engagés et un des rares lieux à Lyon où l'on trouve des livres jeunesse en anglais. Dont le nôtre.</place>
 
 <place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">LA librairie de Saint-Just. Avec une boite à livres devant dans laquelle on peut se servir… Très bon esprit.</place>
 
