@@ -105,7 +105,7 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-## Autour de Lyon
+## Est lyonnais
 
 <two-columns>
 
@@ -113,11 +113,48 @@ image: "/images/carte-5.jpg"
 
 <place title="Raconte moi la terre" address="Decathlon Village, 332 Avenue Général de Gaulle, 69500 Bron" website="https://www.racontemoilaterre.com/">Venez acheter un vélo, un ballon, une raquette… Et repartez avec un livre de la librairie en face !</place>
 
+<place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
+
+</two-columns>
+
+## Ouest lyonnais
+
+<two-columns>
+
 <place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie lumineuse où l'on se sent très vite comme à la maison.</place>
 
 <place title="Le Jardin des lettres" address="87 Avenue Edouard Millaud, 69290 Craponne" website="https://www.jardin-des-lettres.fr/"> Ici poussent en permanence de nouveaux livres pour petits et grands enfants…</place>
 
 <place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois</place>
+
+<two-columns>
+
+## Sud de Lyon
+
+<two-columns>
+
+<place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
+
+<place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une terrasse pour organiser des animations en extérieur</place>
+
+<place title="Murmure des mots" address="135 rue Général de Gaulle  
+ 69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent, qui dévorent, qui dévorent des livres… Chez les Crocos, forcément on aime ça !</place>
+
+<place title="Les Cultures Papier" address="102 Rte de Paris, 69260 Charbonnières-les-Bains" website="https://www.facebook.com/LesCulturesPapier/"> De la presse, de la papeterie, des petits jeux… Mais surtout de plus en plus de livres !</place>
+
+<two-columns>
+
+## Nord de Lyon
+
+<two-columns>
+
+<place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse.</place>
+
+<place title="Les mots bleus" address="13 Rue Pierre Bouvier, 69270 Fontaines-sur-Saône" website="http://librairielesmotsbleus.com/"> Trois drôles de dames aux commandes de cette librairie toute de bleu vêtue…</place>
+
+<place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>Nord de Lyon
+
+<two-columns>
 
 <place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse.</place>
 
@@ -128,8 +165,6 @@ image: "/images/carte-5.jpg"
 <place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Demandez Sarah, elle connaît notre BD par cœur.</place>
 
 <place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société, grande spécialité de la boutique.</place>
-
-<place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
 
 <place title="L'Epimont" address="166 Route de la Rivière, 69250 Poleymieux-au-Mont-d'Or" website="https://www.facebook.com/lepimont/">Bien plus qu'une épicerie. Testez le café et le coin lecture et repartez avec un livre.</place>
 
@@ -164,6 +199,16 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Blanche-Neige" address="Centre commercial du Bugey, 01500 Ambérieu-en-Bugey" website="https://www.facebook.com/Librairie-Blanche-Neige-665679453619796/">Ici, on soutient les auteurs et les éditeurs régionaux. Raison de plus pour s'y arrêter</place>
 
 <place title="Librairie Ex Libris" address="19 Rue Pasteur, 01150 Lagnieu" website="https://www.facebook.com/Librairie-Ex-Libris-561256540701736/">Un joli lieu tout en pierres. Lionel, le gérant, est un passionné</place>
+
+</two-columns>
+
+## Isère
+
+<two-columns>
+
+<place title="Bulles de Vienne" address="79 Rue Marchande, 38200 Vienne" website="https://www.facebook.com/LesBullesDeVienne">La librairie spécialisée BD de la ville. Un trèèès large choix de bulles pour la jeunesse. C'est rare et on adore !</place>
+
+<place title="Librairie Passerelles" address="19 Cr Marc-Antoine Brillier, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes (très drôles), de la papeterie et même… des disques vinyles !</place>
 
 </two-columns>
 
