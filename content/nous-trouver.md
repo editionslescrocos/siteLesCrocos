@@ -131,6 +131,19 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
+## Sud de Lyon
+
+<two-columns>
+
+<place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
+
+<place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une terrasse pour organiser des animations en extérieur</place>
+
+<place title="Murmure des mots" address="135 rue Général de Gaulle  
+ 69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent, qui dévorent, qui dévorent des livres… Chez les Crocos, forcément on aime ça !</place>
+
+<two-columns>
+
 ## Les salons
 
 <two-columns>
