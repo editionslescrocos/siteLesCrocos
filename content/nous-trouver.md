@@ -127,7 +127,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Le Jardin des lettres" address="87 Avenue Edouard Millaud, 69290 Craponne" website="https://www.jardin-des-lettres.fr/"> Ici poussent en permanence de nouveaux livres pour petits et grands enfants…</place>
 
-<place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois</place>
+<place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois !</place>
 
 <two-columns>
 
@@ -140,7 +140,7 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une terrasse pour organiser des animations en extérieur</place>
 
 <place title="Murmure des mots" address="135 rue Général de Gaulle  
- 69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent, qui dévorent, qui dévorent des livres… Chez les Crocos, forcément on aime ça !</place>
+ 69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent, qui dévorent, qui dévorent des livres… Chez les Crocos, forcément on aime ça !</place
 
 <two-columns>
 
@@ -153,14 +153,6 @@ image: "/images/carte-5.jpg"
 <place title="Les mots bleus" address="13 Rue Pierre Bouvier, 69270 Fontaines-sur-Saône" website="http://librairielesmotsbleus.com/"> Trois drôles de dames aux commandes de cette librairie toute de bleu vêtue…</place>
 
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>Nord de Lyon
-
-<two-columns>
-
-<place title="Panier de livres" address="75 Rue Jean Moulin, 69300 Caluire-et-Cuire" website="https://www.panierdelivres.com/"> LA librairie de Caluire. Avec une petite salle entière consacrée à la jeunesse.</place>
-
-<place title="Les mots bleus" address="13 Rue Pierre Bouvier, 69270 Fontaines-sur-Saône" website="http://librairielesmotsbleus.com/"> Trois drôles de dames aux commandes de cette librairie toute de bleu vêtue…</place>
-
-<place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
 <place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Demandez Sarah, elle connaît notre BD par cœur.</place>
 
