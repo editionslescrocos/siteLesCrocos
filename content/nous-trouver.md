@@ -25,6 +25,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
+<place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Un choix de livres et de BD très éclectique. Bien plus qu'une librairie catho !</place>
+
 <place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
 <place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de Lyon. Sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs vous contemplent…</place>
@@ -123,11 +125,13 @@ image: "/images/carte-5.jpg"
 
 <place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie lumineuse où l'on se sent très vite comme à la maison.</place>
 
-<place title="Les Cultures Papier" address="102 Rte de Paris, 69260 Charbonnières-les-Bains" website="https://www.facebook.com/LesCulturesPapier/"> De la presse, de la papeterie, des petits jeux… Mais surtout de plus en plus de livres !</place>
+<place title="Les Cultures Papier" address="102 Rte de Paris, 69260 Charbonnières-les-Bains" website="https://www.facebook.com/LesCulturesPapier/"> De la presse, de la papeterie, des jeux… Et de plus en plus de livres !</place>
 
 <place title="Le Jardin des lettres" address="87 Avenue Edouard Millaud, 69290 Craponne" website="https://www.jardin-des-lettres.fr/"> Ici poussent en permanence de nouveaux livres pour petits et grands enfants…</place>
 
 <place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois !</place>
+
+<place title="Le drugstore du Barriot" address="25 Chemin de Pierre Blanche, 69570 Dardilly" website="https://www.facebook.com/Le-Drugstore-du-Barriot-112936220459760/"> Bien plus qu'un tabac-presse. Marie-Cécile adore les produits locaux. Et parmi ceux-ci, les livres ! Une adresse inattendue et un vrai sens de l'accueil.</place>
 
 </two-columns>
 
@@ -140,7 +144,7 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une terrasse pour organiser des animations en extérieur</place>
 
 <place title="Murmure des mots" address="135 rue Général de Gaulle  
- 69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent, qui dévorent, qui dévorent des livres… Chez les Crocos, forcément on aime ça !</place>
+69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent, qui dévorent, qui dévorent des livres… Chez les Crocos, forcément on aime ça !</place>
 
 </two-columns>
 
@@ -179,6 +183,8 @@ image: "/images/carte-5.jpg"
 ## Ain
 
 <two-columns>
+
+<place title="Le Petit boudoir" address="1009 Grande Rue, 01700 Miribel" website="https://www.facebook.com/LePetitBoudoir.Miribel/">Des idées cadeaux, des bijoux locaux, de jolis carnets, des trousses colorées… Le tout 100 % made in France. Nos livres n'ont pas atterri là par hasard.</place>
 
 <place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie géniale, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
 
