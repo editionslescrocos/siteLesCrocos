@@ -61,6 +61,10 @@ image: "/images/carte-5.jpg"
 
 <place title="Tribu des gones" address="22 Rue Saint-Jean, 69005 Lyon" website="https://tribudesgones.com/">Des tas d'objets rigolos sur Lyon… Et des livres dédiés à la ville.</place>
 
+<place title="Souvenirs de Lyon" address="46 rue Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">Vous comptiez vraiment quitter Lyon sans acheter un exemplaire de notre BD ?</place>
+
+<place title="Souvenirs de Lyon" address="8 place Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">La même équipe a ouvert une 2e boutique. Vous comptiez vraiment quitter Lyon sans vous offrir une 2e BD ? En anglais cette fois…</place>
+
 <place title="La boutique de Fourvière" address="7 place de Fourvière, 69005 Lyon" website="https://boutiquedefourviere.com//">Montez les 345 marches de la basilique… Et offrez-vous un livre au retour pour vous reposer.</place>
 
 <place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil super sympa.</place>
