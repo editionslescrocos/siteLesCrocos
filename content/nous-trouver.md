@@ -29,7 +29,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
-<place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de Lyon. Sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs vous contemplent…</place>
+<place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de Lyon. Sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs vous contemplent.</place>
 
 <place title="Gibert Joseph" address="3 Quai du Dr Gailleton, 69002 Lyon" website="https://www.facebook.com/GibertLibrairieLyon/">Très grande librairie sur trois rues. La partie BD est accessible par le quai.</place>
 
