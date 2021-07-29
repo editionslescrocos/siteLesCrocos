@@ -63,7 +63,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Souvenirs de Lyon" address="46 rue Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">Vous comptiez vraiment quitter Lyon sans acheter un exemplaire de notre BD ?</place>
 
-<place title="Souvenirs de Lyon" address="8 place Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">La même équipe a ouvert une 2e boutique. Vous comptiez vraiment quitter Lyon sans vous offrir une 2e BD ? En anglais cette fois…</place>
+<place title="Souvenirs de Lyon" address="8 place Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">La même équipe possède une 2e boutique. Vous comptiez vraiment quitter Lyon sans vous offrir une 2e BD ? En anglais cette fois…</place>
 
 <place title="La boutique de Fourvière" address="7 place de Fourvière, 69005 Lyon" website="https://boutiquedefourviere.com//">Montez les 345 marches de la basilique… Et offrez-vous un livre au retour pour vous reposer.</place>
 
