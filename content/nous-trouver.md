@@ -137,11 +137,11 @@ image: "/images/carte-5.jpg"
 
 <place title="Le drugstore du Barriot" address="25 Chemin de Pierre Blanche, 69570 Dardilly" website="https://www.facebook.com/Le-Drugstore-du-Barriot-112936220459760/"> Bien plus qu'un tabac-presse. Marie-Cécile adore les produits locaux. Et parmi ceux-ci, les livres ! Une adresse inattendue et un vrai sens de l'accueil.</place>
 
-<place title="Maison de la presse" address="28 Rue Charles de Gaulle, 69210 L'arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/>De la presse, de la papeterie et plein de livres coups de cœur</place>
+<place title="Maison de la presse" address="28 rue Charles de Gaulle 69210 L'Arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/">De la presse, de la papeterie et beaucoup de livres coups de cœur</place>
 
 <place title="U Culture & Technologie" address="95 Rue des Martinets, 69210 L'Arbresle" website="https://www.facebook.com/u.culture.technologie.larbresle/">Dans la partie librairie, ne manquez pas l'espace dédié aux auteurs et aux éditeurs locaux</place>
 
-<place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="https://www.facebook.com/36-grande-rue-759238847455230/">Une librairie généraliste qui sait aussi défendre les petits éditeurs régionaux</place>
+<place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="https://www.facebook.com/36-grande-rue-759238847455230/">Une librairie qui sait aussi défend les petits éditeurs régionaux</place>
 
 </two-columns>
 
