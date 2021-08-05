@@ -220,10 +220,10 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-## Les salons
+## Salons et festivals
 
 <two-columns>
 
-<place title="Bientôt…"> </place>
+<place title="19 SEPTEMBRE 2021 : BD TERNAY" address="Salle du Devès, 11 Chemin du Devès, 69297 Ternay" website="https://www.facebook.com/bdternay.officiel">Un festival convivial qui promeut les auteurs de bande dessinée de la région.</place>
 
 </two-columns>
