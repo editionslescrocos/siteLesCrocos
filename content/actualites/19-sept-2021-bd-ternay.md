@@ -1,6 +1,6 @@
 ---
 date: 2021-08-05T23:15:00+02:00
-title: '19 SEPT 2021 : BD TERNAY'
+title: '19 SEPTEMBRE 2021 : BD TERNAY'
 noLink: false
 description: Nous serons heureux de vous retrouver toute la journée sur ce salon hyper
   convivial, dédié aux auteurs de BD de la région.
