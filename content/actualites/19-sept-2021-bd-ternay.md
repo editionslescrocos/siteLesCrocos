@@ -7,3 +7,4 @@ description: Nous serons heureux de vous retrouver toute la journée sur ce salo
 image: "/images/143147025_484301506300166_3624679766821838187_n.jpg"
 
 ---
+Plus d'infos sur le site du festival : https://www.facebook.com/bdternay.officiel
