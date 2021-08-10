@@ -121,7 +121,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
 
-<place title="Gibert Joseph Bron" address="10 rue des Droits de l'Homme2 Rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie/">Immense librairie-papeterie-disquaire au cœur du Carré de Soie. Attention à ne pas vous perdre :-)</place>
+<place title="Gibert Joseph Bron" address="2 Rue Jacquard, Le Carré de Soie, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie/">Immense librairie-papeterie-disquaire au cœur du Carré de Soie. Attention à ne pas vous perdre :-)</place>
 
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
 
