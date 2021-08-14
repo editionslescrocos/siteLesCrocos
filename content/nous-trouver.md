@@ -224,6 +224,18 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
+## Loire et Haute-Loire
+
+<two-columns>
+
+<place title="L'Hirondaine" address="10 bis rue Benoit Frachon, 42700 Firminy" website="https://www.lhirondaine.fr">Une librairie coopérative aux choix affirmés. Au fond de la boutique, un hibou vous accueille...</place>
+
+<place title="Interlude" address="4 Rue Porte-Aiguière, 43000 Le Puy en Velay" website="https://www.canalbd.net/interlude">La librairie BD du Puy. Demandez Maxime qui a bien aidé à mettre nos 3 cigognes en route...</place>
+
+<place title="L'Arbre à livres" address="47 rue Saint-Jacques, 43000 Le Puy en Velay" website="https://librairie-larbre-a-livres.business.site> Cette librairie toute en longueur ressemble à une traboule et ce n'est pas un hasard. Elle est tenue par Thibaut, un ancien Lyonnais qui a migré au Puy il y a 20 ans et n'en est plus jamais reparti... </place>
+
+</two-columns>
+
 ## Salons et festivals
 
 <two-columns>
