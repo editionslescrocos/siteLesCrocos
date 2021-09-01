@@ -125,6 +125,10 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
 
+<place title="Récit Music" address="72 rue de la République 69740 Genas" website="https://www.recitmusic.fr/">Au milieu des livres… des guitares ! Une librairie des plus originales où Patrick réunit ses deux passions, la musique et la littérature.</place>
+
+<place title="BD & CO" address="2 av jean Moulin 69720 Saint Laurent de Mure" website="www.facebook.com/SaintLaurentdeMure">Une petite librairie entièrement consacrée à la BD, aux mangas et aux figurines, tenue par un passionné du 9e art.</place>
+
 </two-columns>
 
 ## Ouest lyonnais
