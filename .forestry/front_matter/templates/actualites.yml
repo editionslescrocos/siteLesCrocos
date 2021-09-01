@@ -38,4 +38,5 @@ fields:
   hidden: true
   default: now
 pages:
+- content/actualites/18-septembre-2021-livres-passion-tentation.md
 - content/actualites/19-sept-2021-bd-ternay.md
