@@ -244,6 +244,8 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
+<place title="18 SEPTEMBRE 2021 : LIVRES PASSION TENTATION,  PUSIGNAN" address="Centre culturel l'Odyssée, 3 allée de l'Odyssée 69330 Pusignan" website="https://www.livrespassiontentation.com/">Un festival dédiée à la romance… Mais pas que ! La preuve, nous y serons aux côtés de la librairie Récit Music, de Genas.</place>
+
 <place title="19 SEPTEMBRE 2021 : BD TERNAY" address="Salle du Devès, 11 Chemin du Devès, 69297 Ternay" website="https://www.facebook.com/bdternay.officiel">Un festival convivial qui promeut les auteurs de bande dessinée de la région.</place>
 
 </two-columns>
