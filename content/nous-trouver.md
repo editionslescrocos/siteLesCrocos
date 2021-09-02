@@ -224,7 +224,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Bulles de Vienne" address="79 Rue Marchande, 38200 Vienne" website="https://www.facebook.com/LesBullesDeVienne">La librairie spécialisée BD de la ville. Un trèèès large choix de bulles pour la jeunesse. C'est rare et on adore !</place>
 
-<place title="Librairie Passerelles" address="19 Cr Marc-Antoine Brillier, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes (très drôles), de la papeterie et même… des disques vinyles !</place>
+<place title="Librairie Passerelles" address="22 boulevard de la République, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes rigolotes, de la papeterie et même… des disques vinyles !</place>
 
 </two-columns>
 
