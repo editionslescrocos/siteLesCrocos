@@ -1,14 +1,9 @@
 <template>
-  <Layout
-    :general="general"
-    :networks="networks"
-    :menus="menus"
-    :footer="footer"
-  >
+  <Layout :general="general" :networks="networks" :menus="menus" :footer="footer">
     <article>
       <TopImage :image="doc.image" :imageAlt="doc.imageAlt" />
       <div
-        class="page relative container z-20 md:rounded-lg shadow-xl  pb-24 px-5 md:px-12 content mx-auto w-11/12"
+        class="page relative container z-20 md:rounded-lg shadow-xl pb-24 px-5 md:px-12 content mx-auto w-11/12"
         :class="doc.image && 'md:-mt-16'"
       >
         <TitlePage :doc="doc" />
@@ -38,21 +33,22 @@ export default {
     const itemsPerPage = 4;
 
     const allItems = await $content(targetToFetch)
-      .sortBy("created_at", "desc")
+      .sortBy("date", "desc")
       .fetch();
 
-    const nbItems = allItems.length;
-    const nbPages = Math.round(nbItems / itemsPerPage);
 
-    const startAt = () => {
-      return (currentPage - 1) * itemsPerPage;
-    };
+    const nbItems = allItems.length;
+    const nbPages = Math.ceil(nbItems / itemsPerPage);
+
+    const startAt = () => (currentPage - 1) * itemsPerPage;
 
     const itemsToDisplay = await $content(targetToFetch)
-      .sortBy("created_at", "desc")
+      .sortBy("date", "desc")
       .limit(itemsPerPage)
       .skip(startAt())
       .fetch();
+
+    console.log(">>>", { allItems, nbPages, startAt, itemsToDisplay });
 
     const nextPage = currentPage < nbPages ? currentPage + 1 : null;
     const previousPage = currentPage - 1 > 0 ? currentPage - 1 : null;
@@ -73,7 +69,8 @@ export default {
       networks,
       menus,
       general,
-      footer
+      footer,
+
     };
   },
 
@@ -99,4 +96,5 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+</style>

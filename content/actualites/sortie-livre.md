@@ -3,7 +3,7 @@ title: '21 et 22 mai 2021 : un week-end de dédicaces !'
 description: Venez rencontrer notre dessinateur, Le Cil Vert, en librairie et repartez
   avec un dessin personnalisé sur votre BD.
 image: "/images/imageactu-dedicaces.jpg"
-createdAt: '2021-06-22T10:58:51.640+00:00'
+date: 2021-06-22T10:58:51.640+00:00
 noLink: false
 
 ---

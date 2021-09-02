@@ -1,10 +1,5 @@
 <template>
-  <Layout
-    :general="general"
-    :networks="networks"
-    :menus="menus"
-    :footer="footer"
-  >
+  <Layout :general="general" :networks="networks" :menus="menus" :footer="footer">
     <article>
       <TopImage :image="doc.image" :imageAlt="doc.imageAlt" />
       <div
@@ -36,21 +31,21 @@ export default {
 
     const targetToFetch = "actualites";
     const currentPage = parseInt(params.page) || 1;
-    const itemsPerPage = 2;
+    const itemsPerPage = 4;
 
     const allItems = await $content(targetToFetch)
-      .sortBy("created_at", "desc")
+      .sortBy("date", "desc")
       .fetch();
 
     const nbItems = allItems.length;
-    const nbPages = Math.round(nbItems / itemsPerPage);
+    const nbPages = Math.ceil(nbItems / itemsPerPage);
 
     const startAt = () => {
       return (currentPage - 1) * itemsPerPage;
     };
 
     const itemsToDisplay = await $content(targetToFetch)
-      .sortBy("created_at", "desc")
+      .sortBy("date", "desc")
       .limit(itemsPerPage)
       .skip(startAt())
       .fetch();
@@ -100,4 +95,5 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+</style>

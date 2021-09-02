@@ -25,14 +25,12 @@
                 stroke-linejoin="round"
                 class="feather feather-chevron-left w-6 h-6"
               >
-                <polyline points="15 18 9 12 15 6"></polyline>
+                <polyline points="15 18 9 12 15 6" />
               </svg>
             </div>
           </nuxt-link>
 
-          <div
-            class="flex h-8 font-medium rounded-full bg-gray-200 justify-center items-center"
-          >
+          <div class="flex h-8 font-medium rounded-full bg-gray-200 justify-center items-center">
             <nuxt-link
               v-for="(pageNumber, index) in pagination.nbPages"
               :key="`page${index}`"
@@ -48,9 +46,7 @@
                     ? 'bg-customRed text-white'
                     : ''
                 "
-              >
-                {{ pageNumber }}
-              </div>
+              >{{ pageNumber }}</div>
             </nuxt-link>
           </div>
 
@@ -76,7 +72,7 @@
                 stroke-linejoin="round"
                 class="feather feather-chevron-right w-6 h-6"
               >
-                <polyline points="9 18 15 12 9 6"></polyline>
+                <polyline points="9 18 15 12 9 6" />
               </svg>
             </div>
           </nuxt-link>
@@ -98,4 +94,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+a {
+  text-decoration: none;
+}
 </style>
