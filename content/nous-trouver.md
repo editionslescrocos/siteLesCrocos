@@ -77,6 +77,8 @@ image: "/images/carte-5.jpg"
 
 <place title="La Page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Avant d'aller bouquiner au Parc de la Tête d'Or, un détour s'impose.</place>
 
+<place title="Musée d'art contemporain" address="Cité Internationale, 81 Quai Charles de Gaulle, 69006 Lyon" website="https://lapagesuivante.com">Catalogues, revues et livres d'art… Et notre BD ! On est moderne ou on ne l'est pas.</place>
+
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse.</place>
 
 <place title="Librairie Rive gauche" address="19 Rue de Marseille, 69007 Lyon" website="https://www.facebook.com/librairierivegauche/">Superbe librairie au cœur de la Guillotière.</place>
