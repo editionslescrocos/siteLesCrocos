@@ -75,9 +75,9 @@ image: "/images/carte-5.jpg"
 
 <place title="Inter-Fun" address="108 Rue de Sèze, 69006 Lyon" website="https://www.inter-fun.fr">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !</place>
 
-<place title="La Page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Avant d'aller bouquiner au Parc de la Tête d'Or, un détour s'impose.</place>
+<place title="La Page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Avant d'aller bouquiner au Parc de la Tête d'Or, un détour ici s'impose.</place>
 
-<place title="Musée d'art contemporain" address="Cité Internationale, 81 Quai Charles de Gaulle, 69006 Lyon" website="https://lapagesuivante.com">Catalogues, revues et livres d'art… Et notre BD ! On est moderne ou on ne l'est pas.</place>
+<place title="Musée d'art contemporain" address="Cité Internationale, 81 Quai Charles de Gaulle, 69006 Lyon" website="https://www.mac-lyon.com/fr">Catalogues, revues et livres d'art… Et notre BD ! On est moderne ou on ne l'est pas.</place>
 
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse.</place>
 
