@@ -232,9 +232,9 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Librairie de Paris" address="6 Rue Michel Rondet, 42000 Saint-Étienne" website="https://www.librairiedeparis.com/">La plus grande librairie de la ville. Indépendante depuis 60 ans. Sous les voutes, des dizaines de milliers de titres…</place>
+<place title="Librairie de Paris" address="6 Rue Michel Rondet, 42000 Saint-Étienne" website="https://www.librairiedeparis.com/">A Saint-Etienne, on défend aussi des livres sur Lyon. Bienvenue dans la plus grande librairie de la ville !</place>
 
-<place title="Librairie Croquelinottes" address="23 Rue de la Résistance, 42000 Saint-Étienne" website="https://www.croquelinottes.fr/">Une librairie entièrement consacrée à la jeunesse. Les Crocos craquent pour les Croquelinottes… Et la petite cabane avec des poufs pour pouvoir bouquiner loin des parents.</place>
+<place title="Librairie Croquelinottes" address="23 Rue de la Résistance, 42000 Saint-Étienne" website="https://www.croquelinottes.fr/">Les Crocos craquent pour les Croquelinottes… Une librairie entièrement consacrée à la jeunesse, avec une petite cabane pour bouquiner loin des parents.</place>
 
 <place title="Des livres & vous" address="9 Rue Waldeck Rousseau, 42800 Rive-de-Gier" website="https://www.facebook.com/deslivresetvous/">Derrière les livres sur le bien être et les bâtons d'encens se cachent une petite pièce entièrement dédiée aux livres jeunesse. Une bonne adresse.</place>
 
