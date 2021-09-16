@@ -21,8 +21,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">Ne manquez pas la librairie du musée. Notre BD y est. En français comme en anglais !</place>
 
-<place title="Librairie La Bourse" address="8 Rue Lanterne, 69001 Lyon" website="https://librairielabourse.com/">Le temple de l'occasion… Qui fait aussi un peu de neuf. La preuve :-)</place>
-
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
 <place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Un choix de livres et de BD très éclectique. Bien plus qu'une librairie catho !</place>
@@ -233,6 +231,12 @@ image: "/images/carte-5.jpg"
 ## Loire et Haute-Loire
 
 <two-columns>
+
+<place title="Librairie de Paris" address="6 Rue Michel Rondet, 42000 Saint-Étienne" website="https://www.librairiedeparis.com/">La plus grande librairie de la ville. Indépendante depuis 60 ans. Sous les voutes, des dizaines de milliers de titres…</place>
+
+<place title="Librairie Croquelinottes" address="23 Rue de la Résistance, 42000 Saint-Étienne" website="https://www.croquelinottes.fr/">Une librairie entièrement consacrée à la jeunesse. Les Crocos craquent pour les Croquelinottes… Et la petite cabane avec des poufs pour pouvoir bouquiner loin des parents.</place>
+
+<place title="Des livres & vous" address="9 Rue Waldeck Rousseau, 42800 Rive-de-Gier" website="https://www.facebook.com/deslivresetvous/">Derrière les livres sur le bien être et les bâtons d'encens se cachent une petite pièce entièrement dédiée aux livres jeunesse. Une bonne adresse.</place>
 
 <place title="L'Hirondaine" address="10 bis rue Benoit Frachon, 42700 Firminy" website="https://www.lhirondaine.fr">Une librairie coopérative aux choix affirmés. Au fond de la boutique, un hibou vous accueille...</place>
 
