@@ -149,6 +149,8 @@ image: "/images/carte-5.jpg"
 
 <place title="U Culture & Technologie" address="95 Rue des Martinets, 69210 L'Arbresle" website="https://www.facebook.com/u.culture.technologie.larbresle/">Dans la partie librairie, ne manquez pas l'espace dédié aux auteurs et aux éditeurs locaux</place>
 
+<place title="Librairie Cassiopée" address="1 Rue Dr Burdet, 69620 Val d'Oingt" website="https://m.facebook.com/librairie.cassiopee?locale2=fr_FR">LA librairie du Bois d'Oingt. Petit plus, ici les enfants ont une salle rien que pour eux. Trop bien !</place>
+
 <place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="https://www.facebook.com/36-grande-rue-759238847455230/">Une librairie qui sait aussi défend les petits éditeurs régionaux</place>
 
 </two-columns>
