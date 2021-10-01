@@ -42,6 +42,7 @@ fields:
     maxSize: 64
   label: Document à lier (photo, image)
 pages:
+- content/press/j-adore-lyon.md
 - content/press/le-progres.md
 - content/press/magazine-elle.md
 - content/press/magazine-village.md
