@@ -250,7 +250,7 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Un monde à soi" address="12 rue Charles de Gaulle, 42300 Roanne" website="www.librairie-unmondeasoi-roanne.fr">La grande librairie de Roanne, sur deux étages</place>
+<place title="Un monde à soi" address="12 rue Charles de Gaulle, 42300 Roanne" website="www.librairie-unmondeasoi-roanne.fr">La grande librairie de Roanne, sur deux étages.</place>
 
 <place title="Le Carnet à spirales" address="63 bis Place de la Bouverie, 42190 Charlieu" website="www.librairie-lecarnetaspirales.fr">Une immense librairie toute en longueur où il faut bon flâner. Pour les conseils BD jeunesse, demandez Léa ou Anaïs</place>
 
