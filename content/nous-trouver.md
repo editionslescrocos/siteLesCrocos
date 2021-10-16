@@ -272,6 +272,6 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="13 ET 14 NOVEMBRE 2021 : LA BULLE D'OR - BRIGNAIS" address="Complexe sportif Pierre Minssieux, Bd des sports, 69530 Brignais" website="https://www.labulledor.fr/">Nous serons sur le salon tout le week-end aux côtés de la librairie LA BD. Nous proposerons également une animation pour enfants, "D'une idée, j'ai fait une BD", pour comprendre comment on passe d'une simple idée/envie à la réalisation d'un livre fini.</place>
+<place title="13 ET 14 NOVEMBRE 2021 : LA BULLE D'OR - BRIGNAIS au Complexe sportif Pierre Minssieux" address="Bd des sports, 69530 Brignais" website="https://www.labulledor.fr/">Nous serons sur le salon tout le week-end aux côtés de la librairie LA BD. Nous proposerons également une animation pour enfants, "D'une idée, j'ai fait une BD", pour comprendre comment on passe d'une simple idée/envie à la réalisation d'un livre fini.</place>
 
 </two-columns>
