@@ -272,8 +272,6 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="18 SEPTEMBRE 2021 : LIVRES PASSION TENTATION,  PUSIGNAN" address="Centre culturel l'Odyssée, 3 allée de l'Odyssée 69330 Pusignan" website="https://www.livrespassiontentation.com/">Nous serons sur le salon le samedi, aux côtés de la librairie Récit Music. Mais nos livres seront disponibles tout le week-end.</place>
-
-<place title="19 SEPTEMBRE 2021 : BD TERNAY" address="Salle du Devès, 11 Chemin du Devès, 69297 Ternay" website="https://www.facebook.com/bdternay.officiel">Un festival convivial qui promeut les auteurs de bande dessinée de la région.</place>
+<place title="13 ET 14 NOVEMBRE 2021 : LA BULLE D'OR - BRIGNAIS" address="Complexe sportif Pierre Minssieux, Bd des sports, 69530 Brignais" website="https://www.labulledor.fr/">Nous serons sur le salon tout le week-end aux côtés de la librairie LA BD. Nous proposerons également une animation pour enfants, "D'une idée, j'ai fait une BD", pour comprendre comment on passe d'une simple idée/envie à la réalisation d'un livre fini.</place>
 
 </two-columns>
