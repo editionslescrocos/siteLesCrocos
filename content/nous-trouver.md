@@ -149,9 +149,11 @@ image: "/images/carte-5.jpg"
 
 <place title="U Culture & Technologie" address="95 Rue des Martinets, 69210 L'Arbresle" website="https://www.facebook.com/u.culture.technologie.larbresle/">Dans la partie librairie, ne manquez pas l'espace dédié aux auteurs et aux éditeurs locaux</place>
 
-<place title="Librairie Cassiopée" address="1 Rue Dr Burdet, 69620 Val d'Oingt" website="https://m.facebook.com/librairie.cassiopee?locale2=fr_FR">LA librairie du Bois d'Oingt. Petit plus, ici les enfants ont une salle rien que pour eux. Trop bien !</place>
+<place title="Librairie Cassiopée" address="1 Rue Dr Burdet, 69620 Val d'Oingt" website="https://m.facebook.com/librairie.cassiopee?locale2=fr_FR">LA librairie du Bois d'Oingt. Ici, les enfants disposent d'une salle rien que pour eux.</place>
 
-<place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="https://www.facebook.com/36-grande-rue-759238847455230/">Une librairie qui sait aussi défend les petits éditeurs régionaux</place>
+<place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="www.facebook.com/librairieelizeo/">Une librairie qui défend les petits éditeurs régionaux. Plein de pépites cachées !</place>
+
+<place title="Morguelune" address="8 Rue Centrale, 69550 Amplepuis" website="https://www.librairiemorguelune.com/">Quelle chance de trouver ici une librairie spécialisée jeunesse ! On adore la déco Peter Pan et les conseils de Carole.</place>
 
 </two-columns>
 
@@ -247,6 +249,10 @@ image: "/images/carte-5.jpg"
 ## Loire et Haute-Loire
 
 <two-columns>
+
+<place title="Un monde à soi" address="12 rue Charles de Gaulle, 42300 Roanne" website="www.librairie-unmondeasoi-roanne.fr">La grande librairie de Roanne, sur deux étages</place>
+
+<place title="Le Carnet à spirales" address="63 bis Place de la Bouverie, 42190 Charlieu" website="www.librairie-lecarnetaspirales.fr">Une immense librairie toute en longueur où il faut bon flâner. Pour les conseils BD jeunesse, demandez Léa ou Anaïs</place>
 
 <place title="Librairie de Paris" address="6 Rue Michel Rondet, 42000 Saint-Étienne" website="https://www.librairiedeparis.com/">A Saint-Etienne, on défend aussi des livres sur Lyon. Bienvenue dans la plus grande librairie de la ville !</place>
 
