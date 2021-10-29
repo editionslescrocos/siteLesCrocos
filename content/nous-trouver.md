@@ -236,13 +236,15 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-## Isère
+## Nord Isère
 
 <two-columns>
 
 <place title="Bulles de Vienne" address="79 Rue Marchande, 38200 Vienne" website="https://www.facebook.com/LesBullesDeVienne">La librairie spécialisée BD de la ville. Un trèèès large choix de bulles pour la jeunesse. C'est rare et on adore !</place>
 
 <place title="Librairie Passerelles" address="22 boulevard de la République, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes rigolotes, de la papeterie et même… des disques vinyles !</place>
+
+<place title="Librairie Chemin" address="35 Rue Porcherie, 38460 Crémieu" website="https://www.facebook.com/LibrairiePaulChemin/">Ouverte en 1870, cette librairie est le plus ancien commerce de  Crémieu encore en activité ! Aujourd'hui, tout le fond du magasin est réservé aux enfants.</place>
 
 </two-columns>
 
