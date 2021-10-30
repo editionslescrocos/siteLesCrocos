@@ -38,4 +38,5 @@ fields:
   hidden: false
   default: now
 pages:
+- content/actualites/13-et-14-nov-2021-la-bulle-d-or-brignais.md
 - content/actualites/18-septembre-2021-livres-passion-tentation.md
