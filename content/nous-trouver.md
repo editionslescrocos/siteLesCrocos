@@ -23,7 +23,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
-<place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Un choix de livres et de BD très éclectique. Bien plus qu'une librairie catho !</place>
+<place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Une librairie catholique… Au choix de livres et de BD très éclectique !</place>
 
 <place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
