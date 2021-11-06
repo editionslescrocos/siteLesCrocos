@@ -127,7 +127,9 @@ image: "/images/carte-5.jpg"
 
 <place title="Récit Music" address="72 rue de la République 69740 Genas" website="https://www.recitmusic.fr/">Au milieu des livres… des guitares ! Une librairie des plus originales où Patrick réunit ses deux passions, la musique et la littérature.</place>
 
-<place title="BD & CO" address="2 av jean Moulin 69720 Saint Laurent de Mure" website="www.facebook.com/SaintLaurentdeMure">Une petite librairie entièrement consacrée à la BD, aux mangas et aux figurines, tenue par un passionné du 9e art.</place>
+<place title="BD & CO" address="2 av jean Moulin 69720 Saint Laurent de Mure" website="www.facebook.com/SaintLaurentdeMure">Une petite librairie entièrement consacrée à la BD, aux mangas et aux figurines, tenue par Patrice, un passionné du 9e art.</place>
+
+<place title="Grain de désir" address="2 Rue de la Commanderie, 69720 Saint-Bonnet-de-Mure" website="www.facebook.com/grain.de.desir/"> Dans cette toute nouvelle librairie généraliste, le plus grand rayon est consacré… à la jeunesse ! Youhou !</place>
 
 </two-columns>
 
@@ -240,9 +242,15 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
+<place title="Librairie Lucioles" address="13-15 Pl. du Palais Charles de Gaulle, 38200 Vienne" website="https://www.facebook.com/librairie.lucioles">Face au temple romain, vous ne pourrez pas la manquer. Et pour l'anecdote, c'est la 100e librairie à accueillir nos livres !</place>
+
 <place title="Bulles de Vienne" address="79 Rue Marchande, 38200 Vienne" website="https://www.facebook.com/LesBullesDeVienne">La librairie spécialisée BD de la ville. Un trèèès large choix de bulles pour la jeunesse. C'est rare et on adore !</place>
 
 <place title="Librairie Passerelles" address="22 boulevard de la République, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes rigolotes, de la papeterie et même… des disques vinyles !</place>
+
+<place title="Ma petite librairie" address="2 Place de la Halle, 38300 Bourgoin-Jallieu" website="https://www.facebook.com/Ma-Petite-Librairie-1084404028266641/">On adore le coin enfant avec ses mini chaises et sa petite table qui croule sous les bouquins.</place>
+
+<place title="La belle histoire" address="1 Rue d'Italie, 38110 La Tour-du-Pin" website="https://www.facebook.com/La-Belle-Histoire-1433376760310986/">Nicolas, le librairie, est un personnage qu'on croirait tout droit sorti d'une histoire pour enfants… On ne vous en dit pas plus.</place>
 
 <place title="Librairie Chemin" address="35 Rue Porcherie, 38460 Crémieu" website="https://www.facebook.com/LibrairiePaulChemin/">Ouverte en 1870, cette librairie est le plus ancien commerce de Crémieu en activité ! Aujourd'hui, tout le fond du magasin est réservé aux enfants.</place>
 
