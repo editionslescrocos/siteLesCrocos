@@ -129,7 +129,7 @@ image: "/images/carte-5.jpg"
 
 <place title="BD & CO" address="2 av jean Moulin 69720 Saint Laurent de Mure" website="www.facebook.com/SaintLaurentdeMure">Une petite librairie entièrement consacrée à la BD, aux mangas et aux figurines, tenue par Patrice, un passionné du 9e art.</place>
 
-<place title="Grain de désir" address="2 Rue de la Commanderie, 69720 Saint-Bonnet-de-Mure" website="www.facebook.com/grain.de.desir"> Dans cette toute nouvelle librairie généraliste, le plus grand rayon est consacré… à la jeunesse ! Youhou !</place>
+<place title="Grain de désir" address="2 Rue de la Commanderie, 69720 Saint-Bonnet-de-Mure" website="www.facebook.com/grain.de.desir"> Dans cette toute nouvelle librairie généraliste, le plus grand rayon est consacré… à la jeunesse. Youhou !</place>
 
 </two-columns>
 
