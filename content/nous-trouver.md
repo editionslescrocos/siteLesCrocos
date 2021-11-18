@@ -163,17 +163,17 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
+<place title="Le Syndrome Peter Pan" address="66 Grande Rue, 69600 Oullins" website="http://www.syndromepeterpan.fr/"> Une librairie jeunesse doublée d'un café et d'un restaurant ! A croquer.</place>
+
 <place title="Murmure des mots" address="65 avenue Clémenceau,  
 69230 Saint-Genis-Laval" website="http://www.murmuredesmots.fr">Voilà longtemps que Saint-Genis attendait sa librairie indépendante. Murmure des mots, déjà présente à Brignais, l'a fait. Foncez !</place>
 
-<place title="Le Syndrome Peter Pan" address="66 Grande Rue, 69600 Oullins" website="http://www.syndromepeterpan.fr/"> Une librairie jeunesse doublée d'un café et d'un restaurant !</place>
-
-<place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
+<place title="Murmure des mômes" address="131 rue Général de Gaulle  
+69530 Brignais" website="https://www.facebook.com/murmuredesmomes/"> Aux commandes, deux amies papivores qui dévorent Les livres pour enfants… Chez les Crocos, forcément on aime ça !</place>
 
 <place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une terrasse pour organiser des animations en extérieur</place>
 
-<place title="Murmure des mots" address="135 rue Général de Gaulle  
-69530 Brignais" website="http://www.murmuredesmots.fr"> Aux commandes, deux amies papivores qui dévorent Les livres… Chez les Crocos, forcément on aime ça !</place>
+<place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
 
 <place title="L'Encre des mariniers" address="12-18 Rue de Belfort, 69420 Condrieu" website="https://www.facebook.com/Lencre-des-Mariniers-107671174279127/">Jean-Michel aime mettre en avant les auteurs locaux. Jetez l'ancre et laissez-vous conseiller.</place>
 
