@@ -37,6 +37,8 @@ image: "/images/carte-5.jpg"
 
 <place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée… Bienvenue à bord !</place>
 
+<place title="Glénat Lyon" address="Centre commercial de la Part-Dieu, 69003 Lyon" website="https://librairielyon.glenat.com">Ne regardez pas autour de vous. Montez directement au niveau 2 du centre commercial et entrez ici. Respirez. Tout va bien, vous êtes entre de bonnes mains.</place>
+
 <place title="La Librairie du Cours" address="83 cours du docteur Long, 69003 Lyon" website="http://www.lalibrairieducours.fr/">On craque pour la table et les chaises en forme de champignon.</place>
 
 <place title="L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Etonnante librairie de quartier où les libraires parlent chinois et hongrois… Et français aussi, oui !</place>
@@ -76,6 +78,10 @@ image: "/images/carte-5.jpg"
 <place title="Inter-Fun" address="108 Rue de Sèze, 69006 Lyon" website="https://www.inter-fun.fr">Une librairie jeunesse qui propose des titres en français, mais aussi en anglais, en espagnol, en allemand et en italien. So fun !</place>
 
 <place title="La Page suivante" address="66 Rue Duguesclin, 69006 Lyon" website="https://lapagesuivante.com">Avant d'aller bouquiner au Parc de la Tête d'Or, un détour ici s'impose.</place>
+
+<place title="Les Biblios" address="34 rue Cuvier, 69006 Lyon" website="http://www.lesbiblios.com/">Une librairie généraliste avec un grand choix de livres sur la mer et le jardin. Et plein de pépites jeunesse !</place>
+
+<place title="La librairie du Parc" address="94 Boulevard des Belges, 69006 Lyon" website="https://www.facebook.com/LibrairieDuParcLyon/">Une vraie librairie de quartier à (re)découvrir. Avec des choix affirmés, comme on aime.</place>
 
 <place title="Musée d'art contemporain" address="Cité Internationale, 81 Quai Charles de Gaulle, 69006 Lyon" website="https://www.mac-lyon.com/fr">Catalogues, revues et livres d'art… Et notre BD ! On est moderne ou on ne l'est pas.</place>
 
