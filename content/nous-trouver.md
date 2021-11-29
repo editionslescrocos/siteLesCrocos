@@ -1,5 +1,5 @@
 ---
-title: Nous trouver
+title: Où trouver nos livres
 subtitle: A Lyon et ailleurs…
 description: ''
 image: "/images/carte-5.jpg"
