@@ -21,6 +21,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">Ne manquez pas la librairie du musée. Notre BD y est. En français comme en anglais !</place>
 
+<place title="Librairie à soi.e" address="16 rue Pizay 69001 Lyon" website="https://www.librairieasoie.com/">Une librairie féministe très ouverte aux coups de cœur.</place>
+
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
 <place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Une librairie catholique… Au choix de livres et de BD très éclectique !</place>
@@ -66,8 +68,6 @@ image: "/images/carte-5.jpg"
 <place title="Souvenirs de Lyon" address="8 place Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">La même équipe possède une 2e boutique. Vous comptiez vraiment quitter Lyon sans vous offrir une 2e BD ? En anglais cette fois…</place>
 
 <place title="La boutique de Fourvière" address="7 place de Fourvière, 69005 Lyon" website="https://boutiquedefourviere.com//">Montez les 345 marches de la basilique… Et offrez-vous un livre au retour pour vous reposer.</place>
-
-<place title="1000 Aventures" address="11 Cours Franklin Roosevelt, 69006 Lyon" website="https://1000aventures.com/">Des BD et des mangas du sol au plafond ! Et un accueil super sympa.</place>
 
 <place title="Le Rameau d'or" address="32 Cours Franklin Roosevelt, 69006 Lyon" website="http://www.librairie-rameaudor.com/">Une des plus anciennes librairies de Lyon, indépendante et fière de l'être.</place>
 
@@ -152,6 +152,8 @@ image: "/images/carte-5.jpg"
 <place title="Librairie 36 Grande Rue" address="36 Grande Rue, 69110 Sainte-Foy-lès-Lyon" website="https://www.facebook.com/36-grande-rue-759238847455230/"> Une caverne d'Ali Baba où les enfants sont rois !</place>
 
 <place title="Le drugstore du Barriot" address="25 Chemin de Pierre Blanche, 69570 Dardilly" website="https://www.facebook.com/Le-Drugstore-du-Barriot-112936220459760/"> Bien plus qu'un tabac-presse. Marie-Cécile adore les produits locaux. Et parmi ceux-ci, les livres ! Une adresse inattendue et un vrai sens de l'accueil.</place>
+
+<place title="Decitre Ecully" address="Centre commercial Ecully grand Ouest, 69130 Ecully" website="https://www.facebook.com/DecitreEcullyGrandOuest/">Enfin une bonne raison d'aller dans une galerie marchande !</place>
 
 <place title="Maison de la presse" address="28 rue Charles de Gaulle 69210 L'Arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/">De la presse, de la papeterie et beaucoup de livres coups de cœur</place>
 
