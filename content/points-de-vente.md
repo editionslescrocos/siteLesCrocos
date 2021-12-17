@@ -27,6 +27,8 @@ image: "/images/carte-5.jpg"
 
 <place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Une librairie catholique… Au choix de livres et de BD très éclectique !</place>
 
+<place title="Decitre Bellecour" address="29 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/Decitrebellecour">Saviez-vous que la première librairie Decitre a été créée place Bellecour en 1907 ?</place>
+
 <place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
 <place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de Lyon. Sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs vous contemplent.</place>
@@ -40,6 +42,8 @@ image: "/images/carte-5.jpg"
 <place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée… Bienvenue à bord !</place>
 
 <place title="Glénat Lyon" address="Centre commercial de la Part-Dieu, 69003 Lyon" website="https://librairielyon.glenat.com">Ne regardez pas autour de vous. Montez directement au niveau 2 du centre commercial et entrez ici. Respirez. Tout va bien, vous êtes entre de bonnes mains.</place>
+
+<place title="Decitre Part-Dieu" address="17 Rue Dr Bouchut, 69003 Lyon" website="https://www.facebook.com/DecitreLaPartDieu/?ref=hl">Tiens, une seconde bonne raison d'aller traîner dans le centre commercial…</place>
 
 <place title="La Librairie du Cours" address="83 cours du docteur Long, 69003 Lyon" website="http://www.lalibrairieducours.fr/">On craque pour la table et les chaises en forme de champignon.</place>
 
