@@ -129,9 +129,11 @@ image: "/images/carte-5.jpg"
 
 <place title="Raconte moi la terre" address="Decathlon Village, 332 Avenue Général de Gaulle, 69500 Bron" website="https://www.racontemoilaterre.com/">Venez acheter un vélo, un ballon, une raquette… Et repartez avec un livre de la librairie en face !</place>
 
+<place title="Gibert Joseph Bron" address="2 Rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie/">Immense librairie-papeterie-disquaire au cœur du Carré de Soie. Attention à ne pas vous perdre :-)</place>
+
 <place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
 
-<place title="Gibert Joseph Bron" address="2 Rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie/">Immense librairie-papeterie-disquaire au cœur du Carré de Soie. Attention à ne pas vous perdre :-)</place>
+<place title="Decitre Saint-Priest" address="1Place Charles-Ottina, 69800 Saint-Priest" website="https://www.facebook.com/decitresaintpriest">LA librairie de Saint-Priest…</place>
 
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
 
