@@ -5,7 +5,7 @@ noLink: false
 description: |-
   Nous serons sur le salon le samedi, aux côtés de la librairie Récit Music. Mais nos livres seront disponibles tout le week-end.
 
-  Plus d'infos : https://www.livrespassiontentation.com
+  https://www.livrespassiontentation.com
 image: "/images/120138570_3330790597000661_1438986519749633021_n.jpg"
 
 ---
