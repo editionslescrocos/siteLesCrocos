@@ -5,7 +5,7 @@ noLink: false
 description: |-
   Venez nous rencontrer sur le stand de la librairie La Folle Aventure. Une petite dédicace ?
 
-  Plus d'infos : https://www.facebook.com/SALONduLIVREdeTREVOUX/
+  https://www.facebook.com/SALONduLIVREdeTREVOUX/
 image: "/images/trevoux-1.jpg"
 
 ---
