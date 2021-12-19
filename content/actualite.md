@@ -1,6 +1,6 @@
 ---
 title: Actualité
-subtitle: ''
+subtitle: Des salons, des dédicaces, des animations…
 description: ''
 image: ''
 
