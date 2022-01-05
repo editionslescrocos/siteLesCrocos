@@ -131,8 +131,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Gibert Joseph Bron" address="2 Rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie/">Immense librairie-papeterie-disquaire au cœur du Carré de Soie. Attention à ne pas vous perdre :-)</place>
 
-<place title="Coopérative Prairial" address="10 rue des Droits de l'Homme, 69120 Vaulx-en-Velin" website="https://www.prairial.fr/"> Faites vos courses bio et achetez local… Y compris des livres.</place>
-
 <place title="Decitre Saint-Priest" address="1Place Charles-Ottina, 69800 Saint-Priest" website="https://www.facebook.com/decitresaintpriest">LA librairie de Saint-Priest…</place>
 
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
@@ -292,13 +290,5 @@ image: "/images/carte-5.jpg"
 <place title="Interlude" address="4 Rue Porte-Aiguière, 43000 Le Puy en Velay" website="https://www.canalbd.net/interlude">La librairie BD du Puy. Demandez Maxime qui a bien aidé à mettre nos 3 cigognes en route...</place>
 
 <place title="L'Arbre à livres" address="47 rue Saint-Jacques, 43000 Le Puy en Velay" website="https://librairie-larbre-a-livres.business.site"> Cette librairie toute en longueur ressemble à une traboule et ce n'est pas un hasard. Elle est tenue par Thibaut, un ancien Lyonnais qui a migré au Puy il y a 20 ans et n'en est plus jamais reparti... </place>
-
-</two-columns>
-
-## Salons et festivals
-
-<two-columns>
-
-<place title="13 ET 14 NOVEMBRE 2021 : LA BULLE D'OR - BRIGNAIS au Complexe sportif Pierre Minssieux" address="Bd des sports, 69530 Brignais" website="https://www.labulledor.fr/">Nous serons sur le salon tout le week-end aux côtés de la librairie LA BD. Nous proposerons également une animation pour enfants, "D'une idée, j'ai fait une BD", pour comprendre comment on passe d'une simple idée/envie à la réalisation d'un livre fini.</place>
 
 </two-columns>
