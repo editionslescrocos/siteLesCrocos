@@ -157,13 +157,13 @@ image: "/images/carte-5.jpg"
 
 <place title="Decitre Ecully" address="Centre commercial Ecully grand Ouest, 69130 Ecully" website="https://www.facebook.com/DecitreEcullyGrandOuest/">Enfin une bonne raison d'aller dans une galerie marchande !</place>
 
-<place title="Maison de la presse" address="28 rue Charles de Gaulle 69210 L'Arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/">De la presse, de la papeterie et beaucoup de livres coups de cœur</place>
+<place title="Maison de la presse" address="28 rue Charles de Gaulle 69210 L'Arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/">De la presse, de la papeterie et des livres coups de cœur en plein centre de l'Arbresle.</place>
 
 <place title="U Culture & Technologie" address="95 Rue des Martinets, 69210 L'Arbresle" website="https://www.facebook.com/u.culture.technologie.larbresle/">Dans la partie librairie, ne manquez pas l'espace dédié aux auteurs et aux éditeurs locaux</place>
 
-<place title="Librairie Cassiopée" address="1 Rue Dr Burdet, 69620 Val d'Oingt" website="https://m.facebook.com/librairie.cassiopee?locale2=fr_FR">LA librairie du Bois d'Oingt. Ici, les enfants disposent d'une salle rien que pour eux.</place>
+<place title="Librairie Cassiopée" address="1 Rue Dr Burdet, 69620 Val d'Oingt" website="https://m.facebook.com/librairie.cassiopee?locale2=fr_FR">LA librairie du Bois d'Oingt. Les enfants disposent d'une salle rien que pour eux.</place>
 
-<place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="www.facebook.com/librairieelizeo/">Une librairie qui défend les petits éditeurs régionaux. Plein de pépites cachées !</place>
+<place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="www.facebook.com/librairieelizeo/">Cette librairie défend les petits éditeurs régionaux. Plein de pépites cachées…</place>
 
 <place title="Morguelune" address="8 Rue Centrale, 69550 Amplepuis" website="https://www.librairiemorguelune.com/">Quelle chance de trouver ici une librairie spécialisée jeunesse ! On adore la déco Peter Pan et les conseils de Carole.</place>
 
@@ -173,15 +173,15 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Le Syndrome Peter Pan" address="66 Grande Rue, 69600 Oullins" website="http://www.syndromepeterpan.fr/"> Une librairie jeunesse doublée d'un café et d'un restaurant ! A croquer.</place>
+<place title="Le Syndrome Peter Pan" address="66 Grande Rue, 69600 Oullins" website="http://www.syndromepeterpan.fr/"> Une librairie jeunesse doublée d'un café et d'un restaurant. A croquer.</place>
 
 <place title="Murmure des mots" address="65 avenue Clémenceau,  
-69230 Saint-Genis-Laval" website="http://www.murmuredesmots.fr">Voilà longtemps que Saint-Genis attendait sa librairie indépendante. Murmure des mots, déjà présente à Brignais, l'a fait. Foncez !</place>
+69230 Saint-Genis-Laval" website="http://www.murmuredesmots.fr">Saint-Genis attendait sa librairie indépendante depuis longtemps. Murmure des mots, déjà présente à Brignais, l'a fait. Foncez !</place>
 
 <place title="Murmure des mômes" address="131 rue Général de Gaulle  
-69530 Brignais" website="https://www.facebook.com/murmuredesmomes/"> Aux commandes, deux amies papivores qui dévorent Les livres pour enfants… Chez les Crocos, forcément on aime ça !</place>
+69530 Brignais" website="https://www.facebook.com/murmuredesmomes/"> Aux commandes, deux amies papivores qui dévorent Les livres pour enfants… Chez les Crocos, forcément on aime ça</place>
 
-<place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une terrasse pour organiser des animations en extérieur</place>
+<place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une belle terrasse pour organiser des animations en extérieur</place>
 
 <place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
 
@@ -199,9 +199,9 @@ image: "/images/carte-5.jpg"
 
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
-<place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Demandez Sarah, elle connaît notre BD par cœur.</place>
+<place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Les deux points forts de cette librairie : la BD et la jeunesse… Avouez que ça tombe plutôt bien !</place>
 
-<place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société, grande spécialité de la boutique.</place>
+<place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société, spécialité de la boutique.</place>
 
 <place title="L'Epimont" address="166 Route de la Rivière, 69250 Poleymieux-au-Mont-d'Or" website="https://www.facebook.com/lepimont/">Bien plus qu'une épicerie. Testez le café et le coin lecture et repartez avec un livre.</place>
 
