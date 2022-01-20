@@ -129,8 +129,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Raconte moi la terre" address="Decathlon Village, 332 Avenue Général de Gaulle, 69500 Bron" website="https://www.racontemoilaterre.com/">Venez acheter un vélo, un ballon, une raquette… Et repartez avec un livre de la librairie en face !</place>
 
-<place title="Gibert Joseph Bron" address="2 Rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie/">Immense librairie-papeterie-disquaire au cœur du Carré de Soie. Attention à ne pas vous perdre :-)</place>
-
 <place title="Decitre Saint-Priest" address="1Place Charles-Ottina, 69800 Saint-Priest" website="https://www.facebook.com/decitresaintpriest">LA librairie de Saint-Priest…</place>
 
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
@@ -288,7 +286,5 @@ image: "/images/carte-5.jpg"
 <place title="L'Hirondaine" address="10 bis rue Benoit Frachon, 42700 Firminy" website="https://www.lhirondaine.fr">Une librairie coopérative aux choix affirmés. Au fond de la boutique, un hibou vous accueille...</place>
 
 <place title="Interlude" address="4 Rue Porte-Aiguière, 43000 Le Puy en Velay" website="https://www.canalbd.net/interlude">La librairie BD du Puy. Demandez Maxime qui a bien aidé à mettre nos 3 cigognes en route...</place>
-
-<place title="L'Arbre à livres" address="47 rue Saint-Jacques, 43000 Le Puy en Velay" website="https://librairie-larbre-a-livres.business.site"> Cette librairie toute en longueur ressemble à une traboule et ce n'est pas un hasard. Elle est tenue par Thibaut, un ancien Lyonnais qui a migré au Puy il y a 20 ans et n'en est plus jamais reparti... </place>
 
 </two-columns>
