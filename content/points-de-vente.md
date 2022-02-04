@@ -37,7 +37,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse.</place>
 
-<place title="Decitre Confluence" address="Pôle de Commerce et de Loisirs, 112 Cours Charlemagne, 69002 Lyon" website="www.facebook.com/DecitreConfluence/">Le commerce essentiel du centre commercial…</place>
+<place title="Decitre Confluence" address="112 Cours Charlemagne, 69002 Lyon" website="https://www.facebook.com/DecitreConfluence/">Le commerce essentiel du centre commercial…</place>
 
 <place title="Musée des Confluences" address="86 Quai Perrache, 69002 Lyon" website="https://www.museedesconfluences.fr">Le premier musée de France en termes de fréquentation, hors Paris ! Profitez-en aussi pour visiter la librairie…</place>
 
