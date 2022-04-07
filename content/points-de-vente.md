@@ -239,7 +239,9 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Montbarbon" address="14 Place Carriat, 01000 Bourg-en-Bresse" website="https://www.montbarbon.com/"> Une immense librairie sur deux niveaux, installée dans un ancien relais de poste du 19e siècle. 50 000 titres disponibles…</place>
 
-<place title="Librairie du théâtre Zannini" address="8 Cours de Verdun, 01000 Bourg-en-Bresse" website="https://www.librairiedutheatre.fr/">Vous cherchez le théâtre ? Hum, le bâtiment en face de la librairie Zannini…</place>
+<place title="Librairie du théâtre Zannini" address="8 Cours de Verdun, 01000 Bourg-en-Bresse" website="https://domino-vld.fr">Vous cherchez le théâtre ? Hum, le bâtiment en face de la librairie Zannini…</place>
+
+<place title="Librairie Domino" address="132 Rue Gilbert Boullier, 01330 Villars-les-Dombes" website="https://www.librairiedutheatre.fr/">Autrefois, Rebecca tenait une pharmacie… Mais il n'y a pas meilleurs médicaments que les livres !</place>
 
 <place title="La nouvelle page" address="2 rue pasteur, 01400 Châtillon-sur-Chalaronne" website="https://www.facebook.com/La-Nouvelle-Page-439641209798963/">Visitez la petite salle dédiée aux enfants au fond de la boutique, véritable grotte remplie de livres et de jeux !</place>
 
