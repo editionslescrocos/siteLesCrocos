@@ -219,13 +219,15 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-## Beaujolais-Mâconnais
+## Beaujolais-Mâconnais-Clunisois
 
 <two-columns>
 
 <place title="Les lettres minuscules" address="299 Rue de la République, 69430 Beaujeu" website="https://www.facebook.com/lettres.minuscules/">Pas d'autre librairie à 30 km à la ronde… Pas grave, celle-ci a tout pour plaire. De l'occasion, du neuf, des animations et même un mini salon de thé… Que du bonheur !</place>
 
 <place title="Le Cadran lunaire" address="27 Rue Franche, 71000 Mâcon" website="https://www.cadran-lunaire.fr/">La petite librairie jaune fait une large place à la jeunesse… Et aux découvertes !</place>
+
+<place title="Le Jardin secret" address="18 Rue Lamartine, 71250 Cluny" website="https://www.facebook.com/Le-Jardin-Secret-101152039017432">Une nouvelle équipe aux commandes de la librairie de Cluny… Avec en prime un salon de thé !</place>
 
 </two-columns>
 
