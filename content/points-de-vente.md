@@ -157,6 +157,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Le drugstore du Barriot" address="25 Chemin de Pierre Blanche, 69570 Dardilly" website="https://www.facebook.com/Le-Drugstore-du-Barriot-112936220459760/"> Bien plus qu'un tabac-presse. Marie-Cécile adore les produits locaux. Et parmi ceux-ci, les livres ! Une adresse inattendue et un vrai sens de l'accueil.</place>
 
+<place title="Tabac presse de Saint-Didier" address="47 Av. de la République, 69370 Saint-Didier-au-Mont-d'Or"> Encore un tabac-presse où l'on aime beaucoup, mais alors beaucoup les livres. Au point de leur consacrer la moitié du magasin !</place>
+
 <place title="Decitre Ecully" address="Centre commercial Ecully grand Ouest, 69130 Ecully" website="https://www.facebook.com/DecitreEcullyGrandOuest/">Enfin une bonne raison d'aller dans une galerie marchande !</place>
 
 <place title="Maison de la presse" address="28 rue Charles de Gaulle 69210 L'Arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/">De la presse, de la papeterie et des livres coups de cœur en plein centre de l'Arbresle.</place>
