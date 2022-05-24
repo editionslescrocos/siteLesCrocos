@@ -221,7 +221,7 @@ image: "/images/carte-5.jpg"
 
 </two-columns>
 
-## Beaujolais-Mâconnais-Clunisois
+## Beaujolais-Sud Bourgogne
 
 <two-columns>
 
@@ -229,7 +229,9 @@ image: "/images/carte-5.jpg"
 
 <place title="Le Cadran lunaire" address="27 Rue Franche, 71000 Mâcon" website="https://www.cadran-lunaire.fr/">La petite librairie jaune fait une large place à la jeunesse… Et aux découvertes !</place>
 
-<place title="Le Jardin secret" address="18 Rue Lamartine, 71250 Cluny" website="https://www.facebook.com/Le-Jardin-Secret-101152039017432">Une nouvelle équipe aux commandes de la librairie de Cluny… Avec en prime un salon de thé !</place>
+<place title="Decitre Crêches-sur-Saône" address="Centre commercial les Bouchardes, D906, 71680 Crêches-sur-Saône" website="https://www.facebook.com/decitrecrechessursaone/">Mais non, tout n'est pas à jeter dans les centres commerciaux ! Il y aussi de vraies librairies, qui aiment et défendent les auteurs locaux.</place>
+
+<place title="Le Jardin secret" address="18 Rue Lamartine, 71250 Cluny" website="https://www.facebook.com/Le-Jardin-Secret-101152039017432">La librairie de Cluny a changé de nom et de décor. Elle s'est aussi dotée d'un sympathique salon de thé.</place>
 
 </two-columns>
 
