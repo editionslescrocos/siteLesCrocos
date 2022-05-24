@@ -35,6 +35,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Gibert Joseph" address="3 Quai du Dr Gailleton, 69002 Lyon" website="https://www.facebook.com/GibertLibrairieLyon/">Très grande librairie sur trois rues. La partie BD est accessible par le quai.</place>
 
+<place title="Librairie Adrienne" address="70 Rue de la Charité, 69002 Lyon" website="https://librairie-adrienne.com/">Le nom fait référence à Adrienne Monnier, l'une des premières femmes à avoir créé une librairie en France. Généraliste et conviviale, la librairie Adrienne possède également un petit salon de thé.</place>
+
 <place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse.</place>
 
 <place title="Decitre Confluence" address="112 Cours Charlemagne, 69002 Lyon" website="https://www.facebook.com/DecitreConfluence/">Le commerce essentiel du centre commercial…</place>
