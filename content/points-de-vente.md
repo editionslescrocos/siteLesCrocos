@@ -89,8 +89,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Les Biblios" address="34 rue Cuvier, 69006 Lyon" website="http://www.lesbiblios.com/">Une librairie généraliste avec un grand choix de livres sur la mer et le jardin. Et plein de pépites jeunesse !</place>
 
-<place title="La librairie du Parc" address="94 Boulevard des Belges, 69006 Lyon" website="https://www.facebook.com/LibrairieDuParcLyon/">Une vraie librairie de quartier à (re)découvrir. Avec des choix affirmés, comme on aime.</place>
-
 <place title="Musée d'art contemporain" address="Cité Internationale, 81 Quai Charles de Gaulle, 69006 Lyon" website="https://www.mac-lyon.com/fr">Catalogues, revues et livres d'art… Et notre BD ! On est moderne ou on ne l'est pas.</place>
 
 <place title="La BéDétik" address="9 Avenue Jean Jaurès, 69007 Lyon" website="https://www.canalbd.net/bedetik">Plus vaste, plus lumineuse et encore mieux achalandée… Venez tester la nouvelle adresse.</place>
@@ -192,8 +190,6 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une belle terrasse pour organiser des animations en extérieur</place>
 
 <place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
-
-<place title="L'Encre des mariniers" address="12-18 Rue de Belfort, 69420 Condrieu" website="https://www.facebook.com/Lencre-des-Mariniers-107671174279127/">Jean-Michel aime mettre en avant les auteurs locaux. Jetez l'ancre et laissez-vous conseiller.</place>
 
 </two-columns>
 
