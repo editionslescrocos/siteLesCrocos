@@ -171,6 +171,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Morguelune" address="8 Rue Centrale, 69550 Amplepuis" website="https://www.librairiemorguelune.com/">Quelle chance de trouver ici une librairie spécialisée jeunesse ! On adore la déco Peter Pan et les conseils de Carole.</place>
 
+<place title="Mots et merveilles" address="194 Grande Rue, 69610 Sainte-Foy-l'Argentière" website="https://www.facebook.com/LibrairieMotsetMerveilles">Des livres, de la papeterie, des jeux de société… Une boutique tout en un !</place>
+
 </two-columns>
 
 ## Sud de Lyon
