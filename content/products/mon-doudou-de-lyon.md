@@ -11,3 +11,13 @@ images: []
 invoiceInfos: ''
 
 ---
+Pour retrouver son doudou, un petit ours est prêt à tout. Y compris s'embarquer à dos de pigeon pour survoler Lyon...
+
+* Auteurs : Alexandra Horvath et Stéphane Perraud
+* Dessinateur : Thomas Bourgeois
+* 56 pages
+* Age : 3-5 ans
+* Couverture cartonnée
+* Format : 26,3 cm x 20,3 cm
+* ISBN : 978-2-9576966-2-8
+* Date de parution : juillet 2022
