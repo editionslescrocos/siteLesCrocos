@@ -265,10 +265,6 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Librairie Lucioles" address="13-15 Pl. du Palais Charles de Gaulle, 38200 Vienne" website="https://www.facebook.com/librairie.lucioles">Face au temple romain, vous ne pourrez pas la manquer. Et pour l'anecdote, c'est la 100e librairie à accueillir nos livres !</place>
-
-<place title="Bulles de Vienne" address="79 Rue Marchande, 38200 Vienne" website="https://www.facebook.com/LesBullesDeVienne">La librairie spécialisée BD de la ville. Un trèèès large choix de bulles pour la jeunesse. C'est rare et on adore !</place>
-
 <place title="Librairie Passerelles" address="22 boulevard de la République, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes rigolotes, de la papeterie et même… des disques vinyles !</place>
 
 <place title="Ma petite librairie" address="2 Place de la Halle, 38300 Bourgoin-Jallieu" website="https://www.facebook.com/Ma-Petite-Librairie-1084404028266641/">On adore le coin enfant avec ses mini chaises et sa petite table qui croule sous les bouquins.</place>
