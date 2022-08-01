@@ -99,7 +99,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Damn Fine Bookstore" address="20 Rue Bechevelin, 69007 Lyon" website="https://damnfinebookstore.com/">Une librairie internationale, avec des livres en anglais, allemand, italien, espagnol et portugais + un coffee shop. The place to be !</place>
 
-<place title="Vagalume" address="38 Place des Pavillons, 69007 Lyon" website="http://librairie-vagalume.com/">Il manquait clairement une librairie dans le quartier de Gerland. C'est réparé. Vagalume est spécialisée dans la jeunesse et propose un espace café très sympa !</place>
+<place title="Vagalume" address="38 Place des Pavillons, 69007 Lyon" website="http://librairie-vagalume.com/">Il manquait  une librairie à Gerland. C'est réparé. Vagalume est spécialisée dans la jeunesse et propose un espace café très sympa. Pour éclairer votre lanterne, vagalume signifie "ver luisant" en portugais…</place>
 
 <place title="Librairie de la place" address="12 place Ambroise Courtois , 69008 Lyon" website="https://www.facebook.com/librairiedelaplace.fr">On aime venir y dénicher un livre de voyage et bien sûr… Des livres jeunesse !</place>
 
