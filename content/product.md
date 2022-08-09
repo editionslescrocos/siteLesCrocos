@@ -3,7 +3,8 @@ title: Nos livres
 subtitle: ''
 description: Vous pouvez touver nos livres en librairie ou les commander directement
   sur notre site Internet. Quel que soit le nombre d'ouvrages commandés, la participation
-  aux frais de port est un montant forfaitaire de 3,50 euros.
+  aux frais de port est un montant forfaitaire de 3,50 euros. COMMANDES SUSPENDUES
+  DU MARDI 9 AOUT AU MARDI 30 AOUT EN RAISON DES CONGES D'ETE. MERCI DE VOTRE COMPREHENSION
 
 ---
 ## Voici nos supers livres
