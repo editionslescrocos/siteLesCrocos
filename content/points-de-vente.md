@@ -189,6 +189,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Lulu" address="7 Av. du Souvenir, 69440 Mornant" website="https://www.librairielulu.fr/"> Un vrai commerce de proximité, avec une belle terrasse pour organiser des animations en extérieur</place>
 
+<place title="Un tout p'tit monde" address="9 place du Maréchal Foch 69630 Chaponost" website="https://www.facebook.com/librairieuntoutptitmonde/">Enfin une librairie à Chaponost ! Pour les conseils, demandez Alexandra.</place>
+
 <place title="Les Cocottes rousses" address="3 Place du Marché, 69360 Saint-Symphorien-d'Ozon" website="https://librairie-lescocottes.fr/"> Une petite librairie pleine à craquer, qui propose en plus des jeux de société. L'été, les livres sortent sur la terrasse.</place>
 
 </two-columns>
