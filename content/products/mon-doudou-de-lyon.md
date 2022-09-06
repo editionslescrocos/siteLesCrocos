@@ -10,6 +10,7 @@ image: ''
 images:
 - "/images/mon-doudou-de-lyon-extrait.pdf"
 - "/images/mon-doudou-de-lyon-extrait.pdf"
+- "/images/mon-doudou-de-lyon-extrait.pdf"
 invoiceInfos: ''
 
 ---
