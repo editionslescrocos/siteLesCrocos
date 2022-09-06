@@ -7,7 +7,9 @@ weight: 600
 title: Mon Doudou de Lyon
 imageProduct: "/images/couv_pers_doudou.jpg"
 image: ''
-images: []
+images:
+- "/images/mon-doudou-de-lyon-extrait.pdf"
+- "/images/mon-doudou-de-lyon-extrait.pdf"
 invoiceInfos: ''
 
 ---
