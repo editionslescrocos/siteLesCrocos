@@ -259,8 +259,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Blanche-Neige" address="Centre commercial du Bugey, 01500 Ambérieu-en-Bugey" website="https://www.facebook.com/Librairie-Blanche-Neige-665679453619796/">Ici, on soutient les auteurs et les éditeurs régionaux. Raison de plus pour s'y arrêter</place>
 
-<place title="Librairie Ex Libris" address="19 Rue Pasteur, 01150 Lagnieu" website="https://www.facebook.com/Librairie-Ex-Libris-561256540701736/">Un joli lieu tout en pierres. Lionel, le gérant, est un passionné</place>
-
 <place title="Librairie Célestine" address="9 rue Pierre Bernin 01800 Meximieux" website="https://www.facebook.com/librairiecelestine/posts/101990475633670/">Meximieux a enfin sa librairie, en lieu et place d'un constructeur immobilier… Les habitants sont gagnants ! Nous aussi</place>
 
 </two-columns>
@@ -274,8 +272,6 @@ image: "/images/carte-5.jpg"
 <place title="Ma petite librairie" address="2 Place de la Halle, 38300 Bourgoin-Jallieu" website="https://www.facebook.com/Ma-Petite-Librairie-1084404028266641/">On adore le coin enfant avec ses mini chaises et sa petite table qui croule sous les bouquins.</place>
 
 <place title="La belle histoire" address="1 Rue d'Italie, 38110 La Tour-du-Pin" website="https://www.facebook.com/La-Belle-Histoire-1433376760310986/">Nicolas, le libraire, est un personnage qu'on croirait tout droit sorti d'une histoire pour enfants… On ne vous en dit pas plus.</place>
-
-<place title="Librairie Chemin" address="35 Rue Porcherie, 38460 Crémieu" website="https://www.facebook.com/LibrairiePaulChemin/">Ouverte en 1870, cette librairie est le plus ancien commerce de Crémieu en activité ! Aujourd'hui, tout le fond du magasin est réservé aux enfants.</place>
 
 </two-columns>
 
