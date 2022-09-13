@@ -223,7 +223,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Develay" address="1012 Rue nationale, 69400 Villefranche-sur-Saône" website="https://ebook-develay.net/"> Des livres, de la papeterie, des jeux, des jouets… Un vaste lieu pour se faire plaisir</place>
 
-<place title="Myrtille" address="589 Rue nationale, 69400 Villefranche-sur-Saône" website="www.myrtillejouet.fr/">On vient d'abord ici chercher un jeu ou un jouet… Mais on peut aussi repartir avec un livre !</place>
+<place title="Myrtille" address="589 Rue nationale, 69400 Villefranche-sur-Saône" website="https://www.facebook.com/myrtillejouet">On vient d'abord ici chercher un jeu ou un jouet… Mais on peut aussi repartir avec un livre !</place>
 
 </two-columns>
 
