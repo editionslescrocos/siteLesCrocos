@@ -285,18 +285,12 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Un monde à soi" address="12 rue Charles de Gaulle, 42300 Roanne" website="www.librairie-unmondeasoi-roanne.fr">La grande librairie de Roanne, sur deux étages.</place>
-
-<place title="Le Carnet à spirales" address="63 bis Place de la Bouverie, 42190 Charlieu" website="www.librairie-lecarnetaspirales.fr">Une immense librairie toute en longueur où il faut bon flâner. Pour les conseils BD jeunesse, demandez Léa ou Anaïs</place>
+<place title="Des livres & vous" address="9 Rue Waldeck Rousseau, 42800 Rive-de-Gier" website="https://www.facebook.com/deslivresetvous/">Derrière les livres sur le bien être et les bâtons d'encens se cachent une petite pièce entièrement dédiée aux livres jeunesse. Une bonne adresse.</place>
 
 <place title="Librairie de Paris" address="6 Rue Michel Rondet, 42000 Saint-Étienne" website="https://www.librairiedeparis.com/">A Saint-Etienne, on défend aussi des livres sur Lyon. Bienvenue dans la plus grande librairie de la ville !</place>
 
-<place title="Librairie Croquelinottes" address="23 Rue de la Résistance, 42000 Saint-Étienne" website="https://www.croquelinottes.fr/">Les Crocos craquent pour les Croquelinottes… Une librairie entièrement consacrée à la jeunesse, avec une petite cabane pour bouquiner loin des parents.</place>
+<place title="Librairie Croquelinottes" address="23 Rue de la Résistance, 42000 Saint-Étienne" website="https://www.croquelinottes.fr/">Les Crocos craquent pour les Croquelinottes : une librairie jeunesse avec une cabane pour bouquiner loin des parents.</place>
 
-<place title="Des livres & vous" address="9 Rue Waldeck Rousseau, 42800 Rive-de-Gier" website="https://www.facebook.com/deslivresetvous/">Derrière les livres sur le bien être et les bâtons d'encens se cachent une petite pièce entièrement dédiée aux livres jeunesse. Une bonne adresse.</place>
-
-<place title="L'Hirondaine" address="10 bis rue Benoit Frachon, 42700 Firminy" website="https://www.lhirondaine.fr">Une librairie coopérative aux choix affirmés. Au fond de la boutique, un hibou vous accueille...</place>
-
-<place title="Interlude" address="4 Rue Porte-Aiguière, 43000 Le Puy en Velay" website="https://www.canalbd.net/interlude">La librairie BD du Puy. Demandez Maxime qui a bien aidé à mettre nos 3 cigognes en route...</place>
+<place title="Interlude" address="4 Rue Porte-Aiguière, 43000 Le Puy en Velay" website="https://www.canalbd.net/interlude">La librairie BD du Puy. Demandez Maxime qui a bien aidé à l'envol de nos 3 cigognes...</place>
 
 </two-columns>
