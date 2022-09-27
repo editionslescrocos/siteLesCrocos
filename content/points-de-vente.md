@@ -139,6 +139,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Récit Music" address="72 rue de la République 69740 Genas" website="https://www.recitmusic.fr/">Au milieu des livres… des guitares ! Une librairie des plus originales où Patrick réunit ses deux passions, la musique et la littérature.</place>
 
+<place title="Le P'tit Chassieu" address="2 Rue Louis Pergaud 69680 Chassieu" website="https://www.facebook.com/Le-Ptit-Chassieu-101755755538552/">Un café-presse-librairie… Et beaucoup plus encore : un lieu de vie !</place>
+
 <place title="BD & CO" address="2 av jean Moulin 69720 Saint Laurent de Mure" website="www.facebook.com/SaintLaurentdeMure">Une petite librairie entièrement consacrée à la BD, aux mangas et aux figurines, tenue par Patrice, un passionné du 9e art.</place>
 
 <place title="Grain de désir" address="2 Rue de la Commanderie, 69720 Saint-Bonnet-de-Mure" website="https://www.facebook.com/grain.de.desir/"> Dans cette toute nouvelle librairie généraliste, le plus grand rayon est consacré… à la jeunesse. Youhou !</place>
@@ -182,6 +184,8 @@ image: "/images/carte-5.jpg"
 <two-columns>
 
 <place title="Le Syndrome Peter Pan" address="66 Grande Rue, 69600 Oullins" website="http://www.syndromepeterpan.fr/"> Une librairie jeunesse doublée d'un café et d'un restaurant. A croquer.</place>
+
+<place title="BD Oullins" address="3 passage de la Ville, 69600 Oullins" website="https://www.facebook.com/profile.php?id=100081033263837"> Une nouvelle librairie BD en plein centre d'Oullins avec un joli rayon jeunesse.</place>
 
 <place title="Murmure des mots" address="65 avenue Clémenceau,  
 69230 Saint-Genis-Laval" website="http://www.murmuredesmots.fr">Saint-Genis attendait sa librairie indépendante depuis longtemps. Murmure des mots, déjà présente à Brignais, l'a fait. Foncez !</place>
