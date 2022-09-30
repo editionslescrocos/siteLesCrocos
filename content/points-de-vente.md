@@ -211,6 +211,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Mystère et boule de gomme" address="Rue du Mont-d'Or, 69450 Saint-Cyr-au-Mont-d'Or" website="http://mystereetbouledegomme.fr/"> LA librairie de Saint-Cyr. On y trouve nos livres en français comme en anglais.</place>
 
+<place title="Tabac-presse des Monts d'Or" address="7Place de Verdun 69250 Albigny sur Saone" website="">On trouve un étonnant rayon de livres consacrés au territoire dans ce commerce de proximité.</place>
+
 <place title="La Maison jaune" address="37 rue de la République, 69250 Neuville-sur-Saône" website="https://www.maisonjaune.fr/">Les deux points forts de cette librairie : la BD et la jeunesse… Avouez que ça tombe plutôt bien !</place>
 
 <place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société, spécialité de la boutique.</place>
@@ -252,10 +254,6 @@ image: "/images/carte-5.jpg"
 <place title="Le Petit boudoir" address="1009 Grande Rue, 01700 Miribel" website="https://www.facebook.com/LePetitBoudoir.Miribel/">Des idées cadeaux, des bijoux locaux, de jolis carnets, des trousses colorées… Le tout 100 % made in France. Nos livres n'ont pas atterri là par hasard.</place>
 
 <place title="La Folle Aventure" address="3 Grande rue, 01600 Trévoux" website="https://www.librairie-la-folle-aventure.fr">Une librairie géniale, fondée par un collectif d'habitants. Aux manettes : Audrey.</place>
-
-<place title="Librairie Montbarbon" address="14 Place Carriat, 01000 Bourg-en-Bresse" website="https://www.montbarbon.com/"> Une immense librairie sur deux niveaux, installée dans un ancien relais de poste du 19e siècle. 50 000 titres disponibles…</place>
-
-<place title="Librairie du théâtre Zannini" address="8 Cours de Verdun, 01000 Bourg-en-Bresse" website="https://domino-vld.fr">Vous cherchez le théâtre ? Hum, le bâtiment en face de la librairie Zannini…</place>
 
 <place title="Librairie Domino" address="132 Rue Gilbert Boullier, 01330 Villars-les-Dombes" website="https://domino-vld.fr/">Autrefois, Rebecca tenait une pharmacie… Existe-t-il meilleur médicament qu'un livre ?</place>
 
