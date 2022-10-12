@@ -187,7 +187,7 @@ image: "/images/carte-5.jpg"
 
 <place title="BD Oullins" address="3 passage de la Ville, 69600 Oullins" website="https://www.facebook.com/profile.php?id=100081033263837"> Une nouvelle librairie BD en plein centre d'Oullins avec un joli rayon jeunesse.</place>
 
-<place title="Spirale" address="162 Grande Rue, 69600 Oullins" website="http://www.librairiespirale.com/> La librairie historique d'Oullins. Demandez Cécile ou Florence.</place>
+<place title="Spirale" address="162 Grande Rue, 69600 Oullins" website="http://www.librairiespirale.com/> La librairie historique d'Oullins. Demandez Cécile ou Florence</place>
 
 <place title="Murmure des mots" address="65 avenue Clémenceau,  
 69230 Saint-Genis-Laval" website="http://www.murmuredesmots.fr">Saint-Genis attendait sa librairie indépendante depuis longtemps. Murmure des mots, déjà présente à Brignais, l'a fait. Foncez !</place>
