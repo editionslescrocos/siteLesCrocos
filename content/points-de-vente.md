@@ -133,7 +133,9 @@ image: "/images/carte-5.jpg"
 
 <place title="Raconte moi la terre" address="Decathlon Village, 332 Avenue Général de Gaulle, 69500 Bron" website="https://www.racontemoilaterre.com/">Venez acheter un vélo, un ballon, une raquette… Et repartez avec un livre de la librairie en face !</place>
 
-<place title="Decitre Saint-Priest" address="1Place Charles-Ottina, 69800 Saint-Priest" website="https://www.facebook.com/decitresaintpriest">LA librairie de Saint-Priest…</place>
+<place title="Cultura Saint-Priest" address="Bd André Bouloche, 69800 Saint-Priest" website="https://www.cultura.com/les-magasins/cultura-saint-priest.html">On trouve désormais des livres à la place d'un célèbre magasin de meubles suédois…</place>
+
+<place title="Decitre Saint-Priest" address="1Place Charles-Ottina, 69800 Saint-Priest" website="https://www.facebook.com/decitresaintpriest">Enfin une librairie en plein centre de Saint-Priest !</place>
 
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
 
