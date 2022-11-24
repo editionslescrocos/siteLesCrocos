@@ -155,6 +155,10 @@ image: "/images/carte-5.jpg"
 
 <place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie lumineuse où l'on se sent très vite comme à la maison.</place>
 
+<place title="La Puce à l'oreille" address="1à rue Benoît Talbard, 69130 Ecully" website="https://www.facebook.com/LibrairiePleineLune/"> Un magasin de jeux et de jouets qui propose aussi un rayon livres bien fourni. Avec les super conseils de Clémentine et Gaëtane.</place>
+
+<place title="Decitre Ecully" address="Centre commercial Ecully grand Ouest, 69130 Ecully" website="https://www.facebook.com/DecitreEcullyGrandOuest/">Enfin une bonne raison d'aller dans une galerie marchande !</place>
+
 <place title="Les Cultures Papier" address="102 Rte de Paris, 69260 Charbonnières-les-Bains" website="https://www.facebook.com/LesCulturesPapier/"> De la presse, de la papeterie, des jeux… Et de plus en plus de livres !</place>
 
 <place title="Le Jardin des lettres" address="87 Avenue Edouard Millaud, 69290 Craponne" website="https://www.jardin-des-lettres.fr/"> Ici poussent en permanence de nouveaux livres pour petits et grands enfants…</place>
@@ -165,8 +169,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Tabac presse de Saint-Didier" address="47 Av. de la République, 69370 Saint-Didier-au-Mont-d'Or"> Encore un tabac-presse où l'on aime beaucoup, mais alors beaucoup les livres. Au point de leur consacrer la moitié du magasin !</place>
 
-<place title="Decitre Ecully" address="Centre commercial Ecully grand Ouest, 69130 Ecully" website="https://www.facebook.com/DecitreEcullyGrandOuest/">Enfin une bonne raison d'aller dans une galerie marchande !</place>
-
 <place title="Maison de la presse" address="28 rue Charles de Gaulle 69210 L'Arbresle" website="https://www.facebook.com/Maison-De-La-Presse-L-Arbresle-435898436776312/">De la presse, de la papeterie et des livres coups de cœur en plein centre de l'Arbresle.</place>
 
 <place title="U Culture & Technologie" address="95 Rue des Martinets, 69210 L'Arbresle" website="https://www.facebook.com/u.culture.technologie.larbresle/">Dans la partie librairie, ne manquez pas l'espace dédié aux auteurs et aux éditeurs locaux</place>
@@ -176,8 +178,6 @@ image: "/images/carte-5.jpg"
 <place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="www.facebook.com/librairieelizeo/">Cette librairie défend les petits éditeurs régionaux. Plein de pépites cachées…</place>
 
 <place title="Morguelune" address="8 Rue Centrale, 69550 Amplepuis" website="https://www.librairiemorguelune.com/">Quelle chance de trouver ici une librairie spécialisée jeunesse ! On adore la déco Peter Pan et les conseils de Carole.</place>
-
-<place title="Mots et merveilles" address="194 Grande Rue, 69610 Sainte-Foy-l'Argentière" website="https://www.facebook.com/LibrairieMotsetMerveilles">Des livres, de la papeterie, des jeux de société… Une boutique tout en un !</place>
 
 </two-columns>
 
