@@ -155,7 +155,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Pleine lune" address="28 promenade des Tuileries, 69160 Tassin-la-Demi-Lune" website="https://www.facebook.com/LibrairiePleineLune/"> Une librairie lumineuse où l'on se sent très vite comme à la maison.</place>
 
-<place title="La Puce à l'oreille" address="1à rue Benoît Talbard, 69130 Ecully" website="https://www.facebook.com/LibrairiePleineLune/"> Un magasin de jeux et de jouets qui propose aussi un rayon livres bien fourni. Avec les super conseils de Clémentine et Gaëtane.</place>
+<place title="La Puce à l'oreille" address="10 rue Benoît Talbard, 69130 Ecully" website="https://www.facebook.com/lapucealoreille.ecully/"> Un magasin de jeux et de jouets qui propose aussi un rayon livres bien fourni. Avec les super conseils de Clémentine et Gaëtane.</place>
 
 <place title="Decitre Ecully" address="Centre commercial Ecully grand Ouest, 69130 Ecully" website="https://www.facebook.com/DecitreEcullyGrandOuest/">Enfin une bonne raison d'aller dans une galerie marchande !</place>
 
