@@ -127,8 +127,6 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="Gibert Joseph" address="Centre commercial du Carré de Soie, 2 Rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertLibrairieLyon/">L'immense librairie du Carré de Soie où l'on trouve aussi des disques, des films, de la papeterie, des jeux…</place>
-
 <place title="Librairie Bron presse" address="150 av. Franklin Roosevelt 69500 Bron" website="https://librairiebronpresse.wordpress.com/">LA librairie de Bron. Beaucoup de presse, mais aussi plein de BD au fond du magasin.</place>
 
 <place title="Raconte moi la terre" address="Decathlon Village, 332 Avenue Général de Gaulle, 69500 Bron" website="https://www.racontemoilaterre.com/">Venez acheter un vélo, un ballon, une raquette… Et repartez avec un livre de la librairie en face !</place>
