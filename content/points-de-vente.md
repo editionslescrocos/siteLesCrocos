@@ -9,7 +9,7 @@ image: "/images/carte-5.jpg"
 
 <two-columns>
 
-<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse. Camille et Céline nous soutiennent depuis le début.</place>
+<place title="à Titre d'Aile" address="23 rue des Tables Claudiennes, 69001 Lyon" website="https://www.atitredaile.fr">LA librairie jeunesse des Pentes de la Croix-Rousse. Céline nous soutient depuis le début.</place>
 
 <place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie, sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur.</place>
 
@@ -23,7 +23,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
-<place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Une librairie catholique… Au choix de livres et de BD très éclectique !</place>
+<place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Une librairie catholique, au choix de livres et de BD très éclectique !</place>
 
 <place title="Decitre Bellecour" address="29 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/Decitrebellecour">Saviez-vous que la première librairie Decitre a été créée place Bellecour en 1907 ?</place>
 
@@ -33,37 +33,37 @@ image: "/images/carte-5.jpg"
 
 <place title="Gibert Joseph" address="3 Quai du Dr Gailleton, 69002 Lyon" website="https://www.facebook.com/GibertLibrairieLyon/">Très grande librairie sur trois rues. La partie BD est accessible par le quai.</place>
 
-<place title="Librairie Adrienne" address="70 Rue de la Charité, 69002 Lyon" website="https://librairie-adrienne.com/">Le nom fait référence à Adrienne Monnier, l'une des premières femmes à avoir créé une librairie en France. Généraliste et conviviale, la librairie Adrienne possède également un petit salon de thé.</place>
+<place title="Librairie Adrienne" address="70 Rue de la Charité, 69002 Lyon" website="https://librairie-adrienne.com/">Le nom fait référence à Adrienne Monnier, l'une des premières femmes à avoir créé une librairie en France. Généraliste et conviviale, la librairie Adrienne possède également un salon de thé.</place>
 
-<place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette nouvelle adresse 100 % jeunesse.</place>
+<place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette adresse 100 % jeunesse.</place>
 
 <place title="Decitre Confluence" address="112 Cours Charlemagne, 69002 Lyon" website="https://www.facebook.com/DecitreConfluence/">Le commerce essentiel du centre commercial…</place>
 
-<place title="Musée des Confluences" address="86 Quai Perrache, 69002 Lyon" website="https://www.museedesconfluences.fr">Le premier musée de France en termes de fréquentation, hors Paris ! Profitez-en aussi pour visiter la librairie…</place>
+<place title="Musée des Confluences" address="86 Quai Perrache, 69002 Lyon" website="https://www.museedesconfluences.fr">Le premier musée de France en termes de fréquentation, hors Paris ! Profitez-en aussi pour visiter la librairie</place>
 
 <place title="La Librairie du Tramway" address="92 Rue Moncey, 69003 Lyon" website="http://lalibrairiedutramway.com/">Lumineuse, chaleureuse et bien achalandée… Bienvenue à bord !</place>
 
-<place title="Glénat Lyon" address="Centre commercial de la Part-Dieu, 69003 Lyon" website="https://librairielyon.glenat.com">Ne regardez pas autour de vous. Montez directement au niveau 2 du centre commercial et entrez ici. Respirez. Tout va bien, vous êtes entre de bonnes mains.</place>
+<place title="Glénat Lyon" address="Centre commercial de la Part-Dieu, 69003 Lyon" website="https://librairielyon.glenat.com">Montez directement au niveau 2 du centre commercial et entrez ici. Respirez. Tout va bien, vous êtes entre de bonnes mains.</place>
 
-<place title="Decitre Part-Dieu" address="17 Rue Dr Bouchut, 69003 Lyon" website="https://www.facebook.com/DecitreLaPartDieu/?ref=hl">Tiens, une seconde bonne raison d'aller traîner dans le centre commercial…</place>
+<place title="Decitre Part-Dieu" address="17 Rue Dr Bouchut, 69003 Lyon" website="https://www.facebook.com/DecitreLaPartDieu/?ref=hl">La seconde bonne raison d'aller braver le plus grand centre commercial de Lyon…</place>
 
-<place title="La Librairie du Cours" address="83 cours du docteur Long, 69003 Lyon" website="http://www.lalibrairieducours.fr/">On craque pour la table et les chaises en forme de champignon.</place>
+<place title="La Librairie du Cours" address="83 cours du docteur Long, 69003 Lyon" website="http://www.lalibrairieducours.fr/">La librairie a ouvert une deuxième boutique entièrement consacrée à la jeunesse</place>
 
-<place title="L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Etonnante librairie de quartier où les libraires parlent chinois et hongrois… Et français aussi, oui !</place>
+<place title="L'Esprit livre" address="76 Rue du Dauphiné, 69003 Lyon" website="http://www.lesprit-livre.fr/">Une super librairie de quartier aevec des conseils pointus en sciences humaines et en jeunesse. Demandez Camille de notre part, vous serez bien reçus.</place>
 
 <place title="U Culture Montchat" address="2 place Antoinette, 69003 Lyon" website="https://www.facebook.com/Uculture-Montchat-1631058827107486/">Un bon rayon jeunesse dans ce lieu inattendu. Pour les conseils, demandez Lisa</place>
 
 <place title="Librairie LA BD" address="50 grande rue de la Croix-Rousse, 69004 Lyon" website="https://labd.net">La librairie BD de la Croix-Rousse. Gros soutien depuis le début.</place>
 
-<place title="Vivement dimanche" address="7 rue de Mail, 69004 Lyon" website="https://www.vivementdimanche.com">La Benjamine bien sûr ! 100 % jeunesse.</place>
+<place title="Vivement dimanche" address="7 rue de Mail, 69004 Lyon" website="https://www.vivementdimanche.com">Ici on trouve 3 librairies. La Benjamine est axée 100 % jeunesse, portée par un trio de filles qui envoie !</place>
 
 <place title="Librairie des Canuts" address="17 Place de la Croix-Rousse, 69004 Lyon" website="https://lalibrairiedescanuts.wordpress.com/">Généraliste, mais avec un joli fond d'ouvrages sur Lyon. Pour le rayon jeunesse, descendez l'escalier.</place>
 
 <place title="La Virevolte" address="4 rue Octavio Mey, 69005 Lyon" website="https://www.facebook.com/librairielavirevolte/">Des choix affirmés, des libraires engagés et un des rares lieux à Lyon où l'on trouve des livres jeunesse en anglais. Dont le nôtre.</place>
 
-<place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">LA librairie de Saint-Just. Avec une boite à livres devant dans laquelle on peut se servir… Très bon esprit.</place>
+<place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">Perché sur la colline de Saint-Just, Xavier vous attend avec ses conseils avisés. Allez-y de notre part.</place>
 
-<place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique propose des marionnettes, des livres sur Lyon et notre BD en deux langues. Accessible sans visiter le musée (ce qui serait dommage).</place>
+<place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique propose des marionnettes, des livres sur Lyon et notre BD en deux langues. Accessible même sans visiter le musée (ce qui serait dommage).</place>
 
 <place title="Musée Miniature et cinéma" address="60 Rue Saint-Jean, 69005 Lyon" website="www.museeminiatureetcinema.fr">Le musée est dans notre livre… Notre livre est au musée ! On adore ce lieu !</place>
 
@@ -131,7 +131,7 @@ image: "/images/carte-5.jpg"
 
 <place title="Raconte moi la terre" address="Decathlon Village, 332 Avenue Général de Gaulle, 69500 Bron" website="https://www.racontemoilaterre.com/">Venez acheter un vélo, un ballon, une raquette… Et repartez avec un livre de la librairie en face !</place>
 
-<place title="Cultura Saint-Priest" address="Bd André Bouloche, 69800 Saint-Priest" website="https://www.cultura.com/les-magasins/cultura-saint-priest.html">On trouve désormais des livres à la place d'un célèbre magasin de meubles suédois…</place>
+<place title="Cultura Saint-Priest" address="Bd André Bouloche, 69800 Saint-Priest" website="https://www.cultura.com/les-magasins/cultura-saint-priest.html">On trouve désormais nos livres à la place d'un célèbre magasin de meubles suédois…</place>
 
 <place title="Decitre Saint-Priest" address="1Place Charles-Ottina, 69800 Saint-Priest" website="https://www.facebook.com/decitresaintpriest">Enfin une librairie en plein centre de Saint-Priest !</place>
 
