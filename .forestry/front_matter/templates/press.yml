@@ -42,6 +42,7 @@ fields:
     maxSize: 64
   label: Document à lier (photo, image)
 pages:
+- content/press/grains-de-sel-1.md
 - content/press/grains-de-sel.md
 - content/press/j-adore-lyon.md
 - content/press/le-progres-1.md
