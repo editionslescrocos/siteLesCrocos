@@ -33,8 +33,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Gibert Joseph" address="3 Quai du Dr Gailleton, 69002 Lyon" website="https://www.facebook.com/GibertLibrairieLyon/">Très grande librairie sur trois rues. La partie BD est accessible par le quai.</place>
 
-<place title="Librairie Adrienne" address="70 Rue de la Charité, 69002 Lyon" website="https://librairie-adrienne.com/">Le nom fait référence à Adrienne Monnier, l'une des premières femmes à avoir créé une librairie en France. Généraliste et conviviale, la librairie Adrienne possède également un salon de thé.</place>
-
 <place title="Momies Kids" address="47 Rue Victor Hugo, 69002 Lyon" website="https://momie.fr/">Des mangas, des comics, des BD… Et cette adresse 100 % jeunesse.</place>
 
 <place title="Decitre Confluence" address="112 Cours Charlemagne, 69002 Lyon" website="https://www.facebook.com/DecitreConfluence/">Le commerce essentiel du centre commercial…</place>
@@ -64,8 +62,6 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Esperluette" address="44 Rue de Trion, 69005 Lyon" website="https://librairie-esperluette.fr/">Perché sur la colline de Saint-Just, Xavier vous attend avec ses conseils avisés. Allez-y de notre part.</place>
 
 <place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique propose des marionnettes, des livres sur Lyon et notre BD en deux langues. Accessible même sans visiter le musée (ce qui serait dommage).</place>
-
-<place title="Musée Miniature et cinéma" address="60 Rue Saint-Jean, 69005 Lyon" website="www.museeminiatureetcinema.fr">Le musée est dans notre livre… Notre livre est au musée ! On adore ce lieu !</place>
 
 <place title="Tribu des gones" address="22 Rue Saint-Jean, 69005 Lyon" website="https://tribudesgones.com/">Des tas d'objets rigolos sur Lyon… Et des livres dédiés à la ville.</place>
 
@@ -219,8 +215,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société, spécialité de la boutique.</place>
 
-<place title="L'Epimont" address="166 Route de la Rivière, 69250 Poleymieux-au-Mont-d'Or" website="https://www.facebook.com/lepimont/">Bien plus qu'une épicerie. Testez le café et le coin lecture et repartez avec un livre.</place>
-
 </two-columns>
 
 ## Villefranche-sur-Saône
@@ -230,8 +224,6 @@ image: "/images/carte-5.jpg"
 <place title="Librairie des Marais" address="132 Rue de la République, 69400 Villefranche-sur-Saône" website="http://librairiedesmarais.com/">Un vrai commerce de proximité avec des choix éthiques, des coups de cœur et des partis pris</place>
 
 <place title="Librairie Develay" address="1012 Rue nationale, 69400 Villefranche-sur-Saône" website="https://ebook-develay.net/"> Des livres, de la papeterie, des jeux, des jouets… Un vaste lieu pour se faire plaisir</place>
-
-<place title="Myrtille" address="589 Rue nationale, 69400 Villefranche-sur-Saône" website="https://www.facebook.com/myrtillejouet">On vient d'abord ici chercher un jeu ou un jouet… Mais on peut aussi repartir avec un livre !</place>
 
 </two-columns>
 
