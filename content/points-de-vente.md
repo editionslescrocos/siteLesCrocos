@@ -215,6 +215,8 @@ image: "/images/carte-5.jpg"
 
 <place title="Livres et compagnie" address="7 Rue Adrien Ducrot, 69250 Neuville-sur-Saône" website="https://www.livresetcie.fr/">Des livres, de la papeterie et tout un mur de jeux de société, spécialité de la boutique.</place>
 
+<place title="Motamo" address="613 route de Lyon, 69480 Anse" website="https://www.librairie-motamo.fr/">Une nouvelle librairie où l'on peut aussi boire un café ou un verre de vin, ce n'est pas courant. Passez-vous le mot</place>
+
 </two-columns>
 
 ## Villefranche-sur-Saône
