@@ -21,6 +21,7 @@
     "nuxt-jsonld": "^1.5.0",
     "sass": "^1.58.3",
     "sass-loader": "^10",
+    "sharp": "^0.31.3",
     "vue-cool-lightbox": "^2.7.1",
     "vue-slick-carousel": "^1.0.6"
   },
