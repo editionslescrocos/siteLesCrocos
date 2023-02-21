@@ -7,7 +7,7 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     htmlAttrs: {
-      lang: "fr"
+      lang: "fr",
     },
     title: "Éditions les crocos",
     meta: [
@@ -16,7 +16,7 @@ export default {
       {
         hid: "description",
         name: "description",
-        content: "Les éditions les crocos proposent des livres pour enfants."
+        content: "Les éditions les crocos proposent des livres pour enfants.",
       },
       { name: "theme-color", content: "#3ba23f" },
       { name: "og:title", content: "Éditions les crocos" },
@@ -24,9 +24,12 @@ export default {
       { name: "og:site_name", content: "Éditions les crocos" },
       {
         name: "og:description",
-        content: "Les éditions les crocos proposent des livres pour enfants."
-      }
-    ]
+        content: "Les éditions les crocos proposent des livres pour enfants.",
+      },
+    ],
+    script: [
+      { src: "https://identity.netlify.com/v1/netlify-identity-widget.js" },
+    ],
     // link: [
     //   { rel: "preconnect", href: "https://app.snipcart.com" },
     //   { rel: "preconnect", href: "https://cdn.snipcart.com" },
@@ -50,7 +53,7 @@ export default {
 
   css: [
     "vue-slick-carousel/dist/vue-slick-carousel.css",
-    "@/assets/css/main.scss"
+    "@/assets/css/main.scss",
   ],
   /*
    ** Plugins to load before mounting the App
@@ -58,7 +61,7 @@ export default {
   plugins: [
     { src: "@/plugins/carousel.js" },
     { src: "@/plugins/coolLightBox.js" },
-    { src: "@/plugins/jsonld" }
+    { src: "@/plugins/jsonld" },
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -77,10 +80,10 @@ export default {
       {
         display: "swap",
         families: {
-          Alata: true
-        }
-      }
-    ]
+          Alata: true,
+        },
+      },
+    ],
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -93,30 +96,29 @@ export default {
       "nuxt-compress",
       {
         gzip: {
-          cache: true
+          cache: true,
         },
         brotli: {
-          threshold: 10240
-        }
-      }
-    ]
+          threshold: 10240,
+        },
+      },
+    ],
   ],
 
   snipcart: {
-    key:
-      "OWQyYWZjYWMtMjExOC00ZmU3LThlM2YtZjRkYmI4ZWNiMGNiNjM3NTAyOTQxNzQ2NTE0NjYw",
+    key: "OWQyYWZjYWMtMjExOC00ZmU3LThlM2YtZjRkYmI4ZWNiMGNiNjM3NTAyOTQxNzQ2NTE0NjYw",
     locales: {
       fr: {
         actions: {
-          checkout: "Passer la commande"
-        }
-      }
+          checkout: "Passer la commande",
+        },
+      },
     },
     attributes: [
       ["data-cart-custom1-name", "Do you accept terms?"],
       ["data-cart-custom1-options", "true|false"],
-      ["data-cart-custom1-required", "true"]
-    ]
+      ["data-cart-custom1-required", "true"],
+    ],
   },
   image: {
     ipx: {
@@ -138,8 +140,8 @@ export default {
        **/
       sharp: {
         // Here is complete list of available options: https://github.com/lovell/sharp/blob/master/lib/constructor.js#L132
-      }
-    }
+      },
+    },
   },
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {},
@@ -148,8 +150,8 @@ export default {
   build: {
     //transpile: ["VueCarousel"]
     babel: {
-      plugins: [["@babel/plugin-proposal-private-methods", { loose: true }]]
-    }
+      plugins: [["@babel/plugin-proposal-private-methods", { loose: true }]],
+    },
   },
 
   sitemap: {
@@ -158,7 +160,7 @@ export default {
     exclude: ["/admin/**"],
     routes() {
       return getRoutes();
-    }
+    },
   },
 
   cookies: {
@@ -178,15 +180,15 @@ export default {
           window.dataLayer = window.dataLayer || [];
           window.dataLayer.push({
             "gtm.start": new Date().getTime(),
-            event: "gtm.js"
+            event: "gtm.js",
           });
         },
-        declined: () => {}
-      }
-    ]
+        declined: () => {},
+      },
+    ],
   },
 
   googleAnalytics: {
-    id: "G-L4315DSBHJ"
-  }
+    id: "G-L4315DSBHJ",
+  },
 };

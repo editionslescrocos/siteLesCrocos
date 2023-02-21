@@ -19,7 +19,7 @@
           {{ general.presentationTextTitle }}
         </h2>
         <div class="flex justify-center flex-wrap">
-          <div class="w-full md:w-1/2 ">
+          <div class="w-full md:w-1/2">
             <p v-html="presentationText"></p>
             <p v-if="general.presentationURL" class="text-center md:text-left">
               <nuxt-link :to="general.presentationURL">
@@ -53,9 +53,7 @@
 <script>
 export default {
   async asyncData({ $content }) {
-    const slider = await $content("slider")
-      .sortBy("order", "asc")
-      .fetch();
+    const slider = await $content("slider").sortBy("order", "asc").fetch();
     const actus = await $content("actualites")
       .sortBy("date", "desc")
       .limit(3)
@@ -72,15 +70,28 @@ export default {
       networks,
       menus,
       general,
-      footer
+      footer,
     };
   },
   computed: {
-    presentationText: function() {
+    presentationText: function () {
       const doc = this.general.presentationText;
       return doc.replace(/\n/g, "<br/>");
+    },
+  },
+  mounted() {
+    if (process.browser) {
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
     }
-  }
+  },
 };
 </script>
 
