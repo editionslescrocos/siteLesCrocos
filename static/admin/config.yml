@@ -13,6 +13,128 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Image", name: "image", widget: "image" }
+      - {
+          label: "Résumé",
+          name: "description",
+          "description": "Le résumé de l'actualité affiché sur la page générale 'Actualité'",
+          widget: "markdown",
+        }
+      - {
+          label: "Ne pas faire de lien",
+          description: "Si activé il n'y aura pas de lien pour lire la suite",
+          name: "noLink",
+          widget: "boolean",
+        }
+      - { label: "contenu", name: "body", widget: "markdown" }
+  - name: "press" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles de presse" # Used in the UI
+    folder: "content/press" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Document à lier", name: "document", widget: "image" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "Ne pas faire de lien", name: "noLink", widget: "boolean" }
-      - { label: "contenu", name: "content", widget: "markdown" }
+      - { label: "Lien vers la ressource", name: "url", widget: "string" }
+  - name: "products" # Used in routes, e.g., /admin/collections/blog
+    label: "Produits" # Used in the UI
+    folder: "content/products" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Ordre",
+          name: "order",
+          widget: "number",
+          value_type: "int",
+          description: "Le nombre le plus élevé s'affiche en premier",
+        }
+      - {
+          label: "Title",
+          name: "title",
+          widget: "string",
+          description: "Le nom du produit",
+        }
+      - {
+          label: "Prix de vente",
+          name: "price",
+          widget: "number",
+          value_type: "float",
+          description: "Prix du produit TTC",
+        }
+      - {
+          label: "Image",
+          name: "imageProduct",
+          widget: "image",
+          description: "Image du produit (exemple : couverture du livre)",
+        }
+      - label: "Gallerie d'images"
+        name: "images"
+        widget: "list"
+        fields:
+          - name: image
+            label: Image
+            widget: image
+      - {
+          label: "Type de produit",
+          name: "type",
+          widget: "select",
+          options: ["livre", "pack", "autre"],
+        }
+      - {
+          label: "Informations pour la facture",
+          name: "informations",
+          widget: "text",
+          description: "Détails des taux de TVA pour les packs",
+        }
+      - {
+          label: "Poids",
+          name: "weight",
+          widget: "number",
+          value_type: "float",
+          description: "poids du produit en grammes",
+        }
+      - {
+          label: "Taxes",
+          name: "taxes",
+          widget: "string",
+          description: "Inscrire ici le code TVA Snipcart (en majuscules) : TVA, TVAREDUITE ... ou autre TVA particulière pour les packs par exemple",
+        }
+      - { label: "contenu", name: "body", widget: "markdown" }
+  - name: "team" # Used in routes, e.g., /admin/collections/blog
+    label: "Equipe" # Used in the UI
+    folder: "content/team" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {
+          label: "Nom",
+          name: "title",
+          widget: "string",
+        }
+      - {
+          label: "Membre fondateur",
+          name: "isFounder",
+          widget: "boolean",
+        }
+       - {
+          label: "Ordre",
+          name: "order",
+          widget: "number",
+          value_type: "int",
+          description: "Le plus petit s'affichera en premier",
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          description: "Photo de portrait",
+        }
+      - {
+          label: "Informations",
+          name: "description",
+          widget: "text",
+        }
+      
