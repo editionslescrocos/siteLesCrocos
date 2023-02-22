@@ -54,7 +54,7 @@ export default {
   css: [
     "vue-slick-carousel/dist/vue-slick-carousel.css",
     "@/assets/css/main.scss",
-    "@/assets/css/tailwind.css",
+    //"@/assets/css/tailwind.css",
   ],
   /*
    ** Plugins to load before mounting the App
@@ -72,7 +72,6 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/snipcart",
-    "@nuxtjs/tailwindcss",
     "nuxt-compress",
     "@aceforth/nuxt-optimized-images",
     "@nuxt/image",
@@ -92,6 +91,7 @@ export default {
     // https://go.nuxtjs.dev/content
     "@nuxt/content",
     "nuxt-cookie-control",
+    "@nuxtjs/tailwindcss",
     "@nuxtjs/sitemap",
     [
       "nuxt-compress",
