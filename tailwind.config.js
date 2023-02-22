@@ -1,7 +1,7 @@
 import colors from "tailwindcss/defaultTheme";
 
 module.exports = {
-  darkMode: false, // or 'media' or 'class'
+  media: false, // or 'media' or 'class'
   theme: {
     extend: {
       colors: {
@@ -33,11 +33,11 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  purge: [
-    "./components/**/*.{vue,js}",
-    "./layouts/**/*.vue",
-    "./pages/**/*.vue",
-    "./plugins/**/*.{js,ts}",
-    "./nuxt.config.{js,ts}",
-  ],
+  // purge: [
+  //   "./components/**/*.{vue,js}",
+  //   "./layouts/**/*.vue",
+  //   "./pages/**/*.vue",
+  //   "./plugins/**/*.{js,ts}",
+  //   "./nuxt.config.{js,ts}",
+  // ],
 };
