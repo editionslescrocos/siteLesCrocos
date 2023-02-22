@@ -54,6 +54,7 @@ export default {
   css: [
     "vue-slick-carousel/dist/vue-slick-carousel.css",
     "@/assets/css/main.scss",
+    "@/assets/css/tailwind.css",
   ],
   /*
    ** Plugins to load before mounting the App

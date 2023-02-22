@@ -1,5 +1,10 @@
 <template>
-  <Layout :general="general" :networks="networks" :menus="menus" :footer="footer">
+  <Layout
+    :general="general"
+    :networks="networks"
+    :menus="menus"
+    :footer="footer"
+  >
     <article>
       <TopImage :image="doc.image" :imageAlt="doc.imageAlt" />
       <div
@@ -36,7 +41,6 @@ export default {
       .sortBy("date", "desc")
       .fetch();
 
-
     const nbItems = allItems.length;
     const nbPages = Math.ceil(nbItems / itemsPerPage);
 
@@ -48,7 +52,7 @@ export default {
       .skip(startAt())
       .fetch();
 
-    console.log(">>>", { allItems, nbPages, startAt, itemsToDisplay });
+    //console.log(">>>", { allItems, nbPages, startAt, itemsToDisplay });
 
     const nextPage = currentPage < nbPages ? currentPage + 1 : null;
     const previousPage = currentPage - 1 > 0 ? currentPage - 1 : null;
@@ -59,7 +63,7 @@ export default {
       nextPage,
       previousPage,
       nbPages,
-      itemsPerPage
+      itemsPerPage,
     };
 
     return {
@@ -70,7 +74,6 @@ export default {
       menus,
       general,
       footer,
-
     };
   },
 
@@ -81,20 +84,19 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: this.doc.description
+          content: this.doc.description,
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
         { name: "og:site_name", content: "Editions les crocos" },
         {
           name: "og:description",
-          content: this.doc.description
-        }
-      ]
+          content: this.doc.description,
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>

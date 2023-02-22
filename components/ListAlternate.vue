@@ -7,7 +7,7 @@
       :class="[
         Number.isInteger(index / 2)
           ? 'flex-row-reverse my-2 md:flex'
-          : 'my-2 md:flex '
+          : 'my-2 md:flex ',
       ]"
     >
       <div
@@ -19,10 +19,9 @@
         <nuxt-link :to="item.path" v-if="!onlyHref">
           <nuxt-img
             :src="item.image"
-            sizes="400"
-            format="png"
-            height="300"
-            :width="portrait ? '300' : 'auto'"
+            format="jpeg"
+            height="400"
+            :width="portrait ? '400' : 'auto'"
             class="md:mb-7 mx-auto"
             :class="portrait ? 'rounded-full border-8 border-customGreen' : ''"
             v-if="item.image"
@@ -33,8 +32,7 @@
         <nuxt-img
           v-if="onlyHref && item.image"
           :src="item.image"
-          sizes="400"
-          format="png"
+          format="jpeg"
           height="300"
           fit="cover"
           :width="portrait ? '300' : '500'"
@@ -65,9 +63,7 @@
           <span>Adresse</span> :
           <a
             target="blank"
-            :href="
-              `https://www.openstreetmap.org/search?query=#map=19/45.75763/4.87488`
-            "
+            :href="`https://www.openstreetmap.org/search?query=#map=19/45.75763/4.87488`"
             class="underline"
             >{{ item.address }}</a
           >
@@ -101,21 +97,21 @@ export default {
   props: {
     items: {
       type: Array,
-      default: []
+      default: [],
     },
     portrait: {
       type: Boolean,
-      default: false
+      default: false,
     },
     onlyHref: {
       type: Boolean,
-      default: false
+      default: false,
     },
     followSlug: {
       type: Boolean,
-      default: false
-    }
-  }
+      default: false,
+    },
+  },
 };
 </script>
 

@@ -7,12 +7,10 @@
         width="400"
         height="400"
         fit="inside"
-        :alt="
-          `image
+        :alt="`image
         du
         produit
-        ${product.title}`
-        "
+        ${product.title}`"
       />
     </nuxt-link>
     <nuxt-link :to="product.path">
@@ -26,9 +24,9 @@ export default {
   props: {
     product: {
       type: Object,
-      default: null
-    }
-  }
+      default: null,
+    },
+  },
 };
 </script>
 
