@@ -6,6 +6,11 @@ public_folder: "/assets"
 collections:
   - name: "actualites" # Used in routes, e.g., /admin/collections/blog
     label: "Actualités" # Used in the UI
+    sortable_fields:
+      fields: ["date", "title"]
+      default:
+        field: "date"
+        direction: "Descending"
     folder: "content/actualites" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -33,6 +38,11 @@ collections:
       - { label: "contenu", name: "body", widget: "markdown" }
   - name: "press" # Used in routes, e.g., /admin/collections/blog
     label: "Articles de presse" # Used in the UI
+    sortable_fields:
+      fields: ["date", "title"]
+      default:
+        field: "date"
+        direction: "Descending"
     folder: "content/press" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -60,6 +70,11 @@ collections:
       - { label: "Lien vers la ressource", name: "url", widget: "string" }
   - name: "products" # Used in routes, e.g., /admin/collections/blog
     label: "Produits" # Used in the UI
+    sortable_fields:
+      fields: ["title", "order"]
+      default:
+        field: "order"
+        direction: "Ascending"
     folder: "content/products" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -124,6 +139,11 @@ collections:
         }
       - { label: "contenu", name: "body", widget: "markdown" }
   - name: "team" # Used in routes, e.g., /admin/collections/blog
+    sortable_fields:
+      fields: ["order", "title"]
+      default:
+        field: "order"
+        direction: "Ascending"
     label: "Equipe" # Used in the UI
     folder: "content/team" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
