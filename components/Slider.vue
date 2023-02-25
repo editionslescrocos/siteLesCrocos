@@ -7,7 +7,6 @@
         class="relative"
         :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
       >
-        >>> {{ item.image }}
         <a :href="item.url">
           <nuxt-img
             :src="`${item.image}`"

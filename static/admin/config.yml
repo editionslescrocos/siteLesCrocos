@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 media_folder: "images"
-public_folder: "/static"
+public_folder: "/images"
 collections:
   - name: "actualites" # Used in routes, e.g., /admin/collections/blog
     label: "Actualités" # Used in the UI
@@ -183,6 +183,7 @@ collections:
         name: "subtitle"
         widget: "string"
         hint: "S'affiche en dessous du titre dans le carrousel"
+        required: "false"
       - label: "Lien"
         name: "url"
         widget: "string"
