@@ -7,13 +7,14 @@
         class="relative"
         :class="`slider-text w-full bg-${item.colorBg} text-${item.colorText}`"
       >
+        >>> {{ item.image }}
         <a :href="item.url">
           <nuxt-img
             :src="`${item.image}`"
             class="w-full image"
             fit="cover"
             format="jpeg"
-            sizes="sm:300px md:400px lg:550px"
+            sizes="sm:400px md:700px lg:950px"
             :placeholder="require('@/assets/placeholder.png')"
           />
         </a>
@@ -40,8 +41,8 @@ export default {
   props: {
     items: {
       type: Array,
-      default: []
-    }
+      default: [],
+    },
   },
 
   data() {
@@ -49,10 +50,10 @@ export default {
       slickOptions: {
         slidesToShow: 1,
         arrows: true,
-        dots: true
-      }
+        dots: true,
+      },
     };
-  }
+  },
 };
 </script>
 
