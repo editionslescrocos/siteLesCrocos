@@ -1,7 +1,7 @@
 <template>
   <nuxt-img
     v-if="image"
-    :src="image"
+    :src="imagePath(image)"
     fit="cover"
     class="rounded-md shadow-inner border-gray-50 border-2"
     :alt="imageAlt"
@@ -13,17 +13,20 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 export default {
+  mixins: [imagePathTransformer],
   props: {
     image: {
       type: String,
-      default: ""
+      default: "",
     },
     imageAlt: {
       type: String,
-      default: ""
-    }
-  }
+      default: "",
+    },
+  },
 };
 </script>
 

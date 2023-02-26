@@ -207,7 +207,6 @@ collections:
         name: "image"
         widget: "image"
         hint: "L'image du carrousel"
-        media_folder: "images"
       - label: "Couleur du texte"
         name: "colorText"
         widget: "select"

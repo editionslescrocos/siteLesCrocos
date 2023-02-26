@@ -18,7 +18,7 @@
 
         <nuxt-link :to="item.path" v-if="!onlyHref">
           <nuxt-img
-            :src="item.image"
+            :src="imagePath(item.image)"
             format="jpeg"
             height="400"
             :width="portrait ? '400' : 'auto'"
@@ -31,7 +31,7 @@
 
         <nuxt-img
           v-if="onlyHref && item.image"
-          :src="item.image"
+          :src="imagePath(item.image)"
           format="jpeg"
           height="300"
           fit="cover"
@@ -93,7 +93,10 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 export default {
+  mixins: [imagePathTransformer],
   props: {
     items: {
       type: Array,

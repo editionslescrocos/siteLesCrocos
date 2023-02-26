@@ -2,7 +2,7 @@
   <div class="text-center">
     <nuxt-link :to="product.path">
       <nuxt-img
-        :src="`${product.imageProduct}`"
+        :src="imagePath(`${product.imageProduct}`)"
         format="jpeg"
         width="400"
         height="400"
@@ -20,7 +20,10 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 export default {
+  mixins: [imagePathTransformer],
   props: {
     product: {
       type: Object,

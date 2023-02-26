@@ -7,7 +7,7 @@
           <div v-if="article.date.includes(year)">
             <template>
               <nuxt-img
-                :src="article.image"
+                :src="imagePath(article.image)"
                 format="jpeg"
                 width="450"
                 height="300"
@@ -38,24 +38,27 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 const { DateTime } = require("luxon");
 
 export default {
+  mixins: [imagePathTransformer],
   computed: {
     years() {
       const years = [];
-      this.articles.forEach(article => {
+      this.articles.forEach((article) => {
         const articleDate = new Date(article.date);
         years.push(articleDate.getUTCFullYear());
       });
       return new Set(years);
-    }
+    },
   },
 
   data() {
     return {
       articles: [],
-      index: null
+      index: null,
     };
   },
   async fetch() {
@@ -63,7 +66,7 @@ export default {
       .sortBy("date", "desc")
       .fetch();
 
-    articles.map(article => {
+    articles.map((article) => {
       let dt = DateTime.fromISO(article.date);
       const numMonth = dt.setLocale("fr").toLocaleString({ month: "numeric" });
       const month = getMonthInFrench(numMonth);
@@ -72,7 +75,7 @@ export default {
     });
 
     this.articles = articles;
-  }
+  },
 };
 
 function getMonthInFrench(nbMonth) {
@@ -88,7 +91,7 @@ function getMonthInFrench(nbMonth) {
     "septembre",
     "octobre",
     "novembre",
-    "décembre"
+    "décembre",
   ][nbMonth++];
 }
 </script>

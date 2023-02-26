@@ -1,7 +1,7 @@
 <template>
   <div>
     <nuxt-img
-      :src="`/images/${actu.image}`"
+      :src="imagePath(`/images/${actu.image}`)"
       format="jpeg"
       height="250"
       width="500"
@@ -16,13 +16,16 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 export default {
+  mixins: [imagePathTransformer],
   props: {
     actu: {
       type: Object,
-      default: null
-    }
-  }
+      default: null,
+    },
+  },
 };
 </script>
 

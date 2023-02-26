@@ -9,7 +9,7 @@
       >
         <a :href="item.url">
           <nuxt-img
-            :src="`${item.image}`"
+            :src="imagePath(item.image)"
             class="w-full image"
             fit="cover"
             format="jpeg"
@@ -36,7 +36,11 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 export default {
+  mixins: [imagePathTransformer],
+
   props: {
     items: {
       type: Array,

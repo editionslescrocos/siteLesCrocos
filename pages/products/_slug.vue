@@ -14,7 +14,7 @@
         <div class="md:flex md:flex-row md:flex-row-reverse">
           <div class="w-full md:w-1/3 pt-4">
             <nuxt-img
-              :src="doc.imageProduct"
+              :src="imagePath(doc.imageProduct)"
               :width="imageDimensions.w"
               :height="imageDimensions.h"
               quality="80"
@@ -41,9 +41,9 @@
             >
           </div>
 
-          <div class=" md:mr-5 w-full md:w-2/3">
+          <div class="md:mr-5 w-full md:w-2/3">
             <div class="pt-10">
-              <h1 class=" text-2xl mb-3">
+              <h1 class="text-2xl mb-3">
                 {{ doc.title }}
               </h1>
 
@@ -52,7 +52,7 @@
               </p>
             </div>
 
-            <p class="text-left  my-5">
+            <p class="text-left my-5">
               <nuxt-content :document="doc" />
             </p>
 
@@ -80,7 +80,10 @@
 </template>
 
 <script>
+import imagePathTransformer from "@/mixins/imagePathTransformer";
+
 export default {
+  mixins: [imagePathTransformer],
   async asyncData({ $content, params }) {
     const doc = await $content("products/" + params.slug || "index").fetch();
     const general = await $content("general").fetch();
@@ -91,19 +94,19 @@ export default {
       networks,
       menus,
       general,
-      footer
+      footer,
     };
   },
   data() {
     return {
-      index: null
+      index: null,
     };
   },
   computed: {
     imageDimensions() {
       if (this.doc.type !== "livre") return { w: 500, h: 500 };
       return { w: 500, h: 700 };
-    }
+    },
   },
   head() {
     return {
@@ -112,22 +115,22 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: this.doc.description
+          content: this.doc.description,
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
         { name: "og:site_name", content: "Editions les crocos" },
         {
           name: "og:description",
-          content: this.doc.description
-        }
-      ]
+          content: this.doc.description,
+        },
+      ],
     };
   },
   created() {
     var formatter = new Intl.NumberFormat("fr-FR", {
       style: "currency",
-      currency: "EUR"
+      currency: "EUR",
 
       // These options are needed to round to whole numbers if that's what you want.
       //minimumFractionDigits: 0, // (this suffices for whole numbers, but will print 2500.10 as $2,500.1)
@@ -151,11 +154,11 @@ export default {
       numberOfPages: this.doc.pages,
       publisher: {
         "@type": "Organization",
-        name: "Editions les Crocos"
+        name: "Editions les Crocos",
       },
-      url: this.doc.path
+      url: this.doc.path,
     };
-  }
+  },
 };
 </script>
 
