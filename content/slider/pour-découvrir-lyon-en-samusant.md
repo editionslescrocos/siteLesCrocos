@@ -1,8 +1,8 @@
 ---
-title: Pour découvrir Lyon
-subtitle: en s'amusant
+title: Pour découvrir Lyon en s'amusant
+subtitle: ""
 url: https://www.editionslescrocos.com/products
-image: /images/bandeau-portrait.jpg
+image: static/images/essai-site.jpg
 colorText: red-700
 colorBg: white
 ---
