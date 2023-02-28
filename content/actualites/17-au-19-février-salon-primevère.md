@@ -1,6 +1,6 @@
 ---
 title: "17 au 19 février 2023 : Salon Primevère"
-date: 28/02/2023
+date: 2023-02-28T18:57:57+01:00
 image: /images/salon-primevere-bd.jpg
 description: "\n\n\n"
 noLink: false
