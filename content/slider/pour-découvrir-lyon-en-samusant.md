@@ -1,5 +1,5 @@
 ---
-title: Pour découvrir Lyon en s'amusant, clique sur l'image !
+title: Pour découvrir Lyon en s'amusant, clique sur la photo !
 subtitle: ""
 url: https://www.editionslescrocos.com/products
 image: static/images/essai-site.jpg
