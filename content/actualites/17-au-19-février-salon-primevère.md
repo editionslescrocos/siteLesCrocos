@@ -6,4 +6,4 @@ description: |
   Retrouvez-nous sur le stand partagé des Editeurs solidaires
 noLink: false
 ---
-Retrouvez-nous sur le stand partagé des Editeurs solidaires : [https://www.facebook.com/editeurs.solidaires/](https://www.facebook.com/editeurs.solidaires/)
+En savoir plus : [https://www.facebook.com/editeurs.solidaires/](https://www.facebook.com/editeurs.solidaires/)
