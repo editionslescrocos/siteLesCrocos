@@ -2,11 +2,8 @@
 title: "17 au 19 février 2023 : Salon Primevère"
 date: 2023-02-28T18:57:57+01:00
 image: /images/salon-primevere-bd.jpg
-description: "\n\n\n"
+description: |
+  Retrouvez-nous sur le stand partagé des Editeurs solidaires
 noLink: false
 ---
-Nous serons pedant trois jours sur le stand partagé des Editeurs solidaires : [https://www.facebook.com/editeurs.solidaires/](https://www.facebook.com/editeurs.solidaires/)
-
-
-
-
+Retrouvez-nous sur le stand partagé des Editeurs solidaires : [https://www.facebook.com/editeurs.solidaires/](https://www.facebook.com/editeurs.solidaires/)
