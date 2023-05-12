@@ -19,7 +19,7 @@
         <nuxt-link :to="item.path" v-if="!onlyHref">
           <nuxt-img
             :src="imagePath(item.image)"
-            format="jpeg"
+            format="png"
             height="400"
             :width="portrait ? '400' : 'auto'"
             class="md:mb-7 mx-auto"
@@ -32,7 +32,7 @@
         <nuxt-img
           v-if="onlyHref && item.image"
           :src="imagePath(item.image)"
-          format="jpeg"
+          format="png"
           height="300"
           fit="cover"
           :width="portrait ? '300' : '500'"
