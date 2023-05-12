@@ -88,11 +88,11 @@ module.exports = {
     "text-yellow-200",
   ],
   plugins: [],
-  // purge: [
-  //   "./components/**/*.{vue,js}",
-  //   "./layouts/**/*.vue",
-  //   "./pages/**/*.vue",
-  //   "./plugins/**/*.{js,ts}",
-  //   "./nuxt.config.{js,ts}",
-  // ],
+  purge: [
+    "./components/**/*.{vue,js}",
+    "./layouts/**/*.vue",
+    "./pages/**/*.vue",
+    "./plugins/**/*.{js,ts}",
+    "./nuxt.config.{js,ts}",
+  ],
 };

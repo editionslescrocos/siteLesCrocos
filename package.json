@@ -13,6 +13,7 @@
     "@nuxt/content": "^1.11.1",
     "@nuxtjs/sitemap": "^2.4.0",
     "@nuxtjs/snipcart": "^1.1.1",
+    "@staticcms/core": "^2.0.0",
     "core-js": "^3.8.2",
     "luxon": "^1.26.0",
     "nuxt": "^2.16.1",
