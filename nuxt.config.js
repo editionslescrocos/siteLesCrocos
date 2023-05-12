@@ -74,7 +74,6 @@ export default {
     "@nuxtjs/snipcart",
     "nuxt-compress",
     "@aceforth/nuxt-optimized-images",
-    "@nuxtjs/mdx",
     "@nuxt/image",
     [
       "@nuxtjs/google-fonts",

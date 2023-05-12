@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
-    "build": "nuxt generate --modern=client",
+    "build": "nuxt build --modern=client",
     "start": "nuxt start",
     "start:modern": "nuxt start --modern=client",
     "generate": "nuxt generate --modern=client"
