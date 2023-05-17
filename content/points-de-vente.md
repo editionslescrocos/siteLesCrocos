@@ -1,10 +1,10 @@
 ---
 title: Où trouver nos livres
 subtitle: A Lyon et ailleurs…
-description: ''
+description: ""
 image: "/images/carte-5.jpg"
-
 ---
+
 ## Lyon (par arrondissements)
 
 <two-columns>
@@ -13,21 +13,15 @@ image: "/images/carte-5.jpg"
 
 <place title="Le livre en pente" address="18 Rue des Pierres Plantées, 69001 Lyon" website="https://www.facebook.com/lelivreenpente/?ref=bookmarks">Une petite librairie, sympa et décontractée, en haut des pentes de la Croix-Rousse. Tutoiement de rigueur.</place>
 
-<place title="Ouvrir l'œil" address="18 Rue des Capucins, 69001 Lyon" website="http://ouvrirloeil.blogspot.com/">Ouvrez les yeux et montez sur la mezzanine, entièrement consacrée à la jeunesse.</place>
-
 <place title="Oh my gone" address="1 Rue de la Martinière, 69001 Lyon" website="https://ohmygone.com/fr/">Juste en face du Mur des Lyonnais, une boutique de souvenirs de Lyon… qui vend aussi des livres !</place>
 
 <place title="Musée des Beaux-Arts" address="20 Place des Terreaux, 69001 Lyon" website="https://www.mba-lyon.fr/fr">Ne manquez pas la librairie du musée. Notre BD y est. En français comme en anglais !</place>
-
-<place title="Librairie à soi.e" address="16 rue Pizay 69001 Lyon" website="https://www.librairieasoie.com/">Une librairie féministe très ouverte aux coups de cœur.</place>
 
 <place title="Librairie Passages" address="11 rue de Brest, 69002 Lyon" website="https://www.librairiepassages.fr">Que vous soyez de passage à Lyon ou non, entrez. Le choix est vaste…</place>
 
 <place title="La Procure Saint-Paul" address="8 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/LaProcure">Une librairie catholique, au choix de livres et de BD très éclectique !</place>
 
 <place title="Decitre Bellecour" address="29 Place Bellecour, 69002 Lyon" website="https://www.facebook.com/Decitrebellecour">Saviez-vous que la première librairie Decitre a été créée place Bellecour en 1907 ?</place>
-
-<place title="Raconte moi la terre" address="14 rue du Plat, 69002 Lyon" website="https://www.racontemoilaterre.com//">Des livres de voyage pour s'évader, partir au bout du monde ou… à côté de chez soi !</place>
 
 <place title="Expérience" address="5 place Antonin Poncet, 69002 Lyon" website="https://www.librairie-experience.com">La librairie BD historique de Lyon. Sur les voûtes, 30 ans de dédicaces des plus grands dessinateurs vous contemplent.</place>
 
@@ -63,8 +57,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Musée Gadagne" address="1 Place du Petit Collège, 69005 Lyon" website="https://www.gadagne-lyon.fr/gadagne/boutique-gadagne">La boutique propose des marionnettes, des livres sur Lyon et notre BD en deux langues. Accessible même sans visiter le musée (ce qui serait dommage).</place>
 
-<place title="Tribu des gones" address="22 Rue Saint-Jean, 69005 Lyon" website="https://tribudesgones.com/">Des tas d'objets rigolos sur Lyon… Et des livres dédiés à la ville.</place>
-
 <place title="Souvenirs de Lyon" address="46 rue Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">Vous comptiez vraiment quitter Lyon sans acheter un exemplaire de notre BD ?</place>
 
 <place title="Souvenirs de Lyon" address="8 place Saint-Jean, 69005 Lyon" website="https://www.souvenirs-de-lyon.com/">La même équipe possède une 2e boutique. Vous comptiez vraiment quitter Lyon sans vous offrir une 2e BD ? En anglais cette fois…</place>
@@ -89,13 +81,13 @@ image: "/images/carte-5.jpg"
 
 <place title="Terre des livres" address="86 rue de Marseille, 69007 Lyon" website="http://www.terredeslivres.fr/">Des livres jusqu'au plafond et un joli fond consacré à l'Afrique. On adore fouiner ici !</place>
 
-<place title="La Voie aux chapitres" address="4 Rue Saint-Jérôme, 69007 Lyon" website="https://www.lavoieauxchapitres.fr/">Besoin d'un vrai conseil de lecture ? Sylvain vous montre la voie…</place>
+<place title="Traits d'Union" address="61 rue des Girondins 69007 Lyon" website="www.instagram.com/librairietraitsdunion"></place>
 
-<place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="http://librairielamadeleine.fr//">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter.</place>
+<place title="Librairie La Madeleine" address="16 Rue de la Madeleine, 69007 Lyon" website="https://www.facebook.com/librairielamadeleine">On aime le coin lecture pour enfants, avec petites chaises et table en bois, pris d'assaut à l'heure du goûter.</place>
 
 <place title="Damn Fine Bookstore" address="20 Rue Bechevelin, 69007 Lyon" website="https://damnfinebookstore.com/">Une librairie internationale, avec des livres en anglais, allemand, italien, espagnol et portugais + un coffee shop. The place to be !</place>
 
-<place title="Vagalume" address="38 Place des Pavillons, 69007 Lyon" website="http://librairie-vagalume.com/">Il manquait  une librairie à Gerland. C'est réparé. Vagalume est spécialisée dans la jeunesse et propose un espace café très sympa. Pour éclairer votre lanterne, vagalume signifie "ver luisant" en portugais…</place>
+<place title="Vagalume" address="38 Place des Pavillons, 69007 Lyon" website="http://librairie-vagalume.com/">Il manquait une librairie à Gerland. C'est réparé. Vagalume est spécialisée dans la jeunesse et propose un espace café très sympa. Pour éclairer votre lanterne, vagalume signifie "ver luisant" en portugais…</place>
 
 <place title="Librairie de la place" address="12 place Ambroise Courtois , 69008 Lyon" website="https://www.facebook.com/librairiedelaplace.fr">On aime venir y dénicher un livre de voyage et bien sûr… Des livres jeunesse !</place>
 
@@ -115,8 +107,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Lettres à croquer" address="104 Cours Emile Zola, 69100 Villeurbanne" website="https://www.lettresacroquer.fr/">Des libraires qui croquent des livres ? Aux Editions les crocos, on ne peut que craquer.</place>
 
-<place title="LELL" address="159 cours Tolstoï, 69100 Villeurbanne" website="https://lell.market/"> Epicerie engagée et éco-responsable, avec un petit rayon librairie à découvrir au fond à droite.</place>
-
 </two-columns>
 
 ## Est lyonnais
@@ -134,6 +124,10 @@ image: "/images/carte-5.jpg"
 <place title="Librairie Colibris" address="9 Rue Antoine Vacher, 69330 Meyzieu" website="http://librairie-colibris.com/blog/">Ici, on défend beaucoup les éditeurs et les auteurs locaux. Un détour par Meyzieu s'impose.</place>
 
 <place title="Récit Music" address="72 rue de la République 69740 Genas" website="https://www.recitmusic.fr/">Au milieu des livres… des guitares ! Une librairie des plus originales où Patrick réunit ses deux passions, la musique et la littérature.</place>
+
+<place title="Gibert Joseph Vaulx-en-Velin" address="Carré de Soie, 2 rue Jacquard, 69120 Vaulx-en-Velin" website="https://www.facebook.com/GibertCarreSoie"></place>
+
+<place title="L’Insomnie" address="7 place Roger Salengro 69150 Décines-Charpieu" website="https://www.instagram.com/librairielinsomnie"></place>
 
 <place title="Le P'tit Chassieu" address="2 Rue Louis Pergaud 69680 Chassieu" website="https://www.facebook.com/Le-Ptit-Chassieu-101755755538552/">Un café-presse-librairie… Et beaucoup plus encore : un lieu de vie !</place>
 
@@ -167,11 +161,7 @@ image: "/images/carte-5.jpg"
 
 <place title="U Culture & Technologie" address="95 Rue des Martinets, 69210 L'Arbresle" website="https://www.facebook.com/u.culture.technologie.larbresle/">Dans la partie librairie, ne manquez pas l'espace dédié aux auteurs et aux éditeurs locaux</place>
 
-<place title="Librairie Cassiopée" address="1 Rue Dr Burdet, 69620 Val d'Oingt" website="https://m.facebook.com/librairie.cassiopee?locale2=fr_FR">LA librairie du Bois d'Oingt. Les enfants disposent d'une salle rien que pour eux.</place>
-
 <place title="Elizeo" address="1 Rue Anna Bibert, 69170 Tarare" website="www.facebook.com/librairieelizeo/">Cette librairie défend les petits éditeurs régionaux. Plein de pépites cachées…</place>
-
-<place title="Morguelune" address="8 Rue Centrale, 69550 Amplepuis" website="https://www.librairiemorguelune.com/">Quelle chance de trouver ici une librairie spécialisée jeunesse ! On adore la déco Peter Pan et les conseils de Carole.</place>
 
 </two-columns>
 
@@ -184,9 +174,6 @@ image: "/images/carte-5.jpg"
 <place title="BD Oullins" address="3 passage de la Ville, 69600 Oullins" website="https://www.facebook.com/profile.php?id=100081033263837"> Une nouvelle librairie BD en plein centre d'Oullins avec un joli rayon jeunesse.</place>
 
 <place title="Spirale" address="162 grande rue, 69600 Oullins" website="http://www.librairiespirale.com"> La librairie historique de la ville. Demandez Cécile ou Florence</place>
-
-<place title="Murmure des mots" address="65 avenue Clémenceau,  
-69230 Saint-Genis-Laval" website="http://www.murmuredesmots.fr">Saint-Genis attendait sa librairie indépendante depuis longtemps. Murmure des mots, déjà présente à Brignais, l'a fait. Foncez !</place>
 
 <place title="Murmure des mômes" address="131 rue Général de Gaulle  
 69530 Brignais" website="https://www.facebook.com/murmuredesmomes/"> Aux commandes, deux amies papivores qui dévorent Les livres pour enfants… Chez les Crocos, forcément on aime ça</place>
@@ -253,8 +240,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Domino" address="132 Rue Gilbert Boullier, 01330 Villars-les-Dombes" website="https://domino-vld.fr/">Autrefois, Rebecca tenait une pharmacie… Existe-t-il meilleur médicament qu'un livre ?</place>
 
-<place title="Parc des oiseaux" address="RD 1083, 01330 Villars les Dombes" website="https://www.parcdesoiseaux.com">Nos cigognes ont fait leur nid dans la boutique du Parc. Une évidence</place>
-
 <place title="La nouvelle page" address="2 rue pasteur, 01400 Châtillon-sur-Chalaronne" website="https://www.facebook.com/La-Nouvelle-Page-439641209798963/">Visitez la petite salle dédiée aux enfants au fond de la boutique, véritable grotte remplie de livres et de jeux !</place>
 
 <place title="Librairie Blanche-Neige" address="Centre commercial du Bugey, 01500 Ambérieu-en-Bugey" website="https://www.facebook.com/Librairie-Blanche-Neige-665679453619796/">Ici, on soutient les auteurs et les éditeurs régionaux. Raison de plus pour s'y arrêter</place>
@@ -269,10 +254,6 @@ image: "/images/carte-5.jpg"
 
 <place title="Librairie Passerelles" address="22 boulevard de la République, 38200 Vienne" website="https://www.librairie-passerelles.fr/">Un vaste choix : des livres, des cartes rigolotes, de la papeterie et même… des disques vinyles !</place>
 
-<place title="Ma petite librairie" address="2 Place de la Halle, 38300 Bourgoin-Jallieu" website="https://www.facebook.com/Ma-Petite-Librairie-1084404028266641/">On adore le coin enfant avec ses mini chaises et sa petite table qui croule sous les bouquins.</place>
-
-<place title="La belle histoire" address="1 Rue d'Italie, 38110 La Tour-du-Pin" website="https://www.facebook.com/La-Belle-Histoire-1433376760310986/">Nicolas, le libraire, est un personnage qu'on croirait tout droit sorti d'une histoire pour enfants… On ne vous en dit pas plus.</place>
-
 <place title="Abrakadabra" address="59 rue Sermorens, 38500 Voiron" website="https://www.abrakadabra.eu/">Une librairie plurilingue tenue par un couple polyglotte, qui propose en outre des jeux et des stages de langue.</place>
 
 </two-columns>
@@ -280,10 +261,6 @@ image: "/images/carte-5.jpg"
 ## Loire et Haute-Loire
 
 <two-columns>
-
-<place title="Des livres & vous" address="9 Rue Waldeck Rousseau, 42800 Rive-de-Gier" website="https://www.facebook.com/deslivresetvous/">Derrière les livres sur le bien être et les bâtons d'encens se cachent une petite pièce entièrement dédiée aux livres jeunesse. Une bonne adresse.</place>
-
-<place title="Librairie de Paris" address="6 Rue Michel Rondet, 42000 Saint-Étienne" website="https://www.librairiedeparis.com/">A Saint-Etienne, on défend aussi des livres sur Lyon. Bienvenue dans la plus grande librairie de la ville !</place>
 
 <place title="Librairie Croquelinottes" address="23 Rue de la Résistance, 42000 Saint-Étienne" website="https://www.croquelinottes.fr/">Les Crocos craquent pour les Croquelinottes : une librairie jeunesse avec une cabane pour bouquiner loin des parents.</place>
 
