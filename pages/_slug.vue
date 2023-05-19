@@ -14,8 +14,6 @@
         <TitlePage :doc="doc" />
 
         <nuxt-content :document="doc"></nuxt-content>
-
-        <nuxt-content :document="doc.code"></nuxt-content>
       </div>
     </article>
   </Layout>
