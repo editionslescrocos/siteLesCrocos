@@ -14,6 +14,8 @@
         <TitlePage :doc="doc" />
 
         <nuxt-content :document="doc"></nuxt-content>
+
+        <nuxt-content :document="doc.code"></nuxt-content>
       </div>
     </article>
   </Layout>
@@ -36,7 +38,7 @@ export default {
       networks,
       menus,
       general,
-      footer
+      footer,
     };
   },
 
@@ -47,18 +49,18 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: this.doc.description
+          content: this.doc.description,
         },
         { name: "og:title", content: this.doc.title },
         { name: "og:type", content: "article" },
         { name: "og:site_name", content: "Editions les crocos" },
         {
           name: "og:description",
-          content: this.doc.description
-        }
-      ]
+          content: this.doc.description,
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 

@@ -244,7 +244,8 @@ collections:
         widget: "text"
         required: false
       - { label: "Image", name: "image", widget: "image", required: false }
-      - { label: "contenu", name: "body", widget: "text", required: false }
+      - { label: "contenu", name: "body", widget: "markdown", required: false }
+      - { label: "Code", name: "code", widget: "text", required: false }
   - name: "config"
     label: "Configuration du site"
     files:
